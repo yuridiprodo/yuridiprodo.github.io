@@ -1,7 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage di Yuri Di Prodo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .articles {
+            margin: 20px 0;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <h1>Benvenuti nel mio sito</h1>
+        <p>Questo è un luogo dove condivido i miei pensieri e articoli.</p>
+    </header>
+
+    <div class="articles">
+        <h2>Articoli Pubblicati</h2>
+        <ul id="article-list">
+            <!-- Gli articoli verranno caricati qui -->
+        </ul>
+    </div>
+
+    <footer>
+        <p>Yuri Di Prodo © 2024 - <a href="info.md">Info</a> - <a href="contatti.md">Contatti</a></p>
+    </footer>
+
+    <script>
+        // Funzione per caricare articoli dai file .md
+        async function loadArticles() {
+            const response = await fetch('articles.json'); // Assicurati di avere un file JSON con l'elenco degli articoli
+            const articles = await response.json();
+            const articleList = document.getElementById('article-list');
+
+            articles.sort((a, b) => new Date(b.date) - new Date(a.date)); // Ordinare per data, dal più recente
+
+            articles.forEach(article => {
+                const li = document.createElement('li');
+                li.innerHTML = `<a href="${article.file}">${article.title}</a> - ${new Date(article.date).toLocaleDateString()}`;
+                articleList.appendChild(li);
+            });
+        }
+
+        loadArticles();
+    </script>
 </body>
 </html>
