@@ -59,17 +59,33 @@
     </footer>
 
     <script>
-        // Funzione per caricare articoli dai file .md
         async function loadArticles() {
-            const response = await fetch('articles.json'); // Assicurati di avere un file JSON con l'elenco degli articoli
-            const articles = await response.json();
+            const response = await fetch('articoli/'); // Cambia il percorso se necessario
+            const text = await response.text();
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(text, 'text/html');
+            const links = Array.from(htmlDoc.querySelectorAll('a'));
+            const articles = links
+                .map(link => {
+                    const fileName = link.getAttribute('href');
+                    const match = fileName.match(/(.*)\.md/);
+                    if (match) {
+                        return {
+                            title: match[1].replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()), // Format title
+                            file: fileName
+                        };
+                    }
+                    return null;
+                })
+                .filter(Boolean);
+
+            // Ordina gli articoli per data
+            articles.sort((a, b) => new Date(b.date) - new Date(a.date)); // Questo richiede un metodo per estrarre la data
+
             const articleList = document.getElementById('article-list');
-
-            articles.sort((a, b) => new Date(b.date) - new Date(a.date)); // Ordinare per data, dal più recente
-
             articles.forEach(article => {
                 const li = document.createElement('li');
-                li.innerHTML = `<a href="${article.file}">${article.title}</a> - ${new Date(article.date).toLocaleDateString()}`;
+                li.innerHTML = `<a href="${article.file}">${article.title}</a>`;
                 articleList.appendChild(li);
             });
         }
@@ -78,3 +94,4 @@
     </script>
 </body>
 </html>
+
