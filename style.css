@@ -7,19 +7,6 @@ body {
     text-align: center;
 }
 
-.banner {
-    background-image: url('https://raw.githubusercontent.com/yuridiprodo/yuridiprodo.github.io/main/img/onda-libera-sfondo-stretto.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 300px; /* Regola l'altezza secondo le tue preferenze */
-    color: #333; /* Colore del testo sul banner */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 .title {
     font-size: 2.5em;
     color: #333;
@@ -38,7 +25,10 @@ hr {
 }
 
 .menu {
-    margin-top: 10px; /* Aggiunto margine per separare il menu dal banner */
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
 }
 
 .menu a {
