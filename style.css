@@ -2,7 +2,6 @@
 
 body {
     font-family: 'iA Writer Quattro', Arial, sans-serif;
-    font-size: 21px; /* Dimensione generale */
     line-height: 1.6;
     margin: 0;
     padding: 20px;
@@ -11,12 +10,12 @@ body {
 }
 
 .title {
-    font-size: 3.3em; /* Dimensione del titolo */
+    font-size: 2.5em;
     color: #000000; /* Colore del testo */
 }
 
 .subtitle {
-    font-size: 2em; /* Dimensione del sottotitolo */
+    font-size: 1.5em;
     color: #000000; /* Colore del testo */
     margin-bottom: 20px;
 }
@@ -36,7 +35,6 @@ hr {
 .menu a {
     color: #199fca; /* Colore del link */
     text-decoration: none;
-    font-size: 21px; /* Dimensione del testo del link */
 }
 
 .menu a:hover {
@@ -48,11 +46,12 @@ hr {
 }
 
 .menu-icon {
-    font-size: 2em; /* Dimensione dell'icona del menu */
+    font-size: 1.5em;
     cursor: pointer;
 }
 
+/* Nuova regola per ridurre la dimensione dei titoli degli articoli */
 h1 {
-    font-size: 2em; /* Dimensione dell'h1 */
+    font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
     margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
 }
