@@ -20,15 +20,15 @@ async function loadArticle(articleName) {
         <hr>
         <div class="article-content">${html}</div>
     `;
-    
-    // Rendi visibile il menu se è nascosto
-    toggleMenuVisibility(false);
 }
 
 // Funzione per recuperare la lista degli articoli
 async function fetchArticles() {
     const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
     const articles = await response.json();
+
+    // Ordina gli articoli dal più recente al meno recente
+    articles.sort((a, b) => b.name.localeCompare(a.name));
 
     // Crea i link agli articoli
     for (const article of articles) {
@@ -60,12 +60,6 @@ async function fetchArticles() {
 function toggleMenu() {
     const menu = document.getElementById('menu');
     menu.classList.toggle('hidden');
-}
-
-// Funzione per gestire la visibilità del menu
-function toggleMenuVisibility(show) {
-    const menu = document.getElementById('menu');
-    menu.style.display = show ? 'block' : 'none';
 }
 
 // Carica la lista degli articoli all'avvio
