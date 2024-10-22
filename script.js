@@ -3,39 +3,41 @@ document.addEventListener('DOMContentLoaded', () => {
     let articles = []; // Array per memorizzare gli articoli
 
     // Funzione per caricare e visualizzare gli articoli
-    async function loadArticle(slug) {
-        try {
-            const response = await fetch(`articles/${slug}.md`); // Usa lo slug con .md
-            if (!response.ok) throw new Error('File non trovato');
-            const markdown = await response.text();
-            const { data, content } = parseMarkdown(markdown); // Usa la funzione di parsing
+	async function loadArticle(slug) {
+	    try {
+	        console.log(`Loading article from: articles/${slug}.md`); // Debugging
+	        const response = await fetch(`articles/${slug}.md`); // Usa lo slug con .md
+	        if (!response.ok) throw new Error('File non trovato');
+	        const markdown = await response.text();
+	        const { data, content } = parseMarkdown(markdown); // Usa la funzione di parsing
 
-            const html = marked(content);
+	        const html = marked(content);
 
-            // Modifica il permalink nella barra degli indirizzi
-            const permalink = `${slug}.html`; // Costruisci il permalink usando lo slug
-            history.pushState({ slug }, '', permalink);
+	        // Modifica il permalink nella barra degli indirizzi
+	        const permalink = `${slug}.html`; // Costruisci il permalink usando lo slug
+	        history.pushState({ slug }, '', permalink);
 
-            // Trova l'indice dell'articolo corrente
-            const currentIndex = articles.findIndex(article => article.slug === slug);
+	        // Trova l'indice dell'articolo corrente
+	        const currentIndex = articles.findIndex(article => article.slug === slug);
 
-            // Costruisci la navigazione per articoli precedenti e successivi
-            let navigation = `<hr>`;
-            if (currentIndex > 0) {
-                const prevArticle = articles[currentIndex - 1];
-                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.slug}');">Articolo precedente</a> | `;
-            }
-            if (currentIndex < articles.length - 1) {
-                const nextArticle = articles[currentIndex + 1];
-                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.slug}');">Articolo successivo</a>`;
-            }
+	        // Costruisci la navigazione per articoli precedenti e successivi
+	        let navigation = `<hr>`;
+	        if (currentIndex > 0) {
+	            const prevArticle = articles[currentIndex - 1];
+	            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.slug}');">Articolo precedente</a> | `;
+	        }
+	        if (currentIndex < articles.length - 1) {
+	            const nextArticle = articles[currentIndex + 1];
+	            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.slug}');">Articolo successivo</a>`;
+	        }
 
-            // Mostra il contenuto dell'articolo e la navigazione
-            articlesDiv.innerHTML = `<div class="article-content">${html}</div>${navigation}`;
-        } catch (error) {
-            articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
-        }
-    }
+	        // Mostra il contenuto dell'articolo e la navigazione
+	        articlesDiv.innerHTML = `<div class="article-content">${html}</div>${navigation}`;
+	    } catch (error) {
+	        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+	    }
+	}
+
 
     // Funzione per caricare la pagina dei contatti
     async function loadContacts() {
