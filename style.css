@@ -1,3 +1,28 @@
+@font-face {
+    font-family: 'iAWriterQuattroS';
+    src: url('font/iAWriterQuattroS-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'iAWriterQuattroS';
+    src: url('font/iAWriterQuattroS-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'iAWriterQuattroS';
+    src: url('font/iAWriterQuattroS-Italic.ttf') format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'iAWriterQuattroS';
+    src: url('font/iAWriterQuattroS-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
