@@ -6,6 +6,10 @@ async function loadArticle(articleName) {
     const markdown = await response.text();
     const html = marked(markdown);
     
+    // Modifica il permalink nella barra degli indirizzi
+    const permalink = articleName.replace('.md', '.html');
+    history.pushState(null, '', permalink);
+    
     // Mostra il contenuto dell'articolo sotto la riga di separazione
     articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 }
@@ -28,8 +32,12 @@ async function fetchArticles() {
         const title = titleMatch ? titleMatch[1] : article.name.replace('.md', '');
 
         const link = document.createElement('a');
-        link.href = `articles/${article.name}`;
+        const permalink = article.name.replace('.md', '.html');
+        link.href = permalink;  // Imposta il permalink come href
         link.innerText = title;
+
+        // Cambia il tooltip del link per mostrare il permalink
+        link.title = permalink; 
 
         const titleElement = document.createElement('h1');
         titleElement.appendChild(link);
