@@ -43,7 +43,21 @@ function loadArticle(article) {
 
 // Funzione per aggiornare i pulsanti di navigazione
 function updateNavigation(currentArticle) {
-    // Codice per aggiornare la navigazione (precedente/successivo)
+    const currentIndex = window.articles.findIndex(article => article.includes(currentArticle.replace('.html', '.md')));
+
+    // Trova l'articolo precedente e successivo
+    const prevArticle = window.articles[currentIndex - 1] || null; // Articolo meno recente
+    const nextArticle = window.articles[currentIndex + 1] || null; // Articolo più recente
+
+    // Mostra i link per navigare
+    let navHtml = '<hr>';
+    if (prevArticle) {
+        navHtml += `<a href="#" onclick="loadArticle('${prevArticle}'); return false;">Articolo precedente</a>`;
+    }
+    if (nextArticle) {
+        navHtml += ` | <a href="#" onclick="loadArticle('${nextArticle}'); return false;">Articolo successivo</a>`;
+    }
+    $('#content').append(navHtml);
 }
 
 // Carica gli articoli all'apertura della pagina
