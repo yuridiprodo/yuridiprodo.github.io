@@ -12,7 +12,7 @@ function loadArticles() {
             articles.sort((a, b) => {
                 const dateA = new Date(a.split('/').pop().split('-').slice(0, 3).join('-'));
                 const dateB = new Date(b.split('/').pop().split('-').slice(0, 3).join('-'));
-                return dateB - dateA; // Ordinamento decrescente per ottenere i più recenti in alto
+                return dateB - dateA; // Ordinamento decrescente
             });
 
             // Mostra l'elenco degli articoli
