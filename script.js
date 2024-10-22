@@ -16,10 +16,13 @@ async function loadArticle(articleName) {
             </div>
         </div>
         <h1 class="title">Onda Libera ~</h1>
-        <h2 class="subtitle">Oltre le maree dell'informazione convenzionale</h2>
+        <h2 class="subtitle"><em>Oltre le maree dell'informazione convenzionale</em></h2>
         <hr>
         <div class="article-content">${html}</div>
     `;
+    
+    // Rendi visibile il menu se è nascosto
+    toggleMenuVisibility(false);
 }
 
 // Funzione per recuperare la lista degli articoli
@@ -57,6 +60,12 @@ async function fetchArticles() {
 function toggleMenu() {
     const menu = document.getElementById('menu');
     menu.classList.toggle('hidden');
+}
+
+// Funzione per gestire la visibilità del menu
+function toggleMenuVisibility(show) {
+    const menu = document.getElementById('menu');
+    menu.style.display = show ? 'block' : 'none';
 }
 
 // Carica la lista degli articoli all'avvio
