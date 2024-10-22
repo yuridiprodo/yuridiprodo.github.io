@@ -1,47 +1,35 @@
-@font-face {
-    font-family: 'iAWriterQuattroS';
-    src: url('font/iAWriterQuattroS-Regular.ttf') format('truetype');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'iAWriterQuattroS';
-    src: url('font/iAWriterQuattroS-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'iAWriterQuattroS';
-    src: url('font/iAWriterQuattroS-Italic.ttf') format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'iAWriterQuattroS';
-    src: url('font/iAWriterQuattroS-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-}
-
 body {
-    font-family: 'iAWriterQuattroS', Arial, sans-serif; /* Imposta il font del corpo */
+    font-family: 'iA Writer Quattro', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #ffffff; /* Colore di sfondo */
+    background-color: #ffffff;
     text-align: center;
-    color: #000000; /* Colore del testo (nero) */
+}
+
+.banner {
+    background-image: url('https://raw.githubusercontent.com/yuridiprodo/yuridiprodo.github.io/main/img/onda-libera-sfondo-stretto.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Regola l'altezza secondo le tue preferenze */
+    color: #333; /* Colore del testo sul banner */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .title {
     font-size: 2.5em;
-    color: #fff; /* Colore del titolo */
+    color: #333;
 }
 
 .subtitle {
     font-size: 1.5em;
-    color: #fff; /* Colore del sottotitolo */
+    color: #555;
     margin-bottom: 20px;
+    font-style: italic;
 }
 
 hr {
@@ -56,61 +44,19 @@ hr {
     z-index: 1000;
 }
 
-.menu-icon {
-    font-size: 1.5em;
-    cursor: pointer;
-}
-
-#menu {
-    display: none;
-    background: white;
-    border: 1px solid #ccc;
-    padding: 10px;
-    position: fixed;
-    top: 60px;
-    left: 20px;
-    z-index: 1000;
-    width: 200px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-#menu a {
-    display: block;
-    margin: 5px 0;
+.menu a {
+    color: #199fca; /* Colore del link */
     text-decoration: none;
-    color: #199fca; /* Colore dei link */
 }
 
-#menu a:hover {
-    text-decoration: underline;
-    color: #a9a9a9; /* Colore dei link quando ci poggi il mouse sopra */
+.menu a:hover {
+    color: #a9a9a9; /* Colore del link al passaggio del mouse */
 }
 
-#menu a:visited {
-    color: #199fca; /* Colore dei link visitati */
+.hidden {
+    display: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'iAWriterQuattroS', Arial, sans-serif; /* Applica il font anche ai titoli */
-    color: #000000; /* Colore del testo (nero) per i titoli */
-}
-
-/* Regole per il testo normale, grassetto e corsivo */
-p {
-    font-family: 'iAWriterQuattroS', Arial, sans-serif;
-    color: #000000; /* Colore del testo (nero) */
-}
-
-strong {
-    font-weight: bold; /* Grassetto */
-}
-
-em {
-    font-style: italic; /* Corsivo */
-}
-
-/* Nuova regola per ridurre la dimensione dei titoli degli articoli */
-h1 {
-    font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
-    margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
+#content {
+    margin-top: 20px; /* Spazio sopra il contenuto */
 }
