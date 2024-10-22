@@ -77,13 +77,3 @@ h1 {
 @media (max-width: 768px) {
     .title {
         font-size: 2em; /* Riduci la dimensione del titolo su schermi piccoli */
-    }
-
-    .subtitle {
-        font-size: 1.2em;
-    }
-
-    #menu {
-        width: 150px; /* Riduci la larghezza del menu */
-    }
-}
