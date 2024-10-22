@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'iA Writer Quattro', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #ffffff; /* Colore di sfondo */
+    background-color: #ffffff;
     text-align: center;
 }
 
@@ -30,32 +30,12 @@ hr {
     z-index: 1000;
 }
 
-.menu-icon {
-    font-size: 1.5em;
-    cursor: pointer;
-}
-
-#menu {
-    display: block; /* Assicurati che il menu sia visibile */
-    background: #ffffff; /* Rimuovi la trasparenza */
-    border: 1px solid #ccc;
-    padding: 10px;
-    position: fixed;
-    top: 60px;
-    left: 20px;
-    z-index: 1000;
-    width: 200px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-#menu a {
-    display: block;
-    margin: 5px 0;
-    text-decoration: none;
+.menu a {
     color: #199fca; /* Colore del link */
+    text-decoration: none;
 }
 
-#menu a:hover {
+.menu a:hover {
     color: #a9a9a9; /* Colore del link al passaggio del mouse */
 }
 
@@ -63,19 +43,13 @@ hr {
     color: #199fca; /* Colore del link visitato */
 }
 
-.hidden {
-    display: none;
+.menu-icon {
+    font-size: 1.5em;
+    cursor: pointer;
 }
 
 /* Nuova regola per ridurre la dimensione dei titoli degli articoli */
 h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
     margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
-}
-
-/* Media Queries per la Responsività */
-@media (max-width: 768px) {
-    .title {
-        font-size: 2em; /* Riduci la dimensione del titolo su schermi piccoli */
-    }
 }
