@@ -1,9 +1,9 @@
 body {
-    font-family: 'iA Writer Quattro', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #ffffff; /* Colore di sfondo */
     text-align: center;
 }
 
@@ -16,7 +16,7 @@ body {
     font-size: 1.5em;
     color: #555;
     margin-bottom: 20px;
-    font-style: italic;
+    font-style: italic; /* Sottotitolo in corsivo */
 }
 
 hr {
@@ -31,19 +31,35 @@ hr {
     z-index: 1000;
 }
 
-.menu a {
-    color: #199fca; /* Colore del link */
-    text-decoration: none;
+.menu-icon {
+    font-size: 1.5em;
+    cursor: pointer;
 }
 
-.menu a:hover {
+#menu {
+    display: none;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: fixed;
+    top: 60px;
+    left: 20px;
+    z-index: 1000;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#menu a {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: #199fca; /* Colore del link */
+}
+
+#menu a:hover {
     color: #a9a9a9; /* Colore del link al passaggio del mouse */
 }
 
 .hidden {
     display: none;
-}
-
-#content {
-    margin-top: 20px; /* Spazio sopra il contenuto */
 }
