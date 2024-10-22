@@ -41,5 +41,11 @@ async function fetchArticles() {
     }
 }
 
+// Funzione per gestire l'apertura e la chiusura del menu
+function toggleMenu() {
+    const menu = document.getElementById('menu');
+    menu.classList.toggle('hidden');
+}
+
 // Carica la lista degli articoli all'avvio
 fetchArticles();
