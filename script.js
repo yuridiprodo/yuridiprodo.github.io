@@ -33,6 +33,19 @@ async function loadArticle(articleName) {
     articlesDiv.innerHTML = `<div class="article-content">${html}</div>${navigation}`;
 }
 
+// Funzione per caricare la pagina dei contatti
+async function loadContacts() {
+    const response = await fetch('contatti.md');
+    const markdown = await response.text();
+    const html = marked(markdown);
+
+    // Modifica il permalink nella barra degli indirizzi
+    history.pushState(null, '', 'contatti.html');
+
+    // Mostra il contenuto della pagina dei contatti
+    articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+}
+
 // Funzione per recuperare la lista degli articoli
 async function fetchArticles() {
     const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
@@ -69,6 +82,16 @@ async function fetchArticles() {
 
         articlesDiv.appendChild(titleElement);
     }
+
+    // Aggiungi il link per la pagina dei contatti
+    const contactsLink = document.createElement('a');
+    contactsLink.innerText = 'Contatti';
+    contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+    contactsLink.onclick = (event) => {
+        event.preventDefault();
+        loadContacts();
+    };
+    articlesDiv.appendChild(contactsLink);
 }
 
 // Carica la lista degli articoli all'avvio
