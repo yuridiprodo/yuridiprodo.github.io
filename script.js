@@ -107,7 +107,7 @@ function parseMarkdown(markdown) {
     const regex = /^---\n([\s\S]*?)---\n([\s\S]*)/; // Regex per il front matter
     const match = markdown.match(regex);
     if (match) {
-        const frontMatter = YAML.parse(match[1]); // Usa la libreria YAML per il parsing
+        const frontMatter = jsyaml.load(match[1]); // Usa jsyaml.load per il parsing
         const content = match[2];
         return { data: frontMatter, content };
     }
