@@ -3,18 +3,18 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #ffffff; /* Colore di sfondo */
     text-align: center;
 }
 
 .title {
     font-size: 2.5em;
-    color: #333;
+    color: #000000; /* Colore del testo */
 }
 
 .subtitle {
     font-size: 1.5em;
-    color: #555;
+    color: #000000; /* Colore del testo */
     margin-bottom: 20px;
 }
 
@@ -37,7 +37,7 @@ hr {
 
 #menu {
     display: none;
-    background: white;
+    background: rgba(255, 255, 255, 0.9); /* Trasparenza per il menu */
     border: 1px solid #ccc;
     padding: 10px;
     position: fixed;
@@ -52,11 +52,15 @@ hr {
     display: block;
     margin: 5px 0;
     text-decoration: none;
-    color: #007bff;
+    color: #199fca; /* Colore del link */
 }
 
 #menu a:hover {
-    text-decoration: underline;
+    color: #a9a9a9; /* Colore del link al passaggio del mouse */
+}
+
+#menu a:visited {
+    color: #199fca; /* Colore del link visitato */
 }
 
 .hidden {
@@ -67,4 +71,19 @@ hr {
 h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
     margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
+}
+
+/* Media Queries per la Responsività */
+@media (max-width: 768px) {
+    .title {
+        font-size: 2em; /* Riduci la dimensione del titolo su schermi piccoli */
+    }
+
+    .subtitle {
+        font-size: 1.2em;
+    }
+
+    #menu {
+        width: 150px; /* Riduci la larghezza del menu */
+    }
 }

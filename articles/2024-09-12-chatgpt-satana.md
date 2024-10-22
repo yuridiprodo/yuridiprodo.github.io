@@ -1,9 +1,13 @@
 ---
-permalink: studiare-per-dubitare
-tags:
-  - Religione
-  - Tecnologia
-Data: 2024-09-23
+title: "ChatGPT lo ha capito: adesso tocca a noi"
+author: "Yuri Di Prodo"
+date: "2024-09-12"
+tags: ["Religione", "Tecnologia"]
+summary: "Ho chiesto a ChatGPT "Se tu fossi Satana, come faresti a far perdere la fede alle persone?": ecco cosa mi ha risposto"
+category: "Blog"
+slug: "chatgpt-satana"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGZbeYAhUXO-uZxjCZy74rjgGjmQsQyMB7N3gNkeFEKSqBpBeV3iCWSl6djKQ-dSzvzMxf4_5a5kOsNvpadK39wn3M3zZEQg0dnz-Mdd96O2aLcCgZuH8WfNm6xJqezk3UuO-UlaDuwJzSND4cWzNgd2ocMfhXzEREfXXVD_nerMryM9JQiaFkmY-NsQ/s1600/giudizio-universale-giotto.jpg"
+language: "it"
 ---
 
 # ChatGPT lo ha capito: adesso tocca a noi

@@ -1,9 +1,13 @@
 ---
-permalink: chatgpt-bergoglio-papa
-tags:
-  - Religione
-  - Tecnologia
-Data: 2024-10-15
+title: "Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT"
+author: "Yuri Di Prodo"
+date: "2024-10-15"
+tags: ["Religione", "Tecnologia"]
+summary: "Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?"
+category: "Blog"
+slug: "chatgpt-bergoglio-papa"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GwGtFIGV3BmiwpRtKROYWnZbIooxhZ8lxxtgkVpXyofXNT33bZPFjgFiDqv1jcQwH0ZdhmwNYt2aVCWh10DP1GCqA_XBfKFhM1CxJnNVvHZr9e9dz4lKbl7GIil7z6pODCDi3ivgJcdbqJO8cFj87Ul0u1vsEvO7TfozL_pyxifv5Od1kc1584w5xA/s2400/papa%20francesco.jpg"
+language: "it"
 ---
 
 ## Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT
