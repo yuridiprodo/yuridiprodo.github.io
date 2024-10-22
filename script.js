@@ -1,6 +1,5 @@
 // Funzione per caricare gli articoli
 function loadArticles() {
-    // Fai la richiesta per ottenere la lista degli articoli
     $.ajax({
         url: 'articles/', // Percorso della cartella con gli articoli
         success: function (data) {
@@ -46,8 +45,8 @@ function updateNavigation(currentArticle) {
     const currentIndex = window.articles.findIndex(article => article.includes(currentArticle.replace('.html', '.md')));
 
     // Trova l'articolo precedente e successivo
-    const prevArticle = window.articles[currentIndex - 1] || null; // Articolo meno recente
-    const nextArticle = window.articles[currentIndex + 1] || null; // Articolo più recente
+    const prevArticle = window.articles[currentIndex + 1] || null; // Articolo meno recente
+    const nextArticle = window.articles[currentIndex - 1] || null; // Articolo più recente
 
     // Mostra i link per navigare
     let navHtml = '<hr>';
@@ -61,4 +60,7 @@ function updateNavigation(currentArticle) {
 }
 
 // Carica gli articoli all'apertura della pagina
-$(document).ready(loadArticles);
+$(document).ready(function() {
+    loadArticle('home.md'); // Carica home.md all'avvio
+    loadArticles(); // Carica l'elenco degli articoli
+});
