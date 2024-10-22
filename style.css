@@ -24,7 +24,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'iAWriterQuattroS', Arial, sans-serif; /* Imposta il font del corpo */
     line-height: 1.6;
     margin: 0;
     padding: 20px;
@@ -34,12 +34,12 @@ body {
 
 .title {
     font-size: 2.5em;
-    color: #333;
+    color: #fff; /* Colore del titolo */
 }
 
 .subtitle {
     font-size: 1.5em;
-    color: #555;
+    color: #fff; /* Colore del sottotitolo */
     margin-bottom: 20px;
 }
 
@@ -92,4 +92,17 @@ hr {
 h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
     margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
+}
+
+/* Regole per il testo normale, grassetto e corsivo */
+p {
+    font-family: 'iAWriterQuattroS', Arial, sans-serif;
+}
+
+strong {
+    font-weight: bold; /* Grassetto */
+}
+
+em {
+    font-style: italic; /* Corsivo */
 }
