@@ -7,12 +7,12 @@ async function loadArticle(articleName) {
         const response = await fetch(`articles/${articleName}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const { data, content } = parseMarkdown(markdown); // Usa la funzione di parsing
+        const { content } = parseMarkdown(markdown); // Usa solo il contenuto
 
         const html = marked(content);
 
         // Modifica il permalink nella barra degli indirizzi
-        const permalink = data.slug ? `${data.slug}.html` : articleName.replace('.md', '.html');
+        const permalink = articleName.replace('.md', '.html');
         history.pushState({ articleName }, '', permalink);
 
         // Trova l'indice dell'articolo corrente
@@ -61,18 +61,24 @@ async function fetchArticles() {
         if (!response.ok) throw new Error('Impossibile caricare gli articoli');
         const data = await response.json();
 
-        // Filtra i file .DS_Store e ordina gli articoli
-        articles = data.filter(article => !article.name.startsWith('.DS_Store')).sort((a, b) => b.name.localeCompare(a.name));
+        // Ordina gli articoli dal più recente al meno recente
+        articles = data
+            .filter(article => !article.name.includes('.DS_Store')) // Ignora .DS_Store
+            .sort((a, b) => {
+                const dateA = new Date(a.name.split('-').slice(0, 3).join('-'));
+                const dateB = new Date(b.name.split('-').slice(0, 3).join('-'));
+                return dateB - dateA; // Ordinamento dal più recente
+            });
 
         // Carica solo i titoli degli articoli per migliorare le performance
         for (const article of articles) {
             const response = await fetch(article.download_url);
             const markdown = await response.text();
-            const { data: frontMatter } = parseMarkdown(markdown); // Usa la funzione di parsing
-            const title = frontMatter.title || article.name.replace('.md', '');
+            const titleMatch = markdown.match(/# (.+)/);
+            const title = titleMatch ? titleMatch[1] : article.name.replace('.md', '');
 
             const link = document.createElement('a');
-            const permalink = frontMatter.slug ? `${frontMatter.slug}.html` : article.name.replace('.md', '.html');
+            const permalink = article.name.replace('.md', '.html');
             link.href = permalink; // Imposta il permalink come href
             link.innerText = title;
             link.title = permalink;
@@ -87,33 +93,30 @@ async function fetchArticles() {
             articlesDiv.appendChild(titleElement);
         }
 
-        // Modifica il menu per includere il link "Contatti" solo una volta
+        // Modifica il menu per includere il link "Contatti"
         const menuContainer = document.getElementById('menu');
-        if (!menuContainer.querySelector('a[href="contatti.html"]')) {
-            const contactsLink = document.createElement('a');
-            contactsLink.innerText = 'Contatti';
-            contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
-            contactsLink.onclick = (event) => {
-                event.preventDefault();
-                loadContacts();
-            };
-            menuContainer.appendChild(contactsLink);
-        }
+        const contactsLink = document.createElement('a');
+        contactsLink.innerText = 'Contatti';
+        contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+        contactsLink.onclick = (event) => {
+            event.preventDefault();
+            loadContacts();
+        };
+        menuContainer.appendChild(contactsLink);
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
 
-// Funzione per analizzare il markdown e il front matter
+// Funzione per analizzare il markdown
 function parseMarkdown(markdown) {
     const regex = /^---\n([\s\S]*?)---\n([\s\S]*)/; // Regex per il front matter
     const match = markdown.match(regex);
     if (match) {
-        const frontMatter = jsyaml.load(match[1]); // Usa jsyaml.load per il parsing
         const content = match[2];
-        return { data: frontMatter, content };
+        return { content }; // Restituisci solo il contenuto
     }
-    return { data: {}, content: markdown }; // Se non c'è front matter, restituisci tutto
+    return { content: markdown }; // Se non c'è front matter, restituisci tutto
 }
 
 // Gestione del pulsante "indietro" del browser
