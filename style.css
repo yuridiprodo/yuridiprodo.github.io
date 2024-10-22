@@ -15,13 +15,19 @@ body {
 .subtitle {
     font-size: 1.5em;
     color: #555;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
 }
 
 .menu {
-    position: absolute;
+    position: fixed;
     top: 20px;
     left: 20px;
+    z-index: 1000;
 }
 
 .menu-icon {
@@ -34,10 +40,12 @@ body {
     background: white;
     border: 1px solid #ccc;
     padding: 10px;
-    position: absolute;
-    top: 40px;
-    left: 0;
+    position: fixed;
+    top: 60px;
+    left: 20px;
     z-index: 1000;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 #menu a {
