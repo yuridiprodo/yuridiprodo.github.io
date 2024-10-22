@@ -12,7 +12,7 @@ async function loadArticle(articleName) {
 
 // Funzione per recuperare la lista degli articoli
 async function fetchArticles() {
-    const response = await fetch('https://api.github.com/repos/tuo-username/tuo-repository/contents/articles');
+    const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
     const articles = await response.json();
 
     // Ordina gli articoli (opzionale, a seconda della struttura del nome file)
