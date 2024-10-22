@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #ffffff;
-    text-align: center; /* Centrare tutto il testo */
+    background-color: #f4f4f4;
+    text-align: center;
 }
 
 .title {
@@ -23,24 +23,48 @@ hr {
     margin: 20px 0;
 }
 
-#articles-list {
-    margin-top: 20px;
+.menu {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
 }
 
-#articles-list ul {
-    list-style-type: none;
-    padding: 0;
+.menu-icon {
+    font-size: 1.5em;
+    cursor: pointer;
 }
 
-#articles-list li {
-    margin: 10px 0;
+#menu {
+    display: none;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: fixed;
+    top: 60px;
+    left: 20px;
+    z-index: 1000;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-#articles-list a {
-    color: #199fca;
+#menu a {
+    display: block;
+    margin: 5px 0;
     text-decoration: none;
+    color: #007bff;
 }
 
-#articles-list a:hover {
-    color: #a9a9a9;
+#menu a:hover {
+    text-decoration: underline;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Nuova regola per ridurre la dimensione dei titoli degli articoli */
+h1 {
+    font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
+    margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
 }
