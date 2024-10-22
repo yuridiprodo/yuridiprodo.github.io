@@ -83,7 +83,8 @@ async function fetchArticles() {
         articlesDiv.appendChild(titleElement);
     }
 
-    // Aggiungi il link per la pagina dei contatti
+    // Modifica il menu per includere il link "Contatti"
+    const menuContainer = document.getElementById('menu');
     const contactsLink = document.createElement('a');
     contactsLink.innerText = 'Contatti';
     contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
@@ -91,7 +92,7 @@ async function fetchArticles() {
         event.preventDefault();
         loadContacts();
     };
-    articlesDiv.appendChild(contactsLink);
+    menuContainer.appendChild(contactsLink);
 }
 
 // Carica la lista degli articoli all'avvio
