@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let articles = []; // Array per memorizzare gli articoli
 
     // Funzione per caricare e visualizzare gli articoli
-    async function loadArticle(articleName) {
+    async function loadArticle(slug) {
         try {
-            const response = await fetch(`articles/${articleName}`);
+            const response = await fetch(`articles/${slug}.md`); // Usa lo slug con .md
             if (!response.ok) throw new Error('File non trovato');
             const markdown = await response.text();
             const { data, content } = parseMarkdown(markdown); // Usa la funzione di parsing
@@ -13,21 +13,21 @@ document.addEventListener('DOMContentLoaded', () => {
             const html = marked(content);
 
             // Modifica il permalink nella barra degli indirizzi
-            const permalink = articleName.replace('.md', '.html');
-            history.pushState({ articleName }, '', permalink);
+            const permalink = `${slug}.html`; // Costruisci il permalink usando lo slug
+            history.pushState({ slug }, '', permalink);
 
             // Trova l'indice dell'articolo corrente
-            const currentIndex = articles.findIndex(article => article.name === articleName);
+            const currentIndex = articles.findIndex(article => article.slug === slug);
 
             // Costruisci la navigazione per articoli precedenti e successivi
             let navigation = `<hr>`;
             if (currentIndex > 0) {
                 const prevArticle = articles[currentIndex - 1];
-                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.name}');">Articolo precedente</a> | `;
+                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.slug}');">Articolo precedente</a> | `;
             }
             if (currentIndex < articles.length - 1) {
                 const nextArticle = articles[currentIndex + 1];
-                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.name}');">Articolo successivo</a>`;
+                navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.slug}');">Articolo successivo</a>`;
             }
 
             // Mostra il contenuto dell'articolo e la navigazione
@@ -71,16 +71,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 const markdown = await response.text();
                 const { data: frontMatter, content } = parseMarkdown(markdown); // Usa la funzione di parsing
                 const title = frontMatter.title || article.name.replace('.md', '');
+                const slug = frontMatter.slug || article.name.replace('.md', ''); // Usa lo slug
 
                 const link = document.createElement('a');
-                const permalink = article.name.replace('.md', '.html');
+                const permalink = `${slug}.html`; // Costruisci il permalink usando lo slug
                 link.href = permalink; // Imposta il permalink come href
                 link.innerText = title;
                 link.title = permalink;
 
                 link.addEventListener('click', (event) => {
                     event.preventDefault();
-                    loadArticle(article.name);
+                    loadArticle(slug); // Passa lo slug
                 });
 
                 const titleElement = document.createElement('h1');
@@ -119,8 +120,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Gestione del pulsante "indietro" del browser
     window.onpopstate = (event) => {
-        if (event.state && event.state.articleName) {
-            loadArticle(event.state.articleName);
+        if (event.state && event.state.slug) {
+            loadArticle(event.state.slug); // Usa lo slug
         } else if (event.state && event.state.page === 'contacts') {
             loadContacts();
         }
