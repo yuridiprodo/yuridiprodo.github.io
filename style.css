@@ -36,7 +36,7 @@ hr {
 }
 
 #menu {
-    display: none;
+    display: block; /* Cambia da none a block */
     background: rgba(255, 255, 255, 0.9); /* Trasparenza per il menu */
     border: 1px solid #ccc;
     padding: 10px;
