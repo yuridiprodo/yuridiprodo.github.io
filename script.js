@@ -74,7 +74,7 @@ async function fetchArticles() {
             const link = document.createElement('a');
             const permalink = frontMatter.slug ? `${frontMatter.slug}.html` : article.name.replace('.md', '.html');
             link.href = permalink; // Imposta il permalink come href
-            link.innerText = title;
+            link.innerText = title; // Usa il titolo dal front matter
             link.title = permalink;
 
             link.addEventListener('click', (event) => {
