@@ -15,17 +15,21 @@ async function fetchArticles() {
     const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
     const articles = await response.json();
 
-    // Ordina gli articoli (opzionale, a seconda della struttura del nome file)
-    const sortedArticles = articles.sort((a, b) => new Date(b.name) - new Date(a.name));
-
     // Crea i link agli articoli
-    sortedArticles.forEach(article => {
+    for (const article of articles) {
+        const response = await fetch(article.download_url);
+        const markdown = await response.text();
+
+        // Estrai l'h1 dal Markdown
+        const titleMatch = markdown.match(/# (.+)/);
+        const title = titleMatch ? titleMatch[1] : article.name.replace('.md', '');
+
         const link = document.createElement('a');
         link.href = `articles/${article.name}`;
-        link.innerText = article.name.replace('.md', '');
+        link.innerText = title;
 
-        const title = document.createElement('h1');
-        title.appendChild(link);
+        const titleElement = document.createElement('h1');
+        titleElement.appendChild(link);
 
         // Aggiungi l'evento click per caricare l'articolo
         link.addEventListener('click', (event) => {
@@ -33,8 +37,8 @@ async function fetchArticles() {
             loadArticle(article.name);
         });
 
-        articlesDiv.appendChild(title);
-    });
+        articlesDiv.appendChild(titleElement);
+    }
 }
 
 // Carica la lista degli articoli all'avvio
