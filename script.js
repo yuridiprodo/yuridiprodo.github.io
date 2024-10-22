@@ -1,5 +1,4 @@
 const articlesDiv = document.getElementById('articles');
-const menuContainer = document.getElementById('menu');
 let articles = []; // Array per memorizzare gli articoli
 
 // Funzione per caricare e visualizzare gli articoli
@@ -13,7 +12,7 @@ async function loadArticle(articleName) {
         const html = marked(content);
 
         // Modifica il permalink nella barra degli indirizzi
-        const permalink = data.slug ? `${data.slug}.html` : `${articleName.replace('.md', '.html')}`;
+        const permalink = data.slug ? `${data.slug}.html` : articleName.replace('.md', '.html');
         history.pushState({ articleName }, '', permalink);
 
         // Trova l'indice dell'articolo corrente
@@ -62,15 +61,14 @@ async function fetchArticles() {
         if (!response.ok) throw new Error('Impossibile caricare gli articoli');
         const data = await response.json();
 
-        // Filtro per rimuovere i file non desiderati
-        articles = data.filter(article => article.name.endsWith('.md') && article.name !== '.DS_Store')
-                       .sort((a, b) => b.name.localeCompare(a.name));
+        // Filtra i file .DS_Store e ordina gli articoli
+        articles = data.filter(article => !article.name.startsWith('.DS_Store')).sort((a, b) => b.name.localeCompare(a.name));
 
         // Carica solo i titoli degli articoli per migliorare le performance
         for (const article of articles) {
             const response = await fetch(article.download_url);
             const markdown = await response.text();
-            const { data: frontMatter, content } = parseMarkdown(markdown); // Usa la funzione di parsing
+            const { data: frontMatter } = parseMarkdown(markdown); // Usa la funzione di parsing
             const title = frontMatter.title || article.name.replace('.md', '');
 
             const link = document.createElement('a');
@@ -89,15 +87,18 @@ async function fetchArticles() {
             articlesDiv.appendChild(titleElement);
         }
 
-        // Aggiungi il link "Contatti" nel menu
-        const contactsLink = document.createElement('a');
-        contactsLink.innerText = 'Contatti';
-        contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
-        contactsLink.onclick = (event) => {
-            event.preventDefault();
-            loadContacts();
-        };
-        menuContainer.appendChild(contactsLink);
+        // Modifica il menu per includere il link "Contatti" solo una volta
+        const menuContainer = document.getElementById('menu');
+        if (!menuContainer.querySelector('a[href="contatti.html"]')) {
+            const contactsLink = document.createElement('a');
+            contactsLink.innerText = 'Contatti';
+            contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+            contactsLink.onclick = (event) => {
+                event.preventDefault();
+                loadContacts();
+            };
+            menuContainer.appendChild(contactsLink);
+        }
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
