@@ -6,20 +6,8 @@ async function loadArticle(articleName) {
     const markdown = await response.text();
     const html = marked(markdown);
     
-    // Mostra il contenuto dell'articolo con il menu
-    document.body.innerHTML = `
-        <div class="menu">
-            <div class="menu-icon" onclick="toggleMenu()">☰</div>
-            <div id="menu" class="hidden">
-                <a href="index.html">Home</a>
-                <a href="contatti.md" target="_blank">Contatti</a>
-            </div>
-        </div>
-        <h1 class="title">Onda Libera ~</h1>
-        <h2 class="subtitle"><em>Oltre le maree dell'informazione convenzionale</em></h2>
-        <hr>
-        <div class="article-content">${html}</div>
-    `;
+    // Mostra il contenuto dell'articolo sotto la riga di separazione
+    articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 }
 
 // Funzione per recuperare la lista degli articoli
@@ -54,12 +42,6 @@ async function fetchArticles() {
 
         articlesDiv.appendChild(titleElement);
     }
-}
-
-// Funzione per gestire l'apertura e la chiusura del menu
-function toggleMenu() {
-    const menu = document.getElementById('menu');
-    menu.classList.toggle('hidden');
 }
 
 // Carica la lista degli articoli all'avvio
