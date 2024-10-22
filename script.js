@@ -1,4 +1,5 @@
 const articlesDiv = document.getElementById('articles');
+const menuContainer = document.getElementById('menu');
 let articles = []; // Array per memorizzare gli articoli
 
 // Funzione per caricare e visualizzare gli articoli
@@ -88,8 +89,7 @@ async function fetchArticles() {
             articlesDiv.appendChild(titleElement);
         }
 
-        // Modifica il menu per includere il link "Contatti"
-        const menuContainer = document.getElementById('menu');
+        // Aggiungi il link "Contatti" nel menu
         const contactsLink = document.createElement('a');
         contactsLink.innerText = 'Contatti';
         contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
