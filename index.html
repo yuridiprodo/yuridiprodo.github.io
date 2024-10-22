@@ -10,16 +10,16 @@
 </head>
 <body>
 
-<div class="title">Onda Libera ~</div>
-<div class="subtitle"><em>Oltre le maree dell'informazione convenzionale</em></div>
-
-<hr>
-
-<div class="menu">
-    <a href="#">Home</a> | <a href="#" onclick="loadArticle('contatti.md'); return false;">Contatti</a>
-</div>
-
 <div id="content"></div>
+<hr>
+<div id="articles-list"></div>
+
+<script>
+    $(document).ready(function() {
+        loadArticle('home.md'); // Carica home.md all'avvio
+        loadArticles(); // Carica l'elenco degli articoli
+    });
+</script>
 
 </body>
 </html>
