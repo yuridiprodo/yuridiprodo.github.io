@@ -2,9 +2,9 @@ const articlesDiv = document.getElementById('articles');
 let articles = []; // Array per memorizzare gli articoli
 
 // Funzione per caricare e visualizzare gli articoli
-async function loadArticle(articleSlug) {
+async function loadArticle(articleName) {
     try {
-        const response = await fetch(`articles/${articleSlug}.md`); // Carica il file usando lo slug
+        const response = await fetch(`articles/${articleName}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const { data, content } = parseMarkdown(markdown); // Usa la funzione di parsing
@@ -12,20 +12,21 @@ async function loadArticle(articleSlug) {
         const html = marked(content);
 
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleSlug }, '', `${articleSlug}.html`);
+        const permalink = data.slug ? `${data.slug}.html` : articleName.replace('.md', '.html');
+        history.pushState({ articleName }, '', permalink);
 
         // Trova l'indice dell'articolo corrente
-        const currentIndex = articles.findIndex(article => article.slug === articleSlug);
+        const currentIndex = articles.findIndex(article => article.name === articleName);
 
         // Costruisci la navigazione per articoli precedenti e successivi
         let navigation = `<hr>`;
         if (currentIndex > 0) {
             const prevArticle = articles[currentIndex - 1];
-            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.slug}');">Articolo precedente</a> | `;
+            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.name}');">Articolo precedente</a> | `;
         }
         if (currentIndex < articles.length - 1) {
             const nextArticle = articles[currentIndex + 1];
-            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.slug}');">Articolo successivo</a>`;
+            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.name}');">Articolo successivo</a>`;
         }
 
         // Mostra il contenuto dell'articolo e la navigazione
@@ -60,49 +61,44 @@ async function fetchArticles() {
         if (!response.ok) throw new Error('Impossibile caricare gli articoli');
         const data = await response.json();
 
-        // Filtra per escludere file .DS_Store e ordina per data
-        articles = await Promise.all(data
-            .filter(article => !article.name.endsWith('.DS_Store'))
-            .map(async (article) => {
-                const response = await fetch(article.download_url);
-                const markdown = await response.text();
-                const { data: frontMatter } = parseMarkdown(markdown);
+        // Filtra i file .DS_Store e ordina gli articoli
+        articles = data.filter(article => !article.name.startsWith('.DS_Store')).sort((a, b) => b.name.localeCompare(a.name));
 
-                // Restituisci l'oggetto con informazioni necessarie
-                return {
-                    name: article.name,
-                    title: frontMatter.title || article.name.replace('.md', ''),
-                    slug: frontMatter.slug,
-                    date: new Date(frontMatter.date) // Assicurati che la data sia un oggetto Date
-                };
-            })
-        );
-
-        // Ordina gli articoli in base alla data
-        articles.sort((a, b) => b.date - a.date);
-
-        // Carica i titoli degli articoli
+        // Carica solo i titoli degli articoli per migliorare le performance
         for (const article of articles) {
+            const response = await fetch(article.download_url);
+            const markdown = await response.text();
+            const { data: frontMatter } = parseMarkdown(markdown); // Usa la funzione di parsing
+            const title = frontMatter.title || article.name.replace('.md', '');
+
             const link = document.createElement('a');
-            link.href = article.slug + '.html'; // Usa lo slug per il permalink
-            link.innerText = article.title;
-            link.title = article.slug + '.html';
+            const permalink = frontMatter.slug ? `${frontMatter.slug}.html` : article.name.replace('.md', '.html');
+            link.href = permalink; // Imposta il permalink come href
+            link.innerText = title;
+            link.title = permalink;
+
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                loadArticle(article.name);
+            });
 
             const titleElement = document.createElement('h1');
             titleElement.appendChild(link);
             articlesDiv.appendChild(titleElement);
         }
 
-        // Aggiungi il menu contatti
+        // Modifica il menu per includere il link "Contatti" solo una volta
         const menuContainer = document.getElementById('menu');
-        const contactsLink = document.createElement('a');
-        contactsLink.innerText = 'Contatti';
-        contactsLink.href = 'contatti.html';
-        contactsLink.onclick = (event) => {
-            event.preventDefault();
-            loadContacts();
-        };
-        menuContainer.appendChild(contactsLink);
+        if (!menuContainer.querySelector('a[href="contatti.html"]')) {
+            const contactsLink = document.createElement('a');
+            contactsLink.innerText = 'Contatti';
+            contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+            contactsLink.onclick = (event) => {
+                event.preventDefault();
+                loadContacts();
+            };
+            menuContainer.appendChild(contactsLink);
+        }
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -122,8 +118,8 @@ function parseMarkdown(markdown) {
 
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
-    if (event.state && event.state.articleSlug) {
-        loadArticle(event.state.articleSlug);
+    if (event.state && event.state.articleName) {
+        loadArticle(event.state.articleName);
     } else if (event.state && event.state.page === 'contacts') {
         loadContacts();
     }
