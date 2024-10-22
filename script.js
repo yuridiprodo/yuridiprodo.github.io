@@ -1,66 +1,99 @@
-// Funzione per caricare gli articoli
-function loadArticles() {
-    $.ajax({
-        url: 'articles/', // Percorso della cartella con gli articoli
-        success: function (data) {
-            // Estrai i link degli articoli e ordina per data
-            let articles = $(data).find('a[href$=".md"]').map(function () {
-                return this.href;
-            }).get();
+const articlesDiv = document.getElementById('articles');
+let articles = []; // Array per memorizzare gli articoli
 
-            // Ordina gli articoli in base alla data
-            articles.sort((a, b) => {
-                const dateA = new Date(a.split('/').pop().split('-').slice(0, 3).join('-'));
-                const dateB = new Date(b.split('/').pop().split('-').slice(0, 3).join('-'));
-                return dateB - dateA; // Ordinamento decrescente
-            });
+// Funzione per caricare e visualizzare gli articoli
+async function loadArticle(articleName) {
+    const response = await fetch(`articles/${articleName}`);
+    const markdown = await response.text();
+    const html = marked(markdown);
 
-            // Mostra l'elenco degli articoli
-            displayArticles(articles);
-        }
-    });
-}
-
-// Funzione per visualizzare l'elenco degli articoli
-function displayArticles(articles) {
-    let articlesHtml = '<h2>Articoli</h2><ul>';
-    articles.forEach(article => {
-        const articleName = article.split('/').pop().replace('.md', '.html');
-        articlesHtml += `<li><a href="#" onclick="loadArticle('${article}'); return false;">${articleName}</a></li>`;
-    });
-    articlesHtml += '</ul>';
-    $('#articles-list').html(articlesHtml);
-}
-
-// Funzione per caricare un articolo specifico
-function loadArticle(article) {
-    $.get(article, function (data) {
-        $('#content').html(marked(data)); // Converte il Markdown in HTML
-        updateNavigation(article);
-    });
-}
-
-// Funzione per aggiornare i pulsanti di navigazione
-function updateNavigation(currentArticle) {
-    const currentIndex = window.articles.findIndex(article => article.includes(currentArticle.replace('.html', '.md')));
-
-    // Trova l'articolo precedente e successivo
-    const prevArticle = window.articles[currentIndex + 1] || null; // Articolo meno recente
-    const nextArticle = window.articles[currentIndex - 1] || null; // Articolo più recente
-
-    // Mostra i link per navigare
-    let navHtml = '<hr>';
-    if (prevArticle) {
-        navHtml += `<a href="#" onclick="loadArticle('${prevArticle}'); return false;">Articolo precedente</a>`;
+    // Modifica il permalink nella barra degli indirizzi
+    const permalink = articleName.replace('.md', '.html');
+    history.pushState(null, '', permalink);
+    
+    // Trova l'indice dell'articolo corrente
+    const currentIndex = articles.findIndex(article => article.name === articleName);
+    
+    // Costruisci la navigazione per articoli precedenti e successivi
+    let navigation = `<hr>`;
+    
+    if (currentIndex > 0) {
+        const prevArticle = articles[currentIndex - 1];
+        const prevPermalink = prevArticle.name.replace('.md', '.html');
+        navigation += `<a href="${prevPermalink}" onclick="event.preventDefault(); loadArticle('${prevArticle.name}');">Articolo precedente</a> | `;
     }
-    if (nextArticle) {
-        navHtml += ` | <a href="#" onclick="loadArticle('${nextArticle}'); return false;">Articolo successivo</a>`;
+    
+    if (currentIndex < articles.length - 1) {
+        const nextArticle = articles[currentIndex + 1];
+        const nextPermalink = nextArticle.name.replace('.md', '.html');
+        navigation += `<a href="${nextPermalink}" onclick="event.preventDefault(); loadArticle('${nextArticle.name}');">Articolo successivo</a>`;
     }
-    $('#content').append(navHtml);
+    
+    // Mostra il contenuto dell'articolo e la navigazione
+    articlesDiv.innerHTML = `<div class="article-content">${html}</div>${navigation}`;
 }
 
-// Carica gli articoli all'apertura della pagina
-$(document).ready(function() {
-    loadArticle('home.md'); // Carica home.md all'avvio
-    loadArticles(); // Carica l'elenco degli articoli
-});
+// Funzione per caricare la pagina dei contatti
+async function loadContacts() {
+    const response = await fetch('contatti.md');
+    const markdown = await response.text();
+    const html = marked(markdown);
+
+    // Modifica il permalink nella barra degli indirizzi
+    history.pushState(null, '', 'contatti.html');
+
+    // Mostra il contenuto della pagina dei contatti
+    articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+}
+
+// Funzione per recuperare la lista degli articoli
+async function fetchArticles() {
+    const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
+    const data = await response.json();
+
+    // Ordina gli articoli dal più recente al meno recente
+    articles = data.sort((a, b) => b.name.localeCompare(a.name));
+
+    // Crea i link agli articoli
+    for (const article of articles) {
+        const response = await fetch(article.download_url);
+        const markdown = await response.text();
+
+        // Estrai l'h1 dal Markdown
+        const titleMatch = markdown.match(/# (.+)/);
+        const title = titleMatch ? titleMatch[1] : article.name.replace('.md', '');
+
+        const link = document.createElement('a');
+        const permalink = article.name.replace('.md', '.html');
+        link.href = permalink; // Imposta il permalink come href
+        link.innerText = title;
+
+        // Cambia il tooltip del link per mostrare il permalink
+        link.title = permalink;
+
+        const titleElement = document.createElement('h1');
+        titleElement.appendChild(link);
+
+        // Aggiungi l'evento click per caricare l'articolo
+        link.addEventListener('click', (event) => {
+            event.preventDefault();
+            loadArticle(article.name);
+        });
+
+        articlesDiv.appendChild(titleElement);
+    }
+
+    // Modifica il menu per includere il link "Contatti"
+    const menuContainer = document.getElementById('menu');
+    const contactsLink = document.createElement('a');
+    contactsLink.innerText = 'Contatti';
+    contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+    contactsLink.onclick = (event) => {
+        event.preventDefault();
+        loadContacts();
+    };
+    menuContainer.appendChild(contactsLink);
+}
+
+// Carica la lista degli articoli all'avvio
+fetchArticles();
