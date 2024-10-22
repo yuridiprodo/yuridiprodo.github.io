@@ -36,8 +36,8 @@ hr {
 }
 
 #menu {
-    display: block; /* Cambia da none a block */
-    background: rgba(255, 255, 255, 0.9); /* Trasparenza per il menu */
+    display: block; /* Assicurati che il menu sia visibile */
+    background: #ffffff; /* Rimuovi la trasparenza */
     border: 1px solid #ccc;
     padding: 10px;
     position: fixed;
@@ -77,3 +77,5 @@ h1 {
 @media (max-width: 768px) {
     .title {
         font-size: 2em; /* Riduci la dimensione del titolo su schermi piccoli */
+    }
+}
