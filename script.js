@@ -7,9 +7,10 @@ async function loadArticle(articleName) {
         const response = await fetch(`articles/${articleName}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const { content } = parseMarkdown(markdown); // Usa solo il contenuto
+        const titleMatch = markdown.match(/# (.+)/); // Estrae il titolo
+        const title = titleMatch ? titleMatch[1] : articleName.replace('.md', '');
 
-        const html = marked(content);
+        const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
         const permalink = articleName.replace('.md', '.html');
@@ -30,7 +31,7 @@ async function loadArticle(articleName) {
         }
 
         // Mostra il contenuto dell'articolo e la navigazione
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>${navigation}`;
+        articlesDiv.innerHTML = `<div class="article-content"><h1>${title}</h1>${html}</div>${navigation}`;
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -63,12 +64,8 @@ async function fetchArticles() {
 
         // Ordina gli articoli dal più recente al meno recente
         articles = data
-            .filter(article => !article.name.includes('.DS_Store')) // Ignora .DS_Store
-            .sort((a, b) => {
-                const dateA = new Date(a.name.split('-').slice(0, 3).join('-'));
-                const dateB = new Date(b.name.split('-').slice(0, 3).join('-'));
-                return dateB - dateA; // Ordinamento dal più recente
-            });
+            .filter(article => !article.name.endsWith('.DS_Store')) // Ignora .DS_Store
+            .sort((a, b) => b.name.localeCompare(a.name));
 
         // Carica solo i titoli degli articoli per migliorare le performance
         for (const article of articles) {
@@ -93,30 +90,21 @@ async function fetchArticles() {
             articlesDiv.appendChild(titleElement);
         }
 
-        // Modifica il menu per includere il link "Contatti"
+        // Modifica il menu per includere il link "Contatti" solo se non esiste già
         const menuContainer = document.getElementById('menu');
-        const contactsLink = document.createElement('a');
-        contactsLink.innerText = 'Contatti';
-        contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
-        contactsLink.onclick = (event) => {
-            event.preventDefault();
-            loadContacts();
-        };
-        menuContainer.appendChild(contactsLink);
+        if (!Array.from(menuContainer.children).some(link => link.href.endsWith('contatti.html'))) {
+            const contactsLink = document.createElement('a');
+            contactsLink.innerText = 'Contatti';
+            contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
+            contactsLink.onclick = (event) => {
+                event.preventDefault();
+                loadContacts();
+            };
+            menuContainer.appendChild(contactsLink);
+        }
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
-}
-
-// Funzione per analizzare il markdown
-function parseMarkdown(markdown) {
-    const regex = /^---\n([\s\S]*?)---\n([\s\S]*)/; // Regex per il front matter
-    const match = markdown.match(regex);
-    if (match) {
-        const content = match[2];
-        return { content }; // Restituisci solo il contenuto
-    }
-    return { content: markdown }; // Se non c'è front matter, restituisci tutto
 }
 
 // Gestione del pulsante "indietro" del browser
