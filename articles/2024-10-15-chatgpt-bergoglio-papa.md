@@ -1,18 +1,8 @@
----
-title: "Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT"
-author: "Yuri Di Prodo"
-date: "2024-10-15"
-tags: ["Religione", "Tecnologia"]
-summary: "Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?"
-category: "Blog"
-slug: "chatgpt-bergoglio-papa"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GwGtFIGV3BmiwpRtKROYWnZbIooxhZ8lxxtgkVpXyofXNT33bZPFjgFiDqv1jcQwH0ZdhmwNYt2aVCWh10DP1GCqA_XBfKFhM1CxJnNVvHZr9e9dz4lKbl7GIil7z6pODCDi3ivgJcdbqJO8cFj87Ul0u1vsEvO7TfozL_pyxifv5Od1kc1584w5xA/s2400/papa%20francesco.jpg"
-language: "it"
----
+# Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT
 
-## Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT
+## Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?
 
-![[papa francesco.jpg]]
+![Papa Francesco]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGZbeYAhUXO-uZxjCZy74rjgGjmQsQyMB7N3gNkeFEKSqBpBeV3iCWSl6djKQ-dSzvzMxf4_5a5kOsNvpadK39wn3M3zZEQg0dnz-Mdd96O2aLcCgZuH8WfNm6xJqezk3UuO-UlaDuwJzSND4cWzNgd2ocMfhXzEREfXXVD_nerMryM9JQiaFkmY-NsQ/s1600/giudizio-universale-giotto.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GwGtFIGV3BmiwpRtKROYWnZbIooxhZ8lxxtgkVpXyofXNT33bZPFjgFiDqv1jcQwH0ZdhmwNYt2aVCWh10DP1GCqA_XBfKFhM1CxJnNVvHZr9e9dz4lKbl7GIil7z6pODCDi3ivgJcdbqJO8cFj87Ul0u1vsEvO7TfozL_pyxifv5Od1kc1584w5xA/s2400/papa%20francesco.jpg))
 
 Il mese scorso [ho fatto notare](https://yuridiprodo.blogspot.com/2024/09/chatgpt-satana.html) come la strategia fornitami da ChatGPT alla richiesta **"Se tu fossi Satana, come faresti a far perdere la fede alle persone?"** fosse a un tempo profetica e terribile.
 
