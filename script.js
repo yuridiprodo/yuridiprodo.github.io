@@ -39,24 +39,6 @@ async function loadArticle(articleName) {
     }
 }
 
-// Funzione per caricare la pagina dei contatti
-async function loadContacts() {
-    try {
-        const response = await fetch('contatti.md');
-        if (!response.ok) throw new Error('File non trovato');
-        const markdown = await response.text();
-        const html = marked(markdown);
-
-        // Mostra il contenuto della pagina dei contatti
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiungi un gestore di eventi ai link
-        attachLinkHandlers();
-    } catch (error) {
-        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
-    }
-}
-
 // Funzione per gestire i link
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
