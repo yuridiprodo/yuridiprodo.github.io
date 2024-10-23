@@ -72,5 +72,10 @@ window.onload = () => {
     }
 };
 
+// Gestione degli errori di ricarica
+window.onpopstate = () => {
+    loadHome();
+};
+
 // Carica la home al caricamento della pagina
 loadHome();
