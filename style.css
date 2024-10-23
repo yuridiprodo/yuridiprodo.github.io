@@ -32,14 +32,17 @@ hr {
     z-index: 1000;
 }
 
-.menu a,
-.menu a:visited {
+a {
     color: #199fca; /* Colore del link */
     text-decoration: none;
 }
 
-.menu a:hover {
+a:hover {
     color: #a9a9a9; /* Colore del link al passaggio del mouse */
+}
+
+a:visited {
+    color: #199fca; /* Colore del link visitato */
 }
 
 .menu-icon {
