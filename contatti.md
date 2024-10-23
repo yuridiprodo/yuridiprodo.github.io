@@ -2,7 +2,7 @@
 
 **Onda Libera ~** è un blog di Yuri Di Prodo.
 
-Se vuoi conoscere la missione del blog clicca qui.
+Se vuoi conoscere la missione del blog [clicca qui](pages/onda-libera.html).
 
 Se invece ti interessa scoprire qualche cosa in più su di me, dai un'occhiata ai link qui sotto:
 
