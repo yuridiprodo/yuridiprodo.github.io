@@ -60,12 +60,23 @@ async function loadContacts() {
     }
 }
 
+// Gestione del caricamento iniziale e del pulsante "indietro" del browser
+window.onload = () => {
+    const path = window.location.pathname;
+    const match = path.match(/articles\/(.+)\.html/);
+    if (match) {
+        loadArticle(match[1]);
+    } else {
+        loadHome();
+    }
+};
+
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
     if (event.state && event.state.articleName) {
         loadArticle(event.state.articleName);
-    } else if (event.state && event.state.page === 'contacts') {
-        loadContacts();
+    } else {
+        loadHome();
     }
 };
 
