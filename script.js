@@ -32,7 +32,6 @@ async function loadArticle(articleName) {
         const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        
         const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
@@ -41,7 +40,7 @@ async function loadArticle(articleName) {
         // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
-        // Se c'è un errore nel caricamento dell'articolo, torna alla home
+        // Ricarica la home se c'è un errore
         loadHome();
     }
 }
@@ -72,9 +71,9 @@ window.onload = () => {
     }
 };
 
-// Gestione degli errori di ricarica
+// Gestione della navigazione
 window.onpopstate = () => {
-    loadHome();
+    loadHome(); // Ricarica la home quando si torna indietro
 };
 
 // Carica la home al caricamento della pagina
