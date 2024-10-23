@@ -32,16 +32,14 @@ async function loadArticle(articleName) {
         const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const titleMatch = markdown.match(/# (.+)/); // Estrae il titolo
-        const title = titleMatch ? titleMatch[1] : articleName.replace('.md', '');
-
+        
         const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
         history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
 
         // Mostra il contenuto dell'articolo sotto l'intestazione
-        articlesDiv.innerHTML = `<div class="article-content"><h1>${title}</h1>${html}</div>`;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
