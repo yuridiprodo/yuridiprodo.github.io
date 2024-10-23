@@ -39,6 +39,24 @@ async function loadArticle(articleName) {
     }
 }
 
+// Funzione per caricare una pagina Markdown
+async function loadPages(pageName) {
+    try {
+        const response = await fetch(`pages/${pageName}`);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const html = marked(markdown);
+
+        // Mostra il contenuto della pagina
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
+}
+
 // Funzione per gestire i link
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
@@ -52,6 +70,12 @@ function attachLinkHandlers() {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 loadMarkdown(link.getAttribute('href'));
+            });
+        } else if (link.href.includes('pages/')) {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                const pageName = link.getAttribute('href').split('/').pop();
+                loadPages(pageName);
             });
         }
     });
