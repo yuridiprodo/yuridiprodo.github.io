@@ -42,7 +42,7 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        const response = await fetch(`pages/${pageName}`);
+        const response = await fetch(`pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
@@ -79,26 +79,28 @@ async function loadContacts() {
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
     links.forEach(link => {
-        if (link.href.endsWith('.html')) {
+        const href = link.getAttribute('href');
+        if (href.endsWith('.html')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
-                loadArticle(link.getAttribute('href').split('/').pop());
+                if (href.includes('pages/')) {
+                    loadPages(href.split('/').pop());
+                } else {
+                    loadArticle(href.split('/').pop());
+                }
             });
-        } else if (link.href.endsWith('.md')) {
+        } else if (href.endsWith('.md')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
-                loadMarkdown(link.getAttribute('href'));
-            });
-        } else if (link.href.includes('pages/')) {
-            link.addEventListener('click', (event) => {
-                event.preventDefault();
-                const pageName = link.getAttribute('href').split('/').pop();
-                loadPages(pageName);
+                loadMarkdown(href);
             });
         } else {
             // Gestione per link esterni
             link.addEventListener('click', (event) => {
-                window.open(link.href, '_blank');
+                if (!href.includes(window.location.origin)) {
+                    event.preventDefault();
+                    window.open(href, '_blank');
+                }
             });
         }
     });
