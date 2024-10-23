@@ -77,6 +77,11 @@ function attachLinkHandlers() {
                 const pageName = link.getAttribute('href').split('/').pop();
                 loadPages(pageName);
             });
+        } else {
+            // Gestione per link esterni
+            link.addEventListener('click', (event) => {
+                window.open(link.href, '_blank');
+            });
         }
     });
 }
