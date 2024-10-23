@@ -55,3 +55,16 @@ h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
     margin: 0.5em 0; /* Spazio sopra e sotto il titolo */
 }
+
+/* Stile per il contenuto degli articoli */
+.article-content {
+    text-align: justify; /* Giustifica il testo */
+    margin: 0 220px; /* Margini laterali su desktop */
+}
+
+/* Rimuovi margini sui dispositivi mobili */
+@media (max-width: 768px) {
+    .article-content {
+        margin: 0; /* Nessun margine su dispositivi mobili */
+    }
+}
