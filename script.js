@@ -40,7 +40,7 @@ async function loadArticle(articleName) {
         // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
-        // Ricarica la home se c'è un errore
+        // Torna alla home se l'articolo non è trovato
         loadHome();
     }
 }
@@ -60,7 +60,7 @@ async function loadContacts() {
     }
 }
 
-// Caricamento iniziale
+// Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
     const match = path.match(/articles\/(.+)\.html/);
@@ -69,11 +69,6 @@ window.onload = () => {
     } else {
         loadHome();
     }
-};
-
-// Gestione della navigazione
-window.onpopstate = () => {
-    loadHome(); // Ricarica la home quando si torna indietro
 };
 
 // Carica la home al caricamento della pagina
