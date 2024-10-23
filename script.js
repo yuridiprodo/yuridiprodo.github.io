@@ -1,37 +1,15 @@
 const articlesDiv = document.getElementById('articles');
-let articles = []; // Array per memorizzare gli articoli
 
-// Funzione per caricare e visualizzare gli articoli
-async function loadArticle(articleName) {
+// Funzione per caricare la pagina principale
+async function loadHome() {
     try {
-        const response = await fetch(`articles/${articleName}`);
+        const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const titleMatch = markdown.match(/# (.+)/); // Estrae il titolo
-        const title = titleMatch ? titleMatch[1] : articleName.replace('.md', '');
-
         const html = marked(markdown);
 
-        // Modifica il permalink nella barra degli indirizzi
-        const permalink = articleName.replace('.md', '.html');
-        history.pushState({ articleName }, '', permalink);
-
-        // Trova l'indice dell'articolo corrente
-        const currentIndex = articles.findIndex(article => article.name === articleName);
-
-        // Costruisci la navigazione per articoli precedenti e successivi
-        let navigation = `<hr>`;
-        if (currentIndex > 0) {
-            const prevArticle = articles[currentIndex - 1];
-            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${prevArticle.name}');">Articolo precedente</a> | `;
-        }
-        if (currentIndex < articles.length - 1) {
-            const nextArticle = articles[currentIndex + 1];
-            navigation += `<a href="#" onclick="event.preventDefault(); loadArticle('${nextArticle.name}');">Articolo successivo</a>`;
-        }
-
-        // Mostra il contenuto dell'articolo e la navigazione
-        articlesDiv.innerHTML = `<div class="article-content"><h1>${title}</h1>${html}</div>${navigation}`;
+        // Mostra il contenuto della home
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -45,9 +23,6 @@ async function loadContacts() {
         const markdown = await response.text();
         const html = marked(markdown);
 
-        // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ page: 'contacts' }, '', 'contatti.html');
-
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
@@ -55,66 +30,12 @@ async function loadContacts() {
     }
 }
 
-// Funzione per recuperare la lista degli articoli
-async function fetchArticles() {
-    try {
-        const response = await fetch('https://api.github.com/repos/yuridiprodo/yuridiprodo.github.io/contents/articles');
-        if (!response.ok) throw new Error('Impossibile caricare gli articoli');
-        const data = await response.json();
-
-        // Ordina gli articoli dal più recente al meno recente
-        articles = data
-            .filter(article => !article.name.endsWith('.DS_Store')) // Ignora .DS_Store
-            .sort((a, b) => b.name.localeCompare(a.name));
-
-        // Carica solo i titoli degli articoli per migliorare le performance
-        for (const article of articles) {
-            const response = await fetch(article.download_url);
-            const markdown = await response.text();
-            const titleMatch = markdown.match(/# (.+)/);
-            const title = titleMatch ? titleMatch[1] : article.name.replace('.md', '');
-
-            const link = document.createElement('a');
-            const permalink = article.name.replace('.md', '.html');
-            link.href = permalink; // Imposta il permalink come href
-            link.innerText = title;
-            link.title = permalink;
-
-            link.addEventListener('click', (event) => {
-                event.preventDefault();
-                loadArticle(article.name);
-            });
-
-            const titleElement = document.createElement('h1');
-            titleElement.appendChild(link);
-            articlesDiv.appendChild(titleElement);
-        }
-
-        // Modifica il menu per includere il link "Contatti" solo se non esiste già
-        const menuContainer = document.getElementById('menu');
-        if (!Array.from(menuContainer.children).some(link => link.href.endsWith('contatti.html'))) {
-            const contactsLink = document.createElement('a');
-            contactsLink.innerText = 'Contatti';
-            contactsLink.href = 'contatti.html'; // Imposta l'url della pagina
-            contactsLink.onclick = (event) => {
-                event.preventDefault();
-                loadContacts();
-            };
-            menuContainer.appendChild(contactsLink);
-        }
-    } catch (error) {
-        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
-    }
-}
-
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
-    if (event.state && event.state.articleName) {
-        loadArticle(event.state.articleName);
-    } else if (event.state && event.state.page === 'contacts') {
+    if (event.state && event.state.page === 'contacts') {
         loadContacts();
     }
 };
 
-// Carica la lista degli articoli all'avvio
-fetchArticles();
+// Carica la home al caricamento della pagina
+loadHome();
