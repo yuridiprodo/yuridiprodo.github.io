@@ -24,7 +24,7 @@ Se fossi Satana e volessi far perdere la fede alle persone, adotterei una strate
 
 Con tutte queste tattiche, non attaccherei direttamente l’idea di Dio, ma piuttosto le connessioni personali, emotive e comunitarie che mantengono viva la fede. Farei sì che le persone si sentano smarrite e abbandonate, in modo **che smettano di cercare risposte al di là di ciò che possono controllare**.
 
-![[chatgpt-satana.jpg]]
+![ChatGPT Satana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLCfHyxhmSm46gFNE86IN-Nim18ejt0MzeS-YXzxObdv6ow4NRaaxSuhWk3UEu0nx7UIW5rNFwTFrX9t1RPrBp-qLsvJBCNF6ZsHS_pDctxa2jWaDgdJvHW6wfdTEvdfr1VzD2qJZqMnoKWP0nsL4Ep0gEvgKIR29tdNAZyySG866/s1600/chatgpt-satana.jpg)
 
 ---
 
