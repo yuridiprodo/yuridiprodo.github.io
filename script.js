@@ -14,10 +14,11 @@ async function loadHome() {
         // Aggiungi un gestore di eventi ai link
         const links = articlesDiv.querySelectorAll('a');
         links.forEach(link => {
-            if (link.href.startsWith('#')) {
+            if (link.href.endsWith('.html')) {
                 link.addEventListener('click', (event) => {
                     event.preventDefault(); // Impedisce il comportamento di default
-                    loadArticle(link.getAttribute('href').substring(1)); // Carica l'articolo
+                    const articleName = link.getAttribute('href').replace('.html', '');
+                    loadArticle(articleName); // Carica l'articolo
                 });
             }
         });
@@ -36,7 +37,7 @@ async function loadArticle(articleName) {
         const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleName }, '', `#${articleName}`); // Utilizza hash
+        history.pushState({ articleName }, '', `#${articleName}`); // Usa l'hash
 
         // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -64,8 +65,6 @@ async function loadContacts() {
 window.onpopstate = (event) => {
     if (event.state && event.state.articleName) {
         loadArticle(event.state.articleName);
-    } else if (event.state && event.state.page === 'contacts') {
-        loadContacts();
     }
 };
 
