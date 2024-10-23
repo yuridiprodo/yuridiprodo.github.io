@@ -10,4 +10,4 @@ Navigare con **Onda Libera ~** significa scegliere di far parte di un viaggio ve
 
 ---
 
-La spiegazione del sottotitolo [si trova qui](https://yuridiprodo.blogspot.com/p/sottotitolo.html).
+La spiegazione del sottotitolo [si trova qui](pages/sottotitolo.html).
