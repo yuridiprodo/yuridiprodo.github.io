@@ -7,20 +7,12 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
+        
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Aggiungi un gestore di eventi ai link
-        const links = articlesDiv.querySelectorAll('a');
-        links.forEach(link => {
-            if (link.href.endsWith('.html')) {
-                link.addEventListener('click', (event) => {
-                    event.preventDefault(); // Impedisce il comportamento di default
-                    loadArticle(link.getAttribute('href').split('/').pop()); // Carica l'articolo
-                });
-            }
-        });
+        attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -33,14 +25,16 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
+        
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
+        history.pushState({ articleName }, '', articleName);
 
-        // Mostra il contenuto dell'articolo sotto l'intestazione
+        // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
     } catch (error) {
-        // Torna alla home se l'articolo non è trovato
         loadHome();
     }
 }
@@ -55,9 +49,25 @@ async function loadContacts() {
 
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
+}
+
+// Funzione per gestire i link
+function attachLinkHandlers() {
+    const links = articlesDiv.querySelectorAll('a');
+    links.forEach(link => {
+        if (link.href.endsWith('.html')) {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                loadArticle(link.getAttribute('href').split('/').pop());
+            });
+        }
+    });
 }
 
 // Gestione del caricamento iniziale
