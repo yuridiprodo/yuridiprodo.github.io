@@ -30,7 +30,7 @@ async function loadArticle(articleName) {
         // Modifica il permalink nella barra degli indirizzi
         history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
 
-        // Mostra il contenuto dell'articolo
+        // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content"><h1>${title}</h1>${html}</div>`;
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
