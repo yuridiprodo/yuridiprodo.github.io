@@ -1,22 +1,8 @@
----
-title: "Studiare, per dubitare"
-author: "Yuri Di Prodo"
-date: "2024-09-23"
-tags: ["Politica", "Tecnologia"]
-summary: "Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi"
-category: "Blog"
-slug: "studiare-per-dubitare"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnYd0ZuYtzKTpWglVGHYBgJqSweRbjojoSNmobdW-SfH-9GNicubg3l2Eu1Dit2PIgtyCi1-BOwI1gf4HjUt-0jw6H29GQwrs1XPgiNt9SqfYJ-4QqSYb3X58odDUN2l3KmpTA0k5ac41T_bHbR17tON4s5lgjpKBA6SDYwZcSzcGx9RkjJRzug31cQ/s1600/dubbio.jpg"
-language: "it"
----
-
 # Studiare, per dubitare
 
 ### Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi
 
-![[dubbio.jpg]]
-
-<!--more-->
+![Dubbio]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGZbeYAhUXO-uZxjCZy74rjgGjmQsQyMB7N3gNkeFEKSqBpBeV3iCWSl6djKQ-dSzvzMxf4_5a5kOsNvpadK39wn3M3zZEQg0dnz-Mdd96O2aLcCgZuH8WfNm6xJqezk3UuO-UlaDuwJzSND4cWzNgd2ocMfhXzEREfXXVD_nerMryM9JQiaFkmY-NsQ/s1600/giudizio-universale-giotto.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnYd0ZuYtzKTpWglVGHYBgJqSweRbjojoSNmobdW-SfH-9GNicubg3l2Eu1Dit2PIgtyCi1-BOwI1gf4HjUt-0jw6H29GQwrs1XPgiNt9SqfYJ-4QqSYb3X58odDUN2l3KmpTA0k5ac41T_bHbR17tON4s5lgjpKBA6SDYwZcSzcGx9RkjJRzug31cQ/s1600/dubbio.jpg))
 
 Siamo sommersi da distrazioni che ci spingono alla passività, **all'obbedienza**, al disfattismo, all'indifferenza; e ci tolgono quella voglia di studiare intesa come **infinita ricerca della conoscenza e della verità**.
 
