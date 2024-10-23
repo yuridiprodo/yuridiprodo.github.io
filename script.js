@@ -1,6 +1,6 @@
 const articlesDiv = document.getElementById('articles');
 
-// Funzione per caricare la pagina principale
+// Funzione per caricare la home
 async function loadHome() {
     try {
         const response = await fetch('home.md');
@@ -10,7 +10,7 @@ async function loadHome() {
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
+        
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -28,14 +28,14 @@ async function loadArticle(articleName) {
         
         // Modifica il permalink nella barra degli indirizzi
         history.pushState({ articleName }, '', articleName);
-
+        
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
+        
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
-        loadHome();
+        loadHome(); // Torna alla home in caso di errore
     }
 }
 
@@ -66,8 +66,31 @@ function attachLinkHandlers() {
                 event.preventDefault();
                 loadArticle(link.getAttribute('href').split('/').pop());
             });
+        } else if (link.href.endsWith('.md')) {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                loadMarkdown(link.getAttribute('href'));
+            });
         }
     });
+}
+
+// Funzione per caricare un file Markdown
+async function loadMarkdown(fileName) {
+    try {
+        const response = await fetch(fileName);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const html = marked(markdown);
+        
+        // Mostra il contenuto del file Markdown
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
 }
 
 // Gestione del caricamento iniziale
