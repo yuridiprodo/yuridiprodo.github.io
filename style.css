@@ -7,6 +7,7 @@ body {
     padding: 20px;
     background-color: #ffffff;
     text-align: center;
+    font-size: 20px; /* Dimensione del testo per desktop */
 }
 
 .title {
@@ -62,8 +63,12 @@ h1 {
     margin: 0 220px; /* Margini laterali su desktop */
 }
 
-/* Rimuovi margini sui dispositivi mobili */
+/* Rimuovi margini sui dispositivi mobili e imposta la dimensione del testo */
 @media (max-width: 768px) {
+    body {
+        font-size: 18px; /* Dimensione del testo per mobile */
+    }
+
     .article-content {
         margin: 0; /* Nessun margine su dispositivi mobili */
     }
