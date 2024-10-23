@@ -17,8 +17,7 @@ async function loadHome() {
             if (link.href.endsWith('.html')) {
                 link.addEventListener('click', (event) => {
                     event.preventDefault(); // Impedisce il comportamento di default
-                    const articleName = link.getAttribute('href').replace('.html', '');
-                    loadArticle(articleName); // Carica l'articolo
+                    loadArticle(link.getAttribute('href').split('/').pop()); // Carica l'articolo
                 });
             }
         });
@@ -30,19 +29,20 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        const response = await fetch(`articles/${articleName}.md`);
+        const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         
         const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleName }, '', `#${articleName}`); // Usa l'hash
+        history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
 
         // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
     } catch (error) {
-        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+        // Se c'è un errore nel caricamento dell'articolo, torna alla home
+        loadHome();
     }
 }
 
@@ -61,10 +61,23 @@ async function loadContacts() {
     }
 }
 
+// Gestione del caricamento iniziale e del pulsante "indietro" del browser
+window.onload = () => {
+    const path = window.location.pathname;
+    const match = path.match(/articles\/(.+)\.html/);
+    if (match) {
+        loadArticle(match[1]);
+    } else {
+        loadHome();
+    }
+};
+
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
     if (event.state && event.state.articleName) {
         loadArticle(event.state.articleName);
+    } else {
+        loadHome();
     }
 };
 
