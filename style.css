@@ -68,3 +68,11 @@ h1 {
         margin: 0; /* Nessun margine su dispositivi mobili */
     }
 }
+
+/* Regole per le immagini in tutto il sito */
+img {
+    max-width: 100%;  /* Limita la larghezza massima al 100% del contenitore */
+    height: auto;     /* Mantiene le proporzioni dell'immagine */
+    display: block;   /* Centra l'immagine nel suo contenitore */
+    margin: 0 auto;   /* Aggiunge margini automatici per centrare */
+}
