@@ -66,12 +66,12 @@ async function loadContacts() {
         const html = marked(markdown);
 
         // Mostra il contenuto della pagina dei contatti
-        articlesDiv.innerHTML = <div class="article-content">${html}</div>;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
-        articlesDiv.innerHTML = <div class="error">${error.message}</div>;
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
 
@@ -102,6 +102,24 @@ function attachLinkHandlers() {
             });
         }
     });
+}
+
+// Funzione per caricare un file Markdown
+async function loadMarkdown(fileName) {
+    try {
+        const response = await fetch(fileName);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const html = marked(markdown);
+        
+        // Mostra il contenuto del file Markdown
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
 }
 
 // Gestione del caricamento iniziale
