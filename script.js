@@ -14,10 +14,10 @@ async function loadHome() {
         // Aggiungi un gestore di eventi ai link
         const links = articlesDiv.querySelectorAll('a');
         links.forEach(link => {
-            if (link.href.endsWith('.html')) {
+            if (link.href.startsWith('#')) {
                 link.addEventListener('click', (event) => {
                     event.preventDefault(); // Impedisce il comportamento di default
-                    loadArticle(link.getAttribute('href').split('/').pop()); // Carica l'articolo
+                    loadArticle(link.getAttribute('href').substring(1)); // Carica l'articolo
                 });
             }
         });
@@ -29,14 +29,14 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
+        const response = await fetch(`articles/${articleName}.md`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         
         const html = marked(markdown);
 
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
+        history.pushState({ articleName }, '', `#${articleName}`); // Utilizza hash
 
         // Mostra il contenuto dell'articolo sotto l'intestazione
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -60,23 +60,12 @@ async function loadContacts() {
     }
 }
 
-// Gestione del caricamento iniziale e del pulsante "indietro" del browser
-window.onload = () => {
-    const path = window.location.pathname;
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]);
-    } else {
-        loadHome();
-    }
-};
-
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
     if (event.state && event.state.articleName) {
         loadArticle(event.state.articleName);
-    } else {
-        loadHome();
+    } else if (event.state && event.state.page === 'contacts') {
+        loadContacts();
     }
 };
 
