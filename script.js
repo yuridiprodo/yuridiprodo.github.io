@@ -15,6 +15,28 @@ async function loadHome() {
     }
 }
 
+// Funzione per caricare un articolo
+async function loadArticle(articleName) {
+    try {
+        // Carica il file markdown
+        const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const titleMatch = markdown.match(/# (.+)/); // Estrae il titolo
+        const title = titleMatch ? titleMatch[1] : articleName.replace('.md', '');
+
+        const html = marked(markdown);
+
+        // Modifica il permalink nella barra degli indirizzi
+        history.pushState({ articleName }, '', articleName); // Mantiene l'estensione .html
+
+        // Mostra il contenuto dell'articolo
+        articlesDiv.innerHTML = `<div class="article-content"><h1>${title}</h1>${html}</div>`;
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
+}
+
 // Funzione per caricare la pagina dei contatti
 async function loadContacts() {
     try {
@@ -32,7 +54,9 @@ async function loadContacts() {
 
 // Gestione del pulsante "indietro" del browser
 window.onpopstate = (event) => {
-    if (event.state && event.state.page === 'contacts') {
+    if (event.state && event.state.articleName) {
+        loadArticle(event.state.articleName);
+    } else if (event.state && event.state.page === 'contacts') {
         loadContacts();
     }
 };
