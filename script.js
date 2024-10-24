@@ -13,10 +13,7 @@ async function loadHome() {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		
-	// Aggiorna lo stato nella cronologia
-        history.pushState({ page: 'home' }, '', 'index.html');
-        
+		       
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -36,14 +33,21 @@ async function loadArticle(articleName) {
         history.pushState({ articleName }, '', articleName);
         
         // Mostra il contenuto dell'articolo
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        articlesDiv.innerHTML = `
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+            <div class="article-content">${html}</div>
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+        `;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		
-	// Aggiorna lo stato nella cronologia
-        history.pushState({ articleName }, '', articleName);
-        
+		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -60,13 +64,20 @@ async function loadPages(pageName) {
         const html = marked(markdown);
 
         // Mostra il contenuto della pagina
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        articlesDiv.innerHTML = `
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+            <div class="article-content">${html}</div>
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+        `;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		
-	// Aggiorna lo stato nella cronologia
-        history.pushState({ page: pageName }, '', pageName);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -84,13 +95,20 @@ async function loadContacts() {
         const html = marked(markdown);
 
         // Mostra il contenuto della pagina dei contatti
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        articlesDiv.innerHTML = `
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+            <div class="article-content">${html}</div>
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+        `;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		
-	// Aggiorna lo stato nella cronologia
-        history.pushState({ page: 'contatti' }, '', 'contatti.html');
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -139,13 +157,20 @@ async function loadMarkdown(fileName) {
         const html = marked(markdown);
         
         // Mostra il contenuto del file Markdown
-        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        articlesDiv.innerHTML = `
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+            <div class="article-content">${html}</div>
+            <div class="navigation">
+                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
+                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
+            </div>
+        `;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-
-	// Aggiorna lo stato nella cronologia
-        history.pushState({ page: fileName }, '', fileName);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -162,26 +187,6 @@ window.onload = () => {
         loadArticle(match[1]);
     } else {
         loadHome();
-    }
-};
-
-// Gestione dello stato della cronologia
-window.onpopstate = (event) => {
-    console.log("Navigazione indietro/avanti:", event.state);
-    if (event.state) {
-        if (event.state.page === 'home') {
-            loadHome();
-        } else if (event.state.page === 'contatti') {
-            loadContacts();
-        } else if (event.state.articleName) {
-            loadArticle(event.state.articleName);
-        } else if (event.state.pageName) {
-            loadPages(event.state.pageName); // Carica pagine specifiche
-        } else if (event.state.fileName) {
-            loadMarkdown(event.state.fileName); // Carica file Markdown
-        }
-    } else {
-        loadHome(); // Torna alla home se non c'è stato
     }
 };
 
