@@ -1,14 +1,3 @@
----
-title: ChatGPT lo ha capito, adesso tocca a noi
-author: Yuri Di Prodo
-date: 2024-09-12
-tags:
-  - Religione
-  - Tecnologia
-lang: it
-image: img/giudizio-universale-giotto.jpg
-slug: chatgpt-satana
----
 # ChatGPT lo ha capito: adesso tocca a noi
 
 ### Ho chiesto a ChatGPT "Se tu fossi Satana, come faresti a far perdere la fede alle persone?": ecco cosa mi ha risposto
