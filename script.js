@@ -96,7 +96,7 @@ async function loadContacts() {
 
 	        // Mostra il contenuto della pagina Archivio
 	        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
+        
 	        // Ripristina lo scroll all'inizio
 	        window.scrollTo(0, 0);
         
@@ -106,7 +106,7 @@ async function loadContacts() {
 	        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
 	    }
 	}
-}
+
 
 // Funzione per gestire i link
 function attachLinkHandlers() {
