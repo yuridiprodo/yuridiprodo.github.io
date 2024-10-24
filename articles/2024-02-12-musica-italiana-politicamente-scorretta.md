@@ -2,7 +2,7 @@
 
 ### Troppa America sui manifesti; ed i bei tempi dell'Italia con un partigiano come Presidente
 
-![copertina dell'album L'italiano di Toto Cutugno](img/musica-italiana-politicamente-scorretta.jpeg)
+![copertina dell'album L'italiano di Toto Cutugno](/img/musica-italiana-politicamente-scorretta.jpeg)
 
 Musica, canzoni: è finito Sanremo. **Li avete letti i testi?** Ormai è quasi impossibile arrivare lì presentando canzoni che non siano **politicamente corrette**.
 

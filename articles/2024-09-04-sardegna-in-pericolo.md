@@ -2,7 +2,7 @@
 
 ### Da paradiso terrestre a discarica di rifiuti non degradabili: il tutto, come sempre, in nome del profitto
 
-![logo di pericolo al centro di una foto di mare con pale eoliche in vista all'orizzonte](img/sardegna 8.jpg)
+![logo di pericolo al centro di una foto di mare con pale eoliche in vista all'orizzonte](/img/sardegna 8.jpg)
 
 Pochi anni ancora, e la Sardegna rischia di diventare tutta ferro e cemento. Un vero e proprio gioiello che **andrebbe tutelato**, come ci ricorda l'articolo 9 della nostra Costituzione, e che invece potrebbe veder cancellati i suoi **5.000 anni di storia** nel giro di pochi anni.
 
@@ -16,13 +16,13 @@ Purtroppo **non è ancora finita**.
 
 Nonostante **il fabbisogno regionale di soli 2 GW**, lo Stato Italiano ha infatti [fissato](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2024-07-02&atto.codiceRedazionale=24A03360&elenco30giorni=true) per la Regione l’obiettivo di ulteriori 6,2 GW di potenza installata **minima** da fonti rinnovabili entro i prossimi sei anni; oltre tre volte in necessario.
 
-![obiettivi di potenza installata da fonte rinnovabile](img/sardegna 2.jpg)
+![obiettivi di potenza installata da fonte rinnovabile](/img/sardegna 2.jpg)
 
-![mappa delle richieste di concessioni rinnovabili da fonte eolica](img/sardegna 1.jpg)
+![mappa delle richieste di concessioni rinnovabili da fonte eolica](/img/sardegna 1.jpg)
 
-![basamenti per l'installazione delle pale eoliche](img/sardegna 4.jpg)
+![basamenti per l'installazione delle pale eoliche](/img/sardegna 4.jpg)
 
-![gli scavi per il cavidotto](img/sardegna 5.jpg)
+![gli scavi per il cavidotto](/img/sardegna 5.jpg)
 
 Il tetto **massimo** invece non c'è, sicché ad oggi ci sarebbero **richieste di concessioni per 58 GW**, ovvero trenta volte la potenza richiesta dall'isola (per avere un termine di paragone basti pensare che in tutta la Francia la potenza da fonte rinnovabile installata è di 20 GW).
 
@@ -32,12 +32,12 @@ Stiamo parlando di turbine alte 270 metri: dei giganti di cemento che dalla spia
 
 Senza poi considerare che **per trasportare le gigantesche pale eoliche** bisogna [intervenire](https://va.mite.gov.it/File/Documento/739028) sul territorio attraverso l'espropriazione di terreni e l'**abbattimento di alberi (secolari inclusi)**, in quanto sono fatte di un unico pezzo che non può essere montato in loco.
 
-![trasporto pale eoliche](img/sardegna 6.jpg)
+![trasporto pale eoliche](/img/sardegna 6.jpg)
 
-![taglio della vegetazione per il trasporto delle pale eoliche](img/sardegna 7.jpg)
+![taglio della vegetazione per il trasporto delle pale eoliche](/img/sardegna 7.jpg)
 
 Pale eoliche monoblocco, dicevo, che per di più hanno in media una **durata di vita di 30 anni** e che, non essendo costruite con materiali biodegradabili, a fine ciclo vengono semplicemente **sotterrate**. I basamenti invece restano già lì, sempre sottoterra, anche se a un certo punto le turbine dovessero venire spostate altrove.
 
 E questa sarebbe l'**energia pulita**, la sostenibilità, **la "Rivoluzione Green"** di cui sentiamo parlare sempre più spesso?
 
-![discarica di pale eoliche sottoterra](img/sardegna 3.jpg)
+![discarica di pale eoliche sottoterra](/img/sardegna 3.jpg)

@@ -2,7 +2,7 @@
 
 ### Presunto = non verificato. Una semplice equazione
 
-![Logo UNRWA](img/presunzione-di-innocenza.jpeg)
+![Logo UNRWA](/img/presunzione-di-innocenza.jpeg)
 
 L'Italia ha **sospeso i finanziamenti** all'Unrwa, l'agenzia delle Nazioni Unite che sostiene i profughi palestinesi, per il suo presunto coinvolgimento nell'attacco di Hamas del 7 ottobre. Tajani: “Paesi Alleati hanno preso la stessa decisione”.
 
