@@ -4,7 +4,7 @@
 
 mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è un mio blog.
 
-Se vuoi conoscere la missione del blog [clicca qui](pages/onda-libera.html).
+Se vuoi conoscere la missione del blog [clicca qui](/pages/onda-libera.html).
 
 Se invece ti interessa scoprire qualche cosa in più su di me, dai un'occhiata ai link qui sotto:
 
