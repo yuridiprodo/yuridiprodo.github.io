@@ -2,7 +2,7 @@
 
 *Ciao!*
 
-mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è un mio blog.
+mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è il mio blog.
 
 Se vuoi conoscere la missione del blog [clicca qui](/pages/onda-libera.html).
 
