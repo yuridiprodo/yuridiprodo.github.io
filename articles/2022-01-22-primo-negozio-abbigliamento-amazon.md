@@ -2,7 +2,7 @@
 
 ### La nuova "normalità" passa anche da qui
 
-[l'app per i negozi di Amazon](/img/il-marchio-sulla-mano-destra.jpeg)
+![l'app per i negozi di Amazon](/img/il-marchio-sulla-mano-destra.jpeg)
 
 A fine anno Amazon aprirà il primo negozio di vestiti.
 
