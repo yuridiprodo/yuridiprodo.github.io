@@ -2,7 +2,7 @@
 
 ### Ho chiesto a ChatGPT "Se tu fossi Satana, come faresti a far perdere la fede alle persone?": ecco cosa mi ha risposto
 
-![Giudizio Universale Giotto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGZbeYAhUXO-uZxjCZy74rjgGjmQsQyMB7N3gNkeFEKSqBpBeV3iCWSl6djKQ-dSzvzMxf4_5a5kOsNvpadK39wn3M3zZEQg0dnz-Mdd96O2aLcCgZuH8WfNm6xJqezk3UuO-UlaDuwJzSND4cWzNgd2ocMfhXzEREfXXVD_nerMryM9JQiaFkmY-NsQ/s1600/giudizio-universale-giotto.jpg)
+![Giudizio Universale Giotto](img/giudizio-universale-giotto.jpg)
 
 Se fossi Satana e volessi far perdere la fede alle persone, adotterei una strategia astuta e subdola, basata sull'inganno, la confusione e l'erosione graduale della fiducia in ciò che dà significato e speranza. **Non attaccherei la fede in modo diretto**, ma lavorerei lentamente per minare i suoi pilastri, seminando dubbi e scoraggiamento. Ecco alcune strategie:
 
@@ -24,7 +24,7 @@ Se fossi Satana e volessi far perdere la fede alle persone, adotterei una strate
 
 Con tutte queste tattiche, non attaccherei direttamente l’idea di Dio, ma piuttosto le connessioni personali, emotive e comunitarie che mantengono viva la fede. Farei sì che le persone si sentano smarrite e abbandonate, in modo **che smettano di cercare risposte al di là di ciò che possono controllare**.
 
-![ChatGPT Satana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLCfHyxhmSm46gFNE86IN-Nim18ejt0MzeS-YXzxObdv6ow4NRaaxSuhWk3UEu0nx7UIW5rNFwTFrX9t1RPrBp-qLsvJBCNF6ZsHS_pDctxa2jWaDgdJvHW6wfdTEvdfr1VzD2qJZqMnoKWP0nsL4Ep0gEvgKIR29tdNAZyySG866/s1600/chatgpt-satana.jpg)
+![ChatGPT Satana](img/chatgpt-satana.jpg)
 
 ---
 
