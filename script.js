@@ -1,5 +1,20 @@
 const articlesDiv = document.getElementById('articles');
 
+// Gestione della cronologia del browser
+window.onpopstate = (event) => {
+    if (event.state) {
+        if (event.state.pageName) {
+            loadPages(event.state.pageName);
+        } else if (event.state.articleName) {
+            loadArticle(event.state.articleName);
+        } else {
+            loadHome(); // Torna alla home se non c'è stato
+        }
+    } else {
+        loadHome(); // Torna alla home se non c'è stato
+    }
+};
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
