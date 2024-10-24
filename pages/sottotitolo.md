@@ -12,4 +12,4 @@ Sempre intorno al concetto di "mare" rapportato ad internet e quindi alla consol
 
 ---
 
-Se vuoi scoprire la missione del blog, [clicca qui](pages/onda-libera.html).
+Se vuoi scoprire la missione del blog, [clicca qui](/pages/onda-libera.html).
