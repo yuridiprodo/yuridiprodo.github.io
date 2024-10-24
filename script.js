@@ -1,20 +1,5 @@
 const articlesDiv = document.getElementById('articles');
 
-// Gestione della cronologia del browser
-window.onpopstate = (event) => {
-    if (event.state) {
-        if (event.state.pageName) {
-            loadPages(event.state.pageName);
-        } else if (event.state.articleName) {
-            loadArticle(event.state.articleName);
-        } else {
-            loadHome(); // Torna alla home se non c'è stato
-        }
-    } else {
-        loadHome(); // Torna alla home se non c'è stato
-    }
-};
-
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -22,9 +7,6 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-		// Aggiorna lo stato nella cronologia
-        history.pushState({ page: 'home' }, '', 'home.html');
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -48,7 +30,7 @@ async function loadArticle(articleName) {
         const html = marked(markdown);
         
         // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ page:articleName }, '', articleName);
+        history.pushState({ articleName }, '', articleName);
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -70,9 +52,6 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-		// Aggiorna lo stato nella cronologia
-        history.pushState({ page: pageName }, '', `pages/${pageName}`);
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -94,9 +73,6 @@ async function loadContacts() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-		// Aggiorna lo stato nella cronologia
-        history.pushState({ page: 'contatti' }, '', 'contatti.html');
 
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -149,9 +125,6 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-		// Aggiorna lo stato nella cronologia
-		history.pushState({ page: fileName }, '', fileName);
         
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
