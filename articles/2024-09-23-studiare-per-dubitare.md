@@ -2,7 +2,7 @@
 
 ### Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi
 
-![Dubbio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnYd0ZuYtzKTpWglVGHYBgJqSweRbjojoSNmobdW-SfH-9GNicubg3l2Eu1Dit2PIgtyCi1-BOwI1gf4HjUt-0jw6H29GQwrs1XPgiNt9SqfYJ-4QqSYb3X58odDUN2l3KmpTA0k5ac41T_bHbR17tON4s5lgjpKBA6SDYwZcSzcGx9RkjJRzug31cQ/s1600/dubbio.jpg)
+![Dubbio](img/dubbio.jpg)
 
 Siamo sommersi da distrazioni che ci spingono alla passività, **all'obbedienza**, al disfattismo, all'indifferenza; e ci tolgono quella voglia di studiare intesa come **infinita ricerca della conoscenza e della verità**.
 
