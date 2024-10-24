@@ -1,6 +1,6 @@
 # Contatti
 
-Ciao!
+*Ciao!*
 
 mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è un mio blog.
 
@@ -8,9 +8,11 @@ Se vuoi conoscere la missione del blog [clicca qui](pages/onda-libera.html).
 
 Se invece ti interessa scoprire qualche cosa in più su di me, dai un'occhiata ai link qui sotto:
 
+---
+
 Una penna di Macitynet: [www.macitynet.it/author/yuri](http://www.macitynet.it/author/yuri)
 
-**==Pillole quotidiane su Telegram==**: [t.me/yuridiprodo](http://t.me/yuridiprodo)
+<mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">**Pillole quotidiane su Telegram**</mark>: [t.me/yuridiprodo](http://t.me/yuridiprodo)
 
 Se hai bisogno di scrivermi: [yuri.giornalista@gmail.com](mailto:yuri.giornalista@gmail.com)
 
