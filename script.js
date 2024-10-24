@@ -85,28 +85,7 @@ async function loadContacts() {
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
-	
-	// Funzione per caricare la pagina Archivio
-	async function loadArchive() {
-	    try {
-	        const response = await fetch('pages/archivio.md');
-	        if (!response.ok) throw new Error('File non trovato');
-	        const markdown = await response.text();
-	        const html = marked(markdown);
-
-	        // Mostra il contenuto della pagina Archivio
-	        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-	        // Ripristina lo scroll all'inizio
-	        window.scrollTo(0, 0);
-        
-	        // Aggiungi un gestore di eventi ai link
-	        attachLinkHandlers();
-	    } catch (error) {
-	        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
-	    }
-	}
-
+}
 
 // Funzione per gestire i link
 function attachLinkHandlers() {
