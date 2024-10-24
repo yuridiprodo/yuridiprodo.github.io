@@ -48,10 +48,7 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-		// Se il pageName termina con .html, usiamo quel nome per cercare il file .md
-        const markdownFile = pageName.endsWith('.html') ? pageName.replace('.html', '.md') : `pages/${pageName}.md`;
-        
-        const response = await fetch(markdownFile);
+        const response = await fetch(`pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
