@@ -145,7 +145,7 @@ async function loadMarkdown(fileName) {
         window.scrollTo(0, 0);
 
 	// Aggiorna lo stato nella cronologia
-        history.pushState({ page: pageName }, '', pageName);
+        history.pushState({ page: fileName }, '', fileName);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -167,6 +167,7 @@ window.onload = () => {
 
 // Gestione dello stato della cronologia
 window.onpopstate = (event) => {
+    console.log("Navigazione indietro/avanti:", event.state);
     if (event.state) {
         if (event.state.page === 'home') {
             loadHome();
@@ -174,9 +175,13 @@ window.onpopstate = (event) => {
             loadContacts();
         } else if (event.state.articleName) {
             loadArticle(event.state.articleName);
+        } else if (event.state.pageName) {
+            loadPages(event.state.pageName); // Carica pagine specifiche
+        } else if (event.state.fileName) {
+            loadMarkdown(event.state.fileName); // Carica file Markdown
         }
     } else {
-        loadHome(); // Se non c'è stato, carica la home
+        loadHome(); // Torna alla home se non c'è stato
     }
 };
 
