@@ -4,7 +4,7 @@ Guerra, Italia, Libri, Religione
 
 ### Non c’è altro da fare: o l’Italia torna ad essere cristiana, o diventerà musulmana.
 
-![[aveva ragione oriana fallaci.jpeg]]
+![[aveva-ragione-oriana-fallaci.jpeg]]
 
 <!--more-->
 

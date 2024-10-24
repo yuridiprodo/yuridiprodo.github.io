@@ -2,7 +2,7 @@
 
 ### Da una parte Anthony Fauci, dall’altra il nuovo studio. Nel mezzo, l’assordante silenzio dei media e del popolo.
 
-![Anthony Fauci](/img/post-it per la prossima pandemia.jpeg)
+![Anthony Fauci](/img/post-it-per-la-prossima-pandemia.jpeg)
 
 Da una parte c'è **Anthony Fauci** che tre giorni fa, [testimoniando](https://www.dailymail.co.uk/news/article-13481839/dr-anthony-fauci-social-distancing-masks-prevent-covid.html) davanti alla sottocommissione di inchiesta sulla pandemia di Covid-19 della Camera statunitense, **ha ammesso di essersi inventato le misure di contenimento** - tra cui distanziamento e mascherine - che sono state poi imposte in tutto il mondo.
 
