@@ -7,14 +7,14 @@ In questa pagina sono raccolti tutti gli articoli pubblicati sul blog, divisi pe
 ---
 
 ## Covid-19
-- [La malattia X](articles/2024-01-19-malattia-x.html)
+- [La malattia X](/articles/2024-01-19-malattia-x.html)
 
 ---
 
 ## Guerra
-- [Viviamo nella società del controllo, e va bene così](articles/2024-02-08-matrix.html)
-- [Questione di priorità](articles/2024-02-05-questione-di-priorita.html)
-- [Presunzione di innocenza](articles/2024-01-28-presunzione-di-innocenza.html)
+- [Viviamo nella società del controllo, e va bene così](/articles/2024-02-08-matrix.html)
+- [Questione di priorità](/articles/2024-02-05-questione-di-priorita.html)
+- [Presunzione di innocenza](/articles/2024-01-28-presunzione-di-innocenza.html)
 
 ---
 
