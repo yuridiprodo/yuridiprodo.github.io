@@ -8,4 +8,4 @@ Le ultime cose di cui vi ho parlato:
 
 ---
 
-Tutti gli altri articoli sono nell'[Archivio](pages/archivio.html). Se vuoi li puoi filtrare per [Argomento](pages/tag.html).
+Tutti gli altri articoli sono nell'[Archivio](archivio.html). Se vuoi li puoi filtrare per [Argomento](tag.html).
