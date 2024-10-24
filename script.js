@@ -10,10 +10,7 @@ async function loadHome() {
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
-        
+       
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -34,9 +31,6 @@ async function loadArticle(articleName) {
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -55,9 +49,6 @@ async function loadPages(pageName) {
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -76,9 +67,6 @@ async function loadContacts() {
 
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -128,10 +116,7 @@ async function loadMarkdown(fileName) {
         
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
-        
+      
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
