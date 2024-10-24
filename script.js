@@ -33,17 +33,7 @@ async function loadArticle(articleName) {
         history.pushState({ articleName }, '', articleName);
         
         // Mostra il contenuto dell'articolo
-        articlesDiv.innerHTML = `
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-            <div class="article-content">${html}</div>
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-        `;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -64,17 +54,7 @@ async function loadPages(pageName) {
         const html = marked(markdown);
 
         // Mostra il contenuto della pagina
-        articlesDiv.innerHTML = `
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-            <div class="article-content">${html}</div>
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-        `;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -95,17 +75,7 @@ async function loadContacts() {
         const html = marked(markdown);
 
         // Mostra il contenuto della pagina dei contatti
-        articlesDiv.innerHTML = `
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-            <div class="article-content">${html}</div>
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-        `;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -157,17 +127,7 @@ async function loadMarkdown(fileName) {
         const html = marked(markdown);
         
         // Mostra il contenuto del file Markdown
-        articlesDiv.innerHTML = `
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-            <div class="article-content">${html}</div>
-            <div class="navigation">
-                <a href="#" onclick="history.back(); return false;">< Indietro</a> | 
-                <a href="#" onclick="history.forward(); return false;">Avanti ></a>
-            </div>
-        `;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
