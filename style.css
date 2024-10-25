@@ -86,8 +86,10 @@ img {
 #scrollToTop {
     display: none; /* Nascondi il pulsante inizialmente */
     transition: opacity 0.3s; /* Transizione per l'opacità */
+    opacity: 0; /* Opacità iniziale */
 }
 
 #scrollToTop.show {
     display: block; /* Mostra il pulsante quando ha la classe "show" */
+    opacity: 1; /* Imposta l'opacità a 1 per renderlo visibile */
 }
