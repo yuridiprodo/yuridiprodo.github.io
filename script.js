@@ -30,6 +30,9 @@ async function loadArticle(articleName) {
         const markdown = await response.text();
         const html = marked(markdown);
 		
+		// Carica il CSS specifico per gli articoli
+        loadCSS('style-articles.css');
+		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
         
@@ -68,6 +71,15 @@ async function loadPages(pageName) {
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
+}
+
+// Funzione per caricare un file CSS
+function loadCSS(filename) {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = filename;
+    document.head.appendChild(link);
 }
 
 // Funzione per gestire i link
