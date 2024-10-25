@@ -18,4 +18,6 @@ Se hai bisogno di scrivermi: [yuri.giornalista@gmail.com](mailto:yuri.giornalist
 
 ---
 
+![Yuri Di Prodo, un ritratto](/img/profilo-mini.jpeg)
+
 *Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di supportare il mio lavoro con una donazione [qui su PayPal](http://paypal.me/yuridiprodo) in **modalità Amici** (è una donazione, dopotutto, non una compravendita)*
