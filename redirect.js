@@ -12,3 +12,8 @@ if (window.location.pathname.startsWith('/articles/')) {
 } else {
     console.log("Not an article or page path. No redirect.");
 }
+
+// Forza il caricamento della index se non si è già sulla index
+if (window.location.pathname !== '/index.html') {
+    window.location.href = 'index.html';
+}
