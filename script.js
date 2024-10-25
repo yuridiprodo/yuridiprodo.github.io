@@ -134,7 +134,7 @@ window.onload = () => {
     if (isArticle) {
         const link = document.createElement('link');
         link.rel = 'stylesheet';
-        link.href = 'https://yuridiprodo.github.io/style.css'; // URL del tuo CSS
+        link.href = '/style.css'; // URL del tuo CSS
         document.head.appendChild(link);
     }
 
