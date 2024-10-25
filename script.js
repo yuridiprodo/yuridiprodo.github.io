@@ -150,21 +150,5 @@ window.onload = () => {
     }
 };
 
-const scrollToTopButton = document.getElementById('scrollToTop');
-
-// Mostra/nascondi il pulsante in base allo scroll
-window.onscroll = () => {
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-        scrollToTopButton.classList.add('show');
-    } else {
-        scrollToTopButton.classList.remove('show');
-    }
-};
-
-// Scorri in cima quando il pulsante viene cliccato
-scrollToTopButton.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-});
-
 // Carica la home al caricamento della pagina
 loadHome();

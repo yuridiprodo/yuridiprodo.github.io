@@ -81,15 +81,3 @@ img {
     display: block;   /* Centra l'immagine nel suo contenitore */
     margin: 0 auto;   /* Aggiunge margini automatici per centrare */
 }
-
-/* Regole per il pulsante Torna su */
-#scrollToTop {
-    opacity: 0; /* Opacità iniziale */
-    transition: opacity 0.3s; /* Transizione per l'opacità */
-    pointer-events: none; /* Non interattivo quando invisibile */
-}
-
-#scrollToTop.show {
-    opacity: 1; /* Imposta l'opacità a 1 per renderlo visibile */
-    pointer-events: auto; /* Interattivo quando visibile */
-}
