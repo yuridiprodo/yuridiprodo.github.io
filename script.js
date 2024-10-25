@@ -10,11 +10,12 @@ async function loadHome() {
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Nascondi il footer menu per la home
+        document.getElementById('footer-menu').style.display = 'none';
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		       
-        // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
@@ -31,6 +32,9 @@ async function loadArticle(articleName) {
         
         // Modifica il permalink nella barra degli indirizzi
         history.pushState({ articleName }, '', articleName);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -52,6 +56,9 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -73,6 +80,9 @@ async function loadContacts() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -125,6 +135,9 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
