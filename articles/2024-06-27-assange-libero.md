@@ -21,7 +21,7 @@ C'è chi perfino riesce a dargliene una colpa: perché dopo tutto quello che ha 
 
 **E invece Julian Assange è un eroe**, perché è stato in grado di farci uno dei doni più preziosi: la verità.
 
-Attraverso [il famoso video "Collateral Murder"](https://t.me/yuridiprodo/50) ci ha mostrato **di cosa sono capaci** gli Stati Uniti. E quello è solo un piccolo assaggio rispetto alla mole di documenti pubblicati attraverso Wikileaks che certificano le menzogne, le stragi di innocenti, la rete di corruzione intessuta nel corso degli anni e le innumerevoli violazioni dei diritti umani perpetrate in tutto il mondo.
+Attraverso [il famoso video "Collateral Murder"](https://t.me/yuridiprodo/50) (se non funziona il primo link, provate a vederlo dal [canale YouTube della Rai](https://www.youtube.com/watch?v=2e3NbrTriQE) o dal [sito del New York Times](https://www.nytimes.com/video/multimedia/1248069533084/collateral-murder.html)) ci ha mostrato **di cosa sono capaci** gli Stati Uniti. E quello è solo un piccolo assaggio rispetto alla mole di documenti pubblicati attraverso Wikileaks che certificano le menzogne, le stragi di innocenti, la rete di corruzione intessuta nel corso degli anni e le innumerevoli violazioni dei diritti umani perpetrate in tutto il mondo.
 
 Cos'altro avrebbe dovuto fare? Marcire in prigione? Ha già fatto tutto quello che poteva fare. Assange ci ha dato la verità al costo di grandi sofferenze e lunghe privazioni. **Adesso sta a noi** custodirla. Meglio ancora, è arrivato il momento di metterla a frutto: che il suo sacrificio non resti vano.
 

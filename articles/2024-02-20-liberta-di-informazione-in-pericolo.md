@@ -12,7 +12,7 @@ L’Alta Corte di Londra è infatti chiamata a stabilire se il fondatore di **Wi
 
 Se ciò dovesse accadere - [lancia l'allarme](https://www.ansa.it/sito/notizie/mondo/2024/02/19/la-moglie-di-assange-nel-caso-sullestradizione-si-decide-se-vivra-o-morra_1a6be6df-6daf-4881-8adb-e449c5c4d699.html) la moglie, Stella Assange - **Julian non sopravviverà**.
 
-Di Julian Assange avevo già parlato il 12 luglio in occasione dei 16 anni dall'attacco aereo americano contro i civili di Baghdad; attacco di cui ovviamente **non sapevamo nulla** fino alla pubblicazione [del video](https://t.me/yuridiprodo/50) online.
+Di Julian Assange avevo già parlato il 12 luglio in occasione dei 16 anni dall'attacco aereo americano contro i civili di Baghdad; attacco di cui ovviamente **non sapevamo nulla** fino alla pubblicazione [del video](/articles/2024-06-27-assange-libero.html) online.
 
 Fu proprio Assange **a mostrarcelo**.
 

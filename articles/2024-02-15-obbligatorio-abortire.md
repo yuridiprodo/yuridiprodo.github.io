@@ -12,7 +12,7 @@ Oggi siamo già al passo successivo, quello della diffusione di tale comportamen
 
 Ma se il passaggio successivo, la **legalizzazione**, non fosse davvero l'ultimo?
 
-Se ce ne fosse un altro ancora, non previsto persino dalla sempre più abusata teoria della [Finestra di Overton](https://t.me/yuridiprodo/143).
+Se ce ne fosse un altro ancora, non previsto persino dalla sempre più abusata teoria della [Finestra di Overton](/articles/2023-12-28-persuasori-occulti.html).
 
 Se l'intenzione fosse quello di renderlo **obbligatorio**?
 

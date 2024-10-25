@@ -18,7 +18,7 @@ Poi l’altro, il potere dell’opinione pubblica. Certamente abbiamo bisogno di
 
 *Visita al Pontificio Seminario Romano Maggiore in occasione della Festa della Madonna della Fiducia*
 
-"LECTIO DIVINA" DEL SANTO PADRE BENEDETTO XVI ([video](https://t.me/yuridiprodo/65))
+"LECTIO DIVINA" DEL SANTO PADRE BENEDETTO XVI ([video qui](https://t.me/yuridiprodo/65), oppure sul [canale YouTube DeCivitateDei1](https://www.youtube.com/watch?v=SB-T8A45ehM))
 
 Cappella del Seminario
 [Mercoledì, 15 febbraio 2012](https://www.vatican.va/content/benedict-xvi/it/speeches/2012/february/documents/hf_ben-xvi_spe_20120215_seminario-romano-mag.html)

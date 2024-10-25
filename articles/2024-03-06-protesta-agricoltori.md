@@ -4,8 +4,7 @@
 
 ![cittadini finita l'agricoltura verrà la fame](/img/protesta-agricoltori-1.jpeg)
 
-*«Il giorno in cui questo paese non avrà più **contadini** e **artigiani**, non avrà più storia».*
-Pier Paolo Pasolini, [Scritti corsari](https://amzn.to/49zvkgB)
+*«Il giorno in cui questo paese non avrà più **contadini** e **artigiani**, non avrà più storia».* - Pier Paolo Pasolini, [Scritti corsari](https://amzn.to/49zvkgB)
 
 Senza di loro rischiamo di perdere **la conoscenza delle tecniche antiche**, oltre che le radici del nostro passato.
 

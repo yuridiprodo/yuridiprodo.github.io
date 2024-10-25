@@ -18,14 +18,14 @@ Parliamo di **malattie cardiovascolari**, sindrome coronarica acuta ed **emorrag
 
 Lo studio conclude così:
 
-> In conclusione, l’eccesso di mortalità è rimasto elevato nel mondo occidentale per tre anni consecutivi, nonostante l’implementazione delle misure di contenimento e dei vaccini Covid-19. **Si tratta di un fenomeno senza precedenti che desta serie preoccupazioni**.
+> «In conclusione, l’eccesso di mortalità è rimasto elevato nel mondo occidentale per tre anni consecutivi, nonostante l’implementazione delle misure di contenimento e dei vaccini Covid-19. **Si tratta di un fenomeno senza precedenti che desta serie preoccupazioni**».
 > 
-> Durante la pandemia, i politici e i media hanno sottolineato quotidianamente che ogni morte per Covid-19 era importante e che ogni vita meritava di essere protetta attraverso le misure di contenimento e i vaccini Covid-19.
+> «Durante la pandemia, i politici e i media hanno sottolineato quotidianamente che ogni morte per Covid-19 era importante e che ogni vita meritava di essere protetta attraverso le misure di contenimento e i vaccini Covid-19».
 > 
-> Nel periodo successivo alla pandemia, **dovrebbe valere la stessa morale**. Ogni morte deve essere riconosciuta e giustificata, indipendentemente dalla sua origine.
+> «Nel periodo successivo alla pandemia, **dovrebbe valere la stessa morale**. Ogni morte deve essere riconosciuta e giustificata, indipendentemente dalla sua origine».
 > 
-> **È necessaria la trasparenza** nei confronti dei potenziali fattori letali. È quindi **necessario rendere disponibili i dati** sulla mortalità specifici suddivisi per causa, così da consentire analisi più dettagliate, dirette e solide per determinare le cause sottostanti. **Gli esami post-mortem devono essere facilitati** per individuare l’esatta ragione del decesso.
+> «**È necessaria la trasparenza** nei confronti dei potenziali fattori letali. È quindi **necessario rendere disponibili i dati** sulla mortalità specifici suddivisi per causa, così da consentire analisi più dettagliate, dirette e solide per determinare le cause sottostanti. **Gli esami post-mortem devono essere facilitati** per individuare l’esatta ragione del decesso».
 > 
-> I leader governativi e i responsabili politici devono indagare a fondo sulle cause alla base del persistente eccesso di mortalità **e valutare le loro politiche di crisi sanitaria**.
+> «I leader governativi e i responsabili politici devono indagare a fondo sulle cause alla base del persistente eccesso di mortalità **e valutare le loro politiche di crisi sanitaria**».
 
 Da una parte Anthony Fauci, dicevo. Dall'altra il nuovo studio. Nel mezzo, l'assordante silenzio dei media e del popolo.

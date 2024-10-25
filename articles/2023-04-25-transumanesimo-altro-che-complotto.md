@@ -1,12 +1,12 @@
 # Il transumanesimo non è un complotto
 
-### Cingolani, 2015. Vi dice niente?
+### Cingolani, 2014. Vi dice niente?
 
 ![immagine stilizzata di un chip nel cervello](/img/chip-cervello.jpeg)
 
 [Parte da qui il futuro della diagnostica, verso l'uomo-macchina](https://www.macitynet.it/e-italiana-la-prima-batteria-commestibile-al-mondo/) - *mio articolo per Macitynet*
 
-Credo che dietro tutto questo ci sia molto di più di quel che ci stanno dicendo. Giusto per ricordarlo: nel 2015 Cingolani, che abbiamo conosciuto bene durante il suo incarico di ministro alla transizione ecologica sotto il governo Draghi, spiegò come 5G, magnetismo e vaccini potessero rivoluzionare la sanità (vedi **video** [allegato](https://t.me/yuridiprodo/39), oppure saltare direttamente alla trascrizione qui sotto).
+Credo che dietro tutto questo ci sia molto di più di quel che ci stanno dicendo. Giusto per ricordarlo: nel 2014 Cingolani, che abbiamo conosciuto bene durante il suo incarico di ministro alla transizione ecologica sotto il governo Draghi, spiegò come 5G, magnetismo e vaccini potessero rivoluzionare la sanità (vedi **video** [allegato qui](https://t.me/yuridiprodo/39), oppure dal [canale YouTube di UniStem](https://www.youtube.com/watch?v=Alh2LDdpH9w): se non funziona, saltare direttamente alla trascrizione qui sotto).
 
 Chi ci dice che queste batterie un giorno non possano alimentare anche nano-robot inseriti nel corpo umano?
 

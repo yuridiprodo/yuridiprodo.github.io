@@ -4,19 +4,19 @@
 
 ![scena astratta di un uomo malnutrito ma apparentemente felice perché illuso dalla realtà virtuale vissuta attraverso il visore](/img/sveglia-occidente.jpeg)
 
-> Il Consiglio dei Ministri ha dato il **via libera ufficiale al varo del portafoglio digitale**.
+> «Il Consiglio dei Ministri ha dato il **via libera ufficiale al varo del portafoglio digitale**».
 
 apperò...
 
-> **Entro l’estate** potrebbe già essere possibile caricare i tre documenti (patente, tessera sanitaria e carta d'identità) sull’app Io.
+> «**Entro l’estate** potrebbe già essere possibile caricare i tre documenti (patente, tessera sanitaria e carta d'identità) sull’app Io».
 
 apperò...
 
-> Per il momento è un "per chi vuole".
+> «Per il momento è un "per chi vuole"».
 
 **Ovviamente**.
 
-D'altronde [l'approccio è sempre quello](https://t.me/yuridiprodo/143), **necessariamente lento**, per permettere di abituarsi gradualmente all'idea: altrimenti sarebbe molto più difficile da accettare.
+D'altronde [l'approccio è sempre quello](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html), **necessariamente lento**, per permettere di abituarsi gradualmente all'idea: altrimenti sarebbe molto più difficile da accettare.
 
 Perché magari, se ci si accontenta di leggere [il Corriere](https://www.corrierecomunicazioni.it/industria-4-0/transizone-5-0-al-via-sul-piatto-13-miliardi-urso-architrave-della-politica-industriale/) e il [Sole24Ore](https://www.ilsole24ore.com/art/dalla-patente-tessera-sanitaria-piano-piu-fasi-far-partire-l-it-wallet-AFnTBhrC?refresh_ce), potrebbero sembrare soltanto rose e fiori.
 

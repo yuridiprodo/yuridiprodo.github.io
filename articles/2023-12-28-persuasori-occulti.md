@@ -12,6 +12,6 @@ Si chiama PNL: Programmazione Neuro Linguistica. Stanno programmando e preparand
 
 Il nostro cervello **accetterà tutto se già cel'ha dentro**.
 
-Questo sistema fa uso dell'approccio noto come [Finestra di Overton](https://t.me/yuridiprodo/42), in cui un'idea da **inconcepibile** diventa estrema, poi accettabile, ragionevole, diffusa e infine **legalizzata**.
+Questo sistema fa uso dell'approccio noto come [Finestra di Overton](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html), in cui un'idea da **inconcepibile** diventa estrema, poi accettabile, ragionevole, diffusa e infine **legalizzata**.
 
 Lo fanno da sempre attraverso la **pubblicità**, il **cinema**, i **cartoni animati** (leggere per credere: [Persuasori Occulti](https://amzn.to/3GR9icB), di Vance Packard), i **giornali** ([tadan](https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-russi-pa-chiesto-riscatto-_74633709-202302k.shtml)!) e più di recente tramite i **social** e gli **smartphone**.
