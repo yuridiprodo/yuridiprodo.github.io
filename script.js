@@ -128,6 +128,16 @@ async function loadMarkdown(fileName) {
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
+    const isArticle = path.includes('/articles/'); // Controlla se è un articolo
+
+    // Carica il CSS se è un articolo
+    if (isArticle) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'https://yuridiprodo.github.io/style.css'; // URL del tuo CSS
+        document.head.appendChild(link);
+    }
+
     const match = path.match(/articles\/(.+)\.html/);
     if (match) {
         loadArticle(match[1]);
