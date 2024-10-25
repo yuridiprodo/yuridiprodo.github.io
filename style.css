@@ -81,3 +81,13 @@ img {
     display: block;   /* Centra l'immagine nel suo contenitore */
     margin: 0 auto;   /* Aggiunge margini automatici per centrare */
 }
+
+/* Regole per il pulsante Torna su */
+#scrollToTop {
+    display: none; /* Nascondi il pulsante inizialmente */
+    transition: opacity 0.3s; /* Transizione per l'opacità */
+}
+
+#scrollToTop.show {
+    display: block; /* Mostra il pulsante quando ha la classe "show" */
+}
