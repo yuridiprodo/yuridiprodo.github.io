@@ -1,4 +1,5 @@
 <style>
+@import url('https://yuridiprodo.github.io/font/fonts.css');
 @import url('https://yuridiprodo.github.io/style.css');
 </style>
 
