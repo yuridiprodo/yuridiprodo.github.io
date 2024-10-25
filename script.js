@@ -29,9 +29,6 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-        
-        // Modifica il permalink nella barra degli indirizzi
-        history.pushState({ articleName }, '', articleName);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
