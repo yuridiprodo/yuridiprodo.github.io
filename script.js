@@ -151,10 +151,14 @@ async function loadMarkdown(fileName) {
 
 // Gestione del caricamento iniziale
 window.onload = () => {
-    const path = window.location.pathname;
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]);
+    const urlParams = new URLSearchParams(window.location.search);
+    const article = urlParams.get('article');
+    const page = urlParams.get('pages');
+
+    if (article) {
+        loadArticle(article);
+    } else if (page) {
+        loadPages(page);
     } else {
         loadHome();
     }
