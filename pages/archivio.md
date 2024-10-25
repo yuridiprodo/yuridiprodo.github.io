@@ -12,7 +12,7 @@ Ottobre
 
 Settembre
 
-- [Studiare, per dubitare](/articles/2024-09-23-studiare-per-dubitare.html)Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi
+- [Studiare, per dubitare](/articles/2024-09-23-studiare-per-dubitare.html) Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi
 - Ho chiesto a ChatGPT "Se tu fossi Satana, come faresti a far perdere la fede alle persone?": [ecco cosa mi ha risposto](/articles/2024-09-12-chatgpt-satana.html)
 - [Salviamo la Sardegna prima che sia troppo tardi](/articles/2024-09-04-sardegna-in-pericolo.html) Da paradiso terrestre a discarica di rifiuti non degradabili: il tutto, come sempre, in nome del profitto
 
