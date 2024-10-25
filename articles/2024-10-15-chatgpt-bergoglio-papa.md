@@ -4,7 +4,7 @@
 
 ![Papa Francesco](/img/papa-francesco.jpg)
 
-Il mese scorso [ho fatto notare](/articles/chatgpt-satana.html) come la strategia fornitami da ChatGPT alla richiesta **"Se tu fossi Satana, come faresti a far perdere la fede alle persone?"** fosse a un tempo profetica e terribile.
+Il mese scorso [ho fatto notare](/articles/2024-09-12-chatgpt-satana.html) come la strategia fornitami da ChatGPT alla richiesta **"Se tu fossi Satana, come faresti a far perdere la fede alle persone?"** fosse a un tempo profetica e terribile.
 
 Una cosa del genere è accaduta a [infovaticana.com](https://infovaticana.com/2024/09/09/la-inquietante-profecia-de-chatgpt-sobre-un-pontificado-en-manos-de-satanas/), che gli ha invece chiesto **"Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?"**
 
