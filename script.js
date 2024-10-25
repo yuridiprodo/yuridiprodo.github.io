@@ -80,9 +80,6 @@ async function loadContacts() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-	    // Mostra il footer menu
-	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina dei contatti
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
