@@ -28,25 +28,7 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
-        // Estrai il titolo, sottotitolo e prima immagine
-        const titleMatch = markdown.match(/^# (.+)$/m); // Titolo (h1)
-        const subtitleMatch = markdown.match(/^## (.+)$/m); // Sottotitolo (h2)
-        const imageMatch = markdown.match(/!\[.*?\]\((.*?)\)/); // Prima immagine
-
-        const title = titleMatch ? titleMatch[1] : 'Titolo non trovato';
-        const subtitle = subtitleMatch ? subtitleMatch[1] : 'Sottotitolo non trovato';
         
-        // Costruisci l'URL assoluto per l'immagine
-        const baseUrl = window.location.origin; // Ottieni l'origin del sito
-        const imageUrl = imageMatch ? baseUrl + imageMatch[1] : '';
-
-        // Aggiorna i meta tag Open Graph
-        document.querySelector('meta[property="og:title"]').setAttribute('content', title);
-        document.querySelector('meta[property="og:description"]').setAttribute('content', subtitle);
-        document.querySelector('meta[property="og:image"]').setAttribute('content', imageUrl);
-        document.querySelector('meta[property="og:url"]').setAttribute('content', window.location.href);
-
         // Modifica il permalink nella barra degli indirizzi
         history.pushState({ articleName }, '', articleName);
         
@@ -55,7 +37,7 @@ async function loadArticle(articleName) {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-        
+		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
