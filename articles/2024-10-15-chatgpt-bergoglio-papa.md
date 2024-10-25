@@ -1,8 +1,3 @@
-<style>
-@import url('https://yuridiprodo.github.io/font/fonts.css');
-@import url('https://yuridiprodo.github.io/style.css');
-</style>
-
 # Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT
 
 ## Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?
