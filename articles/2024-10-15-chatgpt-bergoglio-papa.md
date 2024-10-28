@@ -51,3 +51,7 @@ Ad esempio una dichiarazione informale o un'intervista potrebbero essere present
 5. **Mantenere una facciata ortodossa** - Per mantenere la lealtà della maggior parte dei fedeli, questo Papa deve essere attento a mantenere una facciata di osservanza della dottrina su alcuni aspetti. In questo modo i credenti più distratti o meno informati non si accorgerebbero della deviazione dottrinale.
 
 Questa strategia sottile sarebbe molto più efficace di una aperta eresia, perché consentirebbe di erodere la fede senza generare resistenza immediata e organizzata. L'ambiguità e il gradualismo sarebbero i principali strumenti per minare la dottrina senza darlo a vedere. Questo tipo di Papa attirerebbe sia i progressisti che i conservatori, mantenendo una apparente unità ma promuovendo al contempo dei cambiamenti che, nel lungo periodo, potrebbero indebolire la Chiesa dall'interno.
+
+---
+### Altre domande a ChatGPT
+- Ho chiesto a ChatGPT *"Se tu fossi Satana, come faresti a far perdere la fede alle persone?"*: [ecco cosa mi ha risposto](/articles/2024-09-12-chatgpt-satana.html) 

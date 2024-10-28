@@ -19,3 +19,8 @@ E allora sì che **tutti ne indosseranno un paio** per sapere come si chiama que
 La piattaforma che hanno messo in piedi **ha già tutte queste potenzialità**, e se oggi quel visore copre gli occhi, scalda la faccia e svuota il portafogli, **l'occhiale di domani si preoccuperà soltanto di svuotarci dagli affetti e dal contatto umano**. Perché è questo il destino a cui stiamo andando incontro, ed è ormai evidente: **gli smartphone ce ne hanno fornito un efficace assaggio**, ma ci offre ancora la capacità di distogliere lo sguardo dallo schermo per tornare alla vita reale.
 
 Come faremo invece quando lo schermo si fonderà costantemente con l'ambiente circostante? Avremo ancora la forza di togliere gli occhiali per poter vedere coi nostri occhi quel prato un po' avvizzito? Ma soprattutto, **saremo capaci di apprezzarlo così com'è** o preferiremo vederlo attraverso quelle lenti che lo renderanno apparentemente pulito, sano e verde brillante?
+
+---
+### Altro sulla finestra di Overton
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [PNL](/articles/2023-12-28-persuasori-occulti.html)
+- [Obbligatorio abortire?!](/articles/2024-02-15-obbligatorio-abortire.html)

@@ -23,3 +23,8 @@ Se l'intenzione fosse quello di renderlo **obbligatorio**?
 3. Non dimentichiamoci poi che per associazioni come l'UNFPA e per tante aziende private, la tutela della salute sessuale e riproduttiva è **un vero e proprio business**, che si mette in atto formando le donne sulla "dottrina abortista" fin da giovane età, presentando l'aborto non solo come soluzione alle gravidanze indesiderate, ma anche a quelle inaspettate, che vengono descritte come un "attentato alla serenità della donna, alle sue possibilità di emancipazione, alla carriera", eccetera eccetera.
 
 4. Per ultimo ho bene in mente **l'esempio cinese** (paese dal quale abbiamo preso in prestito anche le mascherine e il passaporto digitale, e che ci sta pericolosamente portando al loro sistema di credito sociale), dove attualmente il governo ha fissato il limite di figli a 3: oltre questa soglia, scatta l'aborto forzato.
+
+---
+### Altro sulla finestra di Overton
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [PNL](/articles/2023-12-28-persuasori-occulti.html)
+- Non prendete in giro Apple Vision Pro, [prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
