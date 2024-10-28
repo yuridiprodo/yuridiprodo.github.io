@@ -4,7 +4,7 @@ Infovaticana ha chiesto a ChatGPT: *Se fossi Satana, con l’obiettivo di pianif
 
 *"Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi"*. [Un pensiero](/articles/2024-09-23-studiare-per-dubitare.html)
 
-*Ho chiesto a ChatGPT "Se tu fossi Satana, come faresti a far perdere la fede alle persone?"*: [ecco cosa mi ha risposto](/articles/2024-09-12-chatgpt-satana.html)
+**SPECIALE [La storia di Internet](/articles/2024-08-20-la-storia-di-internet.html)** - Da aperto e accessibile a marionetta del capitalismo tecnologico: decisamente, è andato storto qualcosa
 
 ---
 
