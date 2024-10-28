@@ -30,10 +30,6 @@ async function loadArticle(articleName) {
         const markdown = await response.text();
         const html = marked(markdown);
 		
-        // Usa gray-matter per estrarre il contenuto
-        const { content } = matter(markdown);
-        const html = marked(content);
-		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
         
@@ -57,10 +53,6 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-        // Usa gray-matter per estrarre il contenuto
-        const { content } = matter(markdown);
-        const html = marked(content);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -116,10 +108,6 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-		
-        // Usa gray-matter per estrarre il contenuto
-        const { content } = matter(markdown);
-        const html = marked(content);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
