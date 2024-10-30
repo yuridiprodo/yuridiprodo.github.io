@@ -11,3 +11,9 @@ E qualcun altro scrive loro altri libri, li fornisce di una nuova cultura, **inv
 Dopo di che il popolo comincia lentamente a **dimenticare quello che è e quello che è stato**. E il mondo intorno a lui lo dimentica ancora più in fretta.
 
 Milan Kundera, [Il libro del riso e dell’oblio](https://amzn.to/48Hrulp)
+
+---
+
+### Approfondimenti
+- [Gli effetti avversi](/articles/2024-06-14-imperativo-tecnologico.html) dell’intelligenza artificiale
+- Google con intelligenza artificiale fa tutto da solo, [ed è un problema](/articles/2024-06-25-google-ai-overviews.html)

@@ -23,3 +23,9 @@ Chi ci dice che queste batterie un giorno non possano alimentare anche nano-robo
 *Tutto questo oggetto misura cento nanometri (perciò **il sistema immunitario non lo vede**) ed è in grado di penetrare la maggior parte delle barriere cellulari, ematoencefaliche...va in giro, trova la malattia e siccome è magnetico rilascia anche un segnale di tipo "risonanza magnetica", quindi ci consente di vedere dov'è la cellula malata e, siccome normalmente intorno a queste cellule malate c'è qualche parametro che sballa, tipicamente il Ph, è sensibile al Ph e quindi riapre la spugnetta e lascia il medicinale.*
 
 *Possono essere anche medicinali multi-stadio, quindi prima chemioterapia, seconda, terza ecc. a seconda delle mutazioni che conoscete meglio di me, e infine siccome è un superparamagnetico, se ho un campo magnetico oscillante all'esterno, **posso ad esempio alzare la temperatura di una ventina di centigradi** e fare anche ipertermia locale. E' la cosa più simile ad un anticorpo intelligente di tipo artificiale, robotico.*
+
+---
+
+### Approfondimenti
+- [Il primo uomo](/articles/2024-01-31-primo-uomo-chip-cervello.html) con un chip nel cervello
+- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)

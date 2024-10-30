@@ -13,3 +13,10 @@
 **La realtà** sarà molto più grande (ma non grandiosa) e, allo stato attuale, di portata del tutto imprevedibile.
 
 Su una cosa soltanto invece non vi sono dubbi: **il transumanesimo è iniziato**.
+
+---
+
+### Ancora tecnologia applicata all'uomo
+- Il transumanesimo [non è un complotto](/articles/2023-04-25-transumanesimo-altro-che-complotto.html)
+- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- - La [nuova app di Amazon](/articles/2024-03-29-il-marchio-sulla-mano-destra.html) per pagare con la scansione del palmo

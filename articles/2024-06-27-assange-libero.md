@@ -26,3 +26,9 @@ Attraverso [il famoso video "Collateral Murder"](https://t.me/yuridiprodo/50) (s
 Cos'altro avrebbe dovuto fare? Marcire in prigione? Ha già fatto tutto quello che poteva fare. Assange ci ha dato la verità al costo di grandi sofferenze e lunghe privazioni. **Adesso sta a noi** custodirla. Meglio ancora, è arrivato il momento di metterla a frutto: che il suo sacrificio non resti vano.
 
 > «If wars can be started by lies, peace can be started by truth». Julian Assange, [8 Ottobre 2011](https://www.youtube.com/watch?v=nrSc3NtG52U)
+
+---
+
+### Altri articoli sull'argomento:
+- La storia della libertà d’informazione [potrebbe cambiare per sempre](/articles/2024-02-20-liberta-di-informazione-in-pericolo.html)
+- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [neppure per noi](/articles/2024-05-23-liberate-assange-adesso.html)

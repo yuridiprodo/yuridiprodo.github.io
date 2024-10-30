@@ -17,3 +17,9 @@ Qualcuno comincia a parlare di “Dottor IA”, il medico ideale, **quello che n
 Come ci si può opporre all’innovazione? Sarebbe come opporsi al progresso. Non si può essere indietristi! Ma siamo proprio sicuri che non avevamo già raggiunto una quota ottimale di conoscenze e di applicazioni in campo medico, e ora abbiamo invece intrapreso una parabola discendente? **Siamo sicuri che le nuove tecnologie non abbiano effetti avversi?**
 
 Di questo e molto altro ne parla il medico **Paolo Gulisano** nel suo ultimo libro: [Imperativo tecnologico. La sfida etica dell’Intelligenza Artificiale](https://amzn.to/3R2KEei).
+
+---
+
+### Sulla Intelligenza Artificiale
+- [Questo](/articles/2023-10-09-fallo-fare-alla-ai.html) potremmo farlo fare all’intelligenza artificiale
+- Google con intelligenza artificiale fa tutto da solo, [ed è un problema](/articles/2024-06-25-google-ai-overviews.html)

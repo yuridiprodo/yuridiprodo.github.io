@@ -19,3 +19,9 @@ Fu proprio Assange **a mostrarcelo**.
 Ed è per questo che rischia 175 anni di carcere negli Stati Uniti: per aver pubblicato, insieme a quel video, migliaia di file riservati del governo statunitense **svelandone i crimini di guerra** in Iraq, Afghanistan, Cuba e Guantanamo.
 
 Dopo duemila anni, non è cambiato niente. **La vita** è ancora **il prezzo da pagare** per chi decide di diffondere **la verità**.
+
+---
+
+### Altri articoli sull'argomento:
+- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [neppure per noi](/articles/2024-05-23-liberate-assange-adesso.html)
+- Adesso [non dimentichiamoci](/articles/2024-06-27-assange-libero.html) di Julian Assange

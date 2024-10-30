@@ -15,3 +15,9 @@ Dodici anni lontano da moglie e figli e il rischio di doverne scontare altri 175
 Tutto questo gli ha già provocato un ictus, oltre ad allucinazioni e depressione. **Assume farmaci antidepressivi** e l'antipsicotico Quetiapina. [Dicono](https://chrishedges.substack.com/p/the-slow-motion-execution-of-julian) di averlo visto camminare nella sua cella fino a crollare, dandosi pugni in faccia e testate contro il muro. Nei suoi calzini è stata trovata metà di una lama di rasoio, e più di una volta avrebbe chiamato la linea diretta per i suicidi gestita dai Samaritani perché pensava di uccidersi "centinaia di volte al giorno".
 
 Non sarebbe dovuto andare così. Ma non è ancora finita. Possiamo e dobbiamo liberare Julian Assange. Gli dobbiamo una lotta senza quartiere, tanto a lui quanto a noi. **Perché se non c'è libertà di parola per lui, non ci sarà libertà di parola neppure per noi**.
+
+---
+
+### Altri articoli sull'argomento:
+- La storia della libertà d’informazione [potrebbe cambiare per sempre](/articles/2024-02-20-liberta-di-informazione-in-pericolo.html)
+- Adesso [non dimentichiamoci](/articles/2024-06-27-assange-libero.html) di Julian Assange

@@ -21,3 +21,9 @@ L'ingresso sta avvenendo in punta di piedi e con molta probabilità in questa pr
 Di sicuro i rischi saranno enormi.
 
 Perché **chi controllerà queste AI**, di fatto controllerà le informazioni disponibili per le persone. Di più: controllerà le persone stesse. La storia ci ha già ampiamente dimostrato come, attraverso una informazione distorta, anche la nostra percezione della realtà viene distorta. Come faremo a distinguere la verità dalla menzogna? È il mito della Caverna di Platone, proiettato nel ventunesimo secolo.
+
+---
+
+### Sulla Intelligenza Artificiale
+- [Gli effetti avversi](/articles/2024-06-14-imperativo-tecnologico.html) dell’intelligenza artificiale
+- [Questo](/articles/2023-10-09-fallo-fare-alla-ai.html) potremmo farlo fare all’intelligenza artificiale
