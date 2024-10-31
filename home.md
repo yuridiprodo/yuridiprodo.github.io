@@ -8,6 +8,6 @@ Infovaticana ha chiesto a ChatGPT: *Se fossi Satana, con l’obiettivo di pianif
 
 ---
 
-Tutti gli altri articoli sono nell'[Archivio](/pages/archivio.html).
+Tutti gli altri articoli sono nell'[Archivio](/pages/archivio.html). I consigli di lettura invece li trovate nella sezione [Libri](/pages/libri.html).
 
 ![Snoopy che lavora al computer, un'immagine generata dall'intelligenza artificiale "Aria" integrata nel browser Opera](/img/snoopy-lavora-al-computer-aria-ai.jpg)
