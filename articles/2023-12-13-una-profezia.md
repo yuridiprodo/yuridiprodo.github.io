@@ -26,3 +26,13 @@ Dal film "V per Vendetta", [il discorso di V](https://www.youtube.com/watch?v=aj
           frameborder="0" 
           allowfullscreen></iframe>
 </div>
+
+---
+
+### È politica anche questa:
+- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [una lettera](/articles/2024-05-21-maria-luisa-busi.html) dai contenuti ancora oggi tremendamente attuali
+- [il NO della Rowling](/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html) al totalitarismo arcobaleno
+- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [L'esperimento di Milgram](/articles/2024-03-07-milgram.html)
+- «Il giorno in cui questo paese[ non avrà più contadini e artigiani](/articles/2024-03-06-protesta-agricoltori.html), non avrà più storia».
+- La Costituzione è cambiata, ma [non ve lo ha ancora detto nessuno](/articles/2022-02-24-modifica-silenziosa-alla-costituzione.html)
+- Viviamo nella società del controllo, e va bene così. [Buon risveglio](/articles/2024-02-08-matrix.html)

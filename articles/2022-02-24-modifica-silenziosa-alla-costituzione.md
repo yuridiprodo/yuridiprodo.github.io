@@ -11,3 +11,13 @@ L'8 febbraio la Camera dei deputati ha [approvato](http://documenti.camera.it/le
 Viene così costituzionalizzato tutto quello che abbiamo vissuto negli ultimi due anni, e senza la necessità di istituire "lo stato di emergenza". Non servirà più: ora e in futuro. Per la salute e per l'ambiente. Per la collettività.
 
 E niente, mi ricorda [il libro "La fattoria degli animali"](https://amzn.to/354Mwi6), dove il primo comandamento che ne regolava la vita citava **"Tutti gli animali sono uguali"**. Un giorno gli animali si svegliano e, di fronte a un sopruso, si appellano a quella regola. Così, i maiali al governo li conducono di fronte al muro dove è citato tale verso e gli fanno notare che non lo stavano ricordando bene, perché a quella legge (nella notte) è affiancata anche la frase **"ma alcuni sono più uguali di altri"**.
+
+---
+
+### È politica anche questa:
+- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [una lettera](/articles/2024-05-21-maria-luisa-busi.html) dai contenuti ancora oggi tremendamente attuali
+- [il NO della Rowling](/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html) al totalitarismo arcobaleno
+- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [L'esperimento di Milgram](/articles/2024-03-07-milgram.html)
+- «Il giorno in cui questo paese[ non avrà più contadini e artigiani](/articles/2024-03-06-protesta-agricoltori.html), non avrà più storia».
+- Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; [perché esse sono il mezzo per giungere al significato](/articles/2023-12-13-una-profezia.html); e per coloro che vorranno ascoltare, all’affermazione della verità
+- Viviamo nella società del controllo, e va bene così. [Buon risveglio](/articles/2024-02-08-matrix.html)
