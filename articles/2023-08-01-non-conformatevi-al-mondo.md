@@ -22,3 +22,12 @@ Poi l’altro, il potere dell’opinione pubblica. Certamente abbiamo bisogno di
 
 Cappella del Seminario
 [Mercoledì, 15 febbraio 2012](https://www.vatican.va/content/benedict-xvi/it/speeches/2012/february/documents/hf_ben-xvi_spe_20120215_seminario-romano-mag.html)
+
+---
+### Sullo stesso argomento:
+- [Come ti destrutturo l'umano](/articles/2024-02-17-famiglia-una-ideologia.html) Si parte dalla cellula in cui esso si costituisce: la famiglia
+- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [due problemi](/articles/2024-02-14-siate-efficienti.html)
+- Chiesa: Conversione sì, ma ecologica. [Prima la neutralità climatica](/articles/2023-12-14-chiesa-conversione-ecologica.html), poi il Vangelo
+- [La teologia delle emissioni](/articles/2023-10-20-teologia-delle-emissioni.html) di Papa Francesco
+- [La profezia](/articles/2024-02-01-profezia-ratzinger.html) di Ratzinger
+- [Benedetto XVI, tutto il lascito in 500 MB](/articles/2023-01-20-benedetto-xvi.html) Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi

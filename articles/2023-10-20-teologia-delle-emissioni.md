@@ -34,3 +34,12 @@ Eppure, se la fede ci impone di "credere" in una ipotesi scientifica (per la qua
 A questo punto non possiamo che chiederci: perché mai il Papa fa un mestiere che non è il suo? Come può pretendere di presentare argomentazioni irrefutabili in campo scientifico e tecnico **senza averne alcuna autorità**?
 
 Provo a rispondere: forse **per compiacere il mondo**? Perché non sembra proprio che lo stia facendo per proclamare fede.
+
+---
+### Sullo stesso argomento:
+- [Come ti destrutturo l'umano](/articles/2024-02-17-famiglia-una-ideologia.html) Si parte dalla cellula in cui esso si costituisce: la famiglia
+- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [due problemi](/articles/2024-02-14-siate-efficienti.html)
+- Chiesa: Conversione sì, ma ecologica. [Prima la neutralità climatica](/articles/2023-12-14-chiesa-conversione-ecologica.html), poi il Vangelo
+- [La profezia](/articles/2024-02-01-profezia-ratzinger.html) di Ratzinger
+- Quando Benedetto XVI ci ammoniva: [il mondo virtuale diventa più vero, più forte](/articles/2023-08-01-non-conformatevi-al-mondo.html) e non si vede più il mondo reale della creazione di Dio
+- [Benedetto XVI, tutto il lascito in 500 MB](/articles/2023-01-20-benedetto-xvi.html) Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi

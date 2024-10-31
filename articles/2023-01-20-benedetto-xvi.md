@@ -15,3 +15,12 @@ Era già pronta da un po' ma ho deciso di pubblicare l'archivio oggi in concomit
 La sua è una eredità di valore incommensurabile e va senz'altro riletta e messa in pratica **ogni giorno**: lo voglio ricordare con la frase (ma ce ne sarebbero tante altre!) del [testamento spirituale](https://www.vatican.va/content/benedict-xvi/it/elezione/documents/testamento-spirituale-bxvi.html) che più mi è rimasta dentro e che porterò sempre con me, sperando possa farmi luce per tutti i giorni a venire:
 
 **«rimanete saldi nella fede! Non lasciatevi confondere!»**
+
+---
+### Sullo stesso argomento:
+- [Come ti destrutturo l'umano](/articles/2024-02-17-famiglia-una-ideologia.html) Si parte dalla cellula in cui esso si costituisce: la famiglia
+- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [due problemi](/articles/2024-02-14-siate-efficienti.html)
+- Chiesa: Conversione sì, ma ecologica. [Prima la neutralità climatica](/articles/2023-12-14-chiesa-conversione-ecologica.html), poi il Vangelo
+- [La teologia delle emissioni](/articles/2023-10-20-teologia-delle-emissioni.html) di Papa Francesco
+- [La profezia](/articles/2024-02-01-profezia-ratzinger.html) di Ratzinger
+- Quando Benedetto XVI ci ammoniva: [il mondo virtuale diventa più vero, più forte](/articles/2023-08-01-non-conformatevi-al-mondo.html) e non si vede più il mondo reale della creazione di Dio
