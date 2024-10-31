@@ -19,3 +19,13 @@ Il decreto legge ([l'atto completo qui](https://www.gazzettaufficiale.it/atto/ve
 E indovinate un po' **da dove arrivano i soldi** per la stabilizzazione della piattaforma Green Pass?
 
 Dalla riduzione del [fondo](https://www.gazzettaufficiale.it/eli/id/2022/03/28/22G00035/sg) del Ministero della Salute ([qui l'atto completo](https://www.gazzettaufficiale.it/eli/gu/2022/03/28/73/so/13/sg/pdf), pagina 124) che indennizza i danneggiati da vaccinazione anti SARS-CoV-2 **raccomandata dall'autorità sanitaria italiana**.
+
+---
+### Pandemia: parliamone
+- [Un post-it](/articles/2024-06-05-post-it-prossima-pandemia.html) per la prossima pandemia
+- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
+- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
+- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito

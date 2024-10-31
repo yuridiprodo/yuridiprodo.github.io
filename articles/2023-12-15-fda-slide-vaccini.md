@@ -27,3 +27,13 @@ Copio e incollo dagli appunti che presi due anni fa a riguardo:
 </div>
 
 Si trova al minuto 2:33:40 (per mettere in pausa al momento giusto, impostare la velocità a 0,25x oppure ingrandite direttamente l'immagine allegata a inizio articolo). Tra i tanti effetti collaterali previsti ne ritroviamo alcuni già "scoperti" nei mesi precedenti, come «miocardite, pericardite, malattia autoimmune, trombosi, sindrome di Guillain-Barré, meningite, infarto e morte», oltre a sindrome infiammatoria multisistemica nei bambini (MIS-C) e problemi in gravidanza e alla nascita. **Quindi lo sapevano**.
+
+---
+### Pandemia: parliamone
+- [Un post-it](/articles/2024-06-05-post-it-prossima-pandemia.html) per la prossima pandemia
+- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
+- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
+- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
+- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito

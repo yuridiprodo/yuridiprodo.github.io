@@ -44,3 +44,12 @@ Quindi, ricapitolando
 3. non sanno come si chiama ma sono certi che sarà 20 volte più potente del COVID
 
 Se vi suona familiare è perché **a dicembre 2022** vi parlavo del [Catastrophic Contagion](/articles/2022-12-14-covid-atto-secondo.html).
+
+---
+### Pandemia: parliamone
+- [Un post-it](/articles/2024-06-05-post-it-prossima-pandemia.html) per la prossima pandemia
+- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
+- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
+- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)

@@ -37,3 +37,13 @@ Insomma: oggi si invoglia i cittadini a usare l'IT Wallet per avere tutti i docu
 **E domani?** il disegno è molto più ampio; grazie anche all'influenza dello shock pandemico, ormai «il percorso delle riforme è tracciato, **nessun futuro governo potrà smontarlo**» (sempre Colao, [luglio 2022](https://documenti.camera.it/_dati/leg18/lavori/schedela/apriTelecomando_wai.asp?codice=leg.18.pdl.camera.3690.18PDL0194920)).
 
 Se ci mettiamo poi [i recenti eventi in Canada](https://www.bbc.com/news/world-us-canada-60383385), quando il governo ha **limitato l'accesso ai conti bancari** dei manifestanti, non è neanche difficile figurarsi l'ipotesi di un dissidente politico o di una categoria sociale non gradita che, **con un semplice click da parte delle autorità**, potrà perdere l'accesso ai propri documenti e agli annessi rapporti con la Pubblica Amministrazione; oltre che magari anche alla **moneta digitale** [che sempre di più si cerca di introdurre](https://www.corriere.it/economia/finanza/cards/pagamenti-digitali-raddoppiati-in-5-anni-nel-2026-il-sorpasso-sul-contante/lidentikit-del-pagante-digitale.shtml).
+
+---
+### Pandemia: parliamone
+- [Un post-it](/articles/2024-06-05-post-it-prossima-pandemia.html) per la prossima pandemia
+- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
+- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
+- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito

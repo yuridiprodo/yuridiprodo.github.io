@@ -31,3 +31,7 @@ Con tutte queste tattiche, non attaccherei direttamente l’idea di Dio, ma piut
 [L'idea](https://www.religionenlibertad.com/blog/863446919/CHAT-GPT-Si-tu-fueras-Satanas-como-harias-que-las-personas-perdiesen-la-fe.html) è di Padre Francisco Javier “Patxi” Bronchalo, parroco nella diocesi di Getafe a Valdemoro (Madrid). Ho voluto provarci anch'io e il risultato conferma la medesima strategia, che fa riflettere: non vi sembra che tutto ciò combaci con una precisione che oserei definire chirurgica con **quanto accade nel momento storico in cui stiamo vivendo?**
 
 P.S. i commenti *{nelle parentesi graffe}* sono i miei.
+
+---
+### Altre domande a ChatGPT
+- Anche *Infovaticana* ha fatto una domanda a ChatGPT. Gli ha chiesto: *Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?* La risposta breve è: metterei Bergoglio a fare il papa. [Quella lunga la potete leggere qui](/articles/2024-10-15-chatgpt-bergoglio-papa.html)
