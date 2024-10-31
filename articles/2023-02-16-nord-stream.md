@@ -15,3 +15,14 @@ C'è solo da **ringraziare i russi per la loro pazienza**: se fosse successo il 
 Come Italia ritengo che non stiamo facendo affatto una bella figura: **avremmo potuto (e dovuto) restarne fuori**.
 
 Per quanto mi riguarda, non mi riconosco in questo governo e **mi vergogno** di quel che si è fatto e si continua a fare in proposito. Mi dissocio completamente.
+
+---
+
+### Sulla guerra
+- Il nemico? come formiche: è [il punto di vista dei giganti](/articles/2024-03-07-come-formiche.html)
+- «[È capitato](/articles/2024-03-06-una-barzelletta-vera.html) che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
+- Giusto [due numeri a confronto](/articles/2024-02-05-questione-di-priorita.html). Così, pourparler.
+- Presunto = non verificato. [Una semplice equazione](/articles/2024-01-28-presunzione-di-innocenza.html)
+- [Dal culto della morte alla repressione dei dissidenti](/articles/2023-03-27-il-bue-dice-cornuto-asino.html): urge esame di coscienza
+- Israele e [la scusa del parco naturale](/articles/2022-02-23-israele-parco-naturale-palestina.html) per ottenere autorità sulle terre palestinesi
+- A tavola col verme della farina minore [Per gentile concessione della Commissione UE](/articles/2024-03-05-verme-farina.html)

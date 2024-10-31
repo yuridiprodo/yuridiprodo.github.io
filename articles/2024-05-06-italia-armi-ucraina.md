@@ -16,3 +16,15 @@ Ricordiamo che il nostro governo ha [esteso a tutto il 2024](https://temi.camera
 Se confermata, questa notizia smentirebbe le dichiarazioni dell'attuale ministro della Difesa, **Guido Crosetto**, quando [disse](https://www.repubblica.it/politica/2023/01/26/news/crosetto_armi_difesa_ucraina_guerra-385174826/) che l'Italia non avrebbe mai fornito armi offensive a Kiev in quanto "noi non siamo in guerra con i russi".
 
 Soprattutto, data **la capacità di colpire obiettivi direttamente all'interno del territorio russo**, sarebbe un'azione inconciliabile con l'Articolo 11 della nostra Costituzione, che recita: «L'Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali».
+
+---
+
+### Sulla guerra
+- Il nemico? come formiche: è [il punto di vista dei giganti](/articles/2024-03-07-come-formiche.html)
+- «[È capitato](/articles/2024-03-06-una-barzelletta-vera.html) che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
+- Giusto [due numeri a confronto](/articles/2024-02-05-questione-di-priorita.html). Così, pourparler.
+- Presunto = non verificato. [Una semplice equazione](/articles/2024-01-28-presunzione-di-innocenza.html)
+- [Dal culto della morte alla repressione dei dissidenti](/articles/2023-03-27-il-bue-dice-cornuto-asino.html): urge esame di coscienza
+- L’operazione segreta sul Nord Stream è targata CIA [I risultati dell'indagine](/articles/2023-02-16-nord-stream.html) di un premio Pulitzer
+- Israele e [la scusa del parco naturale](/articles/2022-02-23-israele-parco-naturale-palestina.html) per ottenere autorità sulle terre palestinesi
+- A tavola col verme della farina minore [Per gentile concessione della Commissione UE](/articles/2024-03-05-verme-farina.html)

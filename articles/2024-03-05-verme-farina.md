@@ -23,3 +23,14 @@ Piccola digressione: immaginate ora che fine faranno tutte quelle tonnellate di 
 È altrettanto facile prevedere poi come, con la scusa di mangiare insetti perché "**aiutano a combattere l'inquinamento ambientale**" e permettono di "sfamare le persone **in maniera più sostenibile**", i prodotti a base di queste nuove miscele costeranno molto meno rispetto a quelli a cui siamo abituati oggi, che potrebbero invece sparire per sempre dagli scaffali.
 
 **Il rischio**, concreto (a causa della nuova legge), è di non vedere più alcun pacchetto di grilli croccanti in vendita; perché saranno direttamente il pane, la pasta, la pizza e ogni altro prodotto che include farine, a contenerne una parte.
+
+---
+
+### Sulla guerra
+- Il nemico? come formiche: è [il punto di vista dei giganti](/articles/2024-03-07-come-formiche.html)
+- «[È capitato](/articles/2024-03-06-una-barzelletta-vera.html) che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
+- Giusto [due numeri a confronto](/articles/2024-02-05-questione-di-priorita.html). Così, pourparler.
+- Presunto = non verificato. [Una semplice equazione](/articles/2024-01-28-presunzione-di-innocenza.html)
+- [Dal culto della morte alla repressione dei dissidenti](/articles/2023-03-27-il-bue-dice-cornuto-asino.html): urge esame di coscienza
+- L’operazione segreta sul Nord Stream è targata CIA [I risultati dell'indagine](/articles/2023-02-16-nord-stream.html) di un premio Pulitzer
+- Israele e [la scusa del parco naturale](/articles/2022-02-23-israele-parco-naturale-palestina.html) per ottenere autorità sulle terre palestinesi

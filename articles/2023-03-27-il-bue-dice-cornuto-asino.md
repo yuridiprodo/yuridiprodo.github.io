@@ -11,3 +11,14 @@ Non riesco a capire con quale coraggio si accusa Putin e la Russia di **«esalta
 Non capisco neppure come si possa dire con tale sfacciataggine che Mosca si ispiri al fascismo in quanto avrebbe «**individuato un nemico, necessario per giustificare ogni azione** del regime», e che «**la repressione dei dissidenti e la soppressione del diritto di critica** sono la regola» quando siamo stati i primi nonché tra i più feroci a propagandare la lotta al raffreddore e l'esclusione dal lavoro e dalla vita pubblica a chi si è rifiutato di fare da cavia di un vaccino che, etimologicamente parlando, vaccino non è proprio per niente.
 
 Sembra davvero di vivere dentro l'[incubo distopico di Orwell](https://amzn.to/3U26bo5), dove la guerra è pace, la libertà è schiavitù, l'ignoranza è forza. **E la Russia è fascista**.
+
+---
+
+### Sulla guerra
+- Il nemico? come formiche: è [il punto di vista dei giganti](/articles/2024-03-07-come-formiche.html)
+- «[È capitato](/articles/2024-03-06-una-barzelletta-vera.html) che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
+- Giusto [due numeri a confronto](/articles/2024-02-05-questione-di-priorita.html). Così, pourparler.
+- Presunto = non verificato. [Una semplice equazione](/articles/2024-01-28-presunzione-di-innocenza.html)
+- L’operazione segreta sul Nord Stream è targata CIA [I risultati dell'indagine](/articles/2023-02-16-nord-stream.html) di un premio Pulitzer
+- Israele e [la scusa del parco naturale](/articles/2022-02-23-israele-parco-naturale-palestina.html) per ottenere autorità sulle terre palestinesi
+- A tavola col verme della farina minore [Per gentile concessione della Commissione UE](/articles/2024-03-05-verme-farina.html)
