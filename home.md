@@ -1,3 +1,7 @@
+*«Ricordate che in tutti i tempi ci sono stati tiranni e assassini e che per un certo periodo sono sembrati invincibili; ma alla fine, cadono sempre, sempre.»* - Mahatma Gandhi
+
+---
+
 Le ultime cose di cui vi ho parlato:
 
 Infovaticana ha chiesto a ChatGPT: *Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?* La risposta si può sintetizzare così: **metterei Bergoglio a fare il Papa**. [Cliccate qui per leggerla tutta](/articles/2024-10-15-chatgpt-bergoglio-papa.html)
