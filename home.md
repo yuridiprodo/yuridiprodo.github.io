@@ -4,7 +4,7 @@
 
 Le ultime cose di cui vi ho parlato:
 
-Infovaticana ha chiesto a ChatGPT: *Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?* La risposta si può sintetizzare così: **metterei Bergoglio a fare il Papa**. [Cliccate qui per leggerla tutta](/articles/2024-10-15-chatgpt-bergoglio-papa.html)
+ [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
 *"Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi"*. [Un pensiero](/articles/2024-09-23-studiare-per-dubitare.html)
 

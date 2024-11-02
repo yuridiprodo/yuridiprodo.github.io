@@ -6,6 +6,10 @@
 
 ## 2024
 
+Novembre
+
+- [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
+
 Ottobre
 
 - *Infovaticana* ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti? La risposta sintetica: metterei Bergoglio a fare il Papa. [Qui la risposta completa](/articles/2024-10-15-chatgpt-bergoglio-papa.html)
