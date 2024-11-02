@@ -25,7 +25,9 @@ async function loadHome() {
         var date = new Date();
         var giorno = date.getDate();
         var fraseDelGiorno = frasi[giorno % frasi.length];
-        document.getElementById('frase-random').textContent = fraseDelGiorno;
+        
+		// Usa marked per convertire il Markdown in HTML
+		document.getElementById('frase-random').innerHTML = marked(fraseDelGiorno);
 		
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
