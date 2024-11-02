@@ -21,13 +21,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Nuovo stile per la frase casuale */
-#frase-random {
-    font-size: 1.2em; /* Dimensione del testo, puoi modificarla se vuoi */
-    color: #000000; /* Colore del testo */
-    margin: 10px 0; /* Margini sopra e sotto */
-    line-height: 1.4; /* Altezza della linea per una migliore leggibilità */
-
 hr {
     border: 1px solid #ccc;
     margin: 20px 0;
