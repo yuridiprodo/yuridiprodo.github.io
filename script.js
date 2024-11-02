@@ -17,6 +17,16 @@ async function loadHome() {
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         attachLinkHandlers();
+		
+		// Codice per mostrare la frase casuale
+        const responseFrasi = await fetch('frasi.md');
+        const data = await responseFrasi.text();
+        var frasi = data.split('\n').filter(line => line.trim() !== '');
+        var date = new Date();
+        var giorno = date.getDate();
+        var fraseDelGiorno = frasi[giorno % frasi.length];
+        document.getElementById('frase-random').textContent = fraseDelGiorno;
+		
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
