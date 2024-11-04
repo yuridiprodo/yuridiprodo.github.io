@@ -125,7 +125,7 @@ async function loadMarkdown(fileName) {
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState(null, '', fileName);
+		window.history.pushState({ file: fileName }, '', fileName);
 		
 		// Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -141,15 +141,14 @@ window.onpopstate = (event) => {
     console.log("Popstate event:", event);
     if (event.state) {
         if (event.state.article) {
-            console.log("Loading article:", event.state.article);
             loadArticle(event.state.article);
         } else if (event.state.page) {
-            console.log("Loading page:", event.state.page);
             loadPages(event.state.page);
+        } else if (event.state.file) {
+            loadMarkdown(event.state.file);
         }
     } else {
-        console.log("Loading home");
-        loadHome(); // Se non c'è stato, torna alla home
+        loadHome(); // Torna alla home se non c'è stato
     }
 };
 
