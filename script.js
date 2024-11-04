@@ -13,6 +13,9 @@ async function loadHome() {
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
+		
+        // Aggiorna l'URL nella barra degli indirizzi
+        window.history.pushState(null, '', 'index.html');
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -35,6 +38,10 @@ async function loadArticle(articleName) {
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Aggiorna l'URL nella barra degli indirizzi
+        const newUrl = `articles/${articleName}`;
+        window.history.pushState({ article: articleName }, '', newUrl);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -59,6 +66,10 @@ async function loadPages(pageName) {
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Aggiorna l'URL nella barra degli indirizzi
+        const newUrl = `pages/${pageName}`;
+        window.history.pushState({ page: pageName }, '', newUrl);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -115,7 +126,10 @@ async function loadMarkdown(fileName) {
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
-        // Ripristina lo scroll all'inizio
+        // Aggiorna l'URL nella barra degli indirizzi
+        window.history.pushState(null, '', fileName);
+		
+		// Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         
         // Aggiungi un gestore di eventi ai link
@@ -124,6 +138,20 @@ async function loadMarkdown(fileName) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
+
+window.onpopstate = (event) => {
+    if (event.state) {
+        if (event.state.article) {
+            loadArticle(event.state.article);
+        } else if (event.state.page) {
+            loadPages(event.state.page);
+        } else {
+            loadHome();
+        }
+    } else {
+        loadHome(); // Se non c'è stato, torna alla home
+    }
+};
 
 // Gestione del caricamento iniziale
 window.onload = () => {
