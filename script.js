@@ -165,14 +165,18 @@ window.onpopstate = (event) => {
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-    if (path === '/' || path === '/index.html') {
+    
+    // Carica la home se ci troviamo nella root o in index.html
+    if (path === '/' || path.endsWith('/index.html')) {
         loadHome();
     } else {
         const match = path.match(/articles\/(.+)\.html/);
         if (match) {
             loadArticle(match[1]);
-        } else {
+        } else if (path.startsWith('/pages/')) {
             loadPages(path.split('/').pop());
+        } else {
+            loadHome(); // Assicurati di gestire casi imprevisti
         }
     }
 };
