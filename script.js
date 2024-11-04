@@ -138,15 +138,17 @@ async function loadMarkdown(fileName) {
 }
 
 window.onpopstate = (event) => {
+    console.log("Popstate event:", event);
     if (event.state) {
         if (event.state.article) {
+            console.log("Loading article:", event.state.article);
             loadArticle(event.state.article);
         } else if (event.state.page) {
+            console.log("Loading page:", event.state.page);
             loadPages(event.state.page);
-        } else {
-            loadHome();
         }
     } else {
+        console.log("Loading home");
         loadHome(); // Se non c'è stato, torna alla home
     }
 };
