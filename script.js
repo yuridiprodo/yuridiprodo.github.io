@@ -1,20 +1,8 @@
 const articlesDiv = document.getElementById('articles');
 
-// Funzione per caricare il CSS
-function loadCSS() {
-    if (!document.getElementById('site-css')) {
-        const link = document.createElement('link');
-        link.id = 'site-css';
-        link.rel = 'stylesheet';
-        link.href = '/style.css'; // Assicurati che il percorso sia corretto
-        document.head.appendChild(link);
-    }
-}
-
 // Funzione per caricare la home
 async function loadHome() {
     try {
-        loadCSS(); // Carica il CSS
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -29,7 +17,6 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        loadCSS(); // Carica il CSS
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -44,7 +31,6 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        loadCSS(); // Carica il CSS
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
