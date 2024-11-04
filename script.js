@@ -163,20 +163,19 @@ window.onpopstate = (event) => {
 };
 
 // Gestione del caricamento iniziale
-window.onload = () => {
+window.onload = async () => {
     const path = window.location.pathname;
-    
-    // Carica la home se ci troviamo nella root o in index.html
+
     if (path === '/' || path.endsWith('/index.html')) {
-        loadHome();
+        await loadHome(); // Carica la home esplicitamente
     } else {
         const match = path.match(/articles\/(.+)\.html/);
         if (match) {
-            loadArticle(match[1]);
+            await loadArticle(match[1]);
         } else if (path.startsWith('/pages/')) {
-            loadPages(path.split('/').pop());
+            await loadPages(path.split('/').pop());
         } else {
-            loadHome(); // Assicurati di gestire casi imprevisti
+            await loadHome(); // Fallback
         }
     }
 };
