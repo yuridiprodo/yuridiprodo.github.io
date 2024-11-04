@@ -28,7 +28,7 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        const response = await fetch(`articles/${articleName.replace('.html', '.md')}`);
+        const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
@@ -39,9 +39,8 @@ async function loadArticle(articleName) {
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
-        // Aggiorna l'URL nella barra degli indirizzi
-        const newUrl = `articles/${articleName}`;
-        window.history.pushState({ article: articleName }, '', newUrl);
+		// Aggiorna l'URL nella barra degli indirizzi
+        window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
@@ -56,7 +55,7 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        const response = await fetch(`pages/${pageName.replace('.html', '.md')}`);
+        const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
@@ -67,9 +66,8 @@ async function loadPages(pageName) {
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
-        // Aggiorna l'URL nella barra degli indirizzi
-        const newUrl = `pages/${pageName}`;
-        window.history.pushState({ page: pageName }, '', newUrl);
+		// Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
