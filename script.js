@@ -2,6 +2,9 @@ const articlesDiv = document.getElementById('articles');
 
 // Funzione per caricare la home
 async function loadHome() {
+	// Controlla se sei già sulla home per non duplicare lo stato
+    if (window.location.pathname === '/') return;
+	
     try {
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
@@ -27,6 +30,8 @@ async function loadHome() {
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
+	if (window.location.pathname === `/articles/${articleName}`) return; // Aggiunto controllo
+	
     try {
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -54,6 +59,8 @@ async function loadArticle(articleName) {
 
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
+	if (window.location.pathname === `/pages/${pageName}`) return; // Aggiunto controllo
+	
     try {
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -112,6 +119,9 @@ function attachLinkHandlers() {
 
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
+	// Controlla se il file da caricare è già quello attuale
+    if (window.location.pathname === fileName) return;
+	
     try {
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
