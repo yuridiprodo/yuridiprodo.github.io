@@ -138,7 +138,7 @@ async function loadMarkdown(fileName) {
 }
 
 window.onpopstate = (event) => {
-    console.log("Popstate event:", event);
+    console.log("Popstate event:", event.state);
     if (event.state) {
         if (event.state.article) {
             loadArticle(event.state.article);
