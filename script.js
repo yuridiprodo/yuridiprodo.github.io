@@ -2,9 +2,6 @@ const articlesDiv = document.getElementById('articles');
 
 // Funzione per caricare la home
 async function loadHome() {
-	// Controlla se sei già sulla home per non duplicare lo stato
-    if (window.location.pathname === '/') return;
-	
     try {
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
@@ -30,8 +27,6 @@ async function loadHome() {
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
-	if (window.location.pathname === `/articles/${articleName}`) return; // Aggiunto controllo
-	
     try {
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -59,8 +54,6 @@ async function loadArticle(articleName) {
 
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
-	if (window.location.pathname === `/pages/${pageName}`) return; // Aggiunto controllo
-	
     try {
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -119,9 +112,6 @@ function attachLinkHandlers() {
 
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
-	// Controlla se il file da caricare è già quello attuale
-    if (window.location.pathname === fileName) return;
-	
     try {
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
@@ -163,20 +153,13 @@ window.onpopstate = (event) => {
 };
 
 // Gestione del caricamento iniziale
-window.onload = async () => {
+window.onload = () => {
     const path = window.location.pathname;
-
-    if (path === '/' || path.endsWith('/index.html')) {
-        await loadHome(); // Carica la home esplicitamente
+    const match = path.match(/articles\/(.+)\.html/);
+    if (match) {
+        loadArticle(match[1]);
     } else {
-        const match = path.match(/articles\/(.+)\.html/);
-        if (match) {
-            await loadArticle(match[1]);
-        } else if (path.startsWith('/pages/')) {
-            await loadPages(path.split('/').pop());
-        } else {
-            await loadHome(); // Fallback
-        }
+        loadHome();
     }
 };
 
