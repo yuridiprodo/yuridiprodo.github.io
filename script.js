@@ -15,7 +15,7 @@ async function loadHome() {
         document.getElementById('footer-menu').style.display = 'none';
 		
         // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState(null, '', 'index.html');
+        window.history.pushState(null, '', '/');
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
