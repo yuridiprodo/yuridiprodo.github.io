@@ -165,11 +165,15 @@ window.onpopstate = (event) => {
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]);
-    } else {
+    if (path === '/' || path === '/index.html') {
         loadHome();
+    } else {
+        const match = path.match(/articles\/(.+)\.html/);
+        if (match) {
+            loadArticle(match[1]);
+        } else {
+            loadPages(path.split('/').pop());
+        }
     }
 };
 
