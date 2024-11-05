@@ -8,7 +8,7 @@ async function loadHome() {
         const markdown = await response.text();
         const html = marked(markdown);
 
-        // Aggiungi il CSS dinamicamente
+        // Inietta il CSS prima di caricare il contenuto
         injectCSS();
 
         // Mostra il contenuto della home
@@ -31,7 +31,7 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        // Aggiungi il CSS dinamicamente
+        // Inietta il CSS prima di caricare l'articolo
         injectCSS();
 
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
@@ -61,7 +61,7 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        // Aggiungi il CSS dinamicamente
+        // Inietta il CSS prima di caricare la pagina
         injectCSS();
 
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
