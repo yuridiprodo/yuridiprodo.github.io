@@ -37,17 +37,7 @@ async function loadArticle(articleName) {
 	    document.getElementById('footer-menu').style.display = 'block';
         
         // Mostra il contenuto dell'articolo
-		articlesDiv.innerHTML = `
-		    <header>
-		        <nav id="menu" class="menu-links"> Onda Libera ~ | 
-		            <a href="/index.html">Home</a> > 
-		            <a href="/pages/archivio.html" onclick="event.preventDefault(); loadPages('archivio.html');">Archivio</a>
-		        </nav>
-		        <hr>
-		    </header>
-		    <div class="article-content">${html}</div>
-		    <hr>
-		`;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
 		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
@@ -74,27 +64,7 @@ async function loadPages(pageName) {
 	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina
-		articlesDiv.innerHTML = `
-		    <header>
-		        <h1 class="title">Onda Libera ~</h1>
-		        <h2 class="subtitle"><em>Oltre le maree dell'informazione convenzionale</em></h2>
-		        <nav id="menu" class="menu-links">
-		            <a href="/index.html">Home</a> | 
-		            <a href="/pages/contatti.html" onclick="event.preventDefault(); loadPages('contatti.html');">Contatti</a> | 
-		            <a href="/pages/archivio.html" onclick="event.preventDefault(); loadPages('archivio.html');">Archivio</a>
-		        </nav>
-		        <hr>
-		    </header>
-		    <div class="article-content">${html}</div>
-		    <hr>
-		    <footer>
-		        <div id="footer-menu" class="menu-links">
-		            <a href="/index.html">Home</a> | 
-		            <a href="/pages/contatti.html" onclick="event.preventDefault(); loadPages('contatti.html');">Contatti</a> | 
-		            <a href="/pages/archivio.html" onclick="event.preventDefault(); loadPages('archivio.html');">Archivio</a>
-		        </div>
-		    </footer>
-		`;
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
 		// Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
