@@ -7,16 +7,13 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
-        // Inietta il CSS prima di caricare il contenuto
-        injectCSS();
-
+        
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
+        
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
-
+		
         // Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState(null, '', '/');
 
@@ -31,26 +28,23 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        // Inietta il CSS prima di caricare l'articolo
-        injectCSS();
-
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
-
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
+        
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Aggiorna l'URL nella barra degli indirizzi
+		
+		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-
+		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -61,42 +55,27 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        // Inietta il CSS prima di caricare la pagina
-        injectCSS();
-
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
+		
+		// Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-
+        
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
-    }
-}
-
-// Funzione per iniettare il CSS se non è già presente
-function injectCSS() {
-    // Verifica se il CSS è già presente nel <head>
-    if (!document.querySelector('link[href="/style.css"]')) {
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = '/style.css';  // Assicurati che il percorso sia corretto per il tuo progetto
-        link.type = 'text/css';
-        document.head.appendChild(link);
     }
 }
 
@@ -138,19 +117,19 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
-
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
+        
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState({ file: fileName }, '', fileName);
-
-        // Ripristina lo scroll all'inizio
+		window.history.pushState({ file: fileName }, '', fileName);
+		
+		// Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-
+        
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
