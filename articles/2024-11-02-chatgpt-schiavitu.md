@@ -1,6 +1,6 @@
 # ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne
 
-## Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
+### Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
 !["Il Quarto Stato" di Giuseppe Pellizza da Volpedo. Olio su tela, 1901](/img/quarto-stato.jpg)
 

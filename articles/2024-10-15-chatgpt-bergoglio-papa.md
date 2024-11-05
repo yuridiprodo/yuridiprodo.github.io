@@ -1,6 +1,6 @@
 # Se fossi Satana, metterei Bergoglio a fare il Papa. Parola di ChatGPT
 
-## Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?
+### Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?
 
 ![Papa Francesco](/img/papa-francesco.jpg)
 
