@@ -8,6 +8,9 @@ async function loadHome() {
         const markdown = await response.text();
         const html = marked(markdown);
 
+        // Aggiungi il CSS dinamicamente
+        injectCSS();
+
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
@@ -28,10 +31,9 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-        // Aggiungi il link al CSS (se non è già presente)
-        addCSSLink();
+        // Aggiungi il CSS dinamicamente
+        injectCSS();
 
-        // Carica il contenuto dell'articolo (Markdown)
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -59,8 +61,8 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-        // Aggiungi il link al CSS (se non è già presente)
-        addCSSLink();
+        // Aggiungi il CSS dinamicamente
+        injectCSS();
 
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -86,17 +88,15 @@ async function loadPages(pageName) {
     }
 }
 
-// Funzione per aggiungere il link al CSS se non è già presente
-function addCSSLink() {
-    const link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = '/style.css';  // Assicurati che il percorso sia corretto per il tuo progetto
-    link.type = 'text/css';
-    
-    // Controlla se il link al CSS è già presente
-    const head = document.head || document.getElementsByTagName('head')[0];
+// Funzione per iniettare il CSS se non è già presente
+function injectCSS() {
+    // Verifica se il CSS è già presente nel <head>
     if (!document.querySelector('link[href="/style.css"]')) {
-        head.appendChild(link);
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/style.css';  // Assicurati che il percorso sia corretto per il tuo progetto
+        link.type = 'text/css';
+        document.head.appendChild(link);
     }
 }
 
