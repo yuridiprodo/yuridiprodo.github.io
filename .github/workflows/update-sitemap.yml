@@ -7,6 +7,7 @@ on:
     paths:
       - 'articles/**'  # Monitoriamo ogni cambiamento nella cartella 'articles'
       - 'index.html'
+	  - 'home.md'
       - 'pages/**'  # Se ci sono anche altre pagine, aggiungi le relative cartelle
       - 'style.css'
       - 'favicon.ico'
