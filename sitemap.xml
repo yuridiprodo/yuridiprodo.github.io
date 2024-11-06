@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.yuridiprodo.github.io/</loc>
-    <lastmod>2024-11-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <!-- Aggiungi altre pagine del tuo sito se necessario -->
+    <!-- Home page -->
+    <url>
+        <loc>https://yuridiprodo.github.io/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Pagine statiche -->
+    <url>
+        <loc>https://yuridiprodo.github.io/pages/contatti.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yuridiprodo.github.io/pages/archivio.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://yuridiprodo.github.io/pages/libri.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
