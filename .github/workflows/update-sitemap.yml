@@ -1,0 +1,44 @@
+name: Update Sitemap
+
+on:
+  push:
+    branches:
+      - main  # O la tua branch principale
+    paths:
+      - 'articles/**'  # Monitoriamo ogni cambiamento nella cartella 'articles'
+      - 'index.html'
+      - 'pages/**'  # Se ci sono anche altre pagine, aggiungi le relative cartelle
+      - 'style.css'
+      - 'favicon.ico'
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Imposta Node.js per usare npm
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'  # Usa una versione LTS di Node.js
+
+      # Installa il generatore di sitemap
+      - name: Install sitemap generator
+        run: npm install -g sitemap-generator-cli
+
+      # Genera la sitemap
+      - name: Generate Sitemap
+        run: |
+          sitemap-generator https://yuridiprodo.github.io --output sitemap.xml
+
+      # Aggiungi la sitemap modificata e commit
+      - name: Commit updated sitemap
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add sitemap.xml
+          git commit -m "Update sitemap"
+          git push
