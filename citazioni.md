@@ -1,1 +1,0 @@
-*«Ricordate che in tutti i tempi ci sono stati tiranni e assassini e che per un certo periodo sono sembrati invincibili; ma alla fine, cadono sempre, sempre.»* - Mahatma Gandhi

@@ -3,12 +3,14 @@ name: Update Sitemap
 on:
   push:
     branches:
-      - main  # O la tua branch principale
+      - main  # Monitora il branch principale
     paths:
-      - 'articles/**'  # Monitoriamo ogni cambiamento nella cartella 'articles'
-      - 'index.html'
+      - 'articles/**'
+      - 'pages/**'
       - 'home.md'
-      - 'pages/**'  # Se ci sono anche altre pagine, aggiungi le relative cartelle
+      - 'index.html'
+      - '404.html'
+      - 'script.js'
       - 'style.css'
       - 'favicon.ico'
 
@@ -24,7 +26,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Usa una versione LTS di Node.js
+          node-version: '16'
 
       # Installa il generatore di sitemap
       - name: Install sitemap generator
@@ -35,11 +37,16 @@ jobs:
         run: |
           sitemap-generator https://yuridiprodo.github.io --output sitemap.xml
 
-      # Aggiungi la sitemap modificata e commit
+      # Controlla se ci sono modifiche
+      - name: Check if sitemap has changed
+        run: |
+          git diff --exit-code sitemap.xml || echo "Changes detected"
+
+      # Aggiungi la sitemap modificata e commit (solo se ci sono modifiche)
       - name: Commit updated sitemap
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add sitemap.xml
-          git commit -m "Update sitemap"
+          git commit -m "Update sitemap" || echo "No changes to commit"
           git push
