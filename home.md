@@ -2,7 +2,7 @@
 
 ---
 
-Le ultime cose di cui vi ho parlato:
+Di recente vi ho parlato di:
 
  [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
