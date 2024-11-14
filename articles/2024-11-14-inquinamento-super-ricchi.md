@@ -2,6 +2,8 @@
 
 ### La CO₂ che una persona comune produce nell'intero arco della sua vita, i miliardari la emettono in un'ora e mezza. Però il problema siamo noi
 
+![Bill Gates e Warren Buffett su un NetJets Boeing 737 Business](/img/aereo-super-ricchi.jpg)
+
 **Carbon Inequality Kills**, ovvero come la disuguaglianza nell'impronta ecologica ci starebbe uccidendo. Tre parole che titolano la [ricerca](https://policy-practice.oxfam.org/resources/carbon-inequality-kills-why-curbing-the-excessive-emissions-of-an-elite-few-can-621656/) tramite cui *Oxfam* denuncia uno stile di vita, quello dei super-ricchi, gravemente dannoso per l'intera umanità.
 
 Mentre al popolo si richiedono continui sacrifici - non ultimo l'indebitarsi [comprando un'auto elettrica](https://yuridiprodo.github.io/articles/2024-04-05-auto-elettrica-salva-il-mondo.html) che a quanto pare, per il solo fatto di essere stata costruita, [produce tanto inquinamento](https://www.alvolante.it/news/auto-elettriche-inquinano-meno-ma-solo-dopo-90-000-km-390911) quanto quello di **un'auto a combustione che ha già percorso 90.000 Km** - i 50 uomini più ricchi del pianeta abusano del loro potere a danno della collettività.
