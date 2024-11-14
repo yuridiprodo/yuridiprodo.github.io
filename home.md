@@ -4,6 +4,8 @@
 
 Le ultime cose di cui vi ho parlato:
 
+[Un'ora e mezza da super-ricco eguaglia le emissioni di una vita intera](/articles/2024-11-14-inquinamento-super-ricchi.html) La CO₂ che una persona comune produce nell'intero arco della sua vita, i miliardari la emettono in un'ora e mezza. Però il problema siamo noi
+
  [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
 *"Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi"*. [Un pensiero](/articles/2024-09-23-studiare-per-dubitare.html)
