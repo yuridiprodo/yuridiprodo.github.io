@@ -12,7 +12,7 @@ Mentre al popolo si richiedono continui sacrifici - non ultimo l'indebitarsi [co
 
 La vita a bordo degli yacht è anche peggiore perché pare equivalga all'impronta ecologica che invece ciascuno di noi, se solo fossimo immortali, raggiungerebbe in **860 anni di vita**.
 
-[Ci fanno poi notare](https://www.oxfam.org/en/press-releases/billionaires-emit-more-carbon-pollution-90-minutes-average-person-does-lifetime) singoli casi come quello di **Jeff Bezos**, il presidente di Amazon, che ogni anno trascorre così tanto tempo sul suo aereo che, se mettessimo insieme tutte quelle ore, corrisponderebbero a quasi 25 giorni consecutivi di vita ad alta quota: abbastanza per produrre un quantitativo di CO₂ paragonabile a quello di uno suo dipendente in 207 anni di vita sulla terraferma.
+[Ci fanno poi notare](https://www.oxfam.org/en/press-releases/billionaires-emit-more-carbon-pollution-90-minutes-average-person-does-lifetime) singoli casi come quello di **Jeff Bezos**, il presidente di Amazon, che ogni anno trascorre così tanto tempo sul suo aereo che, se mettessimo insieme tutte quelle ore, corrisponderebbero a quasi 25 giorni consecutivi di vita ad alta quota: abbastanza per produrre un quantitativo di CO₂ paragonabile a quello di uno soltanto dei suoi dipendenti in 207 anni di vita sulla terraferma.
 
 I voli che invece effettua annualmente **Carlos Slim** - l’uomo più ricco del Messico - col suo jet privato corrispondono a 5 giri del mondo. Riusciremmo mai a macinare così tanti chilometri in una sola vita?
 
