@@ -8,6 +8,7 @@
 
 Novembre
 
+- [Don Francesco come il vescovo D'Ercole, perseguitato per la Verità](/articles/2024-11-19-d-ercole.html) «Vi ho detto queste cose perché abbiate pace in me. Voi avrete tribolazione nel mondo, ma abbiate fiducia; io ho vinto il mondo!» (Gv 16,33)
 - [Un'ora e mezza da super-ricco eguaglia le emissioni di una vita intera](/articles/2024-11-14-inquinamento-super-ricchi.html) La CO₂ che una persona comune produce nell'intero arco della sua vita, i miliardari la emettono in un'ora e mezza. Però il problema siamo noi
 - [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
