@@ -94,6 +94,7 @@ Gennaio
 Dicembre
 
 - [Il cervello si può programmare così](/articles/2023-12-28-persuasori-occulti.html) Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: PNL
+- [Sul Padre Nostro](/articles/2023-12-18-padre-nostro.html) e il nuovo "non abbandonarci alla tentazione" che proprio non digerisco
 - [Approvazione al buio dei vaccini: la sentenza del TAR](/articles/2023-12-15-fda-slide-vaccini.html) Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. Sapeva anche la FDA
 - [Chiesa: Conversione sì, ma ecologica](/articles/2023-12-14-chiesa-conversione-ecologica.html) Prima la neutralità climatica, poi il Vangelo
 - [Una profezia](/articles/2023-12-13-una-profezia.html) Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; perché esse sono il mezzo per giungere al significato; e per coloro che vorranno ascoltare, all’affermazione della verità
