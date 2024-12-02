@@ -22,16 +22,16 @@ Sento quindi che la vecchia traduzione sia **il modo giusto** per ricordarci del
 
 ---
 
-> *Pater noster, qui es in caelis,*
-> *sanctificetur nomen tuum,*
-> *adveniat regnum tuum,*
-> *fiat voluntas tua,*
-> *sicut in caelo, et in terra.*
-> *Panem nostrum supersubstantialem da nobis hodie;*
-> *et dimitte nobis debita nostra,*
-> *sicut et nos dimittimus debitoribus nostris;*
-> *et ne nos inducas in tentationem*
-> *sed libera nos a malo. Amen*
+> *Pater noster qui es in caelis,*
+> *sanctificétur nomen tuum,*
+> *advéniat regnum tuum,*
+> *fiat volúntas tua*
+> *sicut in caelo et in terra.*
+> *Panem nostrum [supersubstantiálem](https://amzn.to/3OyPPB5) da nobis hódie;*
+> *et dimítte nobis débita nostra,*
+> *sicut et nos dimíttimus debitóribus nostris;*
+> *et ne nos indúcas in tentatiónem*
+> *sed líbera nos a malo. Amen*
 
 **Aggiorno questo articolo il 28 Novembre 2024** per aggiungere alcuni passi tratti dal libro [Gesù di Nazareth: dal Battesimo alla Trasfigurazione](https://amzn.to/3B5jKhl) di Benedetto XVI che avvalorano questa tesi.
 
