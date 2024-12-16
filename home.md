@@ -4,6 +4,8 @@
 
 Le ultime cose di cui vi ho parlato:
 
+[La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
+
 [Un'ora e mezza da super-ricco eguaglia le emissioni di una vita intera](/articles/2024-11-14-inquinamento-super-ricchi.html). Però il problema siamo noi
 
  [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero

@@ -6,6 +6,10 @@
 
 ## 2024
 
+Dicembre
+
+- [La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
+
 Novembre
 
 - [Don Francesco come il vescovo D'Ercole, perseguitato per la Verità](/articles/2024-11-19-d-ercole.html) «Vi ho detto queste cose perché abbiate pace in me. Voi avrete tribolazione nel mondo, ma abbiate fiducia; io ho vinto il mondo!» (Gv 16,33)

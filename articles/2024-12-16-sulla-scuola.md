@@ -1,3 +1,9 @@
+# La scuola deve cambiare
+
+### Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
+
+!["Scuola di Atene" di Raffaello Sanzio. Affresco, 1509-1511. Stanza della Segnatura, Palazzi Apostolici, Stato della Città del Vaticano](/img/scuola-di-atene.jpg)
+
 La scuola deve cambiare.
 
 Programmi rigidi, spersonalizzanti valutazioni numeriche, giudizi su come viene compiuto ciò che si è tenuti a compiere (e non su quel che ciascuno **riesce** a compiere).
