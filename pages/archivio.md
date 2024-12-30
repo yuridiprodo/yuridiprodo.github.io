@@ -8,6 +8,7 @@
 
 Dicembre
 
+- [I cristiani saranno gli untori](/articles/2024-12-30-cristiani-untori.html) La prossima pandemia? al Giubileo. Ce lo stanno già dicendo
 - [La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
 
 Novembre

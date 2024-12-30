@@ -4,15 +4,11 @@
 
 Le ultime cose di cui vi ho parlato:
 
+[I cristiani saranno gli untori](/articles/2024-12-30-cristiani-untori.html) La prossima pandemia? al Giubileo. Ce lo stanno già dicendo
+
 [La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
 
 [Un'ora e mezza da super-ricco eguaglia le emissioni di una vita intera](/articles/2024-11-14-inquinamento-super-ricchi.html). Però il problema siamo noi
-
- [ChatGPT: siete schiavi inconsapevoli. Ma potete uscirne](/articles/2024-11-02-chatgpt-schiavitu.html) Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
-
-*"Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi"*. [Un pensiero](/articles/2024-09-23-studiare-per-dubitare.html)
-
-**SPECIALE [La storia di Internet](/articles/2024-08-20-la-storia-di-internet.html)** - Da aperto e accessibile a marionetta del capitalismo tecnologico: decisamente, è andato storto qualcosa
 
 ---
 
