@@ -4,7 +4,7 @@
 
 !["Madonna dei Pellegrini" di Caravaggio. Olio su tela, 1604-1606. Cappella Cavalletti, basilica di Sant'Agostino, Roma.](/img/madonna-dei-pellegrini.jpg)
 
-Il 2025 potrebbe essere l'anno buono per una nuova pandemia. Non lo dico io, ma diversi esperti del settore che nei 30-35 milioni di pellegrini che dovrebbero giungere a Roma per il Giubileo nel corso dell'anno vedono il veicolo perfetto per mettere in circolo un nuovo, sconosciuto patogeno. Guardate qua cosa [scrive](https://www.adnkronos.com/cronaca/giubileo-rischi-virus-allarme-news_77y8M1kIKzJj8gTBNvTwH) l'Adnkronos:
+Il 2025 potrebbe essere l'anno buono per una nuova pandemia. Non lo dico io, ma diversi esperti del settore che nei 30-35 milioni di pellegrini che dovrebbero giungere a Roma per il Giubileo nel corso dell'anno vedono il veicolo perfetto per un nuovo, sconosciuto patogeno. Guardate qua cosa [scrive](https://www.adnkronos.com/cronaca/giubileo-rischi-virus-allarme-news_77y8M1kIKzJj8gTBNvTwH) l'Adnkronos:
 
 > *"**Non sappiamo quali varianti** entreranno in Italia attraverso milioni di pellegrini. Per evitare una ripresa del virus sicuramente occorrerà tornare ad indossare le mascherine, soprattutto nel periodo più freddo, così come lavare spesso le mani e vaccinare contro Covid, influenza e pneumococco i soggetti più fragili, tra cui anziani, malati cronici, cardiopatici e con patologie respiratorie"*. Massimo Ciccozzi, epidemiologo 
 
