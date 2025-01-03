@@ -52,4 +52,4 @@ Poi procedi come al solito, aggiungendo il prodotto al carrello e portando a ter
 
 ![Sostienimi comprando su Amazon: ecco come fare](/img/sostienimi.gif)
 
-*Per trasparenza su quanto appena spiegato ti invito a consultare [la tabella delle commissioni pubblicitarie di Amazon](https://programma-affiliazione.amazon.it/help/node/topic/GRXPHT8U84RAYDXZ).*
+*Per trasparenza su quanto appena spiegato ti invito a consultare [la tabella delle commissioni pubblicitarie di Amazon](https://programma-affiliazione.amazon.it/help/node/topic/GRXPHT8U84RAYDXZ) dove trovi indicate tutte le percentuali in base alla tipologia di prodotto acquistato.*
