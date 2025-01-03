@@ -33,16 +33,17 @@ Se mi vuoi davvero bene, sempre a titolo completamente gratuito, hai anche la po
    function copia(id) {
       // Ottieni l'elemento textarea
       var textarea = document.getElementById(id);
-
-      // Seleziona il testo dentro il textarea
-      textarea.select();
-      textarea.setSelectionRange(0, 99999); // Per dispositivi mobili
-
-      // Esegui il comando di copia
-      document.execCommand('copy');
-
-      // Notifica all'utente che il testo è stato copiato
-      alert('Codice copiato!');
+      
+      // Usare l'API Clipboard per copiare il testo
+      navigator.clipboard.writeText(textarea.value)
+         .then(function() {
+            // Notifica all'utente che il testo è stato copiato
+            alert('Codice copiato!');
+         })
+         .catch(function(error) {
+            // Se qualcosa va storto, mostra un errore
+            alert('Errore durante la copia: ' + error);
+         });
    }
 </script>
 
