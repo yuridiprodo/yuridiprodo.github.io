@@ -16,7 +16,7 @@ Questo metodo è totalmente gratuito e senza alcun sovrapprezzo a carico tuo: se
 
 Per aiutarmi in questo modo ti basta accedere al negozio [passando da qui](https://amzn.to/4h31dBJ): si attiverà la mia affiliazione e a quel punto tutti prodotti ricercati tramite il box interno, quindi successivamente aggiunti al carrello e acquistati entro 1 ora, saranno considerati validi.
 
-<form action="https://amzn.to/4h31dBJ" style="text-align: center;">
+<form action="https://amzn.to/4h31dBJ" target="_blank" style="text-align: center;">
   <button style="background-color: orange; color: black; border: none; padding: 10px 20px; cursor: pointer;">
     <strong>Compra su AMAZON cliccando QUI</strong>
   </button>
@@ -28,6 +28,23 @@ Se mi vuoi davvero bene, sempre a titolo completamente gratuito, hai anche la po
    <textarea id="area">&tag=access0d5-21</textarea>
    <button onclick="copia('area')">Clicca qui per copiare il codice</button>
 </div>
+
+<script>
+   function copia(id) {
+      // Ottieni l'elemento textarea
+      var textarea = document.getElementById(id);
+
+      // Seleziona il testo dentro il textarea
+      textarea.select();
+      textarea.setSelectionRange(0, 99999); // Per dispositivi mobili
+
+      // Esegui il comando di copia
+      document.execCommand('copy');
+
+      // Notifica all'utente che il testo è stato copiato
+      alert('Codice copiato!');
+   }
+</script>
 
 In pratica, dopo aver effettuato l'accesso su Amazon:
 
