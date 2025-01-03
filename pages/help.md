@@ -22,12 +22,17 @@ Per aiutarmi in questo modo ti basta accedere al negozio [passando da qui](https
   </button>
 </form>
 
-Se mi vuoi davvero bene, sempre a titolo completamente gratuito, hai anche la possibilità di farmi inviare tra i 3€ (ad esempio con i prodotti di supermercato o di elettronica) e i 10-12€ (con gli indumenti etichettati Amazon Moda) sempre in rapporto ad ogni 100€ di spesa aggiungendo il testo **&tag=access0d5-21** al link del prodotto che intendi acquistare.
+---
 
-<div>
-   <textarea id="area">&tag=access0d5-21</textarea>
-   <button onclick="copia('area')">Clicca qui per copiare il codice</button>
-</div>
+Se mi vuoi davvero bene, sempre in rapporto ad ogni 100 € di spesa e ancora una volta a titolo completamente gratuito, hai anche la possibilità di farmi inviare tra i 3€ (ad esempio con i prodotti di supermercato o di elettronica) e i 10-12€ (con gli indumenti etichettati Amazon Moda) aggiungendo il codice **&tag=access0d5-21** in fondo al link del prodotto che intendi acquistare.
+
+In pratica, dopo aver effettuato l'accesso su Amazon:
+
+- cerca pure il prodotto che intendi acquistare
+- quindi nella barra degli indirizzi aggiungi in fondo al link il codice <textarea id="area" readonly>&tag=access0d5-21</textarea> <button onclick="copia('area')">Clicca qui per copiarlo</button>
+- schiaccia *Invio* per ricaricare la pagina.
+
+Poi procedi come al solito, aggiungendo il prodotto al carrello e portando a termine l'acquisto.
 
 <script>
    function copia(id) {
@@ -46,14 +51,6 @@ Se mi vuoi davvero bene, sempre a titolo completamente gratuito, hai anche la po
          });
    }
 </script>
-
-In pratica, dopo aver effettuato l'accesso su Amazon:
-
-- cerca pure il prodotto che intendi acquistare
-- quindi nella barra degli indirizzi aggiungi in fondo al link il codice `&tag=access0d5-21`
-- schiaccia *Invio* per ricaricare la pagina.
-
-Poi procedi come al solito, aggiungendo il prodotto al carrello e portando a termine l'acquisto.
 
 ![Sostienimi comprando su Amazon: ecco come fare](/img/sostienimi.gif)
 
