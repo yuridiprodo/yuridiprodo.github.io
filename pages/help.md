@@ -1,14 +1,12 @@
 # Supportami
 
-Puoi supportare la mia attività di giornalista indipendente e libero in due modi: uno diretto e uno indiretto.
+Puoi supportare la mia attività di giornalista indipendente e libero con una donazione, diretta oppure indiretta: i fondi raccolti verranno utilizzati per la creazione di contenuti e la realizzazione di nuove iniziative.
 
-In entrambi i casi i fondi raccolti verranno utilizzati per la creazione di contenuti e la realizzazione di nuove iniziative.
-
-### Donazione
+### Donazione diretta: PayPal
 
 Il metodo più semplice è attraverso una donazione diretta [qui su **PayPal**](http://paypal.me/yuridiprodo) in "modalità Amici".
 
-### Acquistando su Amazon
+### Donazione indiretta: con gli acquisti su Amazon
 
 Se ti capita di fare acquisti su Amazon, puoi fare in modo che io riceva **1€ per ogni 100€ di spesa**. Amazon fraziona i ricavi in centesimi, quindi se spendi 10€ mi saranno inviati 10 centesimi; se spendi 1€ io riceverò 1 centesimo).
 
