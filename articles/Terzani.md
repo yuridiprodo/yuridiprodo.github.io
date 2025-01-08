@@ -1,6 +1,6 @@
-# TITOLO
+# La vita? nasce dall'oscurità e cerca la luce
 
-### SOTTOTITOLO
+### Si tratta di evitare la trappola dell'intelletto. Ce lo spiegava bene Terzani più di vent'anni fa
 
 ![ALT](/img/terzani-giostra.jpg)
 

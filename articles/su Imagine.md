@@ -1,0 +1,33 @@
+# Perché è importante sapere cosa cantava John Lennon con Imagine
+
+### Ogni anno c'è qualcuno che la insegna a scuola. Perché il latino è obsoleto, mentre un mondo senza tutto quel che ci rende umani deve essere auspicabile
+
+![John Lennon in posa per "Imagine". Foto pubblicata su Billboard il 18 settembre 1971](/img/imagine.jpg)
+
+C'è chi vorrebbe **bandire dalle scuole** [la Divina Commedia, I Promessi Sposi](https://t.me/yuridiprodo/49) e [Verga](https://t.me/yuridiprodo/63); c'è chi ha già eliminato dal programma scolastico [l'Odissea di Omero](https://t.me/yuridiprodo/67), e chi invece continua a sostenere che potremmo risparmiarci lo studio [del latino, della storia, dei classici e della filosofia](https://t.me/yuridiprodo/74) perché sarebbero materie inutili. Si è arrivati persino a pensare che sarebbe il caso di [semplificare il linguaggio ed eliminare la punteggiatura](https://t.me/yuridiprodo/46).
+
+E mentre in una scuola italiana [due studenti sono stati esentati dallo studio di Dante](/articles/2024-05-27-aveva-ragione-oriana.html), ogni anno c'è qualcuno che invece si impegna per insegnare *Imagine* ai bambini.
+
+Avete presente la scena: siamo nella White Room e John Lennon, con l'immancabile compagnia di Yoko Ono, accompagna i celebri versi della canzone al suo leggendario pianoforte a coda bianco.
+
+Armonia bellissima, non lo discuto. **Ma il testo?** Avete mai posto attenzione a quel che cantava John Lennon? Cosa stiamo insegnando ai nostri figli?
+
+> *"Imagine there's no heaven  / It's easy if you try  / No hell below us  / Above us, only sky / Imagine all the people  / Livin' for today"*
+> “Immaginate che non ci sia alcun paradiso / Se ci provate è facile / Nessun inferno sotto di noi / Sopra di noi solo il cielo / Immaginate tutta la gente / che vive solo per l’oggi”
+
+Nessun paradiso? Nessun inferno? Vivere solo per l’oggi? **Seriamente?**
+
+> *"Imagine there's no countries  / It isn't hard to do  / And no religion, too"*
+> “Immaginate che non ci siano patrie / Non è difficile farlo / Ed anche nessuna religione”
+
+Zero patrie, zero religione. Ma sì, eliminiamo anche le radici e **cancelliamo pure la nostra identità**, così da assecondare il sogno secolare del [World Economic Forum](/articles/2022-12-14-covid-atto-secondo.html) e dei plutocrati massoni.
+
+> *"Imagine no possessions  / A brotherhood of man"*
+> “Immaginate che non ci siano proprietà / Una fratellanza di uomini”
+
+Eccola qua, la parolina tanto cara alle massonerie: *fratellanza*! Ovviamente ben inquadrata all'interno di un mondo in cui non ci devono essere proprietà. Perché dobbiamo essere poveri. E quindi bisognosi. **E quindi sottomessi al potere**.
+
+> *"And the world will live as one"*
+> “Ed il mondo sarà come un’unica entità”
+
+Certo, quella voluta dal Ministero della Verità. Come ben [scriveva Orwell in **1984**](/articles/2023-09-14-il-mondo-distopico-di-orwell.html).

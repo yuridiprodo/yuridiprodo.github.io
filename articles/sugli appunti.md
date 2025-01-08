@@ -1,3 +1,9 @@
+# Prendete appunti senza vergogna
+
+### Perché è importante farlo ancora oggi, e perché andrebbe evitato il sistema digitale. Un pensiero
+
+![Erasmo da Rotterdam - dal ritratto di Albrecht Dürer, realizzato tramite incisione fotomeccanica nel 1526](/img/erasmo-da-rotterdam.jpg)
+
 Prendere appunti, e prenderli con carta e penna.
 
 Nella scrittura digitale la mano non traccia i segni, ma li richiama già formati, sicché i circuiti cerebrali che aiutano **la conservazione mnemonica** non si attivano.
