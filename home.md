@@ -4,11 +4,11 @@
 
 Le ultime cose di cui vi ho parlato:
 
+Una possibilità su cinque che l'IA ci faccia fuori nel giro di trent'anni. [La profezia di Hinton](/articles/2025-01-08-ia-catastrofe.html)
+
 [I cristiani saranno gli untori](/articles/2024-12-30-cristiani-untori.html) La prossima pandemia? al Giubileo. Ce lo stanno già dicendo
 
 [La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
-
-[Un'ora e mezza da super-ricco eguaglia le emissioni di una vita intera](/articles/2024-11-14-inquinamento-super-ricchi.html). Però il problema siamo noi
 
 ---
 

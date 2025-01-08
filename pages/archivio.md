@@ -4,6 +4,12 @@
 
 ---
 
+## 2025
+
+Gennaio
+
+- Una possibilità su cinque che l'IA ci faccia fuori nel giro di trent'anni. [La profezia di Hinton](/articles/2025-01-08-ia-catastrofe.html)
+
 ## 2024
 
 Dicembre
