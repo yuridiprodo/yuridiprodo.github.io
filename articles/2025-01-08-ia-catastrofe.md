@@ -1,6 +1,6 @@
 # Una possibilità su cinque
 
-### che l'IA ci faccia fuori nel giro di trent'anni. La profezia di Hinton
+### che l'IA ci farà fuori nel giro di trent'anni. La profezia di Hinton
 
 ![Geoffrey Hinton, spesso indicato come uno dei padri fondatori dell'intelligenza artificiale](/img/hinton.jpg)
 
