@@ -49,3 +49,12 @@ Chissà, magari a quel punto le persone finalmente **smetterebbero di camminare 
 Un bel tappo anche per i microfoni, direi. Ancora una volta, una legge che obblighi a **turarli tutti quando ci troviamo in pubblico**. Ma perché Apple-e-le-sue-aziende-subappaltatrici possono ascoltare quel che sto dicendo a mia moglie, mentre siamo in coda alle Poste, solo perché intorno a noi ci sono decine di persone che *"eh ma l'iPhone è sicuro, io senza Apple non potrei vivere, ormai mi fido solo di lei"*?
 
 Questa della class action chiusa coi due spicci è la prova provata che Apple, tanto quanto Google e Amazon, propaganda una comodità e una sicurezza che in realtà sono al servizio **dei suoi, di interessi**. Non certo dei nostri. Per noi, sono solo specchietti per le allodole.
+
+---
+
+### Ancora su Apple e tecnologia applicata all'uomo
+
+- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- La [nuova app di Amazon](/articles/2024-03-29-il-marchio-sulla-mano-destra.html) per pagare con la scansione del palmo
+- [Il primo uomo](/articles/2024-01-31-primo-uomo-chip-cervello.html) con un chip nel cervello
+- Il transumanesimo [non è un complotto](/articles/2023-04-25-transumanesimo-altro-che-complotto.html)
