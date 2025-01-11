@@ -8,6 +8,7 @@
 
 Gennaio
 
+- **Comodità e Sicurezza**. Due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [Una conferma](2025-01-11-comodita-sicurezza)
 - Una possibilità su cinque che l'IA ci farà fuori nel giro di trent'anni. [La profezia di Hinton](/articles/2025-01-08-ia-catastrofe.html)
 
 ## 2024
