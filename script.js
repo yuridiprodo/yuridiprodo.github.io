@@ -8,15 +8,15 @@ async function loadHome() {
         const markdown = await response.text();
         const html = marked(markdown);
         
-        // Carica solo il contenuto della home (div#articles)
+        // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
-        
-        // Aggiorna l'URL nella barra degli indirizzi (rende l'URL visibile come /)
+		
+        // Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState(null, '', '/');
-        
+
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         attachLinkHandlers();
@@ -32,51 +32,54 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
-        // Mostra il footer menu per gli articoli
-        document.getElementById('footer-menu').style.display = 'block';
-        
-        // Carica solo il contenuto dell'articolo (div#articles)
+        // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiorna l'URL nella barra degli indirizzi con il nome dell'articolo
+		
+		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
+		     
+        // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         loadHome(); // Torna alla home in caso di errore
     }
 }
 
-// Funzione per caricare una pagina
+// Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-        
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
 
-        // Carica solo il contenuto della pagina (div#articles)
+        // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiorna l'URL nella barra degli indirizzi con il nome della pagina
-        window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
+		
+		// Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         
+        // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
 
-// Funzione per gestire i link (con eventi click)
+// Funzione per gestire i link
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
     links.forEach(link => {
@@ -114,27 +117,28 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
-        
-        // Carica solo il contenuto del file Markdown (div#articles)
+        // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState({ file: fileName }, '', fileName);
-        
-        // Ripristina lo scroll all'inizio
+		window.history.pushState({ file: fileName }, '', fileName);
+		
+		// Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         
+        // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
 
-// Gestione del popstate per la navigazione tramite URL
 window.onpopstate = (event) => {
+    console.log("Popstate event:", event.state);
     if (event.state) {
         if (event.state.article) {
             loadArticle(event.state.article);
@@ -151,10 +155,9 @@ window.onpopstate = (event) => {
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-    
-    const articleMatch = path.match(/articles\/(.+)\.html/);
-    if (articleMatch) {
-        loadArticle(articleMatch[1]);
+    const match = path.match(/articles\/(.+)\.html/);
+    if (match) {
+        loadArticle(match[1]);
     } else {
         loadHome();
     }
