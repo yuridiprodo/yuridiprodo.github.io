@@ -19,6 +19,10 @@ async function loadHome() {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
+		
+		// Ricarica il CSS
+        reloadCSS();
+		
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
@@ -44,6 +48,9 @@ async function loadArticle(articleName) {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
+		
+		// Ricarica il CSS
+        reloadCSS();
 		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -71,6 +78,9 @@ async function loadPages(pageName) {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
+		
+		// Ricarica il CSS
+        reloadCSS();
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -162,6 +172,19 @@ window.onload = () => {
         loadHome();
     }
 };
+
+// Funzione per ricaricare il CSS
+function reloadCSS() {
+    const oldLink = document.querySelector('link[rel="stylesheet"]');
+    if (oldLink) {
+        oldLink.parentNode.removeChild(oldLink);
+    }
+
+    const newLink = document.createElement('link');
+    newLink.rel = 'stylesheet';
+    newLink.href = 'style.css?v=' + new Date().getTime(); // Usa un timestamp per evitare problemi di cache
+    document.head.appendChild(newLink);
+}
 
 // Carica la home al caricamento della pagina
 loadHome();
