@@ -1,5 +1,13 @@
 const articlesDiv = document.getElementById('articles');
 
+// Funzione per forzare il caricamento del CSS
+function forceReloadCSS() {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'style.css?v=' + new Date().getTime();  // Usa un timestamp per evitare caching
+    document.head.appendChild(link);
+}
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -20,8 +28,8 @@ async function loadHome() {
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
 		
-		// Ricarica il CSS
-        reloadCSS();
+        // Forza il ricaricamento del CSS
+        forceReloadCSS();
 		
         attachLinkHandlers();
     } catch (error) {
@@ -49,8 +57,8 @@ async function loadArticle(articleName) {
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
 		
-		// Ricarica il CSS
-        reloadCSS();
+        // Forza il ricaricamento del CSS
+        forceReloadCSS();
 		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -79,8 +87,8 @@ async function loadPages(pageName) {
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
 		
-		// Ricarica il CSS
-        reloadCSS();
+        // Forza il ricaricamento del CSS
+        forceReloadCSS();
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
@@ -172,19 +180,6 @@ window.onload = () => {
         loadHome();
     }
 };
-
-// Funzione per ricaricare il CSS
-function reloadCSS() {
-    const oldLink = document.querySelector('link[rel="stylesheet"]');
-    if (oldLink) {
-        oldLink.parentNode.removeChild(oldLink);
-    }
-
-    const newLink = document.createElement('link');
-    newLink.rel = 'stylesheet';
-    newLink.href = 'style.css?v=' + new Date().getTime(); // Usa un timestamp per evitare problemi di cache
-    document.head.appendChild(newLink);
-}
 
 // Carica la home al caricamento della pagina
 loadHome();
