@@ -14,7 +14,7 @@ async function loadHome() {
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
         
-        // Aggiorna l'URL nella barra degli indirizzi
+        // Aggiorna l'URL nella barra degli indirizzi (rende l'URL visibile come /)
         window.history.pushState(null, '', '/');
         
         // Ripristina lo scroll all'inizio
@@ -39,7 +39,7 @@ async function loadArticle(articleName) {
         // Carica solo il contenuto dell'articolo (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
-        // Aggiorna l'URL nella barra degli indirizzi
+        // Aggiorna l'URL nella barra degli indirizzi con il nome dell'articolo
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
         // Ripristina lo scroll all'inizio
@@ -64,7 +64,7 @@ async function loadPages(pageName) {
         // Carica solo il contenuto della pagina (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
-        // Aggiorna l'URL nella barra degli indirizzi
+        // Aggiorna l'URL nella barra degli indirizzi con il nome della pagina
         window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
 
         // Ripristina lo scroll all'inizio
@@ -76,7 +76,7 @@ async function loadPages(pageName) {
     }
 }
 
-// Funzione per gestire i link
+// Funzione per gestire i link (con eventi click)
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
     links.forEach(link => {
