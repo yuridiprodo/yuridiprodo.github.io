@@ -18,7 +18,7 @@ Vorrei anche parlare dei libri che leggo, di quelli che mi lasciano dentro qualc
 
 Ma soprattutto vi porterò storie, sogni e speranze, perché a queste nessun essere umano dovrebbe mai rinunciarvi.
 
-Se poi doveste trovare la lettura utile o piacevole, considerate di supportare il mio lavoro con una donazione [su PayPal (qui)](http://paypal.me/yuridiprodo) in "modalità Amici" (è una donazione, dopotutto, non una compravendita).
+Se poi doveste trovare la lettura utile o piacevole, considerate di [supportare il mio lavoro](/pages/help.html).
 
 Ecco fatto, siete davvero giunti alla fine del mio blog. State per completare la lettura di questo post, primo per cronologia ma inesorabilmente ultimo per disposizione.
 

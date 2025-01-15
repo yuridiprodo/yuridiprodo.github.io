@@ -27,3 +27,4 @@ Perché **chi controllerà queste AI**, di fatto controllerà le informazioni di
 ### Sulla Intelligenza Artificiale
 - [Gli effetti avversi](/articles/2024-06-14-imperativo-tecnologico.html) dell’intelligenza artificiale
 - [Questo](/articles/2023-10-09-fallo-fare-alla-ai.html) potremmo farlo fare all’intelligenza artificiale
+-  Una possibilità su cinque che l'IA ci farà fuori nel giro di trent'anni. [La profezia di Hinton](/articles/2025-01-08-ia-catastrofe.html)

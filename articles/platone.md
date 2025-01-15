@@ -10,7 +10,7 @@ Il martellamento è costante anche perché - e qui mi scuso con i miei lettori s
 
 Vi riporto qui sotto appena due esempi, giusto per avere una base da cui partire per poter dare poi una risposta che, lo prometto, sarà breve e chiara; ma come scrivevo in apertura è ormai da lungo tempo che vengono periodicamente pubblicati nuovi articoli a sostegno di questa tesi.
 
-#### Cosa ci vorrebbero far credere
+### Cosa ci vorrebbero far credere
 
 > *"In realtà si è ormai giunti alla conclusione che l’omosessualità maschile fosse ben accetta in Grecia, e considerata normale [...] che non fosse un tabù e che il sesso tra due uomini **non costituisse un problema**"*. [National Geographic](https://www.storicang.it/a/lomosessualita-nellantica-grecia_15276)
 
@@ -20,7 +20,7 @@ C'è perfino chi, nell'avvallare questa [ideologia](2024-02-17-famiglia-una-ideo
 
 > *"gli uomini che amano gli altri uomini **sono migliori**, poiché discendono da un essere totalmente virile e amano ciò che è loro simile"*. [UltimaVoce](https://www.ultimavoce.it/lamore-al-tempo-dei-greci-quando-lomosessualita-non-era-un-peccato/)
 
-#### Cosa invece diceva (davvero) Platone
+### Cosa invece diceva (davvero) Platone
 
 Per rispondere a queste teorie voglio citare proprio Platone. D'altronde in questi casi ritengo sia più naturale confutare le bugie utilizzando direttamente le stesse fonti che "i giornali" invece presentano per avvalorarle (come ho pure fatto pochi giorni fa nel riportare [un articolo del Corriere](https://t.me/yuridiprodo/303)), piuttosto che cercare di argomentare in maniera intelligente o pescare altrove le dichiarazioni di personaggi che pure reputo coscienti [quando affrontano queste tematiche](/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html).
 
@@ -30,7 +30,7 @@ Ecco quindi cosa diceva Platone in "[Le Leggi](https://amzn.to/3PyN1Vc) - Libro 
 > 
 > *Se tali questioni debbano essere considerate scherzosamente o seriamente, penso che il piacere che nasce dall'interazione tra uomini e donne; ma che l'interazione tra uomini con uomini, o donne con donne, sia **contraria alla natura**, e che il tentativo audace derivasse originariamente da una **lussuria sfrenata**.*
 
-#### Come difendersi, una possibile strategia
+### Come difendersi, una possibile strategia
 
 Dato il crescente proliferarsi di balle ben travestite da fatti, sento il bisogno di concludere il discorso con **un consiglio** che apparentemente potrebbe sembrare non azzeccarci granché. È questo: acquistate i libri cartacei; possibilmente in lingua originale; se vi riesce, la prima edizione. In questo senso i Mercatini dell'Usato rappresentano forse la fonte migliore da cui poter attingere.
 

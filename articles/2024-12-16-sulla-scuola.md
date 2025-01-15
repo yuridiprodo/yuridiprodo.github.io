@@ -23,3 +23,9 @@ E lo studente non si limiti a ripetere i contenuti, a imparare a memoria un capi
 Serve **lettura attiva** dei testi, **osservazione** dei fenomeni, **confronto** dei punti di vista. Dibattito, domande, riflessione sull'esperienza. Leggere e scrivere. Leggere di tutto, **scrivere il più possibile**.
 
 Le istituzioni ci vogliono ripetitivi, passivi, **ossequienti**. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi. **Uomini liberi per davvero**.
+
+---
+### Altri pensieri
+
+- Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi. [Studiare, per dubitare](/articles/2024-09-23-studiare-per-dubitare.html)
+- L’algoritmo fa quello che gli diciamo di fare; non ciò che è giusto. [Come gusci vuoti](/articles/2024-08-14-come-gusci-vuoti.html)

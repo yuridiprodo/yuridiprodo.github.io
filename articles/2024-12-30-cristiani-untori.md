@@ -19,3 +19,14 @@ Quindi pare che col Giubileo arriverà ogni tipo di microrganismo; non solo il C
 Insomma, le zanzare si imbucheranno all'aeroporto e agilmente supereranno i rigidi controlli allo scalo, per poi pungerci tutti. D'altronde perché mimetizzarsi tra le migliaia di migranti ammassati su quei barconi che da anni, senza invece alcun controllo sanitario, approdano in Italia? troppo banale.
 
 Insomma: il Giubileo sarà il momento perfetto, e i cristiani saranno gli untori.
+
+---
+### Pandemia: parliamone
+- Da una parte Anthony Fauci, dall’altra il nuovo studio. Nel mezzo, l’assordante silenzio dei media e del popolo. [Un post-it per la prossima pandemia](/articles/2024-06-05-post-it-prossima-pandemia.html)
+- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
+- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
+- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
+- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito
