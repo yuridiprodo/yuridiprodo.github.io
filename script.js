@@ -8,16 +8,15 @@ async function loadHome() {
         const markdown = await response.text();
         const html = marked(markdown);
         
-        // Mantieni header e footer intatti, aggiorna solo il contenuto centrale
-        const articlesDiv = document.getElementById('articles');
+        // Carica solo il contenuto della home (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
-
+        
         // Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState(null, '', '/');
-
+        
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         attachLinkHandlers();
@@ -34,11 +33,10 @@ async function loadArticle(articleName) {
         const markdown = await response.text();
         const html = marked(markdown);
         
-        // Mostra il footer menu
+        // Mostra il footer menu per gli articoli
         document.getElementById('footer-menu').style.display = 'block';
         
-        // Aggiorna solo il contenuto principale, lascia header e footer invariati
-        const articlesDiv = document.getElementById('articles');
+        // Carica solo il contenuto dell'articolo (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
         // Aggiorna l'URL nella barra degli indirizzi
@@ -46,7 +44,6 @@ async function loadArticle(articleName) {
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-        
         attachLinkHandlers();
     } catch (error) {
         loadHome(); // Torna alla home in caso di errore
@@ -64,8 +61,7 @@ async function loadPages(pageName) {
         // Mostra il footer menu
         document.getElementById('footer-menu').style.display = 'block';
 
-        // Aggiorna solo il contenuto principale, lascia header e footer invariati
-        const articlesDiv = document.getElementById('articles');
+        // Carica solo il contenuto della pagina (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
         
         // Aggiorna l'URL nella barra degli indirizzi
@@ -122,8 +118,7 @@ async function loadMarkdown(fileName) {
         // Mostra il footer menu
         document.getElementById('footer-menu').style.display = 'block';
         
-        // Aggiorna solo il contenuto principale, lascia header e footer invariati
-        const articlesDiv = document.getElementById('articles');
+        // Carica solo il contenuto del file Markdown (div#articles)
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         // Aggiorna l'URL nella barra degli indirizzi
@@ -138,8 +133,8 @@ async function loadMarkdown(fileName) {
     }
 }
 
+// Gestione del popstate per la navigazione tramite URL
 window.onpopstate = (event) => {
-    console.log("Popstate event:", event.state);
     if (event.state) {
         if (event.state.article) {
             loadArticle(event.state.article);
@@ -157,19 +152,11 @@ window.onpopstate = (event) => {
 window.onload = () => {
     const path = window.location.pathname;
     
-    // Se l'URL corrisponde a un articolo
     const articleMatch = path.match(/articles\/(.+)\.html/);
     if (articleMatch) {
         loadArticle(articleMatch[1]);
-    }
-    // Se l'URL corrisponde a una pagina
-    else {
-        const pageMatch = path.match(/pages\/(.+)\.html/);
-        if (pageMatch) {
-            loadPages(pageMatch[1]);
-        } else {
-            loadHome(); // Carica la home di default
-        }
+    } else {
+        loadHome();
     }
 };
 
