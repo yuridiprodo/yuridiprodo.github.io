@@ -27,6 +27,28 @@ async function loadHome() {
     }
 }
 
+// Funzione per caricare un articolo dopo aver caricato la home
+async function loadArticleAfterHome(articleName) {
+    // Carica prima la home
+    await loadHome();
+
+    // Dopo un breve ritardo (per consentire il rendering), carica l'articolo
+    setTimeout(() => {
+        loadArticle(articleName); // Carica l'articolo
+    }, 200); // Ritardo di 200ms per consentire il rendering della home
+}
+
+// Funzione per caricare una pagina dopo aver caricato la home
+async function loadPagesAfterHome(pageName) {
+    // Carica prima la home
+    await loadHome();
+
+    // Dopo un breve ritardo (per consentire il rendering), carica la pagina
+    setTimeout(() => {
+        loadPages(pageName); // Carica la pagina
+    }, 200); // Ritardo di 200ms per consentire il rendering della home
+}
+
 // Funzione che si occupa di caricare l'articolo o la pagina, dopo la home
 async function loadContentAfterHome(path) {
     await loadHome();  // Prima carica la home
@@ -34,11 +56,11 @@ async function loadContentAfterHome(path) {
     // Carica l'articolo o la pagina specificata nel path
     const match = path.match(/articles\/(.+)\.html/);
     if (match) {
-        await loadArticle(match[1]); // Carica l'articolo
+        loadArticle(match[1]); // Carica l'articolo
     } else {
         const pageMatch = path.match(/pages\/(.+)\.html/);
         if (pageMatch) {
-            await loadPages(pageMatch[1]); // Carica la pagina
+            loadPages(pageMatch[1]); // Carica la pagina
         }
     }
 }
