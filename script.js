@@ -7,71 +7,23 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-
+        
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
+        
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
-        
+		
         // Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState(null, '', '/');
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-        
-        // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
-
-// Funzione per caricare un articolo dopo aver caricato la home
-async function loadArticleAfterHome(articleName) {
-    // Carica prima la home
-    await loadHome();
-
-    // Dopo un breve ritardo (per consentire il rendering), carica l'articolo
-    setTimeout(() => {
-        loadArticle(articleName); // Carica l'articolo
-    }, 200); // Ritardo di 200ms per consentire il rendering della home
-}
-
-// Funzione per caricare una pagina dopo aver caricato la home
-async function loadPagesAfterHome(pageName) {
-    // Carica prima la home
-    await loadHome();
-
-    // Dopo un breve ritardo (per consentire il rendering), carica la pagina
-    setTimeout(() => {
-        loadPages(pageName); // Carica la pagina
-    }, 200); // Ritardo di 200ms per consentire il rendering della home
-}
-
-// Funzione che si occupa di caricare l'articolo o la pagina, dopo la home
-async function loadContentAfterHome(path) {
-    await loadHome();  // Prima carica la home
-
-    // Carica l'articolo o la pagina specificata nel path
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]); // Carica l'articolo
-    } else {
-        const pageMatch = path.match(/pages\/(.+)\.html/);
-        if (pageMatch) {
-            loadPages(pageMatch[1]); // Carica la pagina
-        }
-    }
-}
-
-// Gestione del caricamento iniziale
-window.onload = () => {
-    const path = window.location.pathname;
-
-    // Carica il contenuto solo dopo aver caricato la home
-    loadContentAfterHome(path);
-};
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
@@ -80,19 +32,19 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-        
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiorna l'URL nella barra degli indirizzi
+		
+		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-        
+		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
     } catch (error) {
@@ -107,15 +59,15 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
-        
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
+		
+		// Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
