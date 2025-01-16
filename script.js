@@ -1,7 +1,5 @@
 const articlesDiv = document.getElementById('articles');
 
-let scrollPosition = 0;  // Variabile per memorizzare la posizione dello scroll
-
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -30,7 +28,6 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
-		scrollPosition = window.scrollY;  // Salva la posizione dello scroll
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -44,13 +41,12 @@ async function loadArticle(articleName) {
 		
 		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
+
+        // Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
 		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
-		
-		// Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
-		
     } catch (error) {
         loadHome(); // Torna alla home in caso di errore
     }
@@ -59,7 +55,6 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
-		scrollPosition = window.scrollY;  // Salva la posizione dello scroll
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -73,13 +68,12 @@ async function loadPages(pageName) {
 		
 		// Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
+
+        // Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
-		
-		// Ripristina lo scroll all'inizio
-        window.scrollTo(0, 0);
-		
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -119,7 +113,6 @@ function attachLinkHandlers() {
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
     try {
-		scrollPosition = window.scrollY;  // Salva la posizione dello scroll
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -133,13 +126,12 @@ async function loadMarkdown(fileName) {
 
         // Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ file: fileName }, '', fileName);
-        
-        // Aggiungi un gestore di eventi ai link
-        attachLinkHandlers();
 		
 		// Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
-		
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -157,11 +149,6 @@ window.onpopstate = (event) => {
         }
     } else {
         loadHome(); // Torna alla home se non c'è stato
-    }
-
-    // Ripristina la posizione dello scroll
-    if (scrollPosition > 0) {
-        window.scrollTo(0, scrollPosition); // Ripristina la posizione di scroll
     }
 };
 
