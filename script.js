@@ -34,11 +34,11 @@ async function loadContentAfterHome(path) {
     // Carica l'articolo o la pagina specificata nel path
     const match = path.match(/articles\/(.+)\.html/);
     if (match) {
-        loadArticle(match[1]); // Carica l'articolo
+        await loadArticle(match[1]); // Carica l'articolo
     } else {
         const pageMatch = path.match(/pages\/(.+)\.html/);
         if (pageMatch) {
-            loadPages(pageMatch[1]); // Carica la pagina
+            await loadPages(pageMatch[1]); // Carica la pagina
         }
     }
 }
