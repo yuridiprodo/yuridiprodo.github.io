@@ -25,6 +25,16 @@ async function loadHome() {
     }
 }
 
+// Funzione per caricare il CSS se non è già presente
+function loadCSS() {
+    if (!document.querySelector('link[href="/style.css"]')) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/style.css';
+        document.head.appendChild(link);
+    }
+}
+
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
@@ -32,6 +42,9 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Carica il CSS per questo articolo
+        loadCSS();
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -59,6 +72,9 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Carica il CSS per questa pagina
+        loadCSS();
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
