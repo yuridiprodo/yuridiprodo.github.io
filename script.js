@@ -5,7 +5,6 @@ let scrollPosition = 0;  // Variabile per memorizzare la posizione dello scroll
 // Funzione per caricare la home
 async function loadHome() {
     try {
-		scrollPosition = window.scrollY;  // Salva la posizione dello scroll
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -48,6 +47,10 @@ async function loadArticle(articleName) {
 		     
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
+		
+		// Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+		
     } catch (error) {
         loadHome(); // Torna alla home in caso di errore
     }
@@ -73,6 +76,10 @@ async function loadPages(pageName) {
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
+		
+		// Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+		
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -129,6 +136,10 @@ async function loadMarkdown(fileName) {
         
         // Aggiungi un gestore di eventi ai link
         attachLinkHandlers();
+		
+		// Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+		
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
