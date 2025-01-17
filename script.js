@@ -1,5 +1,17 @@
 const articlesDiv = document.getElementById('articles');
 
+// Funzione per aggiornare il breadcrumb (percorso)
+function updateBreadcrumb(path) {
+    const breadcrumb = document.getElementById('breadcrumb');
+    const links = path.map((part, index) => {
+        // Costruisci i link in base al percorso
+        const url = '/' + path.slice(0, index + 1).join('/');
+        return `<a href="${url}">${part}</a>`;
+    }).join(' > ');
+
+    breadcrumb.innerHTML = links;
+}
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -10,6 +22,9 @@ async function loadHome() {
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Aggiorna il breadcrumb (Home)
+        updateBreadcrumb(['Home']);
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
@@ -39,6 +54,9 @@ async function loadArticle(articleName) {
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
+        // Aggiorna il breadcrumb con il percorso completo
+        updateBreadcrumb(['Home', 'Blog', articleName]);
+		
 		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 
@@ -65,6 +83,10 @@ async function loadPages(pageName) {
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Aggiorna il breadcrumb con il percorso
+        const path = ['Home', pageName.replace('.html', '')];
+        updateBreadcrumb(path);
 		
 		// Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
@@ -123,6 +145,9 @@ async function loadMarkdown(fileName) {
         
         // Mostra il contenuto del file Markdown
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Aggiorna il breadcrumb
+        updateBreadcrumb(['Home', fileName]);
 
         // Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ file: fileName }, '', fileName);
@@ -137,8 +162,8 @@ async function loadMarkdown(fileName) {
     }
 }
 
+// Gestione del popstate
 window.onpopstate = (event) => {
-    console.log("Popstate event:", event.state);
     if (event.state) {
         if (event.state.article) {
             loadArticle(event.state.article);
@@ -148,16 +173,20 @@ window.onpopstate = (event) => {
             loadMarkdown(event.state.file);
         }
     } else {
-        loadHome(); // Torna alla home se non c'è stato
+        loadHome();
     }
 };
 
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]);
+    const matchArticle = path.match(/articles\/(.+)\.html/);
+    const matchPage = path.match(/pages\/(.+)\.html/);
+
+    if (matchArticle) {
+        loadArticle(matchArticle[1]);
+    } else if (matchPage) {
+        loadPages(matchPage[1]);
     } else {
         loadHome();
     }
