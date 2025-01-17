@@ -85,24 +85,3 @@ img {
     display: block;   /* Centra l'immagine nel suo contenitore */
     margin: 0 auto;   /* Aggiunge margini automatici per centrare */
 }
-
-/* Stile per il breadcrumb */
-.breadcrumb {
-    font-size: 1.2em;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    color: #333;
-}
-
-.breadcrumb a {
-    color: #199fca;
-    text-decoration: none;
-}
-
-.breadcrumb a:hover {
-    color: #a9a9a9;
-}
-
-.breadcrumb span {
-    margin: 0 5px;
-}
