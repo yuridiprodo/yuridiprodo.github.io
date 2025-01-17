@@ -1,19 +1,7 @@
 const articlesDiv = document.getElementById('articles');
 
-// Funzione per caricare dinamicamente il CSS
-function loadCSS() {
-    const link = document.querySelector('link[rel="stylesheet"]');
-    if (!link || link.href !== '/style.css') {
-        const newLink = document.createElement('link');
-        newLink.rel = 'stylesheet';
-        newLink.href = '/style.css';  // Assicurati che il percorso sia corretto
-        document.head.appendChild(newLink);
-    }
-}
-
 // Funzione per caricare la home
 async function loadHome() {
-	loadCSS();  // Carica il CSS
     try {
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
@@ -39,8 +27,7 @@ async function loadHome() {
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
-    loadCSS();  // Carica il CSS    
-	try {
+    try {
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -67,7 +54,6 @@ async function loadArticle(articleName) {
 
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
-    loadCSS();  // Carica il CSS
     try {
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -126,7 +112,6 @@ function attachLinkHandlers() {
 
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
-    loadCSS();  // Carica il CSS
     try {
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
@@ -152,17 +137,18 @@ async function loadMarkdown(fileName) {
     }
 }
 
-// Gestione del popstate per la navigazione
 window.onpopstate = (event) => {
-    const path = window.location.pathname;
-    if (path === '/') {
-        loadHome();  // Ricarica la home
-    } else if (path.startsWith('/articles/')) {
-        const articleName = path.split('/').pop().replace('.html', '.md');
-        loadArticle(articleName);
-    } else if (path.startsWith('/pages/')) {
-        const pageName = path.split('/').pop().replace('.html', '.md');
-        loadPages(pageName);
+    console.log("Popstate event:", event.state);
+    if (event.state) {
+        if (event.state.article) {
+            loadArticle(event.state.article);
+        } else if (event.state.page) {
+            loadPages(event.state.page);
+        } else if (event.state.file) {
+            loadMarkdown(event.state.file);
+        }
+    } else {
+        loadHome(); // Torna alla home se non c'è stato
     }
 };
 
