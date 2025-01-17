@@ -1,8 +1,20 @@
 const articlesDiv = document.getElementById('articles');
 
+// Funzione per caricare dinamicamente il CSS
+function loadCSS() {
+    const existingLink = document.querySelector('link[rel="stylesheet"]');
+    if (!existingLink) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/style.css';  // Percorso del tuo CSS
+        document.head.appendChild(link);
+    }
+}
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
+        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -28,6 +40,7 @@ async function loadHome() {
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
+        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -55,6 +68,7 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
+        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -113,6 +127,7 @@ function attachLinkHandlers() {
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
     try {
+        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
