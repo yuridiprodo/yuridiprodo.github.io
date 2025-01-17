@@ -1,12 +1,20 @@
 const articlesDiv = document.getElementById('articles');
 
 // Funzione per aggiornare il breadcrumb (percorso)
-function updateBreadcrumb(path) {
+function updateBreadcrumb(path, titles) {
     const breadcrumb = document.getElementById('breadcrumb');
+    
+    // Se siamo nella home, non vogliamo visualizzare il breadcrumb
+    if (path.length === 1 && path[0] === 'Home') {
+        breadcrumb.innerHTML = ''; // Nascondi breadcrumb
+        return;
+    }
+
     const links = path.map((part, index) => {
-        // Costruisci i link in base al percorso
         const url = '/' + path.slice(0, index + 1).join('/');
-        return `<a href="${url}">${part}</a>`;
+        const title = titles[index] || part; // Usa il titolo se disponibile, altrimenti il nome della parte del percorso
+
+        return `<a href="${url}">${title}</a>`;
     }).join(' > ');
 
     breadcrumb.innerHTML = links;
@@ -23,8 +31,8 @@ async function loadHome() {
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
-        // Aggiorna il breadcrumb (Home)
-        updateBreadcrumb(['Home']);
+        // Nascondi il breadcrumb per la home
+        updateBreadcrumb(['Home'], []);
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
@@ -53,6 +61,10 @@ async function loadArticle(articleName) {
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Estrai il titolo dal primo h1 nel markdown
+        const titleMatch = markdown.match(/^# (.+)/);
+        const articleTitle = titleMatch ? titleMatch[1] : articleName.replace('.html', '');
 		
         // Aggiorna il breadcrumb con il percorso completo
         updateBreadcrumb(['Home', 'Blog', articleName]);
@@ -83,6 +95,10 @@ async function loadPages(pageName) {
 
         // Mostra il contenuto della pagina
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Estrai il titolo dal primo h1 nel markdown
+        const titleMatch = markdown.match(/^# (.+)/);
+        const pageTitle = titleMatch ? titleMatch[1] : pageName.replace('.html', '');
 		
         // Aggiorna il breadcrumb con il percorso
         const path = ['Home', pageName.replace('.html', '')];
@@ -147,7 +163,7 @@ async function loadMarkdown(fileName) {
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
         // Aggiorna il breadcrumb
-        updateBreadcrumb(['Home', fileName]);
+        updateBreadcrumb(['Home', fileName], [fileName]);
 
         // Aggiorna l'URL nella barra degli indirizzi
 		window.history.pushState({ file: fileName }, '', fileName);
