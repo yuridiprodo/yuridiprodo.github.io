@@ -152,29 +152,39 @@ async function loadMarkdown(fileName) {
     }
 }
 
+// Gestione del popstate per supportare la navigazione tramite i tasti "Indietro" e "Avanti"
 window.onpopstate = (event) => {
-    console.log("Popstate event:", event.state);
-    if (event.state) {
-        if (event.state.article) {
-            loadArticle(event.state.article);
-        } else if (event.state.page) {
-            loadPages(event.state.page);
-        } else if (event.state.file) {
-            loadMarkdown(event.state.file);
-        }
-    } else {
-        loadHome(); // Torna alla home se non c'è stato
+    const path = window.location.pathname;
+    if (path === '/') {
+        loadHome();  // Ricarica la home se torni alla pagina principale
+    } else if (path.startsWith('/articles/')) {
+        const articleName = path.split('/').pop().replace('.html', '.md');
+        loadContent(`/articles/${articleName}`);
+    } else if (path.startsWith('/pages/')) {
+        const pageName = path.split('/').pop().replace('.html', '.md');
+        loadContent(`/pages/${pageName}`);
     }
 };
 
-// Gestione del caricamento iniziale
+// Gestione dell'accesso diretto alle pagine/articoli
 window.onload = () => {
     const path = window.location.pathname;
-    const match = path.match(/articles\/(.+)\.html/);
-    if (match) {
-        loadArticle(match[1]);
+
+    // Se l'utente non sta visitando la home, carica prima la home e poi il contenuto
+    if (!path.startsWith('/index.html') && path !== '/') {
+        loadHome();  // Carica la home prima
+        setTimeout(() => {
+            // Una volta che la home è stata caricata, carica il contenuto specifico
+            if (path.startsWith('/articles/')) {
+                const articleName = path.split('/').pop().replace('.html', '.md');
+                loadContent(`/articles/${articleName}`);
+            } else if (path.startsWith('/pages/')) {
+                const pageName = path.split('/').pop().replace('.html', '.md');
+                loadContent(`/pages/${pageName}`);
+            }
+        }, 0);  // Ritarda il caricamento del contenuto specifico per far prima caricare la home
     } else {
-        loadHome();
+        loadHome();  // Se siamo nella home, carica direttamente la home
     }
 };
 
