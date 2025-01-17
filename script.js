@@ -2,19 +2,19 @@ const articlesDiv = document.getElementById('articles');
 
 // Funzione per caricare dinamicamente il CSS
 function loadCSS() {
-    const existingLink = document.querySelector('link[rel="stylesheet"]');
-    if (!existingLink) {
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = '/style.css';  // Percorso del tuo CSS
-        document.head.appendChild(link);
+    const link = document.querySelector('link[rel="stylesheet"]');
+    if (!link || link.href !== '/style.css') {
+        const newLink = document.createElement('link');
+        newLink.rel = 'stylesheet';
+        newLink.href = '/style.css';  // Assicurati che il percorso sia corretto
+        document.head.appendChild(newLink);
     }
 }
 
 // Funzione per caricare la home
 async function loadHome() {
+	loadCSS();  // Carica il CSS
     try {
-        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -39,8 +39,8 @@ async function loadHome() {
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
-    try {
-        loadCSS();  // Assicurati che il CSS venga caricato
+    loadCSS();  // Carica il CSS    
+	try {
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -67,8 +67,8 @@ async function loadArticle(articleName) {
 
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
+    loadCSS();  // Carica il CSS
     try {
-        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -126,8 +126,8 @@ function attachLinkHandlers() {
 
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
+    loadCSS();  // Carica il CSS
     try {
-        loadCSS();  // Assicurati che il CSS venga caricato
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -152,39 +152,28 @@ async function loadMarkdown(fileName) {
     }
 }
 
-// Gestione del popstate per supportare la navigazione tramite i tasti "Indietro" e "Avanti"
+// Gestione del popstate per la navigazione
 window.onpopstate = (event) => {
     const path = window.location.pathname;
     if (path === '/') {
-        loadHome();  // Ricarica la home se torni alla pagina principale
+        loadHome();  // Ricarica la home
     } else if (path.startsWith('/articles/')) {
         const articleName = path.split('/').pop().replace('.html', '.md');
-        loadContent(`/articles/${articleName}`);
+        loadArticle(articleName);
     } else if (path.startsWith('/pages/')) {
         const pageName = path.split('/').pop().replace('.html', '.md');
-        loadContent(`/pages/${pageName}`);
+        loadPages(pageName);
     }
 };
 
-// Gestione dell'accesso diretto alle pagine/articoli
+// Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-
-    // Se l'utente non sta visitando la home, carica prima la home e poi il contenuto
-    if (!path.startsWith('/index.html') && path !== '/') {
-        loadHome();  // Carica la home prima
-        setTimeout(() => {
-            // Una volta che la home è stata caricata, carica il contenuto specifico
-            if (path.startsWith('/articles/')) {
-                const articleName = path.split('/').pop().replace('.html', '.md');
-                loadContent(`/articles/${articleName}`);
-            } else if (path.startsWith('/pages/')) {
-                const pageName = path.split('/').pop().replace('.html', '.md');
-                loadContent(`/pages/${pageName}`);
-            }
-        }, 0);  // Ritarda il caricamento del contenuto specifico per far prima caricare la home
+    const match = path.match(/articles\/(.+)\.html/);
+    if (match) {
+        loadArticle(match[1]);
     } else {
-        loadHome();  // Se siamo nella home, carica direttamente la home
+        loadHome();
     }
 };
 
