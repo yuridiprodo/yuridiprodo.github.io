@@ -1,5 +1,12 @@
 const articlesDiv = document.getElementById('articles');
 
+// Funzione per aggiungere il CSS al contenuto dinamico
+function addCSSToContent(content) {
+    // Aggiungi il link al foglio di stile all'inizio del contenuto
+    const styleLink = `<link rel="stylesheet" href="/style.css">`;
+    return styleLink + content; // Restituisce il contenuto con il CSS aggiunto
+}
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -7,6 +14,9 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Aggiungi il CSS al contenuto prima di inserirlo nella pagina
+        const contentWithCSS = addCSSToContent(html);
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -32,6 +42,9 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Aggiungi il CSS al contenuto prima di inserirlo nella pagina
+        const contentWithCSS = addCSSToContent(html);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -59,6 +72,9 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Aggiungi il CSS al contenuto prima di inserirlo nella pagina
+        const contentWithCSS = addCSSToContent(html);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -117,6 +133,9 @@ async function loadMarkdown(fileName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+        // Aggiungi il CSS al contenuto prima di inserirlo nella pagina
+        const contentWithCSS = addCSSToContent(html);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
