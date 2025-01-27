@@ -4,7 +4,7 @@
 
 ![Il cartello affisso alla porta della chiesa di San Paolo, Casale Monferrato, 4 agosto 2021](/img/chiesa-cartello.jpg)
 
-Affinché non diventi il *Giorno della Memoria Corta*, approfitto di questa ricorrenza per commentare brevemente il discorso che Bergoglio ha rivolto ai giornalisti il occasione del **Giubileo della Comunicazione**.
+Affinché non diventi il *Giorno della Memoria Corta*, approfitto di questa ricorrenza per commentare brevemente il discorso che Bergoglio ha rivolto due giorni fa ai giornalisti in occasione del **Giubileo della Comunicazione**.
 
 Anche perché "i giornali" [citano](https://www.ancoraonline.it/2025/01/27/giubileo-della-comunicazione/) soltanto le "**parole a braccio**" dimenticando completamente il "**discorso consegnato**" che ritengo invece particolarmente significativo, soprattutto per la giornata che stiamo appunto vivendo in queste ore.
 
