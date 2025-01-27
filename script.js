@@ -38,15 +38,25 @@ async function loadQuote() {
         // Prendi il contenuto del file
         const markdown = await response.text();
         
-        // Split del contenuto per riga (ogni riga una citazione)
-        const quotes = markdown.split('\n').filter(line => line.trim() !== '');
-        
+        // Split del contenuto per riga e rimuovi le righe vuote
+        const quotes = markdown.split('\n')
+            .map(line => line.trim()) // Rimuove gli spazi all'inizio e alla fine
+            .filter(line => line.length > 0); // Filtra le righe vuote
+
+        if (quotes.length === 0) {
+            console.error('Nessuna citazione disponibile nel file');
+            return;
+        }
+
         // Scegli una citazione random
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
+        // Converte la citazione da Markdown a HTML
+        const htmlQuote = marked(randomQuote);
+
         // Crea un elemento blockquote per visualizzare la citazione
         const quoteElement = document.createElement('blockquote');
-        quoteElement.textContent = `"${randomQuote}"`;
+        quoteElement.innerHTML = htmlQuote; // Inserisci il contenuto HTML
 
         // Inserisci la citazione nel contenitore
         const quoteContainer = document.getElementById('quote-container');
