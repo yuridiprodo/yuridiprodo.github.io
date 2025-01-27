@@ -1,4 +1,4 @@
-# Alla ricerca della verità, un'onda alla volta. Benvenuti!
+> *Alla ricerca della verità, un'onda alla volta. Benvenuti!*
 
 In un mondo in continua evoluzione, dove l'informazione è spesso influenzata da molteplici interessi e pregiudizi, **Onda Libera ~** nasce con l'obiettivo di offrire una visione alternativa e indipendente.
 
@@ -10,4 +10,12 @@ Navigare con **Onda Libera ~** significa scegliere di far parte di un viaggio ve
 
 ---
 
-La spiegazione del sottotitolo [si trova qui](/pages/sottotitolo.html).
+Ho selezionato con cura anche le parole del sottotitolo del blog, **Oltre le maree dell'informazione convenzionale.**
+
+Sempre intorno al concetto di "mare" rapportato ad internet e quindi alla consolidata definizione di "navigazione" online, scegliendo **maree** ho infatti pensato, seppur in maniera astratta, al suo significato in astronomia dal punto di vista della sua forza gravitazionale che (cito da vocabolario):
+
+> *induce deformazioni sui corpi*.
+
+**Convenzionale** mi sembrava l'aggettivo più adatto per completare il messaggio. Riporto sempre la spiegazione che ne dà il vocabolario: 
+
+> *Conforme o conseguente a un accordo (talvolta segreto) tra due o più persone. Accettato o concordato con esclusivo riguardo a esigenze pratiche o di comodo. Che segue passivamente una consuetudine o una tradizione ufficialmente accettata, privo quindi di originalità e di naturalezza. Fatto per semplice rispetto delle convenienze, freddo, privo di spontaneità.*
