@@ -1,4 +1,5 @@
 const articlesDiv = document.getElementById('articles');
+const subtitle = document.querySelector('.subtitle');
 
 // Funzione per caricare la home
 async function loadHome() {
@@ -10,6 +11,9 @@ async function loadHome() {
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Mostra la citazione random
+        await showRandomQuote();
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
@@ -22,6 +26,41 @@ async function loadHome() {
         attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
+}
+
+// Funzione per caricare e mostrare una citazione random
+async function showRandomQuote() {
+    // Verifica se abbiamo già mostrato la citazione oggi
+    const lastQuoteDate = localStorage.getItem('lastQuoteDate');
+    const today = new Date().toISOString().split('T')[0]; // Solo la data (YYYY-MM-DD)
+
+    if (lastQuoteDate === today) {
+        // Se la citazione è già stata mostrata oggi, non fare nulla
+        return;
+    }
+
+    // Carica il file delle citazioni
+    try {
+        const response = await fetch('citazioni.md');
+        if (!response.ok) throw new Error('File citazioni.md non trovato');
+        const markdown = await response.text();
+        
+        // Suddividi il contenuto del file in righe
+        const quotes = markdown.split('\n').filter(quote => quote.trim() !== '');
+        
+        // Scegli una citazione casuale
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+        
+        // Aggiungi la citazione sotto il sottotitolo
+        const quoteElement = document.createElement('blockquote');
+        quoteElement.textContent = `"${randomQuote}"`;
+        subtitle.parentNode.insertBefore(quoteElement, articlesDiv);
+
+        // Memorizza la data in cui abbiamo mostrato la citazione
+        localStorage.setItem('lastQuoteDate', today);
+    } catch (error) {
+        console.error('Errore nel caricamento delle citazioni:', error);
     }
 }
 
