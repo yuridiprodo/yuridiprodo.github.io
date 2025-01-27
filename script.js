@@ -30,6 +30,13 @@ async function loadHome() {
 }
 
 async function loadQuote() {
+    // Verifica se siamo nella home page
+    const isHomePage = window.location.pathname === '/' || window.location.pathname === '/index.html';
+    
+    if (!isHomePage) {
+        return; // Non fare nulla se non siamo nella home
+    }
+
     try {
         // Carica il file citazioni.md
         const response = await fetch('/citazioni.md');
