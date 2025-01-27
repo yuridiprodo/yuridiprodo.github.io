@@ -29,7 +29,6 @@ async function loadHome() {
     }
 }
 
-// Funzione per caricare una citazione random
 async function loadQuote() {
     try {
         // Carica il file citazioni.md
@@ -45,21 +44,15 @@ async function loadQuote() {
         // Scegli una citazione random
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
-        // Aggiungi la citazione alla pagina solo se non è stata già mostrata oggi
-        const lastQuoteDate = localStorage.getItem('lastQuoteDate');
-        const today = new Date().toISOString().split('T')[0]; // Data odierna (YYYY-MM-DD)
+        // Crea un elemento blockquote per visualizzare la citazione
+        const quoteElement = document.createElement('blockquote');
+        quoteElement.textContent = `"${randomQuote}"`;
 
-        if (lastQuoteDate !== today) {
-            // Memorizza la data dell'ultima citazione
-            localStorage.setItem('lastQuoteDate', today);
-            
-            // Crea un elemento blockquote per visualizzare la citazione
-            const quoteElement = document.createElement('blockquote');
-            quoteElement.textContent = `"${randomQuote}"`;
-
-            // Aggiungi la citazione nel contenitore specificato nella index.html
-            document.getElementById('quote-container').innerHTML = ''; // Pulisce eventuali citazioni precedenti
-            document.getElementById('quote-container').appendChild(quoteElement);
+        // Inserisci la citazione nel contenitore
+        const quoteContainer = document.getElementById('quote-container');
+        if (quoteContainer) {
+            quoteContainer.innerHTML = ''; // Pulisce il contenuto precedente
+            quoteContainer.appendChild(quoteElement);
         }
     } catch (error) {
         console.error('Errore nel caricare la citazione:', error);
