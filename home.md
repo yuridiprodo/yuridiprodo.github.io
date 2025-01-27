@@ -1,6 +1,3 @@
-
----
-
 Le ultime cose di cui vi ho parlato:
 
 Oggi è la Giornata della Memoria, e ha molto a che fare [col messaggio per il Giubileo della Comunicazione](/articles/2025-01-27-memoria-corta.html)
