@@ -13,7 +13,7 @@ async function loadHome() {
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 		
         // Mostra la citazione random
-        await showRandomQuote();
+        await loadQuote();
         
         // Nascondi il footer menu per la home
         document.getElementById('footer-menu').style.display = 'none';
@@ -29,40 +29,45 @@ async function loadHome() {
     }
 }
 
-// Funzione per caricare e mostrare una citazione random
-async function showRandomQuote() {
-    // Verifica se abbiamo già mostrato la citazione oggi
-    const lastQuoteDate = localStorage.getItem('lastQuoteDate');
-    const today = new Date().toISOString().split('T')[0]; // Solo la data (YYYY-MM-DD)
-
-    if (lastQuoteDate === today) {
-        // Se la citazione è già stata mostrata oggi, non fare nulla
-        return;
-    }
-
-    // Carica il file delle citazioni
+// Funzione per caricare una citazione random
+async function loadQuote() {
     try {
-        const response = await fetch('citazioni.md');
+        // Carica il file citazioni.md
+        const response = await fetch('/citazioni.md');
         if (!response.ok) throw new Error('File citazioni.md non trovato');
+        
+        // Prendi il contenuto del file
         const markdown = await response.text();
         
-        // Suddividi il contenuto del file in righe
-        const quotes = markdown.split('\n').filter(quote => quote.trim() !== '');
+        // Split del contenuto per riga (ogni riga una citazione)
+        const quotes = markdown.split('\n').filter(line => line.trim() !== '');
         
-        // Scegli una citazione casuale
+        // Scegli una citazione random
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-        
-        // Aggiungi la citazione sotto il sottotitolo
-        const quoteElement = document.createElement('blockquote');
-        quoteElement.textContent = `"${randomQuote}"`;
-        subtitle.parentNode.insertBefore(quoteElement, articlesDiv);
 
-        // Memorizza la data in cui abbiamo mostrato la citazione
-        localStorage.setItem('lastQuoteDate', today);
+        // Aggiungi la citazione alla pagina solo se non è stata già mostrata oggi
+        const lastQuoteDate = localStorage.getItem('lastQuoteDate');
+        const today = new Date().toISOString().split('T')[0]; // Data odierna (YYYY-MM-DD)
+
+        if (lastQuoteDate !== today) {
+            // Memorizza la data dell'ultima citazione
+            localStorage.setItem('lastQuoteDate', today);
+            
+            // Crea un elemento blockquote per visualizzare la citazione
+            const quoteElement = document.createElement('blockquote');
+            quoteElement.textContent = `"${randomQuote}"`;
+
+            // Aggiungi la citazione nel contenitore specificato nella index.html
+            document.getElementById('quote-container').innerHTML = ''; // Pulisce eventuali citazioni precedenti
+            document.getElementById('quote-container').appendChild(quoteElement);
+        }
     } catch (error) {
-        console.error('Errore nel caricamento delle citazioni:', error);
+        console.error('Errore nel caricare la citazione:', error);
     }
 }
+
+// Chiamata alla funzione per caricare la citazione
+loadQuote();
 
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
