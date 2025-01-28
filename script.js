@@ -154,11 +154,13 @@ async function loadPages(pageName) {
 // Funzione per gestire i link
 function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
+    const currentDomain = window.location.origin;
+
     links.forEach(link => {
         const href = link.getAttribute('href');
 
         // Se il link è interno (si trova nel dominio del sito)
-        if (href.endsWith('.html') || href.endsWith('.md')) {
+        if (href && (href.endsWith('.html') || href.endsWith('.md') || href.startsWith('/'))) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 if (href.includes('pages/')) {
@@ -167,12 +169,13 @@ function attachLinkHandlers() {
                     loadArticle(href.split('/').pop());
                 }
             });
-        } else {
+        } else if (href) {
             // Se il link è esterno (non è nel dominio del sito)
-            const currentDomain = window.location.origin;
             if (!href.startsWith(currentDomain)) {
                 link.setAttribute('target', '_blank'); // Aggiungi target="_blank" per i link esterni
+                link.setAttribute('rel', 'noopener noreferrer'); // Aggiungi rel per sicurezza
             }
+            // Link esterni aperti in una nuova finestra
             link.addEventListener('click', (event) => {
                 if (!href.startsWith(currentDomain)) {
                     event.preventDefault();
