@@ -78,10 +78,6 @@ h1 {
     }
 }
 
-#simple-header {
-    text-align: left; /* Allinea il contenuto del menu a sinistra */
-}
-
 /* Regole per le immagini in tutto il sito */
 img {
     max-width: 100%;  /* Limita la larghezza massima al 100% del contenitore */
