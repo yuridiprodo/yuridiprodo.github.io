@@ -1,6 +1,6 @@
 # Archivio
 
-*Questa pagina contiene l'elenco aggiornato, dal più al meno recente, di tutti gli articoli pubblicati sul blog.*
+*Questa pagina contiene l'elenco aggiornato, dal più al meno recente, di tutti gli articoli pubblicati sul blog. I contenuti brevi invece vengono pubblicati soltanto sul canale* [Telegram](https://t.me/yuridiprodo).
 
 ---
 
