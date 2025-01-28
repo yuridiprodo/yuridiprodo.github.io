@@ -70,6 +70,15 @@ a:visited {
     margin: 0 220px;
 }
 
+@media (max-width: 768px) {
+    #simple-header,
+    #footer-menu,
+    #quote-container {
+        text-align: center;  /* Centra il testo su dispositivi mobili */
+        margin: 0;            /* Rimuove i margini laterali */
+    }
+}
+
 /* Nuova regola per ridurre la dimensione dei titoli degli articoli */
 h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
