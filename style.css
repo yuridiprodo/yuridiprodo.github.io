@@ -55,6 +55,21 @@ a:visited {
     cursor: pointer;
 }
 
+#simple-header {
+    text-align: left;
+    margin: 0 220px;
+}
+
+#footer-menu {
+    text-align: left;
+    margin: 0 220px;
+}
+
+#quote-container {
+    text-align: left;
+    margin: 0 220px;
+}
+
 /* Nuova regola per ridurre la dimensione dei titoli degli articoli */
 h1 {
     font-size: 1.5em; /* Riduce la dimensione del titolo a circa 24px */
