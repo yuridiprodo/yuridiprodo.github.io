@@ -235,7 +235,7 @@ function updateFooter() {
     const footerCopy = document.getElementById('footer-menu'); // Seleziona l'elemento nel footer
     
     // Crea il contenuto dinamico con l'anno, "Yuri Di Prodo" in corsivo e "Contatti" come link
-    footerCopy.innerHTML = `© 2009-${currentYear} <em>Yuri Di Prodo</em> | <a href="/pages/contatti.html">Contatti</a>`;
+    footerCopy.innerHTML = `© 2009-${currentYear} <em>Yuri Di Prodo</em> | <a href="/pages/contatti.html" onclick="event.preventDefault(); loadPages('contatti.html');">Contatti</a>`;
 }
 
 // Chiamata alla funzione per aggiornare l'anno al caricamento della pagina
