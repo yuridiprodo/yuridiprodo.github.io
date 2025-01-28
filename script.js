@@ -98,6 +98,16 @@ async function loadArticle(articleName) {
 		
 		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
+		
+		// Usa la prima immagine che appare nel contenuto
+        const imgMatch = markdown.match(/!\[.*?\]\((\/img\/.*?\.(jpg|jpeg|png|gif))\)/);
+        if (imgMatch && imgMatch[1]) {
+            const articleImageUrl = imgMatch[1];
+
+            // Modifica i meta tag Open Graph e Twitter Card con la prima immagine trovata
+            document.querySelector('meta[property="og:image"]').setAttribute('content', articleImageUrl);
+            document.querySelector('meta[name="twitter:image"]').setAttribute('content', articleImageUrl);
+        }
 
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
