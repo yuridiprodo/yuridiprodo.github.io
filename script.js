@@ -4,6 +4,10 @@ const subtitle = document.querySelector('.subtitle');
 // Funzione per caricare la home
 async function loadHome() {
     try {
+		// Mostra l'header completo e nasconde quello semplificato per la home
+        document.getElementById('full-header').style.display = 'block';
+        document.getElementById('simple-header').style.display = 'none';
+		
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -75,6 +79,11 @@ loadQuote();
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
+		
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+		
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -102,6 +111,11 @@ async function loadArticle(articleName) {
 // Funzione per caricare una pagina Markdown
 async function loadPages(pageName) {
     try {
+		
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+		
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
@@ -160,6 +174,11 @@ function attachLinkHandlers() {
 // Funzione per caricare un file Markdown
 async function loadMarkdown(fileName) {
     try {
+		
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+		
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
