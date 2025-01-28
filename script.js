@@ -157,7 +157,8 @@ function attachLinkHandlers() {
     links.forEach(link => {
         const href = link.getAttribute('href');
 
-        if (href.endsWith('.html')) {
+        // Se il link è interno (si trova nel dominio del sito)
+        if (href.endsWith('.html') || href.endsWith('.md')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 if (href.includes('pages/')) {
@@ -166,15 +167,14 @@ function attachLinkHandlers() {
                     loadArticle(href.split('/').pop());
                 }
             });
-        } else if (href.endsWith('.md')) {
-            link.addEventListener('click', (event) => {
-                event.preventDefault();
-                loadMarkdown(href);
-            });
         } else {
-            // Gestione per link esterni
+            // Se il link è esterno (non è nel dominio del sito)
+            const currentDomain = window.location.origin;
+            if (!href.startsWith(currentDomain)) {
+                link.setAttribute('target', '_blank'); // Aggiungi target="_blank" per i link esterni
+            }
             link.addEventListener('click', (event) => {
-                if (!href.includes(window.location.origin)) {
+                if (!href.startsWith(currentDomain)) {
                     event.preventDefault();
                     window.open(href, '_blank');
                 }
