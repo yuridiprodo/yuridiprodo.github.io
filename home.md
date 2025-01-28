@@ -1,6 +1,6 @@
 Le ultime cose di cui vi ho parlato:
 
-Oggi è la Giornata della Memoria, e ha molto a che fare [col messaggio per il Giubileo della Comunicazione](/articles/2025-01-27-memoria-corta.html)
+Sono 80 anni che celebriamo la Giornata della Memoria, e quest'anno ha molto a che fare [col messaggio per il Giubileo della Comunicazione](/articles/2025-01-27-memoria-corta.html)
 
 Il Potere oggi [funziona così](/articles/2025-01-23-strutture-di-permesso.html), e la maggior parte delle persone non lo sa ancora
 
