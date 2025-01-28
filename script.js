@@ -68,6 +68,7 @@ async function loadQuote() {
             quoteContainer.innerHTML = ''; // Pulisce il contenuto precedente
             quoteContainer.appendChild(quoteElement);
         }
+		attachLinkHandlers();
     } catch (error) {
         console.error('Errore nel caricare la citazione:', error);
     }
