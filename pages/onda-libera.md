@@ -1,4 +1,4 @@
-> *Alla ricerca della verità, un'onda alla volta. Benvenuti!*
+# Alla ricerca della verità, un'onda alla volta. Benvenuti!
 
 In un mondo in continua evoluzione, dove l'informazione è spesso influenzata da molteplici interessi e pregiudizi, **Onda Libera ~** nasce con l'obiettivo di offrire una visione alternativa e indipendente.
 
