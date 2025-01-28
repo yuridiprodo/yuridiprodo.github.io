@@ -21,3 +21,9 @@ Se hai bisogno di scrivermi: [yuri.giornalista@gmail.com](mailto:yuri.giornalist
 *Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione o, **in maniera totalmente gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [Scopri di più](/pages/help.html)*
 
 ![Yuri Di Prodo, un ritratto](/img/profilo-mini.jpeg)
+
+<p style="color: gray; font-style: italic; font-size: 0.8em;">
+    Questo sito utilizza cookie tecnici per il suo funzionamento. Continuando a navigare, accetti l'uso di questi cookie. 
+    Per maggiori informazioni, consulta la 
+    <a href="https://yuridiprodo.github.io/pages/privacy.html" style="color: gray; text-decoration: none; font-style: italic;">privacy policy</a>.
+</p>
