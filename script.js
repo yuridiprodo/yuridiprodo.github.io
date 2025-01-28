@@ -146,14 +146,6 @@ function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
     links.forEach(link => {
         const href = link.getAttribute('href');
-        
-        // Controllo se il link è esterno
-        if (href && !href.startsWith(window.location.origin)) {
-            // Se è un link esterno, aggiungi target="_blank"
-            link.setAttribute('target', '_blank');
-        }
-
-        // Gestione per link interni (articoli e pagine)
         if (href.endsWith('.html')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
