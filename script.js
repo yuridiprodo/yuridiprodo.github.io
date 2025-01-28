@@ -19,8 +19,8 @@ async function loadHome() {
         // Mostra la citazione random
         await loadQuote();
         
-        // Nascondi il footer menu per la home
-        document.getElementById('footer-menu').style.display = 'none';
+        // Mostra il footer menu
+        document.getElementById('footer-menu').style.display = 'block';
 		
         // Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState(null, '', '/');
@@ -227,6 +227,20 @@ window.onload = () => {
     } else {
         loadHome();
     }
+};
+
+// Footer menu dinamico
+function updateFooter() {
+    const currentYear = new Date().getFullYear(); // Ottieni l'anno corrente
+    const footerCopy = document.getElementById('footer-menu'); // Seleziona l'elemento nel footer
+    
+    // Crea il contenuto dinamico con l'anno, "Yuri Di Prodo" in corsivo e "Contatti" come link
+    footerCopy.innerHTML = `© 2009-${currentYear} <em>Yuri Di Prodo</em> | <a href="/pages/contatti.html">Contatti</a>`;
+}
+
+// Chiamata alla funzione per aggiornare l'anno al caricamento della pagina
+window.onload = () => {
+    updateFooter();
 };
 
 // Carica la home al caricamento della pagina
