@@ -8,7 +8,7 @@ Affinché non diventi il *Giorno della Memoria Corta*, approfitto di questa rico
 
 Anche perché "i giornali" [citano](https://www.ancoraonline.it/2025/01/27/giubileo-della-comunicazione/) soltanto le "**parole a braccio**" dimenticando completamente il "**discorso consegnato**" che ritengo invece particolarmente significativo, soprattutto per la giornata che stiamo appunto vivendo in queste ore.
 
-Ne riporto qui qualche stralcio (se volete leggerlo tutto, [lo trovate qui](https://www.vatican.va/content/francesco/it/speeches/2025/january/documents/20250125-giubileo-comunicazione.html)):
+Ne riporto qui qualche stralcio (se volete leggerlo tutto, [lo trovate qui](https://www.vatican.va/content/francesco/it/speeches/2025/january/documents/20250125-giubileo-comunicazione.pdf)):
 
 > *"che sia difesa e salvaguardata la libertà di stampa e di manifestazione del pensiero insieme al diritto fondamentale a essere informati"*
 
