@@ -146,15 +146,8 @@ function attachLinkHandlers() {
     const links = articlesDiv.querySelectorAll('a');
     links.forEach(link => {
         const href = link.getAttribute('href');
-        
-        // Controllo se il link è esterno (dominio diverso dal mio)
-        if (href && !href.startsWith(window.location.origin)) {
-            // Se è un link esterno, aggiungi target="_blank" e non gestirlo con JavaScript
-            link.setAttribute('target', '_blank');
-            link.setAttribute('rel', 'noopener noreferrer');  // Aggiungi sicurezza
-        } else {
-            // Se è un link interno, gestiscilo normalmente
-            if (href.endsWith('.html')) {
+
+        if (href.endsWith('.html')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 if (href.includes('pages/')) {
@@ -167,6 +160,14 @@ function attachLinkHandlers() {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 loadMarkdown(href);
+            });
+        } else {
+            // Gestione per link esterni
+            link.addEventListener('click', (event) => {
+                if (!href.includes(window.location.origin)) {
+                    event.preventDefault();
+                    window.open(href, '_blank');
+                }
             });
         }
     });
