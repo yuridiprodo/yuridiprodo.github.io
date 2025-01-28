@@ -154,6 +154,7 @@ function attachLinkHandlers() {
             link.setAttribute('rel', 'noopener noreferrer');  // Aggiungi sicurezza
         } else {
             // Se è un link interno, gestiscilo normalmente
+            if (href.endsWith('.html')) {
             link.addEventListener('click', (event) => {
                 event.preventDefault();
                 if (href.includes('pages/')) {
@@ -161,6 +162,11 @@ function attachLinkHandlers() {
                 } else {
                     loadArticle(href.split('/').pop());
                 }
+            });
+        } else if (href.endsWith('.md')) {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                loadMarkdown(href);
             });
         }
     });
