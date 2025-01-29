@@ -55,7 +55,7 @@ a:visited {
     cursor: pointer;
 }
 
-/* Stile per header semplificato e footer */
+/*  Stile per header semplificato e footer */
 #simple-header {
     text-align: left;
     margin: 0 220px;
@@ -80,27 +80,7 @@ a:visited {
     }
 }
 
-/* Stile per la sezione delle CTA */
-.cta-container {
-    margin-top: 30px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-left: 5px solid #199fca;
-}
-
-.cta-container h3 {
-    font-size: 1.5em;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-.cta-container a {
-    color: #199fca;
-}
-
-.cta-container a:hover {
-    color: #333;
-}
+/
 
 /* Nuova regola per ridurre la dimensione dei titoli degli articoli */
 h1 {
