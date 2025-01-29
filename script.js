@@ -77,6 +77,33 @@ async function loadQuote() {
 // Chiamata alla funzione per caricare la citazione
 loadQuote();
 
+// Funzione per caricare le CTA coi tag
+async function loadCTAs(markdownContent) {
+    const ctaRegex = /<!--\s*\/tag\/([a-zA-Z0-9-_]+\.md)\s*-->/g;
+    const ctaMatches = [...markdownContent.matchAll(ctaRegex)];
+    
+    // Cicla su tutti i commenti trovati
+    for (const match of ctaMatches) {
+        const ctaFileName = match[1];
+        
+        try {
+            const ctaResponse = await fetch(`/tag/${ctaFileName}`);
+            if (!ctaResponse.ok) throw new Error(`File CTA ${ctaFileName} non trovato`);
+            const ctaMarkdown = await ctaResponse.text();
+            const ctaHtml = marked(ctaMarkdown);
+            
+            // Trova il punto dove inserire la CTA (dopo il contenuto dell'articolo)
+            const ctaDiv = document.createElement('div');
+            ctaDiv.classList.add('cta-container');
+            ctaDiv.innerHTML = ctaHtml;
+            
+            // Aggiungi la CTA sotto il contenuto dell'articolo
+            const articleContentDiv = document.querySelector('.article-content');
+            articleContentDiv.appendChild(ctaDiv);
+        } catch (error) {
+            console.error('Errore nel caricare la CTA:', error);
+        }
+
 // Funzione per caricare un articolo
 async function loadArticle(articleName) {
     try {
@@ -95,6 +122,9 @@ async function loadArticle(articleName) {
         
         // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+        // Cerca e carica i file CTA
+        await loadCTAs(markdown);
 		
 		// Aggiorna l'URL nella barra degli indirizzi
         window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
