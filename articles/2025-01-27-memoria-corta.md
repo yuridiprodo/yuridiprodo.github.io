@@ -28,7 +28,7 @@ Beh, sapete che vi dico? **io non dimentico**.
 
 ---
 ### Approfondimenti
-- La prossima pandemia? al Giubileo. [Ce lo stanno già dicendo](https://yuridiprodo.github.io/articles/2025-01-08-ia-catastrofe.html)
+- La prossima pandemia? al Giubileo. [Ce lo stanno già dicendo](/articles/2025-01-08-ia-catastrofe.html)
 - Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
 - «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
 - «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
