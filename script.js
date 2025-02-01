@@ -77,26 +77,27 @@ async function loadQuote() {
 // Chiamata alla funzione per caricare la citazione
 loadQuote();
 
-// Funzione generica per caricare qualsiasi file Markdown
-async function loadMarkdownContent(filePath) {
+// Funzione per caricare un articolo
+async function loadArticle(articleName) {
     try {
+		
         // Mostra l'header semplificato e nasconde quello completo
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
-        
-        const response = await fetch(filePath);
+		
+        const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
         
-        // Mostra il footer menu
-        document.getElementById('footer-menu').style.display = 'block';
-
-        // Mostra il contenuto del file
+        // Mostra il contenuto dell'articolo
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-        
-        // Aggiorna l'URL nella barra degli indirizzi
-        window.history.pushState({ file: filePath }, '', filePath);
+		
+		// Aggiorna l'URL nella barra degli indirizzi
+        window.history.pushState({ article: articleName }, '', `/articles/${articleName}`);
 		
 		// Usa la prima immagine che appare nel contenuto
         const imgMatch = markdown.match(/!\[.*?\]\((\/img\/.*?\.(jpg|jpeg|png|gif))\)/);
@@ -108,6 +109,71 @@ async function loadMarkdownContent(filePath) {
             document.querySelector('meta[name="twitter:image"]').setAttribute('content', articleImageUrl);
         }
 
+        // Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+		     
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        loadHome(); // Torna alla home in caso di errore
+    }
+}
+
+// Funzione per caricare una pagina
+async function loadPages(pageName) {
+    try {
+		
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+		
+        const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
+
+        // Mostra il contenuto della pagina
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+		
+		// Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ page: pageName }, '', `/pages/${pageName}`);
+
+        // Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
+}
+
+// Funzione per caricare una newsletter
+async function loadNewsletter(newsletterName) {
+    try {
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+        
+        // Fetch il file dalla cartella 'newsletter'
+        const response = await fetch(`/newsletter/${newsletterName.replace('.html', '.md')}`);
+        if (!response.ok) throw new Error('File non trovato');
+        
+        const markdown = await response.text();
+        const html = marked(markdown);
+        
+        // Mostra il footer menu
+        document.getElementById('footer-menu').style.display = 'block';
+
+        // Mostra il contenuto della newsletter
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+        
+        // Aggiorna l'URL nella barra degli indirizzi
+        window.history.pushState({ newsletter: newsletterName }, '', `/newsletter/${newsletterName}`);
+        
         // Ripristina lo scroll all'inizio
         window.scrollTo(0, 0);
         
@@ -128,14 +194,23 @@ function attachLinkHandlers() {
 
         // Se il link è interno (si trova nel dominio del sito)
         if (href && (href.endsWith('.html') || href.endsWith('.md') || href.startsWith('/'))) {
-            link.addEventListener('click', (event) => {
-                event.preventDefault();
-                if (href.includes('pages/')) {
+            // Gestisci i link della cartella 'newsletter'
+            if (href.startsWith('/newsletter/')) {
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    loadNewsletter(href.split('/').pop());
+                });
+            } else if (href.includes('pages/')) {
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
                     loadPages(href.split('/').pop());
-                } else {
+                });
+            } else {
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
                     loadArticle(href.split('/').pop());
-                }
-            });
+                });
+            }
         } else if (href) {
             // Se il link è esterno (non è nel dominio del sito)
             if (!href.startsWith(currentDomain)) {
@@ -153,29 +228,68 @@ function attachLinkHandlers() {
     });
 }
 
+// Funzione per caricare un file Markdown
+async function loadMarkdown(fileName) {
+    try {
+		
+        // Mostra l'header semplificato e nasconde quello completo
+        document.getElementById('full-header').style.display = 'none';
+        document.getElementById('simple-header').style.display = 'block';
+		
+        const response = await fetch(fileName);
+        if (!response.ok) throw new Error('File non trovato');
+        const markdown = await response.text();
+        const html = marked(markdown);
+		
+	    // Mostra il footer menu
+	    document.getElementById('footer-menu').style.display = 'block';
+        
+        // Mostra il contenuto del file Markdown
+        articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
+
+        // Aggiorna l'URL nella barra degli indirizzi
+		window.history.pushState({ file: fileName }, '', fileName);
+		
+		// Ripristina lo scroll all'inizio
+        window.scrollTo(0, 0);
+        
+        // Aggiungi un gestore di eventi ai link
+        attachLinkHandlers();
+    } catch (error) {
+        articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
+    }
+}
+
 window.onpopstate = (event) => {
     console.log("Popstate event:", event.state);
-    if (event.state && event.state.file) {
-        loadMarkdownContent(event.state.file); // Carica il file Markdown
+    if (event.state) {
+        if (event.state.article) {
+            loadArticle(event.state.article);
+        } else if (event.state.page) {
+            loadPages(event.state.page);
+        } else if (event.state.file) {
+            loadMarkdown(event.state.file);
+        }
     } else {
-        loadHome(); // Torna alla home se non c'è stato uno stato valido
+        loadHome(); // Torna alla home se non c'è stato
     }
 };
 
 // Gestione del caricamento iniziale
 window.onload = () => {
     const path = window.location.pathname;
-    const match = path.match(/\/([^/]+)\/(.+)\.html/); // Cattura qualsiasi cartella e file
+    const matchArticle = path.match(/articles\/(.+)\.html/);
+    const matchPage = path.match(/pages\/(.+)\.html/);
+    const matchNewsletter = path.match(/newsletter\/(.+)\.html/);
 
-    if (match) {
-        const section = match[1]; // Il nome della cartella (es. articles, newsletter, ecc.)
-        const fileName = match[2]; // Nome del file senza estensione
-
-        // Costruisci il percorso del file in base alla cartella
-        const filePath = `/${section}/${fileName}.md`;
-        loadMarkdownContent(filePath); // Carica il contenuto del file Markdown
+    if (matchArticle) {
+        loadArticle(matchArticle[1]);
+    } else if (matchPage) {
+        loadPages(matchPage[1]);
+    } else if (matchNewsletter) {
+        loadNewsletter(matchNewsletter[1]); // Carica la newsletter
     } else {
-        loadHome(); // Carica la home se non c'è un percorso specifico
+        loadHome();
     }
 };
 
