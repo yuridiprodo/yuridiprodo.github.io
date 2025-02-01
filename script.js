@@ -4,9 +4,10 @@ const subtitle = document.querySelector('.subtitle');
 // Funzione per caricare la home
 async function loadHome() {
     try {
-		// Mostra l'header completo e nasconde quello semplificato per la home
+		// Mostra l'header completo e nasconde gli altri
         document.getElementById('full-header').style.display = 'block';
         document.getElementById('simple-header').style.display = 'none';
+        document.getElementById('header-newsletter').style.display = 'none';		
 		
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
@@ -81,9 +82,10 @@ loadQuote();
 async function loadArticle(articleName) {
     try {
 		
-        // Mostra l'header semplificato e nasconde quello completo
+        // Mostra l'header semplificato e nasconde gli altri
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
+        document.getElementById('header-newsletter').style.display = 'none';
 		
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -123,9 +125,10 @@ async function loadArticle(articleName) {
 async function loadPages(pageName) {
     try {
 		
-        // Mostra l'header semplificato e nasconde quello completo
+        // Mostra l'header semplificato e nasconde gli altri
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
+        document.getElementById('header-newsletter').style.display = 'none';
 		
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
@@ -154,9 +157,10 @@ async function loadPages(pageName) {
 // Funzione per caricare una newsletter
 async function loadNewsletter(newsletterName) {
     try {
-        // Mostra l'header semplificato e nasconde quello completo
+        // Mostra l'header newsletter e nasconde gli altri
         document.getElementById('full-header').style.display = 'none';
-        document.getElementById('simple-header').style.display = 'block';
+        document.getElementById('simple-header').style.display = 'none';
+        document.getElementById('header-newsletter').style.display = 'block';
         
         // Fetch il file dalla cartella 'newsletter'
         const response = await fetch(`/newsletter/${newsletterName.replace('.html', '.md')}`);
@@ -232,10 +236,11 @@ function attachLinkHandlers() {
 async function loadMarkdown(fileName) {
     try {
 		
-        // Mostra l'header semplificato e nasconde quello completo
+        // Mostra l'header semplificato e nasconde gli altri
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
-		
+        document.getElementById('header-newsletter').style.display = 'none';
+				
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
