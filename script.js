@@ -196,38 +196,40 @@ function attachLinkHandlers() {
     links.forEach(link => {
         const href = link.getAttribute('href');
 
-        // Se il link è interno (si trova nel dominio del sito)
-        if (href && (href.endsWith('.html') || href.endsWith('.md') || href.startsWith('/'))) {
-            // Gestisci i link della cartella 'newsletter'
-            if (href.startsWith('/newsletter/')) {
+        // Se il link è valido
+        if (href) {
+            // Verifica se il link è esterno (ha un dominio completo)
+            const isExternal = href.includes('://') && !href.startsWith(currentDomain);
+
+            if (isExternal) {
+                // Se è esterno, apri in una nuova scheda
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+                // Link esterni aperti in una nuova finestra
                 link.addEventListener('click', (event) => {
-                    event.preventDefault();
-                    loadNewsletter(href.split('/').pop());
-                });
-            } else if (href.includes('pages/')) {
-                link.addEventListener('click', (event) => {
-                    event.preventDefault();
-                    loadPages(href.split('/').pop());
-                });
-            } else {
-                link.addEventListener('click', (event) => {
-                    event.preventDefault();
-                    loadArticle(href.split('/').pop());
-                });
-            }
-        } else if (href) {
-            // Se il link è esterno (non è nel dominio del sito)
-            if (!href.startsWith(currentDomain)) {
-                link.setAttribute('target', '_blank'); // Aggiungi target="_blank" per i link esterni
-                link.setAttribute('rel', 'noopener noreferrer'); // Aggiungi rel per sicurezza
-            }
-            // Link esterni aperti in una nuova finestra
-            link.addEventListener('click', (event) => {
-                if (!href.startsWith(currentDomain)) {
                     event.preventDefault();
                     window.open(href, '_blank');
+                });
+            } else if (href.endsWith('.html') || href.endsWith('.md') || href.startsWith('/')) {
+                // Se il link è interno (si trova nel dominio del sito)
+                // Gestisci i link della cartella 'newsletter'
+                if (href.startsWith('/newsletter/')) {
+                    link.addEventListener('click', (event) => {
+                        event.preventDefault();
+                        loadNewsletter(href.split('/').pop());
+                    });
+                } else if (href.includes('pages/')) {
+                    link.addEventListener('click', (event) => {
+                        event.preventDefault();
+                        loadPages(href.split('/').pop());
+                    });
+                } else {
+                    link.addEventListener('click', (event) => {
+                        event.preventDefault();
+                        loadArticle(href.split('/').pop());
+                    });
                 }
-            });
+            }
         }
     });
 }
