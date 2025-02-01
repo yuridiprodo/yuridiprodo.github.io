@@ -1,6 +1,11 @@
-# Come iscriversi alla Newsletter di Onda Libera ~
+# Come iscriversi a IMMERSIONI ~ la newsletter di Onda Libera ~
 
-Bastano pochi click: si parte da [**questa pagina**](https://yuridiprodo.kit.com/) e si inserisce la propria mail nel campo *Email Address*, poi si schiaccia il pulsantone blu *Mi voglio iscrivere!*
+Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui sotto e poi schiacciate il pulsantone blu *[**Iscriviti**](https://yuridiprodo.substack.com)*.
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+    <iframe src="https://yuridiprodo.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
+
 
 ---
 
