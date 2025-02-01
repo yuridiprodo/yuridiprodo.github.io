@@ -10,7 +10,7 @@ Insomma, se dovessi descrivermi con una locuzione figurata, direi che *vivo tra 
 
 > Scrivo, quindi sono. Perché scrivere significa ricordare, e la memoria è un atto di resistenza contro l'oblio. Sicché fermando il momento, lo rendiamo eterno. È come se stessimo dicendo al mondo: "io c'ero, e questo è ciò che ho visto, sentito, pensato".
 
-Quasi dimenticavo: se hai aperto questa pagina molto probabilmente volevi scrivermi. In tal caso, puoi inviarmi una email: [yuri.giornalista@gmail.com](mailto:yuri.giornalista@gmail.com)
+Quasi dimenticavo: se hai aperto questa pagina perché desideri condividere qualcosa con me, non esitare a inviarmi una email: [yuri.giornalista@gmail.com](mailto:yuri.giornalista@gmail.com)
 
 ---
 
