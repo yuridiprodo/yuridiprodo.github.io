@@ -55,8 +55,13 @@ a:visited {
     cursor: pointer;
 }
 
-/*  Stile per header semplificato e footer */
+/*  Stile per header semplificato, newsletter e footer */
 #simple-header {
+    text-align: left;
+    margin: 0 220px;
+}
+
+#header-newsletter {
     text-align: left;
     margin: 0 220px;
 }
@@ -73,6 +78,7 @@ a:visited {
 
 @media (max-width: 768px) {
     #simple-header,
+	#header-newsletter,
     #footer-menu,
     #quote-container {
         text-align: center;  /* Centra il testo su dispositivi mobili */
