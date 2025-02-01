@@ -12,3 +12,5 @@ Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui
 # Archivio newsletter precedenti
 
 Qui sotto trovate invece una copia delle newsletter che ho già inviato; dalla più alla meno recente.
+
+[Numero ~01: Pronti, partenza, via!](/newsletter/01.html)

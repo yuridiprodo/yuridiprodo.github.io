@@ -2,19 +2,15 @@
 
 *Ciao!*
 
-mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è il mio blog.
+mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è [il Blog](/pages/onda-libera.html) dove pubblico riflessioni e commenti di cultura generale. Le notizie che non possono aspettare finiscono nel canale [Telegram](https://t.me/yuridiprodo); gli approfondimenti invece sono nella [Newsletter](/pages/newsletter.html).
 
-Se vuoi conoscere la missione del blog [clicca qui](/pages/onda-libera.html).
+Sono anche [una penna di Macitynet](http://www.macitynet.it/author/yuri).
 
-Se invece ti interessa scoprire qualche cosa in più su di me, dai un'occhiata ai link qui sotto:
+Insomma, se dovessi descrivermi con una locuzione figurata, direi che *vivo tra le righe*. Questa sotto invece è la descrizione poetica:
 
----
+> Scrivo, quindi sono. Perché scrivere significa ricordare, e la memoria è un atto di resistenza contro l'oblio. Sicché fermando il momento, lo rendiamo eterno. È come se stessimo dicendo al mondo: "io c'ero, e questo è ciò che ho visto, sentito, pensato".
 
-Una penna di Macitynet: [www.macitynet.it/author/yuri](http://www.macitynet.it/author/yuri)
-
-<mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">**Pillole quotidiane su Telegram**</mark>: [t.me/yuridiprodo](http://t.me/yuridiprodo)
-
-Se hai bisogno di scrivermi: [yuri.giornalista@gmail.com](mailto:yuri.giornalista@gmail.com)
+Quasi dimenticavo: se hai aperto questa pagina molto probabilmente volevi scrivermi. In tal caso, puoi inviarmi una email: [yuri.giornalista@gmail.com](mailto:yuri.giornalista@gmail.com)
 
 ---
 
