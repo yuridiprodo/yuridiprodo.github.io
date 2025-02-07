@@ -6,6 +6,10 @@
 
 ## 2025
 
+Febbraio
+
+- No, l'omosessualità nella Grecia Antica non era considerata normale: [una conferma dallo stesso Platone](/articles/2025-02-07-platone.html) che viene (ormai troppo spesso) surrettiziamente tirato in ballo
+
 Gennaio
 
 -  Oggi è la Giornata della Memoria, e ha molto a che fare [col messaggio per il Giubileo della Comunicazione](/articles/2025-01-27-memoria-corta.html)
