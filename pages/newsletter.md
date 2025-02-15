@@ -13,4 +13,5 @@ Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui
 
 Qui sotto trovate invece una copia delle newsletter che ho già inviato; dalla più alla meno recente.
 
+[Numero ~02: Ieri Terzani, oggi Barbero, domani IA](/newsletter/02.html)
 [Numero ~01: Pronti, partenza, via!](/newsletter/01.html)
