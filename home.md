@@ -1,6 +1,6 @@
 Le ultime cose di cui vi ho parlato:
 
-[Apple, specialista nel vendere desideri](2025-02-15-vendere-desideri) Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
+[Apple, specialista nel vendere desideri](/articles/2025-02-15-vendere-desideri.html) Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
 
 No, l'omosessualità nella Grecia Antica non era considerata normale: [una conferma dallo stesso Platone](/articles/2025-02-07-platone.html) che viene (ormai troppo spesso) surrettiziamente tirato in ballo
 
