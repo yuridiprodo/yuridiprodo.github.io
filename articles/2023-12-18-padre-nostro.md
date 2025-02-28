@@ -33,6 +33,8 @@ Sento quindi che la vecchia traduzione sia **il modo giusto** per ricordarci del
 > *et ne nos indúcas in tentatiónem*
 > *sed líbera nos a malo. Amen*
 
+---
+
 **Aggiorno questo articolo il 28 Novembre 2024** per aggiungere alcuni passi tratti dal libro [Gesù di Nazareth: dal Battesimo alla Trasfigurazione](https://amzn.to/3B5jKhl) di Benedetto XVI che avvalorano questa tesi.
 
 Ritengo anzi probabile che il rimando biblico dal quale era scaturito questo articolo venisse inconsciamente proprio da una precedente lettura di questo testo: lo stesso Ratzinger infatti lo citava proprio per dare la sua spiegazione al «non ci indurre in tentazione» del Padre Nostro (la trovate a partire dalla pagina 192 dell'edizione *BUR Saggi*).
@@ -44,3 +46,7 @@ Le parole del Santo Padre sono inequivocabili. Leggete voi stessi:
   > In questo senso **san Cipriano** ha interpretato la domanda. Dice: quando chiediamo «e non c’indurre in tentazione», esprimiamo la consapevolezza «che **il nemico non può fare niente contro di noi se prima non gli è stato permesso da Dio**; così che ogni nostro timore e devozione e culto si rivolgano a Dio, dal momento che nelle nostre tentazioni niente è lecito al Maligno, se non gliene vien data di là la facoltà». (Pagine 195-196)
   
   > Nella preghiera che esprimiamo con la sesta domanda del *Padre nostro* deve così essere racchiusa, da un lato, la disponibilità a prendere su di noi il peso della prova commisurata alle nostre forze; dall’altro, appunto, la domanda che Dio non ci addossi più di quanto siamo in grado di sopportare; che non ci lasci cadere dalle sue mani. Pronunciamo questa richiesta nella fiduciosa certezza per la quale **san Paolo** ci ha donato le parole: «Dio è fedele e non permetterà che siate tentati oltre le vostre forze, ma **con la tentazione vi darà anche la via d’uscita e la forza per sopportarla**». (Pagine 196-197)
+  
+  ---
+  
+  **Aggiornamento del 23 Febbraio 2025**: allego una interessante analisi del blog [itresentieri](https://itresentieri.it/perche-la-correzione-del-padre-nostro-non-va-bene-anzi-e-pure-luterana/): «In realtà in aramaico “indurre” ha un valore permissivo, per cui il significato è "non permettere che noi cadiamo nella tentazione". La sapienza infinita di Dio, infatti, permette le tentazioni perché noi con queste possiamo purificarci e da queste possiamo meritare, sempre che le superiamo e non cadiamo».
