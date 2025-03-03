@@ -1,107 +1,14 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-	
-	<script>
-	  // Controlla se l'URL non è la homepage
-	  if (window.location.pathname !== '/') {
-	    // Salva il percorso completo inclusi parametri e hash
-	    sessionStorage.setItem('spa-path', window.location.pathname + window.location.search + window.location.hash);
-	  }
-  
-	  // Se siamo nella pagina 404.html, reindirizza alla home mantenendo il percorso originale
-	  if (window.location.pathname.includes('/404.html')) {
-	    window.location.href = '/';
-	  }
-	</script>
-	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="robots" content="index, follow">
-    <meta name="description" content="Il blog di Yuri Di Prodo: alla ricerca della verità, un'onda alla volta">
-    <meta name="author" content="Yuri Di Prodo">
-	<meta name="image" content="https://yuridiprodo.github.io/img/onda-libera-sfondo.jpg">
-	<meta name="twitter:title" content="Onda Libera ~">
-	<meta name="twitter:description" content="Il blog di Yuri Di Prodo: alla ricerca della verità, un'onda alla volta">
-    <meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="https://yuridiprodo.github.io/img/onda-libera-sfondo.jpg">
-	<meta name="twitter:url" content="https://yuridiprodo.github.io/">
-	<meta name="twitter:creator" content="@yuridiprodo">
-    <meta property="og:title" content="Onda Libera ~">
-	<meta property="og:site_name" content="Onda Libera ~">
-	<meta property="article:author" content="Yuri Di Prodo">
-    <meta property="og:description" content="Il blog di Yuri Di Prodo: alla ricerca della verità, un'onda alla volta">
-	<meta property="og:type" content="article">
-    <meta property="og:url" content="https://yuridiprodo.github.io/">
-    <meta property="og:image" content="https://yuridiprodo.github.io/img/onda-libera-sfondo.jpg">
-	<meta itemprop="name" content="Onda Libera ~">
-	<meta itemprop="description" content="Il blog di Yuri Di Prodo: alla ricerca della verità, un'onda alla volta">
-	<meta itemprop="image" content="https://yuridiprodo.github.io/img/onda-libera-sfondo.jpg">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/style.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.1.3/marked.min.js"></script>
-    <title>Onda Libera ~</title>
+    <title>Pagina non trovata</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	
-    <header id="full-header">
-        <h1 class="title">Onda Libera ~</h1>
-        <h2 class="subtitle"><em>Oltre le maree dell'informazione convenzionale</em></h2>
-		
-	    <!-- Contenitore per la citazione -->
-	    <div id="quote-container" class="center"></div>
-		
-		<!--nav id="menu" class="menu-links">
-		    <a href="/index.html">Home</a> | 
-		    <a href="/pages/contatti.html" onclick="event.preventDefault(); loadPages('contatti.html');">Contatti</a> | 
-		    <a href="/pages/archivio.html" onclick="event.preventDefault(); loadPages('archivio.html');">Archivio</a>
-		</nav-->
-        <hr>
-		
-	</header>
-	
-	<header id="simple-header" style="display: none;">
-	    <nav id="menu" class="menu-links">
-	        <a href="/index.html">Onda Libera</a> >  
-	        <a href="/pages/archivio.html" onclick="event.preventDefault(); loadPages('archivio.html');">Articoli</a>
-	    </nav>
-	</header>
-	
-	<header id="header-newsletter" style="display: none;">
-	    <nav id="menu" class="menu-links">
-	        <a href="/index.html">Onda Libera</a> >  
-	        <a href="/pages/newsletter.html" onclick="event.preventDefault(); loadPages('newsletter.html');">Newsletter</a>
-	    </nav>
-	</header>
-	
-	<div id="articles" class="center"></div>
-	<hr>
-
-<footer>
-    <p id="footer-menu"></p> <!-- Elemento per il copyright dinamico -->
-</footer>
-
-    <script src="script.js" defer></script>
-	
-	<script>
-	  // Controlla se abbiamo un percorso salvato
-	  (function() {
-	    const savedPath = sessionStorage.getItem('spa-path');
-	    if (savedPath && window.location.pathname === '/') {
-	      // Rimuovi il percorso salvato
-	      sessionStorage.removeItem('spa-path');
-      
-	      // Determina quale funzione chiamare in base al percorso
-	      if (savedPath.startsWith('/articles/')) {
-	        loadArticle(savedPath.split('/').pop().split('?')[0].split('#')[0]);
-	      } else if (savedPath.startsWith('/pages/')) {
-	        loadPages(savedPath.split('/').pop().split('?')[0].split('#')[0]);
-	      } else if (savedPath.startsWith('/newsletter/')) {
-	        loadNewsletter(savedPath.split('/').pop().split('?')[0].split('#')[0]);
-	      }
-	    }
-	  })();
-	</script>
-	
+    <h1>Oops! Pagina non trovata</h1>
+    <p>La pagina che stai cercando non esiste.</p>
+    <a href="index.html">Torna alla Home</a>
 </body>
 </html>
