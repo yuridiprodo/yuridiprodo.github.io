@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+	
+	<script>
+	  // Controlla se l'URL non è la homepage
+	  if (window.location.pathname !== '/') {
+	    // Salva il percorso completo inclusi parametri e hash
+	    sessionStorage.setItem('spa-path', window.location.pathname + window.location.search + window.location.hash);
+	  }
+  
+	  // Se siamo nella pagina 404.html, reindirizza alla home mantenendo il percorso originale
+	  if (window.location.pathname.includes('/404.html')) {
+	    window.location.href = '/';
+	  }
+	</script>
+	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="robots" content="index, follow">
@@ -68,5 +82,26 @@
 </footer>
 
     <script src="script.js" defer></script>
+	
+	<script>
+	  // Controlla se abbiamo un percorso salvato
+	  (function() {
+	    const savedPath = sessionStorage.getItem('spa-path');
+	    if (savedPath && window.location.pathname === '/') {
+	      // Rimuovi il percorso salvato
+	      sessionStorage.removeItem('spa-path');
+      
+	      // Determina quale funzione chiamare in base al percorso
+	      if (savedPath.startsWith('/articles/')) {
+	        loadArticle(savedPath.split('/').pop().split('?')[0].split('#')[0]);
+	      } else if (savedPath.startsWith('/pages/')) {
+	        loadPages(savedPath.split('/').pop().split('?')[0].split('#')[0]);
+	      } else if (savedPath.startsWith('/newsletter/')) {
+	        loadNewsletter(savedPath.split('/').pop().split('?')[0].split('#')[0]);
+	      }
+	    }
+	  })();
+	</script>
+	
 </body>
 </html>
