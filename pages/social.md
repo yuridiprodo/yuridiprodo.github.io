@@ -552,7 +552,7 @@ Nel suo [Il caffè sospeso](https://amzn.to/3PoXD9r), Luciano De Crescenzo scriv
 Siate dei lettori, dunque, ma non siate mai i seguaci e i follower di nessuno.
 
 # Middei, il congiuntivo
-21 marzo 2024
+<p id="20240321">21 marzo 2024</p>
 
 La lingua italiana è una delle poche al mondo ad avere il congiuntivo. E i giornali lo usano sempre meno.
 
@@ -567,7 +567,7 @@ Il forse è la parola più bella della nostra lingua. «Perché apre delle possi
 Tratto da [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei
 
 # Ritorno al passato
-19 marzo 2024
+<p id="20240319">19 marzo 2024</p>
 
 Abbiamo bisogno di contadini, di poeti, di gente che sa fare il pane, che ama gli alberi e riconosce il vento. Più che l'anno della crescita, ci vorrebbe l'anno dell'attenzione.
 
@@ -582,7 +582,7 @@ Il pensiero sensuale è stato sconfitto e ora domina il pensiero funzionale, l'e
 Franco Arminio, [Cedi la strada agli alberi](https://amzn.to/3IJOBA1)
 
 # De Crescenzo, sul latino
-15 marzo 2024
+<p id="20240315">15 marzo 2024</p>
 
 Sono fuori moda: amo il latino e odio l’inglese.
 
@@ -692,7 +692,7 @@ Quando tutto crolla e resta in piedi solo l’essenziale, il giudizio che ricevi
 Giovanni Allevi, Sanremo. [7 febbraio 2024](https://www.youtube.com/watch?v=swl_-gtLfaU)
 
 # Rodari, il funerale della volpe
-23 febbraio 2024
+<p id="20240223">23 febbraio 2024</p>
 
 Una volta le galline trovarono la volpe in mezzo al sentiero. Aveva gli occhi chiusi, la coda non si muoveva. - È morta, è morta - gridarono le galline. - Facciamole il funerale.
 
@@ -798,7 +798,7 @@ Eppure poco più di 40 anni fa Toto Cutugno riusciva, seppur debolmente, a fotog
 > E una Seicento giù di carrozzeria.
 
 # Fukuoka, ritorno alla Natura
-7 febbraio 2024
+<p id="20240207">7 febbraio 2024</p>
 
 > Le persone non mettono più piede sulla terra nuda. Le loro mani si sono allontanate da erbe e fiori, non rivolgono lo sguardo al cielo, le loro orecchie sono sorde al canto degli uccelli, il loro naso è diventato insensibile a causa dei fumi dei tubi di scappamento, e la loro lingua e il loro palato hanno dimenticato i sapori semplici della natura.
 > 
@@ -854,8 +854,8 @@ La Chiesa potrebbe essere la guida, grandiosa ma non autoritaria, di tutti color
 
 Tratto dagli [Scritti corsari](https://amzn.to/3HvbR4t) di Pier Paolo Pasolini per il Corriere della sera, 22 settembre 1974, dal titolo "I dilemmi di un Papa"
 
-# se potessi non morire
-30 gennaio 2024
+# Cinque minuti prima di morire
+<p id="20240130">30 gennaio 2024</p>
 
 Uccidere chi ha ucciso è una punizione spaventosa rispetto al delitto.
 
@@ -947,9 +947,9 @@ Ma i ragazzi hanno bisogno di guardarsi in faccia, di ridere, di capire attraver
 Umberto Galimberti per GQ, [16 aprile 2020](https://www.gqitalia.it/news/article/umberto-galimberti-filosofo-coronavirs)
 
 # cardinale Zen, attenzione alla sinodalità
-19 gennaio 2024
+<p id="20240119">19 gennaio 2024</p>
 
-San  (https://amzn.to/4aU5hC0)Giovanni Paolo II all’inizio del suo pontificato ci chiedeva di non avere paura e di aprire le porte a Cristo, ma da quello che osservo mi sembra che molti nella Chiesa siano preoccupati di piacere al mondo compiacendolo.
+San Giovanni Paolo II all’inizio del suo pontificato ci chiedeva di non avere paura e di aprire le porte a Cristo, ma da quello che osservo mi sembra che molti nella Chiesa siano preoccupati di piacere al mondo compiacendolo.
 
 Oggi, con i moderni mezzi di comunicazione, è abbastanza semplice restare aggiornati su tutto ciò che accade. Dobbiamo saper fare buon uso di questi mezzi e naturalmente, nel caso di notizie che ci arrivano da fonti diverse e disparate, occorre saperle leggere criticamente, esercitando una sana prudenza. Pensiamo alle informazioni contraddittorie che ci arrivano, ad esempio, sulle guerre in corso, che non sono solo guerre di territorio, ma soprattutto guerre di propaganda.
 
@@ -1061,7 +1061,7 @@ Decisione che scatenò una lunga battaglia legale durante la quale il pastore sa
 https://www.lindipendente.online/2024/01/12/addio-a-ovidio-marras-il-pastore-sardo-che-non-si-piego-alle-aziende-del-cemento-e-vinse//?tg_rhash=cb891b7c9401eb
 
 # Guareschi, sul latino
-12 gennaio 2024
+<p id="20240112">12 gennaio 2024</p>
 
 Il latino è una lingua precisa, essenziale. Verrà abbandonata non perché inadeguata alle nuove esigenze del progresso, ma perché gli uomini nuovi non saranno più adeguati ad essa.
 
@@ -1124,7 +1124,7 @@ Io invece amo esser solo. Ho bisogno di essere solo: per contemplare, per pensar
 Pier Paolo Pasolini, riflessione rilasciata al giornalista inglese Peter Dragadze e pubblicata postuma nella raccolta "Quasi un testamento" della rivista "Gente" del 17 novembre 1975; oggi la trovate insieme a molte altre nel libro [Scritti corsari](https://amzn.to/46XInq5).
 
 # Fallaci, il dolore dell'anima
-2 gennaio 2024
+<p id="20240102">2 gennaio 2024</p>
 
 Incredibile come il dolore dell’anima non venga capito.
 
@@ -1158,7 +1158,7 @@ Viviamo in tempi bui.
 Mai come in questo momento dobbiamo fare nostre le parole di Benedetto XVI, che nel suo [testamento spirituale](https://www.vatican.va/content/benedict-xvi/it/elezione/documents/testamento-spirituale-bxvi.html) ci esorta senza mezzi termini con il suo «rimanete saldi nella fede! Non lasciatevi confondere!» Non vedo altra soluzione.
 
 # Buon Natale
-24 dicembre 2023
+<p id="20231224">24 dicembre 2023</p>
 
 Concludo questo breve ciclo di filastrocche domenicali con la più potente del libro: qui causa ed effetto ci vengono ripetuti come un mantra, sicché quel che fa la televisione all'essere umano non può essere più chiaro di così.
 
@@ -1357,8 +1357,8 @@ a più d'una persona.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/46Ga72s)
 
-# Terzani, uomo distruttivo
-12 dicembre 2023
+# Terzani, fotografia all'umano
+<p id="20231212">12 dicembre 2023</p>
 
 L’uomo è una strana creatura, la più distruttiva che sia mai comparsa sulla faccia della Terra.
 
@@ -1385,7 +1385,7 @@ Quindi l’avaro ha paura della morte, non accetta la condizione di mortale che 
 Umberto Galimberti, [I vizi capitali e i nuovi vizi](https://amzn.to/46IGxJI)
 
 # Rodari, il dittatore
-10 dicembre 2023
+<p id="20231210">10 dicembre 2023</p>
 
 Per queste domeniche ho deciso di condividere alcune poesie tratte da un libro di filastrocche di Gianni Rodari. Sono per me le più significative sia per il messaggio che danno che per i pensieri che ne scaturiscono, ma sono belle tutte ed è un acquisto che consiglio vivamente anche più di altri.
 
@@ -1411,7 +1411,7 @@ una riga più in basso.
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)
 
 # Hugo, amate le anime
-7 dicembre 2023
+<p id="20231207">7 dicembre 2023</p>
 
 Guai a chi avrà amato solo corpi, forme, apparenze. La morte gli toglierà tutto.
 
@@ -1481,7 +1481,7 @@ Bibliografia e sitografia di riferimento
 - I. Lagreca, Il ruolo delle emozioni nell’apprendimento.
 
 # Russell, sulla compassione
-29 novembre 2023
+<p id="20231129">29 novembre 2023</p>
 
 Tre passioni, semplici ma straordinariamente forti, hanno governato la mia vita: la sete d’amore, la ricerca della conoscenza, e una struggente compassione per le sofferenze dell’umanità.
 
@@ -1527,7 +1527,7 @@ mentre dell'uomo conta
 non la pelle, ma il cuore.
 
 # Totò, sulla felicità
-22 novembre 2023
+<p id="20231122">22 novembre 2023</p>
 
 Stabilito che le disgrazie sono fatte per gli uomini, perché arrabbiarsi contro le disgrazie? Sarebbe come arrabbiarsi perché piove, o perché c’ è il sole, o perché si muore. La morte esiste, la pioggia esiste, la cecità esiste: e ciò che esiste va accettato. Disperarsi a che serve? A vederci meglio?
 
@@ -1628,7 +1628,7 @@ Un uomo che non dissente è un seme che non crescerà mai.
 [Bertrand Russell](https://amzn.to/3tUeR6W)
 
 # Coscienza e inconscio, i due livelli umani
-7 novembre 2023
+<p id="20231107">7 novembre 2023</p>
 
 Nell’essere umano esistono due livelli: quello della coscienza e quello dell’inconscio.
 
@@ -1643,7 +1643,7 @@ Un modo in cui si esprime la sapienza superiore dell’inconscio sono i sogni.
 Carl Gustav Jung, [Il libro rosso](https://amzn.to/3tY9iV3)
 
 # Chi siamo
-1 novembre 2023
+<p id="20231101">1 novembre 2023</p>
 
 Non si riesce più a sapere chi siamo. È il fenomeno caratteristico che subentra non appena una situazione archetipica diventa schiacciante. Quando un archetipo è costellato, vi è continuamente il pericolo di assimilazione all'archetipo.
 
@@ -1656,7 +1656,7 @@ L'individuo non si rende conto di essersi dissolto, sebbene abbia perduto la tes
 Carl Gustav Jung, [Gli archetipi dell'inconscio collettivo](https://amzn.to/3Q6Evg9)
 
 # Terzani, i problemi sono la molla della ricerca spirituale
-30 ottobre 2023
+<p id="20231030">30 ottobre 2023</p>
 
 Chi vuole una vita senza problemi è come quel contadino che va per la prima volta a una partita di calcio e si arrabbia con l'arbitro perché ha dato ai ventidue giocatori un solo pallone e quelli sono costretti a corrergli sempre dietro.
 
@@ -1717,7 +1717,7 @@ Per rifare un mondo nuovo bisogna che gli uomini, psichicamente, si indirizzino 
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
 # Quando Schopenhauer mise alla prova la stupidità aumana
-23 ottobre 2023
+<p id="20231023">23 ottobre 2023</p>
 
 «Si racconta che fosse solito cenare presso l'Englischer Hof, un ristorante frequentato da ufficiali inglesi. Prima di mangiare metteva sul tavolo davanti a sé una moneta d'oro. E se la rimetteva in tasca quando terminava.
 
@@ -1748,7 +1748,7 @@ Piano piano spegne la fiamma e il bambino vivo diventa un adulto morto.
 Egon Schiele, pittore e incisore austriaco. 1890-1918
 
 # L'amore non si compra
-16 ottobre 2023
+<p id="20231016">16 ottobre 2023</p>
 
 Il mercato ha fiutato nel nostro bisogno disperato di amore l'opportunità di enormi profitti. E ci alletta con la promessa di poter avere tutto senza fatica: soddisfazione senza lavoro, guadagno senza sacrificio, risultati senza sforzo, conoscenza senza un processo di apprendimento.
 
@@ -1761,7 +1761,7 @@ Ma possiamo comprare tutto, non l'amore. Non troveremo l'amore in un negozio. L'
 Zygmunt Bauman, [Amore liquido](https://amzn.to/3PPOCpe)
 
 # Distrazioni
-13 ottobre 2023
+<p id="20231013">13 ottobre 2023</p>
 
 Ci ha mai fatto caso? Tutti hanno sempre qualcosa da fare. Vanno sempre da qualche parte.
 
@@ -1828,7 +1828,7 @@ Un giorno Diogene stava mangiando la sua cena, una cena semplice fatta di pane e
 Aristippo disse a Diogene: «Vedo che stai mangiando una cena molto povera. Voglio darti un consiglio. Se tu imparassi ad essere ossequioso con il re, non saresti costretto a mangiare lenticchie». Diogene si girò verso l'amico e gli rispose: «Voglio darti anch’io un consiglio: impara ad amare le lenticchie. Se tu avessi imparato a vivere mangiando lenticchie, ora non saresti costretto ad adulare il re e a vivere da schiavo cercando di soddisfare ogni sua esigenza».
 
 # Galimberti, la società odierna
-26 settembre 2023
+<p id="20230926">26 settembre 2023</p>
 
 L’intimo è ciò che si nega al pubblico per concederlo solo a chi si vuol far entrare nel proprio segreto profondo. Il pudore, che difende la nostra intimità, difende anche la nostra libertà.
 Non è una faccenda di vesti, sottovesti o abbigliamento intimo, ma una sorta di vigilanza, dove si decide il grado di apertura e di chiusura verso l’altro.
@@ -1840,7 +1840,7 @@ Ciò produce una metamorfosi dell’individuo che ormai si riconosce solo nella 
 Umberto Galimberti, [Il libro delle emozioni](https://amzn.to/45bYm2S)
 
 # Gramsci, quando si diventa vecchi
-23 settembre 2023
+<p id="20230923">23 settembre 2023</p>
 
 Carissima mamma,
 ecco il quinto natale che passo in privazione di libertà e il quarto che passo in carcere. Veramente la condizione di coatto in cui passai il natale del 26 ad Ustica era ancora una specie di paradiso della libertà personale in confronto alla condizione di carcerato.
@@ -1854,7 +1854,7 @@ In questo senso sono sicuro che neanche tu sei diventata vecchia nonostante la t
 Antonio Gramsci, [Lettere dal carcere](https://amzn.to/3Px44qo)
 
 # L'obbedienza non è una virtù ma la più subdola delle tentazioni
-22 settembre 2023
+<p id="20230922">22 settembre 2023</p>
 
 A Norimberga son stati condannati uomini che avevano obbedito. L'umanità intera consente che essi non dovevano obbedire, perché c'è una legge che gli uomini considerano superiore.
 
@@ -1887,7 +1887,7 @@ I segreti più tormentosi della loro coscienza li porteranno a noi; noi risolver
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
 # Dostoevskij, la bellezza del mondo
-29 agosto 2023
+<p id="20230829">29 agosto 2023</p>
 
 Ma io dichiaro che Shakespeare e Raffaello stanno al di sopra della liberazione dei servi della gleba, al di sopra della nazionalità, al di sopra del socialismo, al di sopra della giovane generazione, al di sopra della chimica, quasi al di sopra dell’umanità intera, poiché sono il frutto di tutta l’umanità e forse il più alto frutto che mai possa esistere! Uomini meschini, che cosa vi manca per capire? 
 
@@ -1896,7 +1896,7 @@ Ma lo sapete voi che senza gli inglesi l’umanità può ancora vivere, può viv
 Fedor Dostoevskij, [I demoni](https://amzn.to/3R4sUAp)
 
 # Fromm, il senso di solitudine
-17 agosto 2023
+<p id="20230817">17 agosto 2023</p>
 
 Esistono tre modi con cui l’uomo tenta di superare il senso di solitudine: la sessualità, il conformismo e l’attività creativa.
 
@@ -1935,7 +1935,7 @@ Alcuni piagnucolano pietosamente, altri bestemmiano oscenamente, ma nessuno o po
 Antonio Gramsci, 11 febbraio 1917
 
 # Galimberti, dare senso alla vita
-27 luglio 2023
+<p id="20230727">27 luglio 2023</p>
 
 I giovani, anche se non sempre lo sanno, stanno male. E non per le solite crisi esistenziali che costellano la giovinezza, ma perché un ospite inquietante, il nichilismo, si aggira tra loro, penetra nei loro sentimenti, confonde i loro pensieri, fiacca la loro anima, intristisce le passioni.
 
@@ -1947,7 +1947,7 @@ Alla base dell'assunzione delle droghe, di tutte le droghe, anche del tabacco e 
 
 Se questo senso non si dà, se non c'è neppure la prospettiva di poterlo reperire, se i giorni si succedono solo per distribuire insensatezza e dosi massicce di insignificanza, allora si va alla ricerca di qualche anestetico capace di renderci insensibili alla vita.
 
-Umberto Galimberti, [Il nichilismo e i giovani](https://amzn.to/3Y9Xavd).
+Umberto Galimberti, [Il nichilismo e i giovani](https://amzn.to/3Y9Xavd)
 
 # Ubuntu: io sono perché siamo
 26 luglio 2023
@@ -1963,7 +1963,7 @@ Quando chiese loro perché avevano corso insieme, poiché uno avrebbe potuto ave
 Ubuntu nella loro civiltà significa: "io sono perché siamo": quella tribù conosce il segreto della felicità che si è perso in tutte le società che le trascendono e che si considerano società civilizzate.
 
 # Giulietto Chiesa, l'educazione delle masse
-24 luglio 2023
+<p id="20230724">24 luglio 2023</p>
 
 L'educazione delle masse è stata assunta dalla televisione.
 
