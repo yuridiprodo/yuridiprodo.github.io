@@ -9,6 +9,10 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- [La figlia](https://amzn.to/4h8YwOH) di Clara Usón. [Una tecnica di Hermann Goering](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
+- [Nuremberg Diary](https://amzn.to/4h6MVPV) di Gustave Gilbert. [Sarai tu a chiedere la guerra](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
+- [Le leggi fondamentali della stupidità umana](https://amzn.to/41ecEBd) di Carlo Maria Cipolla. [La prima](https://yuridiprodo.github.io/newsletter/02.html#20250216n)
+- [De otio, III, 5](https://amzn.to/3Ei4aQN) di Seneca. [Renditi utile](https://yuridiprodo.github.io/newsletter/01.html#20250205n)
 - [The Hallmarked Man](https://amzn.to/4gNR5Nr) di Robert Galbraith. [Arriva a settembre](https://yuridiprodo.github.io/pages/social.html#20250110)
 - [Antigone. Variazioni sul mito](https://amzn.to/4hdWtJG) di Bertolt Brecht. [Una citazione](/articles/2025-01-20-alcolock.html)
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [Tirannia, un'idea](https://yuridiprodo.github.io/pages/social.html#20241017)
