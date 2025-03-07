@@ -1,10 +1,8 @@
 Le ultime cose di cui vi ho parlato:
 
+Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
+
 [Apple, specialista nel vendere desideri](/articles/2025-02-15-vendere-desideri.html) Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
-
-No, l'omosessualità nella Grecia Antica non era considerata normale: [una conferma dallo stesso Platone](/articles/2025-02-07-platone.html) che viene (ormai troppo spesso) surrettiziamente tirato in ballo
-
-Sono 80 anni che celebriamo la Giornata della Memoria, e quest'anno ha molto a che fare [col messaggio per il Giubileo della Comunicazione](/articles/2025-01-27-memoria-corta.html)
 
 Il Potere oggi [funziona così](/articles/2025-01-23-strutture-di-permesso.html), e la maggior parte delle persone non lo sa ancora
 

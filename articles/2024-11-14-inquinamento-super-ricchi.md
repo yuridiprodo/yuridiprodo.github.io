@@ -21,3 +21,9 @@ Come poi non citare la famiglia **Walton**, erede del marchio Walmart, che coi s
 In percentuale quel che ha emesso soltanto l'1% dei più ricchi al mondo negli ultimi 33 anni, dal 1990 ad oggi, avrebbe già causato un calo della produzione economica globale di 2,9 trilioni di dollari, con conseguenti perdite di raccolti che avrebbero potuto fornire **abbastanza calorie per sfamare 14,5 milioni di persone nello stesso arco di tempo**.
 
 Però tu ed io, [comprando l'auto elettrica, salveremo il mondo](https://yuridiprodo.github.io/articles/2024-04-05-auto-elettrica-salva-il-mondo.html).
+
+---
+
+**AGGIORNAMENTO Marzo 2025**: Secondo un'analisi di [Influence Map](https://influencemap.org/briefing/The-Carbon-Majors-Database-2023-Update-31397) la metà delle emissioni globali di anidride carbonica deriva dai combustibili fossili prodotti da sole 36 aziende. Parliamo di oltre 20 miliardi di tonnellate di CO₂ solo nel 2023.
+
+Questo giusto per ribadire che il grosso delle cause del problema, se di problema davvero si tratta, non andrebbe attribuito alla gente comune bensì a chi la governa e ritiene di doverla coccolare col superfluo.

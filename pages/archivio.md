@@ -6,6 +6,10 @@
 
 ## 2025
 
+Marzo
+
+- Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
+
 Febbraio
 
 - [Apple, specialista nel vendere desideri](/articles/2025-02-15-vendere-desideri.html) Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
