@@ -2,6 +2,21 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 ---
 
+# Bevi questo caffè
+9 marzo 2025
+
+Da quella che si fa chiamare "controinformazione" vedo commentare entusiasticamente l'[articolo](https://www.foxnews.com/politics/multimillion-dollar-biden-era-covid-vax-project-halted-trumps-hhs) di Fox News intitolato "Robert F. Kennedy Jr. ha sospeso un contratto multimilionario dell'amministrazione Biden per creare **un nuovo vaccino contro il COVID-19**, una settimana prima che 10.000 individui iniziassero le sperimentazioni cliniche".
+
+A me sembra piuttosto che, come ormai troppo spesso accade, ci si sia fermati soltanto al titolo.
+
+Basta infatti scendere qualche riga più in basso per scoprire che il contratto non è stato annullato ma "**è solo in pausa**, con Kennedy e altri funzionari sanitari pronti a esaminare i risultati iniziali dello studio **nei prossimi 90 giorni** prima di decidere i passi successivi".
+
+L'articolo riporta anche alcune delle dichiarazioni di Kennedy Jr. a riguardo, come ad esempio quando spiega che "non vede l'ora di lavorare con Vaxart e gli altri esperti medici per garantire che questo lavoro produca una tecnologia di vaccino sicura, efficace e **orientata al bilancio**".
+
+Pare inoltre che questo nuovo vaccino COVID-19 della società biotecnologica americana Vaxart possa essere "**assunto per via orale**".
+
+Scusate, ma quindi quale sarebbe la bella notizia?
+
 # Tachipirina e vigile attesa
 6 febbraio 2025
 
