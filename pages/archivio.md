@@ -8,7 +8,7 @@
 
 Marzo
 
-- [Non è troppo tardi per guardare il mondo con gli occhi di un bambino](/articles/2025-03-15-nove-doni.html). Gli insegnamenti di un mieloma mai accettato ma solo accolto, perché l'accettazione è già una sconfitta. E Giovanni Allevi è un guerriero
+- [Non è troppo tardi per guardare il mondo con gli occhi di un bambino](/articles/2025-03-14-nove-doni.html). Gli insegnamenti di un mieloma mai accettato ma solo accolto, perché l'accettazione è già una sconfitta. E Giovanni Allevi è un guerriero
 - Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
 
 Febbraio
