@@ -1,8 +1,8 @@
 Le ultime cose di cui vi ho parlato:
 
-Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
+[Non è troppo tardi per guardare il mondo con gli occhi di un bambino](/articles/2025-03-15-nove-doni.html). Gli insegnamenti di un mieloma mai accettato ma solo accolto, perché l'accettazione è già una sconfitta. E Giovanni Allevi è un guerriero
 
-[Apple, specialista nel vendere desideri](/articles/2025-02-15-vendere-desideri.html) Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
+Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
 
 Il Potere oggi [funziona così](/articles/2025-01-23-strutture-di-permesso.html), e la maggior parte delle persone non lo sa ancora
 

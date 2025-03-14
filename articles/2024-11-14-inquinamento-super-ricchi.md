@@ -24,6 +24,8 @@ Però tu ed io, [comprando l'auto elettrica, salveremo il mondo](https://yuridip
 
 ---
 
-**AGGIORNAMENTO Marzo 2025**: Secondo un'analisi di [Influence Map](https://influencemap.org/briefing/The-Carbon-Majors-Database-2023-Update-31397) la metà delle emissioni globali di anidride carbonica deriva dai combustibili fossili prodotti da sole 36 aziende. Parliamo di oltre 20 miliardi di tonnellate di CO₂ solo nel 2023.
+**AGGIORNAMENTO Marzo 2025**: Secondo un'[analisi](https://influencemap.org/briefing/The-Carbon-Majors-Database-2023-Update-31397) di Influence Map la metà delle emissioni globali di anidride carbonica deriva dai combustibili fossili prodotti da sole 36 aziende. Parliamo di oltre 20 miliardi di tonnellate di CO₂ solo nel 2023.
 
-Questo giusto per ribadire che il grosso delle cause del problema, se di problema davvero si tratta, non andrebbe attribuito alla gente comune bensì a chi la governa e ritiene di doverla coccolare col superfluo.
+Lo [studio](https://policy-practice.oxfam.org/resources/carbon-inequality-in-2030-per-capita-consumption-emissions-and-the-15c-goal-621305/) di Oxfam invece dimostra che un volo nello spazio inquina come un miliardo di poveri in una vita intera.
+
+Questo giusto per ribadire che il grosso delle cause del problema non andrebbe attribuito alla gente comune bensì a chi la governa e ritiene di doverla coccolare col superfluo. Una diseguaglianza climatica rappresentata da una ristrettissima élite che crede di avere il permesso di inquinare.
