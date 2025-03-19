@@ -2,6 +2,13 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 ---
 
+# Cieca obbedienza
+18 marzo 2025
+
+Con tutto il rispetto umano per la posizione dell'intervistato, ma a me questo articolo puzza tanto di inchino a un'ideologia, quella del vaccino come panacea di tutti i mali anche quando i rischi superano i benefici; di pregiudizio, verso chi si pone dubbi legittimi; di ricatto, perché a quanto pare sul giornale ci finisce solo chi ne parla bene anche se gli è andata male.
+
+https://www.ilcentro.it/pescara/amputato-dopo-il-vaccino-ho-visto-in-faccia-la-morte-ma-non-saro-mai-no-vax-ykannv9w
+
 # Bevi questo caffè
 9 marzo 2025
 
