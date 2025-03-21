@@ -4,7 +4,7 @@
 
 ---
 
-<details>
+<details open>
 
 <summary><strong>2025</strong></summary>
 
