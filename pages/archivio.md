@@ -10,6 +10,7 @@
 
 Marzo
 
+- [Cosa fanno gli schermi al nostro cervello, e come evitarlo](/articles/2025-03-26-smartphone-salute-cervello.html) Gli effetti negativi sono insidiosi perché sul momento non si vedono: ce ne accorgiamo quando è ormai troppo tardi
 - Forse non lo sai ma il registro elettronico sta educando tuo figlio. E proprio [sotto il tuo naso](/articles/2025-03-17-registro-elettronico.html)
 - [Non è troppo tardi per guardare il mondo con gli occhi di un bambino](/articles/2025-03-14-nove-doni.html). Gli insegnamenti di un mieloma mai accettato ma solo accolto, perché l'accettazione è già una sconfitta. E Giovanni Allevi è un guerriero
 - Visto che la insegnano nelle scuole, prendiamoci un momento per riflettere su [quel che cantava John Lennon con Imagine](/articles/2025-03-07-imagine.html)
