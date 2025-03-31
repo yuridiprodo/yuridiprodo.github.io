@@ -9,6 +9,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [La tirannia di un'idea](https://yuridiprodo.github.io/newsletter/04.html#20250401n)
 - [I nove doni. Sulla via della felicità](https://amzn.to/4hgIli4) di Giovanni Allevi. [Guerriero vero](https://yuridiprodo.github.io/articles/2025-03-14-nove-doni.html)
 - [La figlia](https://amzn.to/4h8YwOH) di Clara Usón. [Una tecnica di Hermann Goering](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
 - [Nuremberg Diary](https://amzn.to/4h6MVPV) di Gustave Gilbert. [Sarai tu a chiedere la guerra](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
