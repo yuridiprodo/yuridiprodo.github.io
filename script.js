@@ -39,10 +39,16 @@ async function loadQuote() {
         // Ottieni la data corrente e la data dell'ultima citazione salvata
         const currentDate = new Date();
         const lastQuoteDate = localStorage.getItem('lastQuoteDate');
+        const storedQuote = localStorage.getItem('storedQuote'); // Ottieni la citazione salvata
 
-        // Verifica se la citazione è stata già caricata oggi
-        if (lastQuoteDate && lastQuoteDate === currentDate.toDateString()) {
-            // Se la citazione è già stata mostrata oggi, non fare nulla
+        // Se la citazione è già stata caricata oggi, carica la citazione memorizzata
+        if (lastQuoteDate && lastQuoteDate === currentDate.toDateString() && storedQuote) {
+            // Carica la citazione salvata
+            const quoteContainer = document.getElementById('quote-container');
+            if (quoteContainer) {
+                quoteContainer.innerHTML = storedQuote; // Usa il contenuto precedentemente salvato
+                attachLinkHandlers(); // Aggiungi i gestori ai link
+            }
             return;
         }
 
@@ -88,8 +94,9 @@ async function loadQuote() {
             attachLinkHandlers(); // Assicurati che i link all'interno della citazione abbiano gli handler
         }
 
-        // Memorizza la data dell'ultima citazione visualizzata
+        // Memorizza la data dell'ultima citazione visualizzata e la citazione stessa
         localStorage.setItem('lastQuoteDate', currentDate.toDateString());
+        localStorage.setItem('storedQuote', quoteElement.outerHTML); // Memorizza la citazione in HTML
 
     } catch (error) {
         console.error('Errore nel caricare la citazione:', error);
