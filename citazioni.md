@@ -57,3 +57,15 @@
 *«Non penso a tutta la miseria, ma alla bellezza che rimane ancora»*. - Anne Frank, [Diario](https://amzn.to/4ceO47m)
 
 *«Ogni essere umano è qualcosa di personale e di irripetibile; voler sostituire al posto della coscienza personale una collettiva è già una violenza, e il primo passo verso ogni forma di totalitarismo»*. - Herman Hesse, [Letture da un minuto](https://amzn.to/3FNUzBU)
+
+*«Il fatto che un'opinione sia ampiamente condivisa, non è affatto una prova che non sia completamente assurda»*. - [Bertrand Russell](https://amzn.to/3YcAQC2)
+
+*«L'Italia sta marcendo in un benessere che è egoismo, stupidità, incultura, pettegolezzo, moralismo, coazione, conformismo: prestarsi in qualche modo a contribuire a questa marcescenza è ora, il fascismo»*. - Pier Paolo Pasolini, [I grandi interventi civili](https://amzn.to/4hRgaGR)
+
+*«Tutti pensano a cambiare il mondo, ma nessuno pensa a cambiare se stesso»*. - Lev Tolstoj, [Anna Karenina](https://amzn.to/3RiYzNr)
+
+*«È curioso vedere che gli uomini di molto merito hanno sempre le maniere semplici, e che sempre le maniere semplici sono state prese per indizio di poco merito»*. - Giacomo Leopardi, [Pensieri](https://amzn.to/42cMRJc)
+
+*«L'obiettivo non è restare vivi, ma restare umani»*. - George Orwell, [1984](https://amzn.to/3U26bo5)
+
+*«L'epoca attuale è il tempo della mediocrità aurea e dell'insensibilità, della passione per l'ignoranza, della pigrizia, dell'incapacità al lavoro e dell'aspirazione a trovar tutto già bell'e pronto. Nessuno pensa; di rado si trova qualcuno che concepisca un'idea»*. - Fëdor Dostoevskij, [L'adolescente](https://amzn.to/4cdW9cc)
