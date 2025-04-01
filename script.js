@@ -62,6 +62,13 @@ async function loadQuote() {
         // Crea un elemento blockquote per visualizzare la citazione
         const quoteElement = document.createElement('blockquote');
         quoteElement.innerHTML = htmlQuote; // Inserisci il contenuto HTML
+		
+        // Trova tutti i link nella citazione e aggiungi target="_blank"
+        const links = quoteElement.querySelectorAll('a');
+        links.forEach(link => {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+        });
 
         // Inserisci la citazione nel contenitore
         const quoteContainer = document.getElementById('quote-container');
