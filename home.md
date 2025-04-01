@@ -12,6 +12,6 @@ Tutti gli altri articoli sono nell'[Archivio](/pages/archivio.html).
 
 I consigli di lettura li trovate nella sezione [Libri](/pages/libri.html).
 
-<blockquote style="display:none;">![Snoopy che lavora al computer, un'immagine generata dall'intelligenza artificiale "Aria" integrata nel browser Opera](/img/snoopy-lavora-al-computer-aria-ai.jpg)</blockquote>
+![Una mia fotografia trasformata da ChatGPT in un disegno con lo stile dello Studio Ghibli](/img/profilo-ghibli.jpg)
 
 P.S. Le notizie che non possono aspettare le pubblico sul canale [Telegram](https://t.me/yuridiprodo); gli approfondimenti invece sono nella [Newsletter](/pages/newsletter.html).
