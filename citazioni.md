@@ -69,3 +69,13 @@
 *«L'obiettivo non è restare vivi, ma restare umani»*. - George Orwell, [1984](https://amzn.to/3U26bo5)
 
 *«L'epoca attuale è il tempo della mediocrità aurea e dell'insensibilità, della passione per l'ignoranza, della pigrizia, dell'incapacità al lavoro e dell'aspirazione a trovar tutto già bell'e pronto. Nessuno pensa; di rado si trova qualcuno che concepisca un'idea»*. - Fëdor Dostoevskij, [L'adolescente](https://amzn.to/4cdW9cc)
+
+*«Il buon senso c'era; ma se ne stava nascosto, per paura del senso comune»*. - Alessandro Manzoni, [I promessi sposi](https://amzn.to/42lpDAK)
+
+*«Ogni giorno, quello che scegli, quello che pensi e quello che fai è ciò che diventi»*. - Eraclito, [Frammenti](https://amzn.to/3FPQQUx)
+
+*«Non sei mica fascista? mi disse. Era serie e rideva. Le presi la mano e sbuffai. Lo siamo tutti, cara Cate - dissi piano. - Se non lo fossimo, dovremmo rivoltarci, tirare le bombe, rischiare la pelle. Chi lascia fare e s'accontenta, è già un fascista»*. - Cesare Pavese, [La casa in collina](https://amzn.to/3DXHTb9)
+
+*«Chiunque coltivi le proprie diversità con dignità e coraggio, attraversando i disagi dell'emarginazione con l'unico intento di rassomigliare a sé stesso, è già di per sé un vincente»*. - Fabrizio De André, [Ho paura di fare il poeta](https://amzn.to/4chE8tK)
+
+*«Prevedo la spoliticizzazione completa dell'Italia: diventeremo un gran corpo senza nervi, senza più riflessi. La strada maestra, fatta di qualunquismo e di alienante egoismo, è già tracciata»*. - Pier Paolo Pasolini, [I grandi interventi civili](https://amzn.to/4hRgaGR)
