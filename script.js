@@ -36,7 +36,17 @@ async function loadHome() {
 
 async function loadQuote() {
     try {
-        // Carica il file citazioni.md
+        // Ottieni la data corrente e la data dell'ultima citazione salvata
+        const currentDate = new Date();
+        const lastQuoteDate = localStorage.getItem('lastQuoteDate');
+
+        // Verifica se la citazione è stata già caricata oggi
+        if (lastQuoteDate && lastQuoteDate === currentDate.toDateString()) {
+            // Se la citazione è già stata mostrata oggi, non fare nulla
+            return;
+        }
+
+        // Se è un nuovo giorno o non è mai stato memorizzato, carica una nuova citazione
         const response = await fetch('/citazioni.md');
         if (!response.ok) throw new Error('File citazioni.md non trovato');
         
@@ -62,7 +72,7 @@ async function loadQuote() {
         // Crea un elemento blockquote per visualizzare la citazione
         const quoteElement = document.createElement('blockquote');
         quoteElement.innerHTML = htmlQuote; // Inserisci il contenuto HTML
-		
+
         // Trova tutti i link nella citazione e aggiungi target="_blank"
         const links = quoteElement.querySelectorAll('a');
         links.forEach(link => {
@@ -75,8 +85,12 @@ async function loadQuote() {
         if (quoteContainer) {
             quoteContainer.innerHTML = ''; // Pulisce il contenuto precedente
             quoteContainer.appendChild(quoteElement);
-			attachLinkHandlers();
+            attachLinkHandlers(); // Assicurati che i link all'interno della citazione abbiano gli handler
         }
+
+        // Memorizza la data dell'ultima citazione visualizzata
+        localStorage.setItem('lastQuoteDate', currentDate.toDateString());
+
     } catch (error) {
         console.error('Errore nel caricare la citazione:', error);
     }
