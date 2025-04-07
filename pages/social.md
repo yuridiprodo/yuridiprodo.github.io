@@ -1,6 +1,32 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Il suicidio dell'Europa 2014-2025
+7 aprile 2025
+
+Barbero ci spiega come mai il 2025 assomigli tremendamente al 2014. Troppo, in effetti. E se ce lo dice uno che la Storia la conosce come le sue tasche, non solo c'è da credergli, ma dovremmo anche ascoltare il suo consiglio. Per evitare che l'Europa si suicidi. Di nuovo.
+
+Copincolla: «{In quegli anni} l'opinione pubblica, intossicata sentendo parlare continuamente della prossima guerra e dei malvagi nemici che ci minacciano, ha cominciato a chiedere sicurezza, armamenti e alleanze. Il risultato? In entrambi i paesi si diffonde il nervosismo, la sensazione di insicurezza, la sensazione che *l'altro* è il nemico. {Contemporaneamente} uscivano romanzi che raccontavano come il nostro paese presto sarebbe stato invaso da un feroce nemico. {Ma dopo anni di continui riarmi} i libri che parlano della prossima guerra a quel punto non sono più soltanto dei romanzi. Cominciano a uscire i libri dei generali che parlano della prossima guerra. Nel 1911 esce un libro del generale tedesco von Bernardi che si intitola "La Germania e la prossima guerra", con capitoli che hanno titoli come: "Il diritto di fare la guerra", "Il dovere di fare la guerra", "Dominare il mondo o perire". Nei primi di giugno del 1914, il generale von Moltke, comandante dell'esercito tedesco, dichiara: "Adesso siamo pronti e prima è meglio è." Ecco, io poi ogni tanto mi dico: "Ma no, non è vero, dai, che la nostra epoca assomiglia tanto a quella, ci sono tante differenze." Però, alla fine, guardate, io credo che dipenderà essenzialmente da noi, fare in modo che davvero questa nostra epoca non assomigli *troppo* a quella che ha preceduto il suicidio dell'Europa nel 1914».
+
+https://www.youtube.com/watch?v=BXerCNN61VY
+
+# I dazi di Trump
+6 aprile 2025
+
+Quanto allarmismo sui dazi di Trump. Come se li avesse inventati lui. Ci siamo già dimenticati di quelli messi dai suoi predecessori e dalla stessa UE? Piuttosto, è l'ennesima conferma che il modello capitalista alla lunga diventa insostenibile. Non si può pretendere di crescere all'infinito. La globalizzazione è il cancro del ventunesimo secolo. Va estirpato, e alla svelta. Per preservare le tradizioni locali, la nostra storia, la nostra unicità. E ridare ossigeno al pianeta.
+
+Copincolla: "La politica protezionistica statunitense porterà il vero Made in Italy a ridurre drasticamente i suoi volumi di affari oltreoceano e, in particolare, penalizzerà il fatturato di molte piccole e medie imprese del comparto agroalimentare. I sapori del Piceno e delle Marche, da sempre molto apprezzati al di fuori dei confini nazionali, erano riusciti nel tempo a ritagliarsi uno spazio di rilievo sul mercato americano, che investiva 5 miliardi di euro l’anno per l’importazione di prodotti alimentari italiani."
+
+https://www.cronachepicene.it/2025/04/04/lo-spettro-dei-dazi-usa-sullexport-del-piceno-colpo-durissimo-per-i-prodotti-artigianali/523497/
+
+# Chiesa trasformata in moschea
+5 aprile 2025
+
+Tanto per dare una ripassatina alla [Finestra di Overton](https://yuridiprodo.github.io/articles/2024-02-15-obbligatorio-abortire.html), che di questi tempi fa sempre bene. Per tenere d'occhio quel che succede intorno a noi, e magari anche farsi un'idea di quel che verrà. Scrivono dalla Puglia:
+
+Copincolla: "Dopo gli assurdi "venerdì di Ramadan" nelle parrocchie, ora arriviamo al punto in cui una chiesa viene ceduta, per un giorno, alla celebrazione islamica. Accade a Brindisi, dove la parrocchia San Carlo di Gesù si trasforma in una sorta di moschea improvvisata, con il placet del vescovo e la compiacenza delle solite sigle della sinistra militante. Non si tratta di semplice dialogo interreligioso, bensì di un episodio di pura capitolazione. L'Islam, si sa, non è una semplice religione, ma un progetto politico di conquista. Ogni spazio ceduto, ogni porta aperta, ogni segnale di debolezza viene interpretato come una vittoria. Quante altre chiese dovremo vedere trasformate in centri islamici prima che qualcuno si accorga di quello che sta succedendo? Quanto ancora dovremo subire questa sistematica erosione della nostra identità, delle nostre radici, della nostra cultura?"
+
+https://proitaliacristiana.it/articoli/litalia-che-si-arrende-chiesa-trasformata-in-moschea-a-brindisi
 
 # Cieca obbedienza
 18 marzo 2025
