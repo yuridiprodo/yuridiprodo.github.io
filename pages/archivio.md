@@ -8,6 +8,10 @@
 
 <summary><strong>2025</strong></summary>
 
+Aprile
+
+- [L'indifferenza indotta non ci sta facendo bene](/articles/2025-04-10-indifferenza.html) Ogni tecnologia, in proporzione, dà e toglie. E gli smartphone ci danno tantissimo
+
 Marzo
 
 - [Cosa fanno gli schermi al nostro cervello, e come evitarlo](/articles/2025-03-26-smartphone-salute-cervello.html) Gli effetti negativi sono insidiosi perché sul momento non si vedono: ce ne accorgiamo quando è ormai troppo tardi
