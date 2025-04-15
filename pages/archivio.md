@@ -10,6 +10,7 @@
 
 Aprile
 
+- [Finché non vedo non credo](/articles/2025-04-15-clone-digitale.html) D'ora in poi il detto di San Tommaso non conta più: i cloni digitali sono già tra noi
 - [L'indifferenza indotta non ci sta facendo bene](/articles/2025-04-10-indifferenza.html) Ogni tecnologia, in proporzione, dà e toglie. E gli smartphone ci danno tantissimo
 
 Marzo
