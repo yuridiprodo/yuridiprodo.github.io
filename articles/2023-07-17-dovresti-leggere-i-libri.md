@@ -23,3 +23,13 @@ Stremato, si sedette accanto al Maestro e disse: “Non riesco a prendere l’ac
 “Non importa se non riesci a trattenere nella tua memoria tutta l’acqua che essi fanno scorrere in te, poiché i libri comunque, **con le loro idee, le emozioni, i sentimenti, la conoscenza, la verità che vi troverai tra le pagine, puliranno la tua mente e il tuo spirito**, e ti renderanno una persona migliore e rinnovata. Questo è lo scopo della lettura”.
 
 *dal web*
+
+---
+
+A caccia di spunti di lettura? [dai un'occhiata qui](/pages/libri.html).
+
+---
+
+**AGGIORNAMENTO**, 18 aprile 2025
+
+Vorrei concludere con questo mio breve pensiero: da un lato i libri sono forse il mezzo migliore che abbiamo per conservare e trasmettere la conoscenza umana oltre l'arco della nostra vita. Dall'altro, leggerli è un'opportunità unica per poter confrontare le nostre idee con quelle delle menti più brillanti del passato. Senza di essi, l'evoluzione sarebbe impossibile se non fortemente limitata.

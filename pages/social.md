@@ -1,6 +1,70 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# antifascismo è tabù
+25 aprile 2025
+
+Nel frattempo nella mia città natale, durante la giornata in cui si commemora la liberazione dell'Italia dal fascismo, la parola antifascismo diventa tabù. Proprio come nel [bipensiero orwelliano](/articles/2024-03-25-facebook-censura-politica.html), in cui si finge di onorare la libertà mentre si censura chi la difende davvero. Ad Ascoli Piceno c'è chi affigge lo striscione "25 aprile, buono come il pane, bello come l’antifascismo" e quindici minuti dopo arriva la Volante a chiedere lumi.
+
+Copincolla: "il problema, è subito stato chiaro, non era la posizione quanto piuttosto il contenuto del telo. Non convinti, infatti, gli agenti si sono dilungati in una telefonata probabilmente con un superiore, per capire il da farsi. La perplessità delle forze dell’ordine stava nel fatto che la questione poteva creare scompiglio sui social".
+
+https://www.cronachepicene.it/2025/04/25/25-aprile-uno-striscione-a-tema-sul-muro-di-unattivita-commerciale-ma-arriva-la-polizia/526890/
+
+# papa Francesco, il cordoglio della massoneria
+24 aprile 2025
+
+La Gran Loggia d’Italia ci fa sapere che papa Francesco era in «profonda risonanza con i principi della Massoneria». Un bel salto di qualità visto che ai tempi del pontificato di Benedetto XVI parlavano invece di «assoluta inconciliabilità fra Chiesa Cattolica e Massoneria».
+
+Copincolla: "la centralità della persona, il rispetto per la dignità di ogni individuo, la costruzione di una comunità solidale, il perseguimento del bene comune. La sua enciclica Fratelli tutti rappresenta un manifesto. Libertà, Uguaglianza e Fratellanza è il triplice asset valoriale della Massoneria. Superare le divisioni, le ideologie, il pensiero unico per riconoscere la ricchezza delle differenze e costruire un’umanità unita nella diversità, questo voleva ardentemente Francesco, lo stesso disegno persegue la Gran Loggia d’Italia."
+
+oggi: https://www.granloggia.it/francesco-il-papa-degli-ultimi/
+
+ieri: https://www.granloggia.it/chiesa-cattolica-e-massoneria-risposta-a-mons-galantino/
+
+Approfitto dell'argomento per aggiungere che è stato pubblicato il testamento scritto da Francesco nel 2022 dove si specifica che le spese per il suo funerale saranno interamente a carico di un benefattore anonimo. Così, *pourparler*.
+
+testamento: https://www.vatican.va/content/francesco/it/speeches/2025/april/documents/20250421-testamento-francesco.html
+
+# report sul COVID da Trump
+23 aprile 2025
+
+Il 18 aprile la Casa Bianca ha pubblicato un report sul COVID datato Dicembre 2024 in cui si denunciano i metodi coercitivi con cui il governo americano ha messo in ginocchio i suoi cittadini e, per estensione (datosi che si è trattata di una pandemia) quelli di tutto il mondo.
+
+Copincolla: "**DISINFORMAZIONE** - I funzionari della sanità pubblica hanno spesso ingannato il popolo americano attraverso messaggi contrastanti, reazioni impulsive e mancanza di trasparenza. In maniera più eclatante, il governo federale ha demonizzato i trattamenti alternativi e le opinioni sfavorevoli, come la teoria della fuga di laboratorio, in un vergognoso tentativo di forzare e controllare le decisioni sanitarie del popolo americano. Quando questi sforzi sono falliti, l'amministrazione Biden ha fatto ricorso alla "censura vera e propria, costringendo e colludendo con le più grandi società di social media del mondo per censurare tutto il dissenso legato al COVID-19".
+
+**DISTANZIAMENTO SOCIALE** - La raccomandazione di distanziamento sociale "a 1,8 metri di distanza" - che ha portato alla chiusura di scuole e piccole imprese in tutto il paese - era arbitraria e non basata sulla scienza. Durante la testimonianza a porte chiuse, il Dott. Fauci ha dichiarato che le linee guida "sono apparse all'improvviso".
+ 
+**OBBLIGO MASCHERINA** - Non c'erano prove conclusive che le maschere proteggessero efficacemente gli americani dal COVID-19. I funzionari della sanità pubblica hanno capovolto l'efficacia delle mascherine senza fornire dati scientifici agli americani, causando un massiccio aumento della sfiducia pubblica.
+ 
+**LOCKDOWN** - I lockdown prolungati hanno causato danni incommensurabili non solo all'economia americana, ma anche alla salute mentale e fisica degli americani, con un effetto particolarmente negativo sui cittadini più giovani. Piuttosto che dare priorità alla protezione delle popolazioni più vulnerabili, le politiche del governo federale e statale hanno costretto milioni di americani a rinunciare agli elementi cruciali di una vita sana e finanziariamente sana. 
+
+**ORIGINE** - La pubblicazione "The Proximal Origin of SARS-CoV-2", usata ripetutamente dai funzionari della sanità pubblica e dai media per screditare la teoria della fuga di laboratorio, è stata promossa dal Dr. Fauci per spingere la narrativa preferita secondo cui il COVID-19 avrebbe avuto origine naturale.
+
+1. Il virus possiede una caratteristica biologica che non si trova in natura.
+
+2. I dati mostrano che tutti i casi di COVID-19 derivano da una singola infezione da virus nell'uomo. Questo è in contrasto con le precedenti pandemie, in cui si sono verificati molteplici eventi di spillover.
+
+3. Wuhan ospita il più importante laboratorio di ricerca cinese sulla SARS, che in passato ha condotto ricerche sull'acquisizione di funzione (alterazione genetica e sovralimentazione degli organismi) con livelli di biosicurezza inadeguati.
+
+4. I ricercatori del Wuhan Institute of Virology (WIV) manifestarono sintomi simili a quelli del COVID nell'autunno del 2019, mesi prima che il COVID-19 venisse scoperto al mercato del pesce.
+
+5. Secondo quasi tutti i parametri scientifici, se ci fossero state prove di un'origine naturale, sarebbero già emerse. Ma non è così.
+
+annuncio: https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/
+
+report completo: https://www.whitehouse.gov/wp-content/uploads/2025/04/2024.12.04-SSCP-FINAL-REPORT-ANS.pdf
+
+# nuovo papa
+22 aprile 2025
+
+Si vocifera che il cardinale Jean-Marc Aveline sia il favorito per succedere a Francesco nel prossimo conclave. Fonti interne al Vaticano hanno espresso a LifeSiteNews la loro convinzione che “sarà il prossimo papa”. C’è solo un problema: la sua teologia non è cattolica.
+
+Guardate qua: non ricorda anche a voi proprio quella [dittatura del relativismo](https://www.vatican.va/gpII/documents/homily-pro-eligendo-pontifice_20050418_it.html) verso cui ci metteva in guardia l'allora cardinal Ratzinger alla vigilia della sua elezione?
+
+Copincolla: Aveline "relativizza il cristianesimo, trattandolo come un fenomeno storicamente condizionato. Afferma infatti che c’è “bisogno di consapevolezza della relatività del cristianesimo nella storia delle religioni”. Sebbene l’analisi storica abbia il suo posto, Aveline la invoca per relativizzare la rivelazione divina. Nel creare falsi dilemmi che minano la fede, Aveline rifugge dalla tradizione cattolica e inquadra il suo approccio attraverso la lente dei teorici protestanti e del naturalismo. Il risultato è che le verità fondamentali vengono problematizzate, riformulate come tensioni da superare e infine subordinate al nuovo _summum bonum_ del “dialogo”, inteso non come mezzo per raggiungere la verità, ma come la lente attraverso cui comprendere l’annuncio del Vangelo".
+
+https://www.lifesitenews.com/opinion/cardinal-aveline-is-rumored-to-be-the-next-pope-but-is-he-catholic/
+
 # Il suicidio dell'Europa 2014-2025
 7 aprile 2025
 
