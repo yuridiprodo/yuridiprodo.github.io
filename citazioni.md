@@ -174,3 +174,5 @@
 *«Non si impara il latino e il greco per parlare queste lingue, per fare i camerieri o gli interpreti o che so io. Si imparano per conoscere la civiltà dei due popoli, la cui vita si pone come base della cultura mondiale»*. - [Antonio Gramsci](https://amzn.to/4lcR7Rt)
 
 *«Chi detiene il potere ha bisogno che le persone siano affette da tristezza»*. - Spinoza, [Trattato teologico-politico](https://amzn.to/3YsYv1h)
+
+*«Se non prestate attenzione, i giornali vi porteranno a odiare le persone che sono oppresse, e ad amare quelle che stanno opprimendo»*. - Malcolm X, [L'Autobiografia](https://amzn.to/4jPLEP1)
