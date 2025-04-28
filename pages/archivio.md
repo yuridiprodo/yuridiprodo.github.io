@@ -4,9 +4,7 @@
 
 ---
 
-<details open>
-
-<summary><strong>2025</strong></summary>
+## 2025
 
 Aprile
 
@@ -34,11 +32,7 @@ Gennaio
 - Comodità e Sicurezza. Due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [Una conferma](/articles/2025-01-11-comodita-sicurezza.html)
 - Una possibilità su cinque che l'IA ci farà fuori nel giro di trent'anni. [La profezia di Hinton](/articles/2025-01-08-ia-catastrofe.html)
 
-</details>
-
-<details>
-
-<summary><strong>2024</strong></summary>
+## 2024
 
 Dicembre
 
@@ -126,11 +120,7 @@ Gennaio
 - [Non siamo (ancora) macchine](/articles/2024-01-24-non-siamo-ancora-macchine.html) Umanità, bontà e gentilezza CERCANSI. Disperatamente, aggiungerei
 - [La malattia X](/articles/2024-01-19-malattia-x.html) «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. Altro che Sapiens Sapiens, ci meritiamo l'etichettatura tripla
 
-</details>
-
-<details>
-
-<summary><strong>2023</strong></summary>
+## 2023
 
 Dicembre
 
@@ -197,11 +187,7 @@ Gennaio
 
 - [Benedetto XVI, tutto il lascito in 500 MB](/articles/2023-01-20-benedetto-xvi.html) Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi
 
-</details>
-
-<details>
-
-<summary><strong>2022</strong></summary>
+## 2022
 
 Dicembre
 
@@ -216,11 +202,7 @@ Gennaio
 
 - [Il primo negozio abbigliamento di Amazon, e addio privacy](/articles/2022-01-22-primo-negozio-abbigliamento-amazon.html) La nuova "normalità" passa anche da qui
 
-</details>
-
-<details>
-
-<summary><strong>2021</strong></summary>
+## 2021
 
 Agosto
 
@@ -229,7 +211,5 @@ Agosto
 Marzo
 
 - [Energia e civilità. Una storia](/articles/2021-03-16-energia-civilta-storia.html) Dove ci troviamo e dove siamo diretti
-
-</details>
 
 *[Urca, siete arrivati in fondo al blog!](/articles/2009-10-01-pronti-partenza-via.html)*
