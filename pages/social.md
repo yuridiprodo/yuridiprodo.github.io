@@ -1,6 +1,40 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# camino conclave in diretta
+7 maggio 2025
+
+Nel mezzo, tra l'*Extra Omnes* appena pronunciato e l'*Habemus Papam* in arrivo, c'è una webcam che punta dritta dritta al camino della Cappella Sistina.
+
+Potete sintonizzarvici in qualsiasi momento, specie negli orari in cui potrebbe apparire la fumata, ovvero:
+
+~ 10:30 (solo per fumata bianca)
+~ 12:00 (fumata bianca o nera)
+~ 17:30 (solo per fumata bianca)
+~ 19:00 (fumata bianca o nera)
+
+Vi metto il link qui sotto
+
+https://www.youtube.com/watch?v=gqQx7cgNP84
+
+# sul caso Becciu e Parolin
+2 maggio 2025
+
+Sul caso Becciu ci sono diverse cose che non tornano. Ad esempio, un documento datato settembre 2023 in cui gli si vieta di votare al prossimo conclave per delle accuse che sarebbero emerse soltanto a dicembre. E poi l'ultimo motu proprio di Francesco, firmato con una semplice "F" nei giorni di ospedalizzazione in condizioni non proprio ottimali e mai pubblicato, ma tenuto sotto chiave fino a pochi giorni fa.
+
+Copincolla: "Tutto questo è tremendo. Ma è ancora più tremendo il fatto che la reputazione del card. Pietro Parolin, che gestisce gli affari correnti della Segreteria di Stato e si appresta a guidare il conclave come il più anziano dei cardinali vescovi con diritto di voto, non ne sia minimamente intaccata. Inoltre, dopo alcune proteste, il card. Giovanni Angelo Becciu ha rinunciato ai suoi diritti. Un bel gesto spontaneo… La sua rinuncia è un regalo sontuoso fatto al card. Parolin, che può già contare su cinquanta voti nel conclave che si aprirà la prossima settimana (la maggioranza assoluta necessaria per essere eletto sarà di 89 voti)."
+
+https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4246
+
+# la profezia di Giovanni Paolo II
+28 aprile 2025
+
+Magari nel 1994 non ci abbiamo fatto caso (quantomeno, io: avevo solo 7 anni!) ma papa Giovanni Paolo II ci aveva avvisati: la famiglia era in pericolo già all'epoca. Alla luce di [quanto accaduto negli ultimi anni](https://yuridiprodo.github.io/articles/2024-02-17-famiglia-una-ideologia.html), non possiamo che ritenere l'Angelus di quel Maggio del '94 una incredibile profezia. 
+
+Copincolla: "ho capito che devo introdurre la Chiesa di Cristo in questo Terzo Millennio con la preghiera, con diverse iniziative, ma ho visto che non basta: bisognava introdurla con la sofferenza, con l'attentato di tredici anni fa e con questo nuovo sacrificio. Perché adesso, perché in questo anno, perché in questo Anno della Famiglia? Appunto perché la famiglia è minacciata, la famiglia è aggredita. Deve essere aggredito il Papa, deve soffrire il Papa, perché ogni famiglia e il mondo vedano che c'è un Vangelo, direi, superiore: il Vangelo della sofferenza, con cui si deve preparare il futuro, il terzo millennio delle famiglie, di ogni famiglia e di tutte le famiglie".
+
+https://www.vatican.va/content/john-paul-ii/it/angelus/1994/documents/hf_jp-ii_ang_19940529.html
+
 # antifascismo è tabù
 25 aprile 2025
 
