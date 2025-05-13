@@ -14,8 +14,9 @@ Potete sintonizzarvici in qualsiasi momento, specie negli orari in cui potrebbe 
 ~ 19:00 (fumata bianca o nera)
 
 Vi metto il link qui sotto
-
 https://www.youtube.com/watch?v=gqQx7cgNP84
+
+Aggiornamento: questo invece il link alla diretta in italiano di VaticanNews per chi preferisce accompagnare l'attesa con un commento a cura della Radio Vaticana. https://www.youtube.com/watch?v=gW-upYJcuSE
 
 # sul caso Becciu e Parolin
 2 maggio 2025

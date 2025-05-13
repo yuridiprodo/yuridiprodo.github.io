@@ -6,6 +6,10 @@
 
 ## 2025
 
+Maggio
+
+- Il presente non è fatto solo di attualità, perché il passato dura nel divenire. [Un pensiero](/articles/2025-05-13-sulle-notizie.html)
+
 Aprile
 
 - [Prendete appunti senza remore](/articles/2025-04-28-sugli-appunti.html) Perché è importante farlo ancora oggi, e perché andrebbe evitato il sistema digitale. Piccoli consigli nati da...alcuni appunti
