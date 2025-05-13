@@ -1,8 +1,8 @@
 Le ultime cose di cui vi ho parlato:
 
-- [Finché non vedo non credo](/articles/2025-04-15-clone-digitale.html) D'ora in poi il detto di San Tommaso non conta più: i cloni digitali sono già tra noi
+- Il presente non è fatto solo di attualità, perché il passato dura nel divenire. [Un pensiero](/articles/2025-05-13-sulle-notizie.html)
 
-- [L'indifferenza indotta non ci sta facendo bene](/articles/2025-04-10-indifferenza.html) Ogni tecnologia, in proporzione, dà e toglie. E gli smartphone ci danno tantissimo
+- [Finché non vedo non credo](/articles/2025-04-15-clone-digitale.html) D'ora in poi il detto di San Tommaso non conta più: i cloni digitali sono già tra noi
 
 - Il Potere oggi [funziona così](/articles/2025-01-23-strutture-di-permesso.html), e la maggior parte delle persone non lo sa ancora
 
