@@ -1,6 +1,11 @@
 const articlesDiv = document.getElementById('articles');
 const subtitle = document.querySelector('.subtitle');
 
+// Funzione per correggere i percorsi immagini
+function adjustImagePaths(markdown) {
+    return markdown.replace(/!\[(.*?)\]\((?!\/|https?:\/\/)(.*?)\)/g, '![$1](/img/$2)');
+}
+
 // Funzione per caricare la home
 async function loadHome() {
     try {
@@ -12,7 +17,8 @@ async function loadHome() {
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const html = marked(markdown);
+		const adjustedMarkdown = adjustImagePaths(markdown);
+		const html = marked(adjustedMarkdown);
         
         // Mostra il contenuto della home
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -118,7 +124,8 @@ async function loadArticle(articleName) {
         const response = await fetch(`/articles/${articleName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const html = marked(markdown);
+		const adjustedMarkdown = adjustImagePaths(markdown);
+		const html = marked(adjustedMarkdown);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -161,7 +168,8 @@ async function loadPages(pageName) {
         const response = await fetch(`/pages/${pageName.replace('.html', '.md')}`);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const html = marked(markdown);
+		const adjustedMarkdown = adjustImagePaths(markdown);
+		const html = marked(adjustedMarkdown);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
@@ -195,7 +203,8 @@ async function loadNewsletter(newsletterName) {
         if (!response.ok) throw new Error('File non trovato');
         
         const markdown = await response.text();
-        const html = marked(markdown);
+		const adjustedMarkdown = adjustImagePaths(markdown);
+		const html = marked(adjustedMarkdown);
         
         // Mostra il footer menu
         document.getElementById('footer-menu').style.display = 'block';
@@ -274,7 +283,8 @@ async function loadMarkdown(fileName) {
         const response = await fetch(fileName);
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
-        const html = marked(markdown);
+		const adjustedMarkdown = adjustImagePaths(markdown);
+		const html = marked(adjustedMarkdown);
 		
 	    // Mostra il footer menu
 	    document.getElementById('footer-menu').style.display = 'block';
