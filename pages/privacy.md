@@ -1,7 +1,6 @@
 # **Privacy Policy di Onda Libera**
 
-Questo sito vi traccia? vi scheda? vi vende al miglior offerente su qualche oscuro mercato di dati?  
-No. Almeno... non che io sappia.
+Questo sito vi traccia? vi scheda? vi vende al miglior offerente su qualche oscuro mercato di dati? No. Almeno... non che io sappia.
 
 La verità è che non sono né un programmatore, né un esperto di privacy digitale. Sono un giornalista - ma senza badge al collo e con l'autonomia che il web permette. Tuttavia siccome l'Unione Europea ha deciso che ogni sito web debba avere la sua bella "Privacy Policy", allora eccomi qua a scriverne una, dando forma a questo sito con un po' di mestiere giornalistico e l'aiuto digitale di ChatGPT, che sa scrivere JavaScript meglio di me.
 
@@ -29,7 +28,7 @@ Quindi ho chiesto a **ChatGPT** - che almeno lui ha studiato - di scrivere una v
 
 ---
 
-#### Introduzione
+# Introduzione
 
 La tua privacy è importante. Questa Privacy Policy descrive come vengono raccolti, usati e protetti i dati degli utenti del sito **Onda Libera** ([https://yuridiprodo.github.io](https://yuridiprodo.github.io)). La policy è conforme al **Regolamento (UE) 2016/679** (GDPR).
 
