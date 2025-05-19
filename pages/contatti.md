@@ -19,7 +19,6 @@ Quasi dimenticavo: se hai aperto questa pagina perché desideri condividere qual
 ![Yuri Di Prodo, un ritratto](profilo-mini.jpeg)
 
 <p style="color: gray; font-style: italic; font-size: 0.6em;">
-    Questo sito utilizza cookie tecnici per il suo funzionamento. Continuando a navigare, accetti l'uso di questi cookie. 
-    Per maggiori informazioni, consulta la 
+    Forse questo sito utilizza cookie tecnici per il suo funzionamento. O forse no. Continuando a navigare, accetti l'uso di questi cookie (se mai ci dovessero essere). Per maggiori informazioni, consulta la 
     <a href="https://yuridiprodo.github.io/pages/privacy.html" style="color: gray; text-decoration: none; font-style: italic;">privacy policy</a>.
 </p>
