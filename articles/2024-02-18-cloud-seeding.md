@@ -15,3 +15,7 @@ COME COME COME? la semina delle nuvole? **il cloud seeding**? voglio dire, QUEL 
 Ma come, non era tutto un (com'è che si scrive?) *"GOMBLOTTOH!!1!!1 sono le scie chimichehhh e non cielo diconohh!!1!!1!"*
 
 Quindi ora che lo scrive Sky TG24 è vero? o **sono diventati complottisti pure loro**? ormai non ci si può fidare più di nessuno.
+
+---
+
+**Aggiornamento, 16 Maggio 2025**: anche Repubblica parla dell'argomento con [un articolo](https://www.repubblica.it/green-and-blue/2025/05/06/news/clima_particelle_di_aerosol_temperature-424157592/) pubblicato il 9 Maggio il cui titolo è tutto un programma: "Clima, particelle di aerosol nel cielo per abbassare le temperature: Si chiama geoingegneria solare, un processo che raffredda il Pianeta in modo artificiale. Non agisce sulle emissioni, ma sulla mitigazione degli effetti. Mancano però evidenze scientifiche sui benefici. Anche i rischi sono ignoti".

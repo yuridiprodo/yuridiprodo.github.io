@@ -1,6 +1,37 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# alcol bene di prima necessità
+17 maggio 2025
+
+Certo. D'altronde come si può sopravvivere in questo mondo storto restando lucidi? l'alcol è di primissima necessità. Altroché.
+
+Copincolla: "Una focaccia, 4 confezioni di wurstel, 2 di tacchino macinato, 2 di cosce di pollo, 2 bottiglie di Amarone di Valpolicella, una di crema-limoncino, e due di altri liquori. E’ il bottino di un furto che hanno messo a segno due marocchini di 36 e 33 anni sorpresi ad appropriarsi di questi beni in un supermercato a San Benedetto, per un valore complessivo di circa 100 euro. Assolti dopo il furto: “Erano beni di prima necessità"
+
+https://t.me/ilrestodelcarlinoascoli/5100
+
+# la TARI ad Ascoli Piceno
+16 maggio 2025
+
+Incredibile come si utilizzi il ["Divide et impera"](https://yuridiprodo.github.io/articles/2024-02-08-matrix.html) degli antichi romani perfino per giustificare l'aumento delle tasse. Bello, bravi, complimenti! fomentiamo pure l'odio tra i cittadini, mentre li spremiamo.
+
+Così anziché ribellarsi con chi li salassa, se la prenderanno col vicino di casa o col primo che passa per strada, colpevole di aver buttato l'involucro della caramella nel primo cestino che ha trovato anziché riportarselo a casa per smaltirlo in quello della carta. Come se quel coriandolo fosse [il vero problema dell'inquinamento](https://yuridiprodo.github.io/articles/2024-11-14-inquinamento-super-ricchi.html).
+
+Copincolla: "Fioravanti – puntualizzano gli esponenti del gruppo di opposizione – attribuisce la “colpa” dell’aumento della Tari sia alle deliberazioni dall’Arera, sia al comportamento poco virtuoso di alcuni cittadini. Ebbene – chiedono – come mai tante altre città italiane hanno applicato l’aumento imposto dall’Arera e sono comunque riuscite a mantenere il costo della Tari in linea con gli anni precedenti, mentre noi dobbiamo pagare in proporzione molto di più rispetto alla media italiana? E poi: i cittadini che non fanno la differenziata sono davvero così tanti da comportare un aumento tanto ampio della Tari?"
+
+https://www.cronachepicene.it/2025/05/16/aumento-tari-ascolto-partecipazione-ben-superiore-alla-media-nazionale/530086/
+
+# pepe mujica addio
+14 maggio 2025
+
+Fra pochi giorni avrebbe compiuto 90 anni: **Pepe Mujica**, storico presidente dell'Uruguay, viene spesso ricordato per il suo volto sereno segnato dall’età e per la vita sobria e austera degli ultimi anni. Ma troppo spesso ci si dimentica delle battaglie e degli ideali che lo hanno forgiato nei suoi anni più turbolenti: quelli della militanza rivoluzionaria, della resistenza alla dittatura e delle torture subite nei tredici lunghi anni trascorsi in carcere.
+
+Quando gli chiesero quale fosse il senso della vita disse: *«avere una cosa principale che riempie i capitoli e le preoccupazioni della nostra esistenza. La vita umana, per il nostro sviluppo intellettuale, in parte ci permette di scegliere una causa per vivere e darle quindi un senso. Questo è il premio di avere coscienza».*
+
+Lo ricorderò per sempre per la sua profonda **visione del tempo**, che ha lasciato un segno indelebile nella mia vita.
+
+[VIDEO]
+
 # camino conclave in diretta
 7 maggio 2025
 

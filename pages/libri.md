@@ -45,7 +45,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [Il libro rosso](https://amzn.to/3tY9iV3) di Carl Gustav Jung. [Coscienza e inconscio](https://yuridiprodo.github.io/pages/social.html#20231107)
 - [Scritti corsari](https://amzn.to/49ja6nt) di Pier Paolo Pasolini. [Un manuale di vita](/articles/2023-11-06-ansia-societa-dei-consumi.html).
 - [Gli archetipi dell'inconscio collettivo](https://amzn.to/3Q6Evg9) di Carl Gustav Jung. [Chi siamo](https://yuridiprodo.github.io/pages/social.html#20231101)
-- [Un altro giro di giostra](https://amzn.to/49dqF45)📌 di Tiziano Terzani. [Un grazie ai problemi](https://yuridiprodo.github.io/pages/social.html#20231030)
+- [Un altro giro di giostra](https://amzn.to/49dqF45)📌 di Tiziano Terzani. [Un grazie ai problemi](https://yuridiprodo.github.io/pages/social.html#20231030) e [L'albero della vita](/articles/2025-05-19-terzani.html)
 - [Il mondo nuovo + Ritorno al mondo nuovo](https://amzn.to/46SAJhM)📌 di Aldous Huxley. [Viviamo in una distopia](/articles/2023-10-27-uniformi-e-incompatibili.html)
 - [La volpe che amava i libri](https://amzn.to/3s3tFPV) di Nicola Pesce. [Schopenhauer](https://yuridiprodo.github.io/pages/social.html#20231023)
 - [Un uomo](https://amzn.to/3S1CHaA)📌 di Oriana Fallaci. [Per non dimenticare](/articles/2023-10-17-sveglia-il-popolo-sei-tu.html)
