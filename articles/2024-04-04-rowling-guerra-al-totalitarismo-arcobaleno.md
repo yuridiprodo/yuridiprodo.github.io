@@ -2,7 +2,7 @@
 
 ### L’autrice di Harry Potter sfida la legge scozzese sui “crimini d’odio”, che include i trans tra le categorie protette minacciando la libertà (e la correttezza) di espressione. La polizia per ora non la persegue, ma la guerra tra realtà e ideologia continua.
 
-![ritratto di J.K. Rowling, autrice di Harry Potter](/img/rowling.jpeg)
+![ritratto di J.K. Rowling, autrice di Harry Potter](rowling.jpeg)
 
 La legge anti-discriminazione è [entrata](https://www.gov.scot/policies/crime-prevention-and-reduction/hate-crime/) in vigore in Scozia lo scorso 1 aprile. Il testo della legge vieta e punisce gli atti che «fomentano l'odio contro un gruppo di persone» con determinate caratteristiche protette, tra cui l'età, la disabilità, la religione, l'orientamento sessuale, l'identità transgender. La pena massima è una **pena detentiva di sette anni**.
 Di fatto, con la nuova legge la polizia scozzese viene trasformata in un’agenzia di “cacciatori di taglie”, dove **i ricercati sono tutti coloro che difendono la natura umana, la biologia e la ragione**.

@@ -2,7 +2,7 @@
 
 ### Perché finché una notizia non viene data, quella notizia non esiste. Così la nostra percezione del mondo viene distorta
 
-![lo stemma della Repubblica italiana](/img/costituzione.jpeg)
+![lo stemma della Repubblica italiana](costituzione.jpeg)
 
 Ho atteso esattamente due settimane nella speranza che qualcuno dei canali principali ne parlasse. **E invece non una parola, niente, nisba**. E' chiaro che finché una notizia non viene data, **quella notizia non esiste**: di conseguenza la nostra percezione della realtà si basa esclusivamente sulle notizie che noi riceviamo, e nel momento in cui l'informazione è distorta, anche la nostra percezione del mondo sarà distorta.
 

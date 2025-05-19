@@ -2,7 +2,7 @@
 
 ### Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso una lettera, quella che riporto integralmente qui sotto, dai contenuti ancora oggi tremendamente attuali.
 
-![Maria Luisa Busi, giornalista del TG1](/img/maria-luisa-busi.jpeg)
+![Maria Luisa Busi, giornalista del TG1](maria-luisa-busi.jpeg)
 
 Caro direttore, credo che occorra maggiore rispetto. Per le notizie, **per il pubblico, per la verità**.
 

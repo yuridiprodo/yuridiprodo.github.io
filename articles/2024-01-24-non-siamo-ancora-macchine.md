@@ -2,7 +2,7 @@
 
 ### Umanità, bontà e gentilezza CERCANSI. Disperatamente, aggiungerei
 
-![Charlie Chapin gioca col mappamondo](/img/non-siamo-ancora-macchine.jpeg) 
+![Charlie Chapin gioca col mappamondo](non-siamo-ancora-macchine.jpeg) 
 
 **Pensiamo troppo e sentiamo poco**. Più che macchine ci serve umanità, più che abilità ci serve bontà e gentilezza.
 

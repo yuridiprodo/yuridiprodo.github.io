@@ -2,7 +2,7 @@
 
 ### «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. Altro che Sapiens Sapiens, ci meritiamo l'etichettatura tripla
 
-![Malattia X](/img/malattia-x.jpeg)
+![Malattia X](malattia-x.jpeg)
 
 > «Già nel 2018, prima dell'emergenza Covid, l'Organizzazione mondiale della sanità aveva ipotizzato l'arrivo di una pandemia causata da una patologia ancora sconosciuta, chiamata genericamente 'Disease X' ovvero malattia X» - [Adnkronos](https://www.adnkronos.com/cronaca/malattia-x-cosa-significa-virus-covid_16cUuNNEsbjwTSNv1Kcgxf)
 

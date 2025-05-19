@@ -2,7 +2,7 @@
 
 ### Il nemico? come formiche: è il punto di vista dei giganti
 
-![Israele vista dal mirino degli elicotteri](/img/come-formiche.jpeg)
+![Israele vista dal mirino degli elicotteri](come-formiche.jpeg)
 
 Quello in foto è ciò che vede (in questo caso) Israele attraverso il mirino dei propri elicotteri.
 

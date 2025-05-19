@@ -10,6 +10,6 @@ Tutti gli altri articoli sono nell'[Archivio](/pages/archivio.html).
 
 I consigli di lettura li trovate nella sezione [Libri](/pages/libri.html).
 
-![Una mia fotografia trasformata da ChatGPT in un disegno con lo stile dello Studio Ghibli](/img/profilo-ghibli.jpg)
+![Una mia fotografia trasformata da ChatGPT in un disegno con lo stile dello Studio Ghibli](profilo-ghibli.jpg)
 
 P.S. Le notizie che non possono aspettare le pubblico sul canale [Telegram](https://t.me/yuridiprodo); gli approfondimenti invece sono nella [Newsletter](/pages/newsletter.html).

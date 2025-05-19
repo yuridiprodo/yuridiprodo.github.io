@@ -2,7 +2,7 @@
 
 ### Il mondo (neppure tanto) distopico di Orwell
 
-![copertina del libro 1984, di George Orwell](/img/1984-orwell.jpeg)
+![copertina del libro 1984, di George Orwell](1984-orwell.jpeg)
 
 Il lavoro pesante, la cura della casa e dei bambini, le futili beghe coi vicini, il cinema, il calcio, la birra e soprattutto le scommesse, **limitavano il loro orizzonte**.
 

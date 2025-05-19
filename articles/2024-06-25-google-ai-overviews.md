@@ -2,7 +2,7 @@
 
 ### Le novità (e i rischi) dell'intelligenza artificiale in arrivo nelle ricerche di Google
 
-![le AI Overviews di Google](/img/google-ai-overviews.jpeg)
+![le AI Overviews di Google](google-ai-overviews.jpeg)
 
 Si chiamano [AI Overviews](https://support.google.com/websearch/answer/14901683) e **"googleranno" al posto nostro**.
 

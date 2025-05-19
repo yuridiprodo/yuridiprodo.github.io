@@ -2,7 +2,7 @@
 
 ### Avremo presto, preti ridotti al ruolo di assistenti sociali e il messaggio di fede ridotto a visione politica. Tutto sembrerà perduto, ma...
 
-![copertina libro Fede e Futuro](/img/profezia-ratzinger.jpeg) 
+![copertina libro Fede e Futuro](profezia-ratzinger.jpeg) 
 
 *Avremo presto, preti ridotti al ruolo di assistenti sociali e **il messaggio di fede ridotto a visione politica**. Tutto sembrerà perduto, ma al momento opportuno, proprio nella fase più drammatica della crisi, la Chiesa rinascerà.*
 

@@ -2,7 +2,7 @@
 
 ### Oltre la Finestra di Overton. In quattro punti.
 
-![feto in utero](/img/obbligatorio-abortire.jpeg)
+![feto in utero](obbligatorio-abortire.jpeg)
 
 Fino a qualche tempo fa, abortire era **inconcepibile**. Provatelo a chiedere ai vostri nonni.
 

@@ -2,7 +2,7 @@
 
 ### Sicurezza nucleare a rischio?
 
-![Fake News](/img/fake-news.jpeg)
+![Fake News](fake-news.jpeg)
 
 Questo i telegiornali non ce lo raccontano, né per confermarlo né per smentirlo:
 

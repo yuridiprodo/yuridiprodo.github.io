@@ -2,7 +2,7 @@
 
 ### Da appuntare in un posto sicuro: vi tornerà utile a tempo debito
 
-![immagine 3D di un virus](/img/covid-1.jpeg)
+![immagine 3D di un virus](covid-1.jpeg)
 
 Questa è da appuntare:
 

@@ -1,6 +1,6 @@
 # La nuova app di Amazon per pagare con la scansione del palmo
 
-![Amazon permette di pagare attraverso la scansione del palmo](/img/amazon-paga-palmo.jpeg)
+![Amazon permette di pagare attraverso la scansione del palmo](amazon-paga-palmo.jpeg)
 
 ### Apocalisse (13,16-18): «Faceva sì che tutti, piccoli e grandi, ricchi e poveri, liberi e schiavi ricevessero un marchio sulla mano destra [...] e che nessuno potesse comprare o vendere senza avere tale marchio».
 

@@ -2,7 +2,7 @@
 
 ### Altro che inarrestabili cambiamenti climatici di origine antropica: la più grande tempesta degli ultimi quarant'anni è appena «stata indotta» negli Emirati Arabi
 
-![un aereo che lascia la scia](/img/cloud-seeding.jpeg)
+![un aereo che lascia la scia](cloud-seeding.jpeg)
 
 [Scrive](https://tg24.sky.it/mondo/2024/02/13/grandine-abu-dhabi-video) Sky TG24: **Grandine negli Emirati Arabi**, grossi chicchi sulle strade di Abu Dhabi. Molte auto sono state danneggiate dalla forte grandine e le strade si sono allagate a causa delle piogge torrenziali; danni anche a Dubai, dove interi quartieri si sono del tutto allagati, rendendo impossibile spostarsi verso altre zone. **È la più grande tempesta degli ultimi quarant'anni**.
 

@@ -2,7 +2,7 @@
 
 ### Direzione "catastrofe", verso una non-civiltà
 
-![copertina del libro Oriana intervista sé stessa - l'Apocalisse, di Oriana Fallaci](/img/apocalisse-fallaci.jpeg)
+![copertina del libro Oriana intervista sé stessa - l'Apocalisse, di Oriana Fallaci](apocalisse-fallaci.jpeg)
 
 Gli esseri umani **amano l’uguaglianza** assai più della libertà, e della libertà spesso non gliene importa un bel nulla.
 

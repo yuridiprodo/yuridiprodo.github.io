@@ -2,7 +2,7 @@
 
 ### Chi sta scuotendo il vaso?
 
-![Giovanni Muciaccia](/img/giovanni-muciaccia.jpeg)
+![Giovanni Muciaccia](giovanni-muciaccia.jpeg)
 
 Se raccogli 100 formiche nere e 100 formiche rosse e le metti in un vaso di vetro non succederà nulla, ma se prendi il vaso, lo scuoti violentemente e lo lasci sul tavolo, **le formiche inizieranno ad uccidersi a vicenda**!
 

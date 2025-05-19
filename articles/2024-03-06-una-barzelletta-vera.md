@@ -2,7 +2,7 @@
 
 ### «È capitato che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
 
-![aiuti umanitari nella striscia di Gaza](/img/barzelletta-vera.jpeg) 
+![aiuti umanitari nella striscia di Gaza](barzelletta-vera.jpeg) 
 
 *«È capitato che gli aiuti **finissero in mare** o che i pacchi risultassero **danneggiati** all'impatto col suolo».* È scritto [qui](https://www.today.it/mondo/guerra-israele-hamas-aiuti-umanitari-fallimento.html).
 

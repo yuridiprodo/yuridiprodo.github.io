@@ -2,7 +2,7 @@
 
 ### Solo attraverso il digiuno si può raggiungere l'autentica libertà
 
-![copertina del libro La forza della Verità, di Tiziano Terzani](/img/forza-verita-terzani.jpeg)
+![copertina del libro La forza della Verità, di Tiziano Terzani](forza-verita-terzani.jpeg)
 
 L'unico modo **per non farsi consumare dal consumismo** è digiunare, digiunare da qualsiasi cosa non sia assolutamente indispensabile, digiunare da comprare il superfluo.
 

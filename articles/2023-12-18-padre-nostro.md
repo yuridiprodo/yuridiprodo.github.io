@@ -2,7 +2,7 @@
 
 ### e il nuovo "non abbandonarci alla tentazione" che proprio non digerisco
 
-![Rappresentazione dell'immagine della Divina Misericordia - realizzata da Eugeniusz Marcin Kazimirowski nel 1934 su richiesta di Maria Faustyna Kowalska](/img/divina-misericordia.jpg)
+![Rappresentazione dell'immagine della Divina Misericordia - realizzata da Eugeniusz Marcin Kazimirowski nel 1934 su richiesta di Maria Faustyna Kowalska](divina-misericordia.jpg)
 
 Se ne parla dal 22 Novembre 2020, cioè da quando **Papa Francesco ha cambiato la traduzione del Padre Nostro** sostituendo il «[non indurci in tentazione](https://www.liturgia.it/content/pater/pater_noster.htm)» con «[non abbandonarci alla tentazione](https://www.lastampa.it/topnews/tempi-moderni/2020/11/22/news/e-non-abbandonarci-alla-tentazione-cosi-papa-francesco-rivede-il-padre-nostro-1.39570366/)».
 

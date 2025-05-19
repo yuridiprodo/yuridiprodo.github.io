@@ -2,7 +2,7 @@
 
 ### L'Ecobonus invece procede a gonfie vele
 
-![dove si trova Amatrice, la mappa d'Italia](/img/amatrice.jpeg)
+![dove si trova Amatrice, la mappa d'Italia](amatrice.jpeg)
 
 **Amatrice, dopo 5 anni non hanno ricostruito neanche una casa**: chi invece la casa cel'ha già ed è messa pure bene, la può ristrutturare (dicono) a costo zero grazie al Superbonus 110% gentilmente offerto dal Ministero dello Sviluppo Economico.
 

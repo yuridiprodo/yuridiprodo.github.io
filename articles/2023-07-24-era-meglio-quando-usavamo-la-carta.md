@@ -2,7 +2,7 @@
 
 ### La bufala dell'ecosostenibilità: "lo metto sul cloud anziché stamparlo così non consumo la carta"
 
-![foto di un datacenter](/img/datacenter.jpeg)
+![foto di un datacenter](datacenter.jpeg)
 
 Un centro dati di Google in Uruguay utilizza **7,6 milioni di litri di acqua al giorno** per raffreddare i suoi server, proprio mentre il Paese sta soffrendo la più grave siccità degli ultimi 70 anni.
 

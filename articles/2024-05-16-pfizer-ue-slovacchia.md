@@ -2,7 +2,7 @@
 
 ### Robert Fico: c’è una «cospirazione von der Leyen - Pfizer». Undici giorni dopo, l'attentato
 
-![il premier slovacco Robert Fico](/img/ue-pfizer-slovacchia.jpeg)
+![il premier slovacco Robert Fico](ue-pfizer-slovacchia.jpeg)
 
 A inizio mese il premier slovacco Robert Fico ha denunciato l'esistenza di **un controverso contratto** tra la Commissione europea e Pfizer che obbligherebbe tutti i paesi dell'Unione a trasferire milioni di Euro al colosso farmaceutico entro il 2026.
 

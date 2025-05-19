@@ -2,7 +2,7 @@
 
 ### I risultati dell'indagine di un premio Pulitzer
 
-![mappa del Nord Stream](/img/nord-stream.jpeg)
+![mappa del Nord Stream](nord-stream.jpeg)
 
 Quindi l’esplosione dei gasdotti Nord Stream nel Mar Baltico sarebbe stata un’operazione segreta **ordinata dalla Casa Bianca** e portata avanti dalla CIA.
 

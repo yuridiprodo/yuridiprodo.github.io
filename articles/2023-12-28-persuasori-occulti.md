@@ -2,7 +2,7 @@
 
 ### Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: PNL
 
-![copertina del libro Persuasori occulti, di Vance Packard](/img/persuasori-occulti-packard.jpeg)
+![copertina del libro Persuasori occulti, di Vance Packard](persuasori-occulti-packard.jpeg)
 
 Nel nuovo film [Il Mondo dietro di te](https://amzn.to/49eDLxV) si parla di un **blackout totale della rete** che avviene durante un fine settimana: i soldi spariscono dalle **banche**, gli **aerei** in volo in quel momento non hanno più nessun punto di riferimento, le auto elettriche a guida autonoma vanno completamente in tilt, in molti non sono minimamente pronti per reggere l'urto.
 

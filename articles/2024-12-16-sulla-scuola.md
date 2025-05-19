@@ -2,7 +2,7 @@
 
 ### Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
 
-!["Scuola di Atene" di Raffaello Sanzio. Affresco, 1509-1511. Stanza della Segnatura, Palazzi Apostolici, Stato della Città del Vaticano](/img/scuola-di-atene.jpg)
+!["Scuola di Atene" di Raffaello Sanzio. Affresco, 1509-1511. Stanza della Segnatura, Palazzi Apostolici, Stato della Città del Vaticano](scuola-di-atene.jpg)
 
 La scuola deve cambiare.
 

@@ -2,7 +2,7 @@
 
 ### «Loro non sono popolo! Sono gregge, gregge, gregge!»
 
-![copertina del libro Un uomo, di Oriana Fallaci](/img/un-uomo-fallaci.jpeg)
+![copertina del libro Un uomo, di Oriana Fallaci](un-uomo-fallaci.jpeg)
 
 **Chi ama la vita non riesce mai ad adeguarsi, subire, farsi comandare**. Un essere umano che si adegua, che subisce, che si fa comandare, non è un essere umano. Sai cosa detesto? La vigliaccheria del popolo.
 

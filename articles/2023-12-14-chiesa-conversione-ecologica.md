@@ -2,7 +2,7 @@
 
 ### Prima la neutralità climatica, poi il Vangelo
 
-![intestazione del sito Vatican News](/img/chiesa-conversione-ecologica.jpeg)
+![intestazione del sito Vatican News](chiesa-conversione-ecologica.jpeg)
 
 Un tempo, se la Chiesa parlava di **conversione**, intendeva quella del cuore. Non soltanto attraverso il Battesimo: Cristo infatti (cito testualmente dal Catechismo della Chiesa Cattolica, ai punti 1427-29) ci «chiama alla conversione. Questo appello è una componente essenziale dell'annuncio del Regno: **"Il tempo è compiuto e il regno di Dio è ormai vicino; convertitevi e credete al Vangelo"** (Mc 1,15)».
 

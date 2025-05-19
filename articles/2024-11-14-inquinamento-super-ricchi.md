@@ -2,7 +2,7 @@
 
 ### La CO₂ che una persona comune produce nell'intero arco della sua vita, i miliardari la emettono in un'ora e mezza. Però il problema siamo noi
 
-![Bill Gates e Warren Buffett su un NetJets Boeing 737 Business](/img/aereo-super-ricchi.jpg)
+![Bill Gates e Warren Buffett su un NetJets Boeing 737 Business](aereo-super-ricchi.jpg)
 
 **Carbon Inequality Kills**, ovvero come la disuguaglianza nell'impronta ecologica ci starebbe uccidendo. Queste tre parole titolano la [ricerca](https://policy-practice.oxfam.org/resources/carbon-inequality-kills-why-curbing-the-excessive-emissions-of-an-elite-few-can-621656/) tramite cui *Oxfam* denuncia uno stile di vita, quello dei super-ricchi, gravemente dannoso per l'intera umanità.
 

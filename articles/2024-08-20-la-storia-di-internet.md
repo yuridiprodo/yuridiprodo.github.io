@@ -2,7 +2,7 @@
 
 ### Da aperto e accessibile a marionetta del capitalismo tecnologico: decisamente, è andato storto qualcosa
 
-![uno dei primi quattro nodi della rete ARPAnet](/img/la-storia-di-internet-1.jpg)
+![uno dei primi quattro nodi della rete ARPAnet](la-storia-di-internet-1.jpg)
 
 ## 1858
 
@@ -10,7 +10,7 @@
 
 Dopo circa tre settimane un ingegnere, impostando un voltaggio troppo elevato, danneggia irreparabilmente il cavo.
 
-![il primo messaggio via cavo](/img/la-storia-di-internet-2.jpg)
+![il primo messaggio via cavo](la-storia-di-internet-2.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ Dopo circa tre settimane un ingegnere, impostando un voltaggio troppo elevato, d
 
 *Mappa mondiale dei Fusi Orari. Inizialmente pubblicata nel 1928. La scansione qui riprodotta è presente nel libro [Admiralty Navigation Manual Vol 1 (1938)](https://archive.org/details/admiraltynavigationmanualvol1/page/n503)*
 
-![i fusi orari](/img/la-storia-di-internet-3.jpeg)
+![i fusi orari](la-storia-di-internet-3.jpeg)
 
 ---
 
@@ -39,7 +39,7 @@ Cresce il numero di università connesse tra loro:
 - nel 1974: 46
 - nel 1981: 213
 
-![uno dei primi IMP costituente ARPAnet](/img/la-storia-di-internet-4.jpg)
+![uno dei primi IMP costituente ARPAnet](la-storia-di-internet-4.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Cresce il numero di università connesse tra loro:
 
 Durante un intervento alla **Rockefeller Foundation**, l'artista Nam June Paik immagina quello che sarà poi il primo Internet: parla di *"una rete di comunicazione a banda larga per collegare i cittadini tra loro e usata per avvicinare le culture affrontando i problemi sociali più urgenti"*. Come esempio cita la segregazione razziale e l'inquinamento dell'epoca.
 
-![Nam June Paik alla presentazione di Buongiorno Mr. Orwell](/img/la-storia-di-internet-5.jpg) 
+![Nam June Paik alla presentazione di Buongiorno Mr. Orwell](la-storia-di-internet-5.jpg) 
 
 ---
 
@@ -76,7 +76,7 @@ Spuntano **i primi ISP privati**. Un esempio: TheWorld, che per **20 dollari al 
 
 Tra il 1999 e il 2004 **il costo della larghezza** di banda scende oltre il 90%.
 
-![il primo sito web](/img/la-storia-di-internet-7.jpg)
+![il primo sito web](la-storia-di-internet-7.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Va **online la prima foto**: è l'immagine delle Les Horribles Cernettes, una ba
 
 La condivisione di immagini dà il via a un altro grande progetto, quello di realizzare una struttura open-source per dar vita a uno spazio creativo illimitato e accessibile a tutti.
 
-![la prima foto online ritraente la band Les Horribles Cernettes](/img/la-storia-di-internet-8.jpeg)
+![la prima foto online ritraente la band Les Horribles Cernettes](la-storia-di-internet-8.jpeg)
 
 ---
 
@@ -112,7 +112,7 @@ I naviganti sono:
 - nel 1998: 150 milioni
 - nel 1999: 250 milioni
 
-![il browser Mosaic](/img/la-storia-di-internet-9.jpg)
+![il browser Mosaic](la-storia-di-internet-9.jpg)
 
 ---
 
@@ -129,7 +129,7 @@ Rispetto al predecessore:
 
 In pochi mesi il 75% degli utenti di tutto il mondo usano Netscape Navigator.
 
-![Netscape Navigator](/img/la-storia-di-internet-10.jpeg)
+![Netscape Navigator](la-storia-di-internet-10.jpeg)
 
 ---
 
@@ -145,7 +145,7 @@ Lo cliccheranno il 44% dei visitatori, trovandosi di fronte a una nuova pagina c
 2. sul secondo sono elencati invece i siti affiliati;
 3. il terzo è un sondaggio per misurare il gradimento delle persone riguardo questo banner.
 
-![il primo banner](/img/la-storia-di-internet-11.jpeg)
+![il primo banner](la-storia-di-internet-11.jpeg)
 
 ---
 
@@ -170,7 +170,7 @@ Parla anche di Netscape come un avversario temibile: in pochi mesi arriva **Inte
 Nel 1998 il bacino di utenti che usano i due browser è diviso equamente al 50%; nello stesso anno AOL compra Netscape per 4,2 miliardi di dollari.
 Nel 1999 Internet Explorer sale a quota 77%.
 
-![i popup](/img/la-storia-di-internet-13.jpeg)
+![i popup](la-storia-di-internet-13.jpeg)
 
 ---
 
@@ -197,7 +197,7 @@ Nasce DoubleClick, un servizio che fa da intermediario per la vendita delle pubb
 
 Privnet crea Internet Fast Forward, **il primo AD Blocker** per Netscape.
 
-![AT&T promuove la sua offerta internet](/img/la-storia-di-internet-15.jpg)
+![AT&T promuove la sua offerta internet](la-storia-di-internet-15.jpg)
 
 ---
 
@@ -209,7 +209,7 @@ Una utente di Internet, **Deidre LaCarte**, sfida sua sorella e un'amica nel cre
 
 LaCarte è completamente inesperta: ispirata dal suo criceto Hampton, costruisce il sito web, ovvero un'unica pagina ([visibile ancora qui grazie al Web Archive](https://web.archive.org/web/19991013143148/http://hamsterdance.com/)) al cui interno posiziona **392 gif animate di criceti danzanti**. Come musica di sottofondo, la celebre **"Cantagallo" di Robin Hood** in una sua rivisitazione velocizzata (dura circa 8 secondi e viene riprodotta in loop all'infinito.
 
-![The Hampster Dance](/img/la-storia-di-internet-16.jpg)
+![The Hampster Dance](la-storia-di-internet-16.jpg)
 
 A fine 1999 la pagina web spopola, grazie anche al passaparola: viene principalmente scambiata per email come scherzo tra colleghi di lavoro: diventa di fatto **il primo MEME della storia di Internet** e prenderà il nome di "The Hampster Dance".
 
@@ -218,7 +218,7 @@ Cavalcheranno l'onda diversi cloni della pagina, alcuni realizzati con base Meta
 2. Intuisce l'affare un'azienda che clona la pagina su un dominio più facilmente rintracciabile, **hamsterdance.com**, al quale collega poi un e-commerce per vendere **giocattoli tematici**: in poche settimane ne vengono venduti 12.000 pezzi.
 3. Contemporaneamente la band **Cuban Boys** ne sfrutta la popolarità registrando una **cover**. Fa il suo esordio il 7 aprile 1999 alla BBC RADIO 1 col titolo "**Cognoscenti vs Intelligentsia**". Diventerà anche un singolo. Su YouTube è possibile rivedere [il video promo](https://www.youtube.com/watch?v=fXJ5oaU940U) dell'epoca.
 
-![il CD dei Cuban Boys](/img/la-storia-di-internet-17.jpeg)
+![il CD dei Cuban Boys](la-storia-di-internet-17.jpeg)
 
 **Nessuno dei tre paga i diritti** alla creatrice, che in tutta risposta sposta una copia della pagina sul dominio **hampsterdance2.com**. Crea poi una società tramite cui **ingaggia un'altra band** per registrare una nuova versione del brano che a Giugno 2000 vincerà perfino il **Disco D'Oro**. Collabora poi con l'azienda **Abatis International** per vendere peluche a tema: insieme riusciranno poi a **riprendersi il dominio originale** portando il caso in tribunale.
 
@@ -228,15 +228,15 @@ Cavalcheranno l'onda diversi cloni della pagina, alcuni realizzati con base Meta
 
 Inizialmente l'azienda decide di restare dalla parte degli utenti lasciando che gli introiti pubblicitari non rappresentino più del 15% del suo fatturato complessivo perché "**la pubblicità intesa come finanziamento favorisce intrinsecamente gli inserzionisti**".
 
-![i fondatori di Google, Larry Page e Sergey Brin](/img/la-storia-di-internet-18.jpg) 
+![i fondatori di Google, Larry Page e Sergey Brin](la-storia-di-internet-18.jpg) 
 
 La promessa è tradita l'anno successivo, quando il 23 Ottobre **2000** [lancia](https://googlepress.blogspot.com/2000/10/google-launches-self-service.html) **AdWords**, servizio per suggerire le giuste pubblicità in base alle parole chiave digitate nel motore di ricerca.
 
 4 Marzo **2003**, Google [crea](https://googlepress.blogspot.com/2003/03/google-builds-worlds-largest.html) **AdSense**, e la pubblicità fino a quel momento bloccata nel solo recinto del motore di ricerca può raggiungere anche tutti gli altri siti web.
 
-![AdWords](/img/la-storia-di-internet-19.jpeg) 
+![AdWords](la-storia-di-internet-19.jpeg) 
 
-![AdSense](/img/la-storia-di-internet-20.jpg)
+![AdSense](la-storia-di-internet-20.jpg)
 
 ---
 
@@ -251,7 +251,7 @@ Oggi il 60% dei ricavi di Google proviene dalle sue piattaforme pubblicitarie, r
 
 Secondo uno studio condotto dal ricercatore Rishi Rawat, oggi **ogni singolo utente guarda almeno 347 banner al giorno**.
 
-![le insegne di un ufficio Google e YouTube](/img/la-storia-di-internet-21.jpeg)
+![le insegne di un ufficio Google e YouTube](la-storia-di-internet-21.jpeg)
 
 ---
 
@@ -259,7 +259,7 @@ Secondo uno studio condotto dal ricercatore Rishi Rawat, oggi **ogni singolo ute
 
 Scoppia il caso **Cambridge Analytica**, società inglese a cui Facebook trasferisce illegalmente i dati dei suoi iscritti: li userà per **costruire il profilo psicologico di 87 milioni di utenti** in modo da indirizzare in maniera precisa e mirata le strategie di propaganda politica.
 
-![Facebook e il caso di Cambridge Analytica](/img/la-storia-di-internet-22.jpeg)
+![Facebook e il caso di Cambridge Analytica](la-storia-di-internet-22.jpeg)
 
 ---
 
@@ -267,13 +267,13 @@ Scoppia il caso **Cambridge Analytica**, società inglese a cui Facebook trasfer
 
 Il 95% di Internet viaggia attraverso **cavi sottomarini**: parliamo di oltre 530 cavi delle dimensioni di un tubo da giardinaggio, per un totale di 1,3 milioni di chilometri (circa **32 volte la circonferenza della Terra**). [Qui la mappa interattiva](https://www.submarinecablemap.com/).
 
-![i cavi sottomarini su cui viaggia internet](/img/la-storia-di-internet-23.jpeg)
+![i cavi sottomarini su cui viaggia internet](la-storia-di-internet-23.jpeg)
 
 Questi cavi **sono di proprietà delle Big Tech**, che anno dopo anno investono sempre più soldi per ampliare la rete, specie nei paesi più poveri e non ancora completamente coperti da Internet approfittando del fatto che i governi locali non se lo possono permettere.
 
 *(un esempio è Cuba, dove Internet esiste soltanto attraverso il "Paquete", ovvero una raccolta settimanale - supervisionata dal governo, e quindi censurata laddove ce ne fosse il bisogno - che al costo di circa 1€ offre accesso offline agli articoli di giornale, ai video che girano sui social e alle ultime puntate delle serie TV distribuendoli attraverso una chiavetta/disco USB o un CD-ROM)*
 
-![il paquete cubano](/img/la-storia-di-internet-24.jpeg)
+![il paquete cubano](la-storia-di-internet-24.jpeg)
 
 Di conseguenza i nostri comportamenti su Internet sono costantemente scrutati, **analizzati, dirottati**, misurati e controllati dalle medesime Big Tech, che hanno basato il proprio business sullo sfruttamento di tutto ciò che facciamo online.
 

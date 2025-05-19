@@ -2,7 +2,7 @@
 
 ### Non doveva andare così. Ma non è ancora finita. Possiamo e dobbiamo liberare Julian Assange. Perché se non c’è libertà di parola per lui, non ci sarà libertà di parola neppure per noi.
 
-![Free Julian Assange](/img/liberate-julian-assange.jpeg)
+![Free Julian Assange](liberate-julian-assange.jpeg)
 
 È vero, adesso potrà fare appello contro l'estradizione negli USA. Ma nel frattempo dovrà vivere in un carcere di massima sicurezza ancora per mesi, forse anni.
 

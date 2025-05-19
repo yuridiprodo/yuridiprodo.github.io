@@ -2,7 +2,7 @@
 
 ### Le cose più importanti nella vita di un uomo sono due: una è essere coerenti con se stessi (il più possibile)
 
-![copertina del libro Sull'Amore, di Hermann Hesse](/img/sull-amore-hesse.jpeg)
+![copertina del libro Sull'Amore, di Hermann Hesse](sull-amore-hesse.jpeg)
 
 **Le cose più importanti nella vita di un uomo sono due**: essere coerenti con se stessi il più possibile e imparare ad amare.
 

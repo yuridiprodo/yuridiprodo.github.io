@@ -2,7 +2,7 @@
 
 ### Deporranno la loro libertà ai nostri piedi e ci diranno: «Fateci schiavi, ma sfamateci!»
 
-![copertina del libro I fratelli Karamazov, di Fedor Dostoevskij](/img/i-fratelli-karamazov.jpeg)
+![copertina del libro I fratelli Karamazov, di Fedor Dostoevskij](i-fratelli-karamazov.jpeg)
 
 **Deporranno la loro libertà ai nostri piedi** e ci diranno: "Fateci schiavi, ma sfamateci!".
 

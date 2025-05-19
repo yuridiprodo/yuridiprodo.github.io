@@ -2,7 +2,7 @@
 
 ### Così si alimenta soltanto una infelicità permanente, tuttavia necessaria per la sopravvivenza del proprio business
 
-![Un fotogramma del video di apertura del Keynote di Apple, 9 Settembre 2024](/img/apple-disabili.jpg)
+![Un fotogramma del video di apertura del Keynote di Apple, 9 Settembre 2024](apple-disabili.jpg)
 
 Ho ritrovato per caso degli appunti presi la sera del 9 Settembre scorso, ovvero quando mi accingevo a seguire **l'annuncio dei nuovi iPhone** (gamma numero 16). Il video di presentazione era appena iniziato ed io mi trovavo di fronte al computer, pronto per informare i lettori di Macitynet - il giornale per cui scrivo da oltre un decennio - di tutte le novità che Apple avrebbe poi introdotto sul mercato di lì a poche settimane.
 

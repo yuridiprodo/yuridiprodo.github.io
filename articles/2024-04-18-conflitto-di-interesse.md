@@ -2,7 +2,7 @@
 
 ### Conflitti d'interessi nella ricerca biomedica e nella pratica clinica
 
-![ricercatore scientifico analizza al microscopio](/img/conflitto-di-interesse.jpeg)
+![ricercatore scientifico analizza al microscopio](conflitto-di-interesse.jpeg)
 
 I medici, che si occupano della ricerca applicata e dei problemi concreti dei pazienti, si trovano oggi a lavorare in un contesto nel quale gli interessi economici sono sempre più importanti. Pertanto essi sono fortemente esposti a possibili conflitti d’interesse.
 

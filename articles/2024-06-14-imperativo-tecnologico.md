@@ -2,7 +2,7 @@
 
 ### Come ci si può opporre all’innovazione? Sarebbe come opporsi al progresso. Ma siamo sicuri che con l'intelligenza artificiale non abbiamo intrapreso una parabola discendente?
 
-![copertina del libro Imperativo Tecnologico, di Paolo Gulisano](/img/imperativo-tecnologico.jpeg) 
+![copertina del libro Imperativo Tecnologico, di Paolo Gulisano](imperativo-tecnologico.jpeg) 
 
 **Se qualcosa è tecnicamente possibile, perché non farla?** L'Intelligenza Artificiale è un esempio di questo imperativo tecnologico.
 

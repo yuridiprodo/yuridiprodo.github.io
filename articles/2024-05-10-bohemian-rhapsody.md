@@ -2,7 +2,7 @@
 
 ### Perché si chiama così? perché dura esattamente 5 minuti e 55 secondi? di cosa tratta veramente questa canzone? perché il film dei Queen è stato presentato in anteprima il 31 ottobre, vigilia di Ognissanti?
 
-![copertina dell'album Bohemian Rhapsody dei Queen](/img/bohemian-rhapsody.jpeg)
+![copertina dell'album Bohemian Rhapsody dei Queen](bohemian-rhapsody.jpeg)
 
 **Prova a [rispondere](https://twitter.com/jorge_palazon/status/1058208628228976640) Jorge Palazón Rodríguez, autore del libro [Queen: La realeza del Rock](https://amzn.to/3UQA3FU) (Queen: La regalità del Rock).**
 

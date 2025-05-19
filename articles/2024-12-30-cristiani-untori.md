@@ -2,7 +2,7 @@
 
 ### La prossima pandemia? al Giubileo. Ce lo stanno già dicendo
 
-!["Madonna dei Pellegrini" di Caravaggio. Olio su tela, 1604-1606. Cappella Cavalletti, basilica di Sant'Agostino, Roma.](/img/madonna-dei-pellegrini.jpg)
+!["Madonna dei Pellegrini" di Caravaggio. Olio su tela, 1604-1606. Cappella Cavalletti, basilica di Sant'Agostino, Roma.](madonna-dei-pellegrini.jpg)
 
 Il 2025 potrebbe essere l'anno buono per una nuova pandemia. Non lo dico io, ma diversi esperti del settore che nei 30-35 milioni di pellegrini che dovrebbero giungere a Roma per il Giubileo nel corso dell'anno vedono il veicolo perfetto per un nuovo, sconosciuto patogeno. Guardate qua cosa [scrive](https://www.adnkronos.com/cronaca/giubileo-rischi-virus-allarme-news_77y8M1kIKzJj8gTBNvTwH) l'Adnkronos:
 

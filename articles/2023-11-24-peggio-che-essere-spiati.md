@@ -2,7 +2,7 @@
 
 ### George Orwell aveva capito tutto, ma al rovescio. Il Grande Fratello non ci osserva: il Grande Fratello canta e balla.
 
-![copertina del libro Ninna nanna, di Chuck Palahniuk](/img/ninna-nanna-palahniuk.jpeg)
+![copertina del libro Ninna nanna, di Chuck Palahniuk](ninna-nanna-palahniuk.jpeg)
 
 George Orwell aveva capito tutto, **ma al rovescio**.
 

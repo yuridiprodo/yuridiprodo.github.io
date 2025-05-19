@@ -2,7 +2,7 @@
 
 ### L'uomo non è fatto per essere automa, e se lo diventa, va distrutta la base della sanità mentale
 
-![copertina del libro Il mondo nuovo - Ritorno al mondo nuovo, di Aldous Huxley](/img/il-mondo-nuovo-huxley.jpeg)
+![copertina del libro Il mondo nuovo - Ritorno al mondo nuovo, di Aldous Huxley](il-mondo-nuovo-huxley.jpeg)
 
 **I veri pazzi** si trovano proprio fra gli individui che paiono normalissimi.
 

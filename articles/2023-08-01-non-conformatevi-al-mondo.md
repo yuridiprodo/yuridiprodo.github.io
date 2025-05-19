@@ -2,7 +2,7 @@
 
 ### Quando Benedetto XVI ci ammoniva: il mondo virtuale diventa più vero, più forte e non si vede più il mondo reale della creazione di Dio
 
-![Benedetto XVI](/img/benedetto-xvi.jpeg)
+![Benedetto XVI](benedetto-xvi.jpeg)
 
 C’è un non conformismo del cristiano, che **non si fa conformare**. Questo non vuol dire che noi vogliamo fuggire dal mondo, che a noi non interessa il mondo; al contrario vogliamo trasformare noi stessi e lasciarci trasformare, trasformando così il mondo.
 

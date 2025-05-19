@@ -2,7 +2,7 @@
 
 ### «Se c'è davvero vita dopo il parto, perché nessuno è mai tornato da lì? Il parto è la fine della vita e nel post-parto non c'è nient'altro che oscurità, silenzio e oblio. Il parto non ci porterà da nessuna parte»
 
-![un raggio di luce nell'oscurità](/img/dio-spiegato-ai-bambini.jpeg)
+![un raggio di luce nell'oscurità](dio-spiegato-ai-bambini.jpeg)
 
 Nel pancione di una mamma c'erano due bambini.
 

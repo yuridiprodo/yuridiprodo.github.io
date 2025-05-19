@@ -2,7 +2,7 @@
 
 ### Perché è importante farlo ancora oggi, e perché andrebbe evitato il sistema digitale. Piccoli consigli nati da...alcuni appunti
 
-![Erasmo da Rotterdam - dal ritratto di Albrecht Dürer, realizzato tramite incisione fotomeccanica nel 1526](/img/erasmo-da-rotterdam.jpg)
+![Erasmo da Rotterdam - dal ritratto di Albrecht Dürer, realizzato tramite incisione fotomeccanica nel 1526](erasmo-da-rotterdam.jpg)
 
 Prendere appunti, e prenderli con carta e penna.
 

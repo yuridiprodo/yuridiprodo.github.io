@@ -2,7 +2,7 @@
 
 ### Si avvicina il tempo in cui ogni scrittore sarà obbligato a tacere o a produrre i narcotici richiesti da una minoranza privilegiata. Ma possiamo ancora evitarlo
 
-![copertina del libro Un'autobiografia involontaria, di George Orwell](/img/orwell-autobiografia-involontaria.jpeg)
+![copertina del libro Un'autobiografia involontaria, di George Orwell](orwell-autobiografia-involontaria.jpeg)
 
 **L’era della libertà di parola sta per finire**.
 

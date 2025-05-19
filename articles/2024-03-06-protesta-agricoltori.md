@@ -2,7 +2,7 @@
 
 ### «Il giorno in cui questo paese non avrà più contadini e artigiani, non avrà più storia».
 
-![cittadini finita l'agricoltura verrà la fame](/img/protesta-agricoltori-1.jpeg)
+![cittadini finita l'agricoltura verrà la fame](protesta-agricoltori-1.jpeg)
 
 *«Il giorno in cui questo paese non avrà più **contadini** e **artigiani**, non avrà più storia».* - Pier Paolo Pasolini, [Scritti corsari](https://amzn.to/49zvkgB)
 
@@ -14,19 +14,19 @@ Senza di loro le nostre città diventerebbero luoghi anonimi e omologati. **Tutt
 
 **Per preservare la nostra storia e la nostra identità** dobbiamo valorizzarli e sostenerli, riconoscendo il ruolo fondamentale che hanno nella costruzione della nostra società: solo così potremo garantire un futuro fatto di tradizione e cultura alle generazioni che verranno.
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-2.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-2.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-3.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-3.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-4.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-4.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-5.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-5.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-6.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-6.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-7.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-7.jpeg)
 
-![alcuni cartelloni dalla protesta degli agricoltori](/img/protesta-agricoltori-8.jpeg)
+![alcuni cartelloni dalla protesta degli agricoltori](protesta-agricoltori-8.jpeg)
 
 ---
 

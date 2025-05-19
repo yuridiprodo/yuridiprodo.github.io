@@ -2,7 +2,7 @@
 
 ### Al ministro britannico della Difesa sfugge una frase sugli aiuti militari di Roma a Kiev. Se confermata, la notizia smentirebbe le dichiarazioni del nostro governo, quando disse “mai armi offensive: noi non siamo in guerra con i russi”.
 
-![aereo da guerra](/img/italia-armi-ucraina.jpeg)
+![aereo da guerra](italia-armi-ucraina.jpeg)
 
 L'Italia [sarebbe coinvolta](https://www.repubblica.it/esteri/2024/04/30/news/missili_italiani_ucraina_storm_shadow-422774229/) nella fornitura dei missili **Storm shadow**. Lo ha dichiarato **Grant Shapps**, ministro della Difesa del Regno Unito, nell'[intervista](https://www.thetimes.co.uk/article/grant-shapps-interview-sunak-defence-spending-qsls89gww) rilasciata al **The Times** (potete leggerla [qui](https://archive.is/A6Oi4)), definendoli «devastanti» e capaci di fare «una differenza riconoscibile» nella guerra tra Russia e Ucraina.
 

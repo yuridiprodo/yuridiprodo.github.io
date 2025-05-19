@@ -2,7 +2,7 @@
 
 ### Si può credere che il Demonio non esista: ma quel che secondo l'IA farebbe per controllarci, sta già accadendo davvero
 
-!["Il Quarto Stato" di Giuseppe Pellizza da Volpedo. Olio su tela, 1901](/img/quarto-stato.jpg)
+!["Il Quarto Stato" di Giuseppe Pellizza da Volpedo. Olio su tela, 1901](quarto-stato.jpg)
 
 Era cominciato a inizio settembre; **quasi per scherzo**. Qualcuno aveva chiesto a ChatGPT di immedesimarsi in Satana per costruire una efficace strategia che facesse perdere la fede alle persone. [La risposta (sconcertante)](/articles/2024-09-12-chatgpt-satana.html) fu che **il calo di credenti** registrato nel corso degli ultimi decenni sarebbe causato proprio da una serie di fattori effettivamente esistenti.
 

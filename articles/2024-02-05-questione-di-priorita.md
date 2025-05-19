@@ -2,7 +2,7 @@
 
 ### Giusto due numeri a confronto. Così, pourparler.
 
-![logo del parlamento europeo](/img/questione-di-priorita.jpeg)
+![logo del parlamento europeo](questione-di-priorita.jpeg)
 
 In questi giorni si parla tanto di agricoltura; così ho pensato di dire qualcosa anch'io.
 

@@ -2,7 +2,7 @@
 
 ### che l'IA ci farà fuori nel giro di trent'anni. La profezia di Hinton
 
-![Geoffrey Hinton, spesso indicato come uno dei padri fondatori dell'intelligenza artificiale](/img/hinton.jpg)
+![Geoffrey Hinton, spesso indicato come uno dei padri fondatori dell'intelligenza artificiale](hinton.jpg)
 
 Era il 2022 quando arrivava [ChatGPT](/articles/2024-11-02-chatgpt-schiavitu.html) e **Geoffrey Hinton**, uno dei padri dell'IA, Nobel per la Fisica quest'anno, lanciava l'allarme sul *New York Times*:
 

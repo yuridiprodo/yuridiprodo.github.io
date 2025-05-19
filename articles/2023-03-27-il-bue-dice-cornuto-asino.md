@@ -2,7 +2,7 @@
 
 ### Dal culto della morte alla repressione dei dissidenti: urge esame di coscienza
 
-![titolo del Corriere: Ecco perché Putin minaccia tutti noi](/img/putin-corriere.jpeg)
+![titolo del Corriere: Ecco perché Putin minaccia tutti noi](putin-corriere.jpeg)
 
 I toni con cui è stato scritto [questo articolo](https://www.corriere.it/opinioni/23_marzo_24/ecco-perche-putin-minaccia-tutti-noi-623e076c-ca6e-11ed-8357-dcc01a66d133.shtml?refresh_ce) del Corriere della Sera mi ricordano tanto quelli che ritroviamo [negli articoli degli anni antecedenti](https://it.m.wikipedia.org/wiki/File:Corriere_testata_1938.jpg) lo scoppio della Seconda Guerra Mondiale. Forse sono perfino peggiori, e carichi di **una incoerenza quasi brutale**.
 

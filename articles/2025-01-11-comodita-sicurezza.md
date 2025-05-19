@@ -2,7 +2,7 @@
 
 ### Due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. Una conferma
 
-![Un'immagine dello scanner LiDAR che proietta l'invisibile reticolo per il rilevamento della tridimensionalità (in questo caso) del volto](/img/scansione-volto.jpg)
+![Un'immagine dello scanner LiDAR che proietta l'invisibile reticolo per il rilevamento della tridimensionalità (in questo caso) del volto](scansione-volto.jpg)
 
 Dedicato a tutti quelli che *"eh ma l'**iPhone è sicuro**"*; a quelli che *"io senza Apple non potrei vivere, ormai **mi fido solo di lei**"*.
 

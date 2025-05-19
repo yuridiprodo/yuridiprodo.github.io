@@ -2,7 +2,7 @@
 
 ### Appena 57 aziende emettono l’80% dei gas serra in tutto il mondo. Però noi risolveremo il problema comprando l'auto elettrica.
 
-![disegno di un'auto elettrica in ricarica](/img/auto-elettrica.jpeg)
+![disegno di un'auto elettrica in ricarica](auto-elettrica.jpeg)
 
 I risultati di [una ricerca](https://carbonmajors.org/site//data/000/027/Carbon_Majors_Launch_Report.pdf) realizzata dal think tank no-profit londinese InfluenceMap, basata sulla piattaforma **Carbon Majors** – database creato nel 2013 da Richard Heede del Climate Accountability Institute, negli USA.
 

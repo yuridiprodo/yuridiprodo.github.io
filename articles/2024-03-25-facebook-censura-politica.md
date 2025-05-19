@@ -2,7 +2,7 @@
 
 ### Perché «se controlli le informazioni che vengono date alla persone, controlli quelle persone».
 
-![rappresentazione della censura, di Eric Drooker](/img/facebook-censura-eric-drooker.jpeg)
+![rappresentazione della censura, di Eric Drooker](facebook-censura-eric-drooker.jpeg)
 
 A partire dal 29 febbraio 2024 Facebook decide **cosa possiamo e non possiamo leggere**, vedere, ascoltare, commentare sulla sua piattaforma.
 

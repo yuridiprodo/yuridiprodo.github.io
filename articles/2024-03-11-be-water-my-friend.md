@@ -2,7 +2,7 @@
 
 ### L'eredità di Bruce Lee è qualcosa di incommensurabile, e se siamo qui a parlarne ancora oggi è grazie anche alla mole di appunti che ha accumulato soprattutto negli ultimi anni della sua vita, in parte scritti quasi febbrilmente, come se in un certo *sentisse* che il suo tempo stesse per scadere.
 
-![copertina libro Be Water My Friend, di Shannon Lee](/img/be-water-my-friend-shannon-lee.jpeg)
+![copertina libro Be Water My Friend, di Shannon Lee](be-water-my-friend-shannon-lee.jpeg)
 
 Nonostante siano passati più di 50 anni, le cause di decesso di Bruce Lee appaiono **ancora incerte**. All'epoca dell'autopsia si parlò di "probabile" reazione allergica a una o più sostanze contenute nel medicinale datogli per il mal di testa.
 

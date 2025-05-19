@@ -2,7 +2,7 @@
 
 ### Nessun animale, per quanto ne sappiamo, è in grado di riflettere. Sappiamo farlo soltanto noi. Non rinunciamoci
 
-![bambini che giocano col cellulare](/img/smartphone-ai-bambini.jpeg)
+![bambini che giocano col cellulare](smartphone-ai-bambini.jpeg)
 
 *Miopia infantile, un problema sanitario esteso per i bimbi. [L’esperta](https://www.orizzontescuola.it/miopia-infantile-un-problema-sanitario-esteso-per-i-bimbi-lesperta-danno-evidente-prima-dei-3-anni-niente-schermi/): “Danno evidente, prima dei 3 anni niente schermi”*
 

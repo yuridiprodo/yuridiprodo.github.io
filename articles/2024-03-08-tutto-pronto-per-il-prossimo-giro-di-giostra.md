@@ -2,7 +2,7 @@
 
 ### Indovinate un po' da dove arrivano i soldi per la stabilizzazione della piattaforma Green Pass?
 
-![schermate del decreto](/img/pronto-prossimo-giro-di-giostra.jpeg)
+![schermate del decreto](pronto-prossimo-giro-di-giostra.jpeg)
 
 Il ministro della Salute Schillaci [dice](https://www.sanita24.ilsole24ore.com/art/dal-governo/2024-03-05/emergenze-sanitarie-schillaci-e-gemmato-l-italia-non-aderira-green-pass-globale-dell-oms-200911.php?uuid=AF3H16w) che **l'Italia non aderirà al Green Pass globale dell'OMS**, ovvero quel sistema globale che contribuirà «a proteggere i cittadini di tutto il mondo dalle minacce sanitarie attuali e future, comprese le pandemie»; le stesse che, citando la stessa OMS, sappiamo ormai essere [«una questione di se, non di quando»](/articles/2024-01-19-malattia-x.html).
 

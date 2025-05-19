@@ -2,7 +2,7 @@
 
 ### Dove ci troviamo e dove siamo diretti
 
-![copertina del libro Energia e civiltà. Una storia](/img/energia-civilta-storia.jpeg) 
+![copertina del libro Energia e civiltà. Una storia](energia-civilta-storia.jpeg) 
 
 [Un libro](https://amzn.to/2NlRVbB) per capire dove si trova l'umanità oggi e dove è diretta. Il succo del discorso che fa l'autore secondo me può essere condensato in questa frase:
 

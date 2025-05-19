@@ -2,7 +2,7 @@
 
 ### Perché il passato dura nel divenire. Un pensiero
 
-![Il mito della caverna di Platone. illustrazione di MatiasEnElMundo, Getty Images](/img/caverna-di-platone.jpg)
+![Il mito della caverna di Platone. illustrazione di MatiasEnElMundo, Getty Images](caverna-di-platone.jpg)
 
 Leggere le notizie con **uno sguardo fisso al passato**.
 

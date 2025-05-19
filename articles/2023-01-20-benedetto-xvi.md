@@ -2,7 +2,7 @@
 
 ### Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi
 
-![copertina del libro Cos'è il Cristianesimo, di Benedetto XVI](/img/benedetto-xvi-cristianesimo.jpeg)
+![copertina del libro Cos'è il Cristianesimo, di Benedetto XVI](benedetto-xvi-cristianesimo.jpeg)
 
 Da estimatore di **papa Benedetto XVI** ho pensato di raccogliere in una cartella tutti i suoi interventi da Papa che si possono leggere e scaricare gratuitamente dal [sito ufficiale](https://www.vatican.va/content/benedict-xvi/it.html) della Santa Sede, compreso il testamento spirituale pubblicato soltanto dopo la sua morte.
 

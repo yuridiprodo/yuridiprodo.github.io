@@ -2,7 +2,7 @@
 
 ### E non si discute. O almeno, questo vorrebbe lui
 
-![esortazione apostolica Laudate Deum](/img/laudate-deum.jpeg)
+![esortazione apostolica Laudate Deum](laudate-deum.jpeg)
 
 Mi sono preso del tempo per leggere l'ultima esortazione apostolica di Papa Francesco ([Laudate Deum](https://www.vatican.va/content/francesco/it/apost_exhortations/documents/20231004-laudate-deum.html)) e, dopo averci riflettuto un po' su, direi che quel che ne penso potrebbe essere riassunto nel titolo: **TEOLOGIA DELLE EMISSIONI**.
 

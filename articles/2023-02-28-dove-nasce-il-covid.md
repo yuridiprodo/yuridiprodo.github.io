@@ -2,7 +2,7 @@
 
 ### No, non è dove state pensando
 
-![un ricercatore in laboratorio](/img/covid-laboratorio.jpeg)
+![un ricercatore in laboratorio](covid-laboratorio.jpeg)
 
 [Pare non sia più vero](https://www.latimes.com/science/story/2023-02-27/us-department-of-energy-finds-covid-19-pandemic-most-likely-began-with-a-lab-leak-reports-say) che la pandemia sarebbe partita da un mercato del pesce a Wuhan.
 

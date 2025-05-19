@@ -2,7 +2,7 @@
 
 ### Dire che "si stava meglio quando si stava peggio" potrebbe sembrar banale, ma rischia di diventare la verità
 
-![come si clicca su Apple Vision Pro](/img/apple-vision-pro-click.jpeg)
+![come si clicca su Apple Vision Pro](apple-vision-pro-click.jpeg)
 
 Sul [visore](https://nr.apple.com/DH0W2J9HT0), il pensiero comune sembra obnubilato intorno all'idea che questo dispositivo sia ancora **troppo ingombrante, pesante e dall'estetica eccessivamente settoriale** per poter esser preso seriamente in considerazione dal pubblico.
 

@@ -16,7 +16,7 @@ Quasi dimenticavo: se hai aperto questa pagina perché desideri condividere qual
 
 *Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione o, **in maniera totalmente gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [Scopri di più](/pages/help.html)*
 
-![Yuri Di Prodo, un ritratto](/img/profilo-mini.jpeg)
+![Yuri Di Prodo, un ritratto](profilo-mini.jpeg)
 
 <p style="color: gray; font-style: italic; font-size: 0.6em;">
     Questo sito utilizza cookie tecnici per il suo funzionamento. Continuando a navigare, accetti l'uso di questi cookie. 

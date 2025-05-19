@@ -2,7 +2,7 @@
 
 ### È un'ansia di obbedienza a un ordine non pronunciato; di essere uguale agli altri nel consumare, nell'essere felice, nell'essere libero.
 
-![copertina del libro Scritti corsari, di Pier Paolo Pasolini](/img/scritti-corsari-pasolini.jpeg)
+![copertina del libro Scritti corsari, di Pier Paolo Pasolini](scritti-corsari-pasolini.jpeg)
 
 Il potere ha avuto bisogno di un nuovo tipo di suddito: **il consumatore**!
 

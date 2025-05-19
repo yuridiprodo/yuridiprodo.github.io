@@ -2,7 +2,7 @@
 
 ### e ha molto a che fare col messaggio per il Giubileo della Comunicazione
 
-![Il cartello affisso alla porta della chiesa di San Paolo, Casale Monferrato, 4 agosto 2021](/img/chiesa-cartello.jpg)
+![Il cartello affisso alla porta della chiesa di San Paolo, Casale Monferrato, 4 agosto 2021](chiesa-cartello.jpg)
 
 Affinché non diventi il *Giorno della Memoria Corta*, approfitto di questa ricorrenza per commentare brevemente il discorso che Bergoglio ha rivolto due giorni fa ai giornalisti in occasione del **Giubileo della Comunicazione**.
 

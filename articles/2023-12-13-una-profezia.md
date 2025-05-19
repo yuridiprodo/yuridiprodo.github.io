@@ -2,7 +2,7 @@
 
 ### Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; perché esse sono il mezzo per giungere al significato; e per coloro che vorranno ascoltare, all’affermazione della verità
 
-![maschera tratta dal film V per vendetta](/img/v-per-vendetta.jpeg)
+![maschera tratta dal film V per vendetta](v-per-vendetta.jpeg)
 
 Il testo che segue è parte di un discorso recitato in un film del 2006. Letto oggi, alla luce di quanto accaduto nel mondo negli ultimi tre anni, appare sorprendentemente **profetico**.
 

@@ -2,7 +2,7 @@
 
 ### Come funziona la manipolazione sociale nel ventunesimo secolo: "Strutture di Permesso", ovvero le strategie usate per creare consenso e controllare il dissenso
 
-![ARMY, dalla serie fotografica "Reality Rearranged" di Tommy Ingberg (2010-2015)](/img/army-ingberg.jpg)
+![ARMY, dalla serie fotografica "Reality Rearranged" di Tommy Ingberg (2010-2015)](army-ingberg.jpg)
 
 Se vi siete mai chiesti cosa sta succedendo nella governance moderna e nella manipolazione sociale, trovate una esaustiva risposta nell'articolo **Rapid-Onset Political Enlightenment** [pubblicato](https://www.tabletmag.com/feature/rapid-onset-political-enlightenment?utm_source=substack&utm_medium=email) sul *The Tablet*.
 

@@ -2,7 +2,7 @@
 
 ### Il "giochetto sulla memoria" spiegato bene
 
-![copertina de Il libro del riso e dell'oblio, di Milan Kundera](/img/libro-riso-oblio-kundera.jpeg)
+![copertina de Il libro del riso e dell'oblio, di Milan Kundera](libro-riso-oblio-kundera.jpeg)
 
 Per liquidare i popoli **si comincia col privarli della memoria**. Si distruggono i loro libri, la loro cultura, la loro storia.
 

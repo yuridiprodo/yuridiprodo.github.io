@@ -2,7 +2,7 @@
 
 ### «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma qual è il percorso?
 
-![scena astratta di un uomo malnutrito ma apparentemente felice perché illuso dalla realtà virtuale vissuta attraverso il visore](/img/sveglia-occidente.jpeg)
+![scena astratta di un uomo malnutrito ma apparentemente felice perché illuso dalla realtà virtuale vissuta attraverso il visore](sveglia-occidente.jpeg)
 
 > «Il Consiglio dei Ministri ha dato il **via libera ufficiale al varo del portafoglio digitale**».
 

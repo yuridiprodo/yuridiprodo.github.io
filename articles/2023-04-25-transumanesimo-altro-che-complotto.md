@@ -2,7 +2,7 @@
 
 ### Cingolani, 2014. Vi dice niente?
 
-![immagine stilizzata di un chip nel cervello](/img/chip-cervello.jpeg)
+![immagine stilizzata di un chip nel cervello](chip-cervello.jpeg)
 
 [Parte da qui il futuro della diagnostica, verso l'uomo-macchina](https://www.macitynet.it/e-italiana-la-prima-batteria-commestibile-al-mondo/) - *mio articolo per Macitynet*
 

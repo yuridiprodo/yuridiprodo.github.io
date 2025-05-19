@@ -2,7 +2,7 @@
 
 ### Si parte dalla cellula in cui esso si costituisce: la famiglia
 
-![una famiglia](/img/destrutturare.jpeg)
+![una famiglia](destrutturare.jpeg)
 
 La Corte d’Appello di Roma ha [annullato](https://www.ansa.it/sito/notizie/topnews/2024/02/15/corte-dappello-su-carta-didentita-ok-genitore-1-e-2_1219ed1a-5eab-4b5f-baee-5f1b216bccfc.html) il decreto del Ministero dell’Interno del 2019 che imponeva **la dicitura “padre e madre”** al posto di “genitori” sulle carte d’identità elettroniche rilasciate a persone minorenni.
 

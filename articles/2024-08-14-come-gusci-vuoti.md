@@ -2,7 +2,7 @@
 
 ### L’algoritmo fa quello che gli diciamo di fare; non ciò che è giusto.
 
-![gusci di noci](/img/come-gusci-vuoti.jpeg)
+![gusci di noci](come-gusci-vuoti.jpeg)
 
 Oggi **ai poteri del digitale [tributiamo ossequi religiosi](/articles/2024-06-25-google-ai-overviews.html)**: dalle macchine ci aspettiamo miracoli, soluzioni definitive, risposte a qualsiasi domanda.
 

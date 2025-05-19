@@ -2,7 +2,7 @@
 
 ### Per gentile concessione della Commissione UE
 
-![pasta fusilli](/img/verme-farina.jpeg)
+![pasta fusilli](verme-farina.jpeg)
 
 Saranno pochissimi, forse persino nessuno, a venderci insetti croccanti: ma pane, pizza, biscotti e tutti quei prodotti a base di farine che mangiamo oggi **ne conterranno di sicuro**.
 

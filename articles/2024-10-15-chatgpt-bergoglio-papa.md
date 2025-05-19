@@ -2,7 +2,7 @@
 
 ### Infovaticana ha chiesto a ChatGPT: Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?
 
-![Papa Francesco](/img/papa-francesco.jpg)
+![Papa Francesco](papa-francesco.jpg)
 
 Il mese scorso [ho fatto notare](/articles/2024-09-12-chatgpt-satana.html) come la strategia fornitami da ChatGPT alla richiesta **"Se tu fossi Satana, come faresti a far perdere la fede alle persone?"** fosse a un tempo profetica e terribile.
 

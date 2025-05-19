@@ -2,7 +2,7 @@
 
 ### Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. Sapeva anche la FDA
 
-![screenshot che immortala la slide con gli effetti avversi dei vaccini vista per un attimo e poi saltata dalla FDA durante la presentazione](/img/fda-effetti-avversi-noti-ottobre-2020.jpeg)
+![screenshot che immortala la slide con gli effetti avversi dei vaccini vista per un attimo e poi saltata dalla FDA durante la presentazione](fda-effetti-avversi-noti-ottobre-2020.jpeg)
 
 *Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. **E lo sono tuttora**.*
 *Una sentenza del Tar apre interrogativi inquietanti sull'approvazione al buio dei vaccini. **Eppure è stato ripetuto come un mantra** dai governi che i dati AIFA erano decisivi.*

@@ -2,7 +2,7 @@
 
 ### Assange ci ha dato la verità al costo di grandi sofferenze e lunghe privazioni. Adesso sta a noi custodirla. Meglio ancora, è arrivato il momento di metterla a frutto: che il suo sacrificio non resti vano.
 
-![Julian Assange guarda fuori dal finestrino dell'aereo diretto al suo paese, l'Australia, a poche ore dalla scarcerazione](/img/assange-libero.jpeg)
+![Julian Assange guarda fuori dal finestrino dell'aereo diretto al suo paese, l'Australia, a poche ore dalla scarcerazione](assange-libero.jpeg)
 
 **Julian Assange è libero**.
 

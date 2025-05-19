@@ -2,7 +2,7 @@
 
 ### Non è un caso se nella società meritocratica di oggi sono entrati in gioco due problemi.
 
-![uomo che guarda all'orizzonte](/img/siate-efficienti.jpeg)
+![uomo che guarda all'orizzonte](siate-efficienti.jpeg)
 
 *Coloro che mandano la fede fuori dalla porta principale fanno entrare **la superstizione** dalla porta secondaria. È sempre così.*
 

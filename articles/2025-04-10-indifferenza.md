@@ -2,7 +2,7 @@
 
 ### Ogni tecnologia, in proporzione, dà e toglie. E gli smartphone ci danno tantissimo
 
-!["Sera sul viale Karl Johan" di Edvard Munch. Olio su tela, 1892. Conservato al museo d'arte di Bergen, Norvegia.](/img/munch-sera-viale.jpg)
+!["Sera sul viale Karl Johan" di Edvard Munch. Olio su tela, 1892. Conservato al museo d'arte di Bergen, Norvegia.](munch-sera-viale.jpg)
 
 > *"Un uomo è intento a trafficare sul proprio cellulare: intorno, i suoi amici conversano tra loro. Lui intanto scambia senza sosta messaggi con qualche interlocutore lontano."*
 > 

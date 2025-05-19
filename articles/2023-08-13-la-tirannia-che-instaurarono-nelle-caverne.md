@@ -2,7 +2,7 @@
 
 ### Ma spero che sarai un uomo come io l’ho sempre sognato: dolce coi deboli, feroce coi prepotenti, generoso con chi ti vuol bene, spietato con chi ti comanda.
 
-![copertina del libro Lettera ad un bambino mai nato, di Oriana Fallaci](/img/lettera-a-un-bambino-mai-nato-fallaci.jpeg)
+![copertina del libro Lettera ad un bambino mai nato, di Oriana Fallaci](lettera-a-un-bambino-mai-nato-fallaci.jpeg)
 
 Se nascerai uomo io sarò contenta lo stesso. E forse di più perché‚ ti saranno risparmiate tante umiliazioni, **tante servitù, tanti abusi**. Se nascerai uomo non dovrai temere d’essere violentato nel buio di una strada. Non dovrai servirti di un bel viso per essere accettato al primo sguardo, di un bel corpo **per nascondere la tua intelligenza**. Non subirai giudizi malvagi quando dormirai con chi ti piace, non ti sentirai dire che il peccato nacque il giorno in cui cogliesti una mela.
 

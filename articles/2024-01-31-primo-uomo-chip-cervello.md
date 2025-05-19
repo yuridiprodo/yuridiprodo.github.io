@@ -2,7 +2,7 @@
 
 ### Permessi, scuse, speranze e realtà
 
-![il chip in mano](/img/primo-uomo-chip-cervello.jpeg)
+![il chip in mano](primo-uomo-chip-cervello.jpeg)
 
 [Domenica 28 gennaio 2024](https://twitter.com/elonmusk/status/1752098683024220632) è stato impiantato con successo il primo chip (il Telepathy di Neuralink) nel cervello **di un essere umano**.
 

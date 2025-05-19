@@ -2,7 +2,7 @@
 
 ### Gli effetti negativi sono insidiosi perché sul momento non si vedono: ce ne accorgiamo quando è ormai troppo tardi
 
-![Foto di copertina disegnata da Miguel Porlan per l'articolo "How to Break Up With Your Phone. Nine ways to have a healthier relationship with your phone." del New York Times, 23 Febbraio 2019](/img/miguel-porlan-smartphone.jpg)
+![Foto di copertina disegnata da Miguel Porlan per l'articolo "How to Break Up With Your Phone. Nine ways to have a healthier relationship with your phone." del New York Times, 23 Febbraio 2019](miguel-porlan-smartphone.jpg)
 
 Lo so, è un paradosso parlarvene attraverso uno schermo, ma gli effetti che questo ha sulla salute sono devastanti e affatto trascurabili.
 

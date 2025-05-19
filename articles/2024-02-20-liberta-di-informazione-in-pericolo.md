@@ -2,7 +2,7 @@
 
 ### Dopo 2.000 anni non è cambiato niente: la vita resta il prezzo da pagare per chi si trova dalla parte della Verità.
 
-![cartello di protesta: il giornalismo non è un crimine, Assange libero](/img/liberta-di-informazione-in-pericolo.jpeg)
+![cartello di protesta: il giornalismo non è un crimine, Assange libero](liberta-di-informazione-in-pericolo.jpeg)
 
 Oggi e domani si decidono **le sorti di Julian Assange**, giornalista attualmente recluso nel carcere di massima sicurezza di Belmarsh, a Londra.
 

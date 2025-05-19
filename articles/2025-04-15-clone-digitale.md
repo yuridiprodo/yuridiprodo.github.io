@@ -2,7 +2,7 @@
 
 ### D'ora in poi il detto di San Tommaso non conta più: i cloni digitali sono già tra noi
 
-![Kazutaka Yonekura, a capo della startup Alt Inc. di Tokyo, in una dimostrazione del suo clone digitale. 17 Agosto 2023](/img/clone-digitale.jpg)
+![Kazutaka Yonekura, a capo della startup Alt Inc. di Tokyo, in una dimostrazione del suo clone digitale. 17 Agosto 2023](clone-digitale.jpg)
 
 Dubitare di qualsiasi cosa vediamo e sentiamo attraverso uno schermo. Fino a poco tempo fa questo atteggiamento poteva certamente agevolare la lettura critica di tutto quello che ci viene quotidianamente propinato dai media. Non bisognerebbe mai fermarsi alla singola notizia - o peggio ancora al titolo - bensì indagare, soffermarsi sulle contraddizioni per elaborare un proprio ragionamento che sproni l'approfondimento e stimoli la ricerca della verità.
 

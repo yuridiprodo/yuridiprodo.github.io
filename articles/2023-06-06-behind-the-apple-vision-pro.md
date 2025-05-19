@@ -2,7 +2,7 @@
 
 ### Apple si prende cura della miopia posizionando i suoi schermi a 2-3 centimetri dalla pupilla. Ora rileggete tutto più lentamente
 
-![immagine pubblicitaria del Vision Pro © foto di Apple](/img/apple-vision-pro.jpeg)
+![immagine pubblicitaria del Vision Pro © foto di Apple](apple-vision-pro.jpeg)
 
 Adesso che è stato presentato [il visore](https://www.macitynet.it/cosi-visionos-da-il-via-a-una-era/), Apple [dice](https://www.macitynet.it/salute-mentale-e-miopia-apple-ha-le-soluzioni/) di prendersi cura **della salute mentale delle persone (!)** e della miopia attraverso notifiche per ricordare all'utente di stare fuori almeno 2 ore e di tenere lo schermo del telefono a 30 centimetri dagli occhi per evitare di soffrirne in futuro.
 

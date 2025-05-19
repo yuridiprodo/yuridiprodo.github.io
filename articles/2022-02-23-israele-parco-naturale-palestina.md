@@ -2,7 +2,7 @@
 
 ### «È una misura brutale che costituisce un attacco diretto e premeditato ai cristiani di Terra Santa, frutto di una agenda ideologica»
 
-![il Monte degli Ulivi visto con Google Maps](/img/monte-degli-ulivi.jpeg)
+![il Monte degli Ulivi visto con Google Maps](monte-degli-ulivi.jpeg)
 
 I capi delle Chiese cristiane in Terra Santa esprimono “profonda preoccupazione” e “obiezione inequivocabile” contro il piano proposto dalla Israel Nature and Parks Authority (Inpa) che coinvolge l’area del **monte degli Ulivi**.
 

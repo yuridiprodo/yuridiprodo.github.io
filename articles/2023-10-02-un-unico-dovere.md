@@ -2,7 +2,7 @@
 
 ### Pasolini: altro non saprei consigliare ai giovani
 
-![copertina del libro Le belle bandiere, di Pier Paolo Pasolini](/img/le-belle-bandiere-pasolini.jpeg)
+![copertina del libro Le belle bandiere, di Pier Paolo Pasolini](le-belle-bandiere-pasolini.jpeg)
 
 I ragazzi sono in generale degli esseri adorabili, pieni di speranza, di buona volontà: mentre gli adulti sono in generale degli imbecilli, resi vili e ipocriti (alienati) dalle **istituzioni sociali**, in cui, crescendo, sono venuti a poco a poco incastrandosi. [...]
 

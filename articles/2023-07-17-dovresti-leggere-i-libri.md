@@ -2,7 +2,7 @@
 
 ### Ho letto moltissimi libri, eppure ne ho dimenticato la maggior parte. Ma allora qual è lo scopo della lettura?
 
-![setacciando l'acqua](/img/setaccio-acqua.jpeg)
+![setacciando l'acqua](setaccio-acqua.jpeg)
 
 "**Ho letto moltissimi libri, ma ho dimenticato la maggior parte di essi**. Ma allora qual è lo scopo della lettura?"
 

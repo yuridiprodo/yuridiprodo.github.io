@@ -2,7 +2,7 @@
 
 ### Non c’è altro da fare: o l’Italia torna ad essere cristiana, o diventerà musulmana.
 
-![i tre libri di Oriana Fallaci](/img/aveva-ragione-oriana-fallaci.jpeg)
+![i tre libri di Oriana Fallaci](aveva-ragione-oriana-fallaci.jpeg)
 
 Due studenti sono stati esentati dallo studio di Dante: [accade](https://www.orizzontescuola.it/a-treviso-divina-commedia-censurata-a-scuola-per-due-studenti-musulmani/) in una scuola media di Treviso, dove **se sei musulmano** al suo posto studierai Boccaccio. Va peggio soltanto in Olanda e in Belgio, dove c'è già da tempo [la versione "islamicamente corretta"](https://www.firenzetoday.it/attualita/dante-traduzione-divina-commedia-maometto-olanda-belgio.html).
 

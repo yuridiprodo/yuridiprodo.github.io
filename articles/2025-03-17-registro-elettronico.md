@@ -2,7 +2,7 @@
 
 ### Ecco come i genitori stanno perdendo ogni autorità sull'insegnamento dei propri figli. E sotto il loro naso
 
-![il banner di ClasseViva](/img/classeviva.jpg)
+![il banner di ClasseViva](classeviva.jpg)
 
 L'estensione MyTools di *ClasseViva*, il registro elettronico utilizzato dalle scuole di tutta Italia, contiene pubblicità e mini-giochi. Di più: propone anche consulenze con psicologi e **sessuologi** a cui qualsiasi studente può accedere in un click.
 
