@@ -16,15 +16,15 @@ Tutto molto semplice:
 - Il sito ha uno stile grafico gestito da un file CSS (`style.css`) che mette a posto font, colori e margini, secondo il mio discutibilissimo gusto estetico.
 - Le immagini vivono nella cartella `/img/` e vengono chiamate nei file Markdown con link come `![Alt](foto.jpg)`, che poi lo script sistema per puntare alla cartella giusta.
 - Non ci sono cookie di profilazione, non uso Google Analytics, Facebook Pixel, né gattini che tracciano i vostri click.
-- L'unica cosa che viene **temporaneamente** salvata nel vostro browser è una citazione casuale, in modo che non ve ne capiti una diversa ogni volta che aggiornate la pagina. Si chiama `localStorage` e non ci faccio nulla, promesso.
+- L'unica cosa che viene temporaneamente salvata nel vostro browser è una citazione casuale, in modo che non ve ne capiti una diversa ogni volta che aggiornate la pagina. Si chiama `localStorage` e non ci faccio nulla, promesso.
 
-Tutto il codice è **pubblico** e consultabile su GitHub, dove potete spulciare riga per riga ogni cosa che ho scritto - errori inclusi - per verificare che qui non si fa nessuna raccolta dati losca. Non saprei nemmeno dove conservarli questi dati, volendo. E anche se sapessi, sinceramente: **cosa potrei farmene?** Di sapere se navigate con Firefox o con un tostapane smart?
+Tutto il codice è pubblico e consultabile su GitHub, dove potete spulciare riga per riga ogni cosa che ho scritto - errori inclusi - per verificare che qui non si fa nessuna raccolta dati losca. Non saprei nemmeno dove conservarli questi dati, volendo. E anche se sapessi, sinceramente: cosa potrei farmene? Di sapere se navigate con Firefox o con un tostapane smart?
 
 #### E allora perché questa pagina?
 
 Perché da un po' di anni a questa parte, se non pubblichi una privacy policy rischi di venir colpito da una catapulta legale che parte da Bruxelles.
 
-Quindi ho chiesto a **ChatGPT** - che almeno lui ha studiato - di scrivere una versione un po' più seria (la trovate qui sotto) per stare nei ranghi. Ma se siete arrivati fin qui, probabilmente avete già capito tutto: **qui siete liberi. Come l'Onda.**
+Quindi ho chiesto a ChatGPT - che almeno lui ha studiato - di scrivere una versione un po' più seria (la trovate qui sotto) per stare nei ranghi. Ma se siete arrivati fin qui, probabilmente avete già capito tutto: **qui siete liberi. Come l'Onda.**
 
 ---
 
