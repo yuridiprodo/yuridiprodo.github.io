@@ -8,6 +8,7 @@
 
 Maggio
 
+- [Soldi, Successo, Sesso](/articles/2025-05-22-le-tre-s.html) Tre declinazioni dell'egocentrismo moderno
 - La vita? nasce dall'oscurità e cerca la luce. Si tratta di evitare la trappola dell'intelletto. [Ce lo spiegava bene Terzani più di vent'anni fa](/articles/2025-05-19-terzani.html)
 - Il presente non è fatto solo di attualità, perché il passato dura nel divenire. [Un pensiero](/articles/2025-05-13-sulle-notizie.html)
 
