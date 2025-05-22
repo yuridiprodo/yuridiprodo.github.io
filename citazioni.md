@@ -174,3 +174,5 @@
 *«Chi detiene il potere ha bisogno che le persone siano affette da tristezza»*. - Spinoza, [Trattato teologico-politico](https://amzn.to/3YsYv1h)
 
 *«Se non prestate attenzione, i giornali vi porteranno a odiare le persone che sono oppresse, e ad amare quelle che stanno opprimendo»*. - Malcolm X, [L'Autobiografia](https://amzn.to/4jPLEP1)
+
+*«Non dir mai di nessuna cosa: «l'ho perduta», ma: «l'ho restituita». È morto tuo figlio? È stato restituito. È morta tua moglie? È stata restituita. «Mi è stato tolto il podere»: ebbene, anche questo è stato restituito. «Ma chi me l'ha portato via è un malfattore». E a te cosa importa attraverso chi ne abbia chiesto la restituzione colui che te lo aveva dato? Finché ti concede di tenerlo, abbine cura come di un bene che non è tuo, come i viaggiatori della locanda»*. - [Manuale](https://amzn.to/4doKdFr) di Epitteto, capitolo 11
