@@ -119,8 +119,6 @@
 
 *«Trovo che la televisione sia molto educativa. Ogni volta che qualcuno l'accende, vado in un'altra stanza a leggere un libro»*. - [Groucho Marx](https://amzn.to/4j7BJEe)
 
-*«Abbiamo passato 16 anni senza l'energia elettrica, in un rudere e con un generatore di corrente. Il generatore funzionava qualche ora al giorno, alla sera accendevo le candele; prima di dormire, per leggere avevo creato sul comodino una specie di cimitero di candele; quando con l'andare del tempo e la perdita di diottrie queste candele erano diventate veramente troppe ho buttato via i libri e ho imparato ad ascoltare la notte, a vedere senza bisogno della luce. Ho incominciato a muovermi attorno a casa con l'aiuto di pezzettini di carta bianchi che fissavo durante il giorno come punti di riferimento. Ora ci vedo bene di notte quanto di giorno e, cosa ancora più importante per un musicista, ho imparato ad ascoltare la musica della notte, i piccoli rumori. Senza l'elettricità ho imparato a conoscere più cose di quante ne avrei potute conoscere con la luce e lì ho incominciato a capire che tutti questi bisogni, queste necessità potrebbero essere solo la proiezione di bisogni indotti»*. - [Fabrizio De André](https://amzn.to/4chE8tK)
-
 *«Nel futuro il razzismo aumenterà di intensità e di frequenza, anziché diminuire: e ciò a causa della pressione di un potere, che essendo meno visibile e personale, non sarà però meno schiacciante»*. - Pier Paolo Pasolini, [I grandi interventi civili](https://amzn.to/4hRgaGR)
 
 *«Mi chiedo, caro Alberto, se questo antifascismo rabbioso che viene sfogato nelle piazze oggi, a fascismo finito, non sia in fondo un'arma di distrazione che la classe dominante usa su studenti e lavoratori per vincolare il dissenso. Spingere le masse a combattere un nemico inesistente mentre il consumismo moderno striscia, si insinua e logora la società già moribonda»*. - [Pier Paolo Pasolini ad Alberto Moravia, 1973](https://amzn.to/44ewqhQ)
@@ -176,3 +174,5 @@
 *«Se non prestate attenzione, i giornali vi porteranno a odiare le persone che sono oppresse, e ad amare quelle che stanno opprimendo»*. - Malcolm X, [L'Autobiografia](https://amzn.to/4jPLEP1)
 
 *«Non dir mai di nessuna cosa: «l'ho perduta», ma: «l'ho restituita». È morto tuo figlio? È stato restituito. È morta tua moglie? È stata restituita. «Mi è stato tolto il podere»: ebbene, anche questo è stato restituito. «Ma chi me l'ha portato via è un malfattore». E a te cosa importa attraverso chi ne abbia chiesto la restituzione colui che te lo aveva dato? Finché ti concede di tenerlo, abbine cura come di un bene che non è tuo, come i viaggiatori della locanda»*. - [Manuale](https://amzn.to/4doKdFr) di Epitteto, capitolo 11
+
+*«La televisione produce violenza e la porta in case dove altrimenti violenza non ci sarebbe».* - Karl R. Popper, [Cattiva maestra televisione](https://amzn.to/4kr7ecY)
