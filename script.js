@@ -264,7 +264,7 @@ window.addEventListener('hashchange', handleHashChange);
 function updateFooter() {
     const currentYear = new Date().getFullYear();
     const footerCopy = document.getElementById('footer-menu');
-    footerCopy.innerHTML = `© 2009 - ${currentYear} Il Giornale delle Idee`;
+    footerCopy.innerHTML = `© 2009-${currentYear} <em>Yuri Di Prodo</em> | <a href="#/pages/contatti">Contatti</a>`;
 }
 
 updateFooter();
