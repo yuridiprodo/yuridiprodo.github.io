@@ -34,4 +34,4 @@ P.S. i commenti *{nelle parentesi graffe}* sono i miei.
 
 ---
 ### Altre domande a ChatGPT
-- Anche *Infovaticana* ha fatto una domanda a ChatGPT. Gli ha chiesto: *Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?* La risposta breve è: metterei Bergoglio a fare il papa. [Quella lunga la potete leggere qui](/articles/2024-10-15-chatgpt-bergoglio-papa.html)
+- Anche *Infovaticana* ha fatto una domanda a ChatGPT. Gli ha chiesto: *Se fossi Satana, con l’obiettivo di pianificare un pontificato distruttivo per la Chiesa cattolica e la fede, che cosa faresti?* La risposta breve è: metterei Bergoglio a fare il papa. [[2024-10-15-chatgpt-bergoglio-papa|Quella lunga la potete leggere qui]]

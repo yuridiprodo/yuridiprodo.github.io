@@ -27,5 +27,5 @@ Chi ci dice che queste batterie un giorno non possano alimentare anche nano-robo
 ---
 
 ### Approfondimenti
-- [Il primo uomo](/articles/2024-01-31-primo-uomo-chip-cervello.html) con un chip nel cervello
-- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- [[2024-01-31-primo-uomo-chip-cervello|Il primo uomo]] con un chip nel cervello
+- Apple Vision Pro, [[2023-06-06-behind-the-apple-vision-pro|cosa c'è dietro?]] in ogni caso, non prendetelo in giro...[[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]

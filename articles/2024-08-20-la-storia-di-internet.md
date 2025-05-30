@@ -57,7 +57,7 @@ Tim Berners-Lee, ricercatore del CERN di Ginevra, immagina un database (server) 
 
 L'idea: utilizzare un programma (**browser**) che attraverso un protocollo (**HTTP**) permette di far comunicare il client con il server digitando una semplice stringa di testo (**URL**).
 
-[Tim Berners-Lee, ricercatore del CERN di Ginevra](/articles/la-storia-di-internet-6.jpg.html)
+![Tim Berners-Lee, ricercatore del CERN di Ginevra](la-storia-di-internet-6.jpg)
 
 ---
 

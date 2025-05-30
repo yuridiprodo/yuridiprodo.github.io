@@ -21,5 +21,5 @@ Di questo e molto altro ne parla il medico **Paolo Gulisano** nel suo ultimo lib
 ---
 
 ### Sulla Intelligenza Artificiale
-- [Questo](/articles/2023-10-09-fallo-fare-alla-ai.html) potremmo farlo fare all’intelligenza artificiale
-- Google con intelligenza artificiale fa tutto da solo, [ed è un problema](/articles/2024-06-25-google-ai-overviews.html)
+- [[2023-10-09-fallo-fare-alla-ai|Questo]] potremmo farlo fare all’intelligenza artificiale
+- Google con intelligenza artificiale fa tutto da solo, [[2024-06-25-google-ai-overviews|ed è un problema]]

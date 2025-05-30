@@ -13,5 +13,5 @@ Però su una cosa possiamo sicuramente essere d'accordo: nel 2050 i miopi passer
 ---
 
 ### Approfondimenti
-- [Gli effetti avversi](/articles/2024-06-14-imperativo-tecnologico.html) dell’intelligenza artificiale
-- Non prendete in giro Apple Vision Pro, [prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- [[2024-06-14-imperativo-tecnologico|Gli effetti avversi]] dell’intelligenza artificiale
+- Non prendete in giro Apple Vision Pro, [[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]

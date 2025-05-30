@@ -12,7 +12,7 @@ Oggi siamo già al passo successivo, quello della diffusione di tale comportamen
 
 Ma se il passaggio successivo, la **legalizzazione**, non fosse davvero l'ultimo?
 
-Se ce ne fosse un altro ancora, non previsto persino dalla sempre più abusata teoria della [Finestra di Overton](/articles/2023-12-28-persuasori-occulti.html).
+Se ce ne fosse un altro ancora, non previsto persino dalla sempre più abusata teoria della [[2023-12-28-persuasori-occulti|Finestra di Overton]].
 
 Se l'intenzione fosse quello di renderlo **obbligatorio**?
 
@@ -26,5 +26,5 @@ Se l'intenzione fosse quello di renderlo **obbligatorio**?
 
 ---
 ### Altro sulla finestra di Overton
-- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [PNL](/articles/2023-12-28-persuasori-occulti.html)
-- Non prendete in giro Apple Vision Pro, [prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [[2023-12-28-persuasori-occulti|PNL]]
+- Non prendete in giro Apple Vision Pro, [[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]

@@ -12,11 +12,11 @@ Si chiama PNL: Programmazione Neuro Linguistica. Stanno programmando e preparand
 
 Il nostro cervello **accetterà tutto se già cel'ha dentro**.
 
-Questo sistema fa uso dell'approccio noto come [Finestra di Overton](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html), in cui un'idea da **inconcepibile** diventa estrema, poi accettabile, ragionevole, diffusa e infine **legalizzata**.
+Questo sistema fa uso dell'approccio noto come [[2023-06-06-non-prendete-in-giro-apple-vision-pro|Finestra di Overton]], in cui un'idea da **inconcepibile** diventa estrema, poi accettabile, ragionevole, diffusa e infine **legalizzata**.
 
 Lo fanno da sempre attraverso la **pubblicità**, il **cinema**, i **cartoni animati** (leggere per credere: [Persuasori Occulti](https://amzn.to/3GR9icB), di Vance Packard), i **giornali** ([tadan](https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-russi-pa-chiesto-riscatto-_74633709-202302k.shtml)!) e più di recente tramite i **social** e gli **smartphone**.
 
 ---
 ### Altro sulla finestra di Overton
-- Non prendete in giro Apple Vision Pro, [prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
-- [Obbligatorio abortire?!](/articles/2024-02-15-obbligatorio-abortire.html)
+- Non prendete in giro Apple Vision Pro, [[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]
+- [[2024-02-15-obbligatorio-abortire|Obbligatorio abortire?!]]

@@ -16,6 +16,6 @@
 ---
 
 ### Ancora tecnologia applicata all'uomo
-- [Il primo uomo](/articles/2024-01-31-primo-uomo-chip-cervello.html) con un chip nel cervello
-- Il transumanesimo [non è un complotto](/articles/2023-04-25-transumanesimo-altro-che-complotto.html)
-- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
+- [[2024-01-31-primo-uomo-chip-cervello|Il primo uomo]] con un chip nel cervello
+- Il transumanesimo [[2023-04-25-transumanesimo-altro-che-complotto|non è un complotto]]
+- Apple Vision Pro, [[2023-06-06-behind-the-apple-vision-pro|cosa c'è dietro?]] in ogni caso, non prendetelo in giro...[[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]

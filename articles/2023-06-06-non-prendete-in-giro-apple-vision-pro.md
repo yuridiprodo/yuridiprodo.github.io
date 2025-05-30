@@ -23,8 +23,8 @@ Come faremo invece quando lo schermo si fonderà costantemente con l'ambiente ci
 ---
 
 ### Per approfondire
-- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html)
+- Apple Vision Pro, [[2023-06-06-behind-the-apple-vision-pro|cosa c'è dietro?]]
 
 ### Altro sulla finestra di Overton
-- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [PNL](/articles/2023-12-28-persuasori-occulti.html)
-- [Obbligatorio abortire?!](/articles/2024-02-15-obbligatorio-abortire.html)
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? tre lettere: [[2023-12-28-persuasori-occulti|PNL]]
+- [[2024-02-15-obbligatorio-abortire|Obbligatorio abortire?!]]

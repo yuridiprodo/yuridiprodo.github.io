@@ -30,5 +30,5 @@ Cos'altro avrebbe dovuto fare? Marcire in prigione? Ha già fatto tutto quello c
 ---
 
 ### Altri articoli sull'argomento:
-- La storia della libertà d’informazione [potrebbe cambiare per sempre](/articles/2024-02-20-liberta-di-informazione-in-pericolo.html)
-- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [neppure per noi](/articles/2024-05-23-liberate-assange-adesso.html)
+- La storia della libertà d’informazione [[2024-02-20-liberta-di-informazione-in-pericolo|potrebbe cambiare per sempre]]
+- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [[2024-05-23-liberate-assange-adesso|neppure per noi]]

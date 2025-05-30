@@ -6,7 +6,7 @@
 
 **Carbon Inequality Kills**, ovvero come la disuguaglianza nell'impronta ecologica ci starebbe uccidendo. Queste tre parole titolano la [ricerca](https://policy-practice.oxfam.org/resources/carbon-inequality-kills-why-curbing-the-excessive-emissions-of-an-elite-few-can-621656/) tramite cui *Oxfam* denuncia uno stile di vita, quello dei super-ricchi, gravemente dannoso per l'intera umanità.
 
-Mentre al popolo si richiedono continui sacrifici - non ultimo l'indebitarsi [comprando un'auto elettrica](https://yuridiprodo.github.io/articles/2024-04-05-auto-elettrica-salva-il-mondo.html) che a quanto pare, per il solo fatto di essere stata costruita, [ha già prodotto tanto inquinamento](https://www.alvolante.it/news/auto-elettriche-inquinano-meno-ma-solo-dopo-90-000-km-390911) quanto quello di **un'auto a combustione dopo aver percorso 90.000 Km** - i 50 uomini più ricchi del pianeta abusano delle loro disponibilità economiche a danno della collettività.
+Mentre al popolo si richiedono continui sacrifici - non ultimo l'indebitarsi [[2024-04-05-auto-elettrica-salva-il-mondo|comprando un'auto elettrica]] che a quanto pare, per il solo fatto di essere stata costruita, [ha già prodotto tanto inquinamento](https://www.alvolante.it/news/auto-elettriche-inquinano-meno-ma-solo-dopo-90-000-km-390911) quanto quello di **un'auto a combustione dopo aver percorso 90.000 Km** - i 50 uomini più ricchi del pianeta abusano delle loro disponibilità economiche a danno della collettività.
 
 **Qualche esempio?** 184 dei loro viaggi in aereo annuali corrispondono a circa 425 ore di volo, ovvero 300 anni di carbonio prodotto da una persona comune.
 
@@ -20,7 +20,7 @@ Come poi non citare la famiglia **Walton**, erede del marchio Walmart, che coi s
 
 In percentuale quel che ha emesso soltanto l'1% dei più ricchi al mondo negli ultimi 33 anni, dal 1990 ad oggi, avrebbe già causato un calo della produzione economica globale di 2,9 trilioni di dollari, con conseguenti perdite di raccolti che avrebbero potuto fornire **abbastanza calorie per sfamare 14,5 milioni di persone nello stesso arco di tempo**.
 
-Però tu ed io, [comprando l'auto elettrica, salveremo il mondo](https://yuridiprodo.github.io/articles/2024-04-05-auto-elettrica-salva-il-mondo.html).
+Però tu ed io, [[2024-04-05-auto-elettrica-salva-il-mondo|comprando l'auto elettrica, salveremo il mondo]].
 
 ---
 

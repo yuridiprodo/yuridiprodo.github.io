@@ -19,5 +19,5 @@ Non sarebbe dovuto andare così. Ma non è ancora finita. Possiamo e dobbiamo li
 ---
 
 ### Altri articoli sull'argomento:
-- La storia della libertà d’informazione [potrebbe cambiare per sempre](/articles/2024-02-20-liberta-di-informazione-in-pericolo.html)
-- Adesso [non dimentichiamoci](/articles/2024-06-27-assange-libero.html) di Julian Assange
+- La storia della libertà d’informazione [[2024-02-20-liberta-di-informazione-in-pericolo|potrebbe cambiare per sempre]]
+- Adesso [[2024-06-27-assange-libero|non dimentichiamoci]] di Julian Assange

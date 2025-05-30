@@ -12,7 +12,7 @@ L’Alta Corte di Londra è infatti chiamata a stabilire se il fondatore di **Wi
 
 Se ciò dovesse accadere - [lancia l'allarme](https://www.ansa.it/sito/notizie/mondo/2024/02/19/la-moglie-di-assange-nel-caso-sullestradizione-si-decide-se-vivra-o-morra_1a6be6df-6daf-4881-8adb-e449c5c4d699.html) la moglie, Stella Assange - **Julian non sopravviverà**.
 
-Di Julian Assange avevo già parlato il 12 luglio in occasione dei 16 anni dall'attacco aereo americano contro i civili di Baghdad; attacco di cui ovviamente **non sapevamo nulla** fino alla pubblicazione [del video](/articles/2024-06-27-assange-libero.html) online.
+Di Julian Assange avevo già parlato il 12 luglio in occasione dei 16 anni dall'attacco aereo americano contro i civili di Baghdad; attacco di cui ovviamente **non sapevamo nulla** fino alla pubblicazione [[2024-06-27-assange-libero|del video]] online.
 
 Fu proprio Assange **a mostrarcelo**.
 
@@ -23,5 +23,5 @@ Dopo duemila anni, non è cambiato niente. **La vita** è ancora **il prezzo da 
 ---
 
 ### Altri articoli sull'argomento:
-- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [neppure per noi](/articles/2024-05-23-liberate-assange-adesso.html)
-- Adesso [non dimentichiamoci](/articles/2024-06-27-assange-libero.html) di Julian Assange
+- Se non c’è libertà di parola per lui, non ci sarà libertà di parola [[2024-05-23-liberate-assange-adesso|neppure per noi]]
+- Adesso [[2024-06-27-assange-libero|non dimentichiamoci]] di Julian Assange
