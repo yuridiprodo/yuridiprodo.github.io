@@ -263,7 +263,6 @@ Leggiamo il paragrafo 44 delle [nuove linee guida](https://www.chiesacattolica.i
 "In relazione alle persone con tendenze omosessuali che si accostano ai seminari, o che scoprono nel corso della formazione tale situazione, in coerenza con il proprio Magistero, la Chiesa, pur rispettando profondamente le persone in questione, non può ammettere al Seminario e agli Ordini sacri coloro che praticano l’omosessualità, presentano tendenze omosessuali profondamente radicate o sostengono la cosiddetta cultura gay. Le suddette persone si trovano, infatti, in una situazione che ostacola gravemente un corretto relazionarsi con uomini e donne."
 
 # Cormoran Strike 8
-<p id="20250110">10 gennaio 2025</p>
 
 🔥 Flash news piccolina
 
@@ -459,8 +458,8 @@ https://investigatorebiblico.wordpress.com/2024/09/06/indizio-n-216-cancellato-i
 
 https://www.iltimone.org/news-timone/cosa-direbbe-san-tommaso-sul-bambino-che-si-sente-lupo/
 
-# La tirannia può essere un'idea
-<p id="20241017">17 ottobre 2024</p>
+# Tirannia
+17 ottobre 2024
 
 Da un dialogo del racconto [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe:
 
@@ -573,8 +572,8 @@ Comunque, per annullare il blocco, è sufficiente:
 - quindi, nella barra di ricerca, digitare contenuti suggeriti;
 - alla voce contenuti di natura politica, spostare il selettore su non limitare i contenuti di natura politica delle persone che non segui.
 
-# De Crescenzo, sul conformismo
-<p id="20240430">30 aprile 2024</p>
+# Conformismo
+30 aprile 2024
 
 Tutti fanno ciò che gli altri fanno: è il principio base del conformismo. Ad esempio non posso fare a meno di chiedermi perché il Grande Fratello piaccia tanto al pubblico italiano.
 
@@ -689,8 +688,8 @@ Non a caso oggi l’imprenditore è la figura più ammirata e il profitto è l�
 
 [Alessandro Barbero](https://amzn.to/3VmjcLE)
 
-# Leggenda giapponese, inferno e paradiso
-<p id="20240323">23 marzo 2024</p>
+# Leggenda
+23 marzo 2024
 
 > In un’antica leggenda giapponese si narra di un samurai bellicoso che un giorno sfidò un maestro Zen chiedendogli di spiegare i concetti di paradiso e inferno. Il monaco, però, replicò con disprezzo: “Non sei che un rozzo villano; non posso perdere il mio tempo con gente come te!”
 > 
@@ -729,8 +728,8 @@ Nel suo [Il caffè sospeso](https://amzn.to/3PoXD9r), Luciano De Crescenzo scriv
 
 Siate dei lettori, dunque, ma non siate mai i seguaci e i follower di nessuno.
 
-# Middei, il congiuntivo
-<p id="20240321">21 marzo 2024</p>
+# Congiuntivo
+21 marzo 2024
 
 La lingua italiana è una delle poche al mondo ad avere il congiuntivo. E i giornali lo usano sempre meno.
 
@@ -744,8 +743,8 @@ Il forse è la parola più bella della nostra lingua. «Perché apre delle possi
 
 Tratto da [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei
 
-# Ritorno al passato
-<p id="20240319">19 marzo 2024</p>
+# Ritorno-al-passato
+19 marzo 2024
 
 Abbiamo bisogno di contadini, di poeti, di gente che sa fare il pane, che ama gli alberi e riconosce il vento. Più che l'anno della crescita, ci vorrebbe l'anno dell'attenzione.
 

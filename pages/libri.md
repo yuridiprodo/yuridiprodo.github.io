@@ -14,18 +14,17 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [La figlia](https://amzn.to/4h8YwOH) di Clara Usón. [[03|Una tecnica di Hermann Goering]]
 - [Nuremberg Diary](https://amzn.to/4h6MVPV) di Gustave Gilbert. [Sarai tu a chiedere la guerra](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
 - [Le leggi fondamentali della stupidità umana](https://amzn.to/41ecEBd) di Carlo Maria Cipolla. [La prima](https://yuridiprodo.github.io/newsletter/02.html#20250216n)
-- [De otio, III, 5](https://amzn.to/3Ei4aQN) di Seneca. [Renditi utile](https://yuridiprodo.github.io/newsletter/01.html#20250205n)
-- [The Hallmarked Man](https://amzn.to/4gNR5Nr) di Robert Galbraith. [Arriva a settembre](https://yuridiprodo.github.io/pages/social.html#20250110)
+- [De otio, III, 5](https://amzn.to/3Ei4aQN) di Seneca. [[01|In fondo alla newsletter]]
 - [Antigone. Variazioni sul mito](https://amzn.to/4hdWtJG) di Bertolt Brecht. [Una citazione](/articles/2025-01-20-alcolock.html)
-- [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [Tirannia, un'idea](https://yuridiprodo.github.io/pages/social.html#20241017)
+- [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[social#Tirannia|Tirannia, un'idea]]
 - [Robinson Crusoe](https://amzn.to/3SoePxo) 📌 di Daniel Defoe. [Una storia vera](/articles/2024-07-26-moyenne.html.html)
 - [Imperativo tecnologico. La sfida etica dell’Intelligenza Artificiale](https://amzn.to/3R2KEei) di Paolo Gulisano. [Una parabola discendente?](/articles/2024-06-14-imperativo-tecnologico.html)
 - [La rabbia e l’orgoglio](https://amzn.to/3wPDH9Q) e [La forza della ragione](https://amzn.to/4bxt3DP) di Oriana Fallaci. [Semplicemente profetici](/articles/2024-05-27-aveva-ragione-oriana.html)
 - [L’Apocalisse](https://amzn.to/3Kk2PbQ) di Oriana Fallaci. [Eravamo stati avvisati](/articles/2023-10-31-il-prezzo-della-liberta.html)
-- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [Sul conformismo](https://yuridiprodo.github.io/pages/social.html#20240430) e [sul latino](https://yuridiprodo.github.io/pages/social.html#20240315)
-- [Intelligenza Emotiva](https://amzn.to/491bABs) di David Goleman. [Una leggenda giapponese](https://yuridiprodo.github.io/pages/social.html#20240323)
-- [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei. [Sul congiuntivo](https://yuridiprodo.github.io/pages/social.html#20240321)
-- [Cedi la strada agli alberi](https://amzn.to/3IJOBA1) di Franco Arminio. [Gusto antico](https://yuridiprodo.github.io/pages/social.html#20240319)
+- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [[social#Conformismo|Sul conformismo]] e [sul latino](https://yuridiprodo.github.io/pages/social.html#20240315)
+- [Intelligenza Emotiva](https://amzn.to/491bABs) di David Goleman. [[social#Leggenda|Una leggenda giapponese]]
+- [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei. [[social#Congiuntivo|Sul congiuntivo]]
+- [Cedi la strada agli alberi](https://amzn.to/3IJOBA1) di Franco Arminio. [[social#Ritorno-al-passato|Gusto antico]]
 - [Be Water My Friend](https://amzn.to/3uZyETj)📌 di Shannon Lee. [Una filosofia di vita](/articles/2024-03-11-be-water-my-friend.html)
 - [Il secondo libro delle filastrocche](https://amzn.to/4bHSIdv) di Gianni Rodari. [Il funerale della volpe](https://yuridiprodo.github.io/pages/social.html#20240223)
 - [La rivoluzione del filo di paglia](https://amzn.to/42n1OI9) di Masanobu Fukuoka. [Ritorno alla Natura](https://yuridiprodo.github.io/pages/social.html#20240207)
