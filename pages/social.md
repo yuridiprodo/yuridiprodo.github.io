@@ -572,7 +572,7 @@ Comunque, per annullare il blocco, è sufficiente:
 - quindi, nella barra di ricerca, digitare contenuti suggeriti;
 - alla voce contenuti di natura politica, spostare il selettore su non limitare i contenuti di natura politica delle persone che non segui.
 
-# Conformismo
+# sul-conformismo
 30 aprile 2024
 
 Tutti fanno ciò che gli altri fanno: è il principio base del conformismo. Ad esempio non posso fare a meno di chiedermi perché il Grande Fratello piaccia tanto al pubblico italiano.
@@ -758,8 +758,8 @@ Il pensiero sensuale è stato sconfitto e ora domina il pensiero funzionale, l'e
 
 Franco Arminio, [Cedi la strada agli alberi](https://amzn.to/3IJOBA1)
 
-# De Crescenzo, sul latino
-<p id="20240315">15 marzo 2024</p>
+# De-Crescenzo-sul-latino
+15 marzo 2024
 
 Sono fuori moda: amo il latino e odio l’inglese.
 
@@ -868,8 +868,8 @@ Quando tutto crolla e resta in piedi solo l’essenziale, il giudizio che ricevi
 
 Giovanni Allevi, Sanremo. [7 febbraio 2024](https://www.youtube.com/watch?v=swl_-gtLfaU)
 
-# Rodari, il funerale della volpe
-<p id="20240223">23 febbraio 2024</p>
+# Rodari-il-funerale-della-volpe
+23 febbraio 2024
 
 Una volta le galline trovarono la volpe in mezzo al sentiero. Aveva gli occhi chiusi, la coda non si muoveva. - È morta, è morta - gridarono le galline. - Facciamole il funerale.
 
@@ -974,8 +974,8 @@ Eppure poco più di 40 anni fa Toto Cutugno riusciva, seppur debolmente, a fotog
 > Con la bandiera in tintoria
 > E una Seicento giù di carrozzeria.
 
-# Fukuoka, ritorno alla Natura
-<p id="20240207">7 febbraio 2024</p>
+# Fukuoka-ritorno-alla-Natura
+7 febbraio 2024
 
 > Le persone non mettono più piede sulla terra nuda. Le loro mani si sono allontanate da erbe e fiori, non rivolgono lo sguardo al cielo, le loro orecchie sono sorde al canto degli uccelli, il loro naso è diventato insensibile a causa dei fumi dei tubi di scappamento, e la loro lingua e il loro palato hanno dimenticato i sapori semplici della natura.
 > 
@@ -1031,8 +1031,8 @@ La Chiesa potrebbe essere la guida, grandiosa ma non autoritaria, di tutti color
 
 Tratto dagli [Scritti corsari](https://amzn.to/3HvbR4t) di Pier Paolo Pasolini per il Corriere della sera, 22 settembre 1974, dal titolo "I dilemmi di un Papa"
 
-# Cinque minuti prima di morire
-<p id="20240130">30 gennaio 2024</p>
+# Cinque-minuti-prima-di-morire
+30 gennaio 2024
 
 Uccidere chi ha ucciso è una punizione spaventosa rispetto al delitto.
 
@@ -1123,8 +1123,8 @@ Ma i ragazzi hanno bisogno di guardarsi in faccia, di ridere, di capire attraver
 
 Umberto Galimberti per GQ, [16 aprile 2020](https://www.gqitalia.it/news/article/umberto-galimberti-filosofo-coronavirs)
 
-# cardinale Zen, attenzione alla sinodalità
-<p id="20240119">19 gennaio 2024</p>
+# cardinale-Zen-attenzione-alla-sinodalità
+19 gennaio 2024
 
 San Giovanni Paolo II all’inizio del suo pontificato ci chiedeva di non avere paura e di aprire le porte a Cristo, ma da quello che osservo mi sembra che molti nella Chiesa siano preoccupati di piacere al mondo compiacendolo.
 
@@ -1237,8 +1237,8 @@ Decisione che scatenò una lunga battaglia legale durante la quale il pastore sa
 
 https://www.lindipendente.online/2024/01/12/addio-a-ovidio-marras-il-pastore-sardo-che-non-si-piego-alle-aziende-del-cemento-e-vinse//?tg_rhash=cb891b7c9401eb
 
-# Guareschi, sul latino
-<p id="20240112">12 gennaio 2024</p>
+# Guareschi-sul-latino
+12 gennaio 2024
 
 Il latino è una lingua precisa, essenziale. Verrà abbandonata non perché inadeguata alle nuove esigenze del progresso, ma perché gli uomini nuovi non saranno più adeguati ad essa.
 
@@ -1300,8 +1300,8 @@ Io invece amo esser solo. Ho bisogno di essere solo: per contemplare, per pensar
 
 Pier Paolo Pasolini, riflessione rilasciata al giornalista inglese Peter Dragadze e pubblicata postuma nella raccolta "Quasi un testamento" della rivista "Gente" del 17 novembre 1975; oggi la trovate insieme a molte altre nel libro [Scritti corsari](https://amzn.to/46XInq5).
 
-# Fallaci, il dolore dell'anima
-<p id="20240102">2 gennaio 2024</p>
+# Fallaci-il-dolore-dell-anima
+2 gennaio 2024
 
 Incredibile come il dolore dell’anima non venga capito.
 
@@ -1334,8 +1334,8 @@ Viviamo in tempi bui.
 
 Mai come in questo momento dobbiamo fare nostre le parole di Benedetto XVI, che nel suo [testamento spirituale](https://www.vatican.va/content/benedict-xvi/it/elezione/documents/testamento-spirituale-bxvi.html) ci esorta senza mezzi termini con il suo «rimanete saldi nella fede! Non lasciatevi confondere!» Non vedo altra soluzione.
 
-# Buon Natale
-<p id="20231224">24 dicembre 2023</p>
+# Buon-Natale-teledramma
+24 dicembre 2023
 
 Concludo questo breve ciclo di filastrocche domenicali con la più potente del libro: qui causa ed effetto ci vengono ripetuti come un mantra, sicché quel che fa la televisione all'essere umano non può essere più chiaro di così.
 
@@ -1534,8 +1534,8 @@ a più d'una persona.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/46Ga72s)
 
-# Terzani, fotografia all'umano
-<p id="20231212">12 dicembre 2023</p>
+# Terzani-foto-all-umano
+12 dicembre 2023
 
 L’uomo è una strana creatura, la più distruttiva che sia mai comparsa sulla faccia della Terra.
 
@@ -1561,8 +1561,8 @@ Quindi l’avaro ha paura della morte, non accetta la condizione di mortale che 
 
 Umberto Galimberti, [I vizi capitali e i nuovi vizi](https://amzn.to/46IGxJI)
 
-# Rodari, il dittatore
-<p id="20231210">10 dicembre 2023</p>
+# Rodari-il-dittatore
+10 dicembre 2023
 
 Per queste domeniche ho deciso di condividere alcune poesie tratte da un libro di filastrocche di Gianni Rodari. Sono per me le più significative sia per il messaggio che danno che per i pensieri che ne scaturiscono, ma sono belle tutte ed è un acquisto che consiglio vivamente anche più di altri.
 
@@ -1587,8 +1587,8 @@ una riga più in basso.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)
 
-# Hugo, amate le anime
-<p id="20231207">7 dicembre 2023</p>
+# Hugo-amate-le-anime
+7 dicembre 2023
 
 Guai a chi avrà amato solo corpi, forme, apparenze. La morte gli toglierà tutto.
 
@@ -1657,8 +1657,8 @@ Bibliografia e sitografia di riferimento
 - A. Bandura, Autoefficacia: teoria e applicazioni, Erikson, 2000
 - I. Lagreca, Il ruolo delle emozioni nell’apprendimento.
 
-# Russell, sulla compassione
-<p id="20231129">29 novembre 2023</p>
+# Russell-sulla-compassione
+29 novembre 2023
 
 Tre passioni, semplici ma straordinariamente forti, hanno governato la mia vita: la sete d’amore, la ricerca della conoscenza, e una struggente compassione per le sofferenze dell’umanità.
 
@@ -1703,8 +1703,8 @@ magari dal suo colore,
 mentre dell'uomo conta
 non la pelle, ma il cuore.
 
-# Totò, sulla felicità
-<p id="20231122">22 novembre 2023</p>
+# Totò-sulla-felicità
+22 novembre 2023
 
 Stabilito che le disgrazie sono fatte per gli uomini, perché arrabbiarsi contro le disgrazie? Sarebbe come arrabbiarsi perché piove, o perché c’ è il sole, o perché si muore. La morte esiste, la pioggia esiste, la cecità esiste: e ciò che esiste va accettato. Disperarsi a che serve? A vederci meglio?
 

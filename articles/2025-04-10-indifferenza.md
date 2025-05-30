@@ -14,7 +14,7 @@
 
 Messaggiare in pubblico, ascoltare la musica in cuffia, guardare la TV: sono tre delle cose che facciamo quotidianamente e sempre più spesso; e loro, con ingannevole innocenza, non fanno altro che erodere il nostro rapporto col reale. Giorno dopo giorno ci isolano, ci rendono più apatici; ci distraggono dal qui e ora, indebolendo e atrofizzando tutte quelle sensazioni che ci legano alla vita vera. Pensate che secondo uno [studio](https://www.sciencedirect.com/science/article/pii/S0747563225000573?via%3Dihub) recentemente pubblicato sulla rivista *Computers in Human Behavior*, l'attività del cervello cambia già dopo che si è limitato l'uso dello smartphone per tre giorni.
 
-Ieri era la TV; oggi sono Internet e i social network. Domani, i [visori AR](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html) e l'[intelligenza artificiale](/articles/2025-01-08-ia-catastrofe.html). Ma indipendentemente dallo strumento, il risultato rimane lo stesso: abbiamo sempre più a che fare con una visione rarefatta e sintetica della realtà, sicché finisce che restiamo indifferenti a tutto quel che succede nel mondo al di fuori di noi.
+Ieri era la TV; oggi sono Internet e i social network. Domani, i [[2023-06-06-non-prendete-in-giro-apple-vision-pro|visori AR]] e l'[[2025-01-08-ia-catastrofe|intelligenza artificiale]]. Ma indipendentemente dallo strumento, il risultato rimane lo stesso: abbiamo sempre più a che fare con una visione rarefatta e sintetica della realtà, sicché finisce che restiamo indifferenti a tutto quel che succede nel mondo al di fuori di noi.
 
 Ci troviamo così a scorrere i titoli degli articoli pubblicati dai giornali (ne allego qualcuno qui sotto a mo' di esempio) e semplicemente passiamo oltre senza neppure fermarci un attimo per cercare di capire cosa è successo e cosa sta succedendo al di fuori di noi stessi.
 
@@ -38,4 +38,4 @@ Ci troviamo così a scorrere i titoli degli articoli pubblicati dai giornali (ne
 > 
 > *Morti per fumo in Italia, 90 mila vittime l'anno e quasi due miliardi spesi per le ospedalizzazioni*
 
-Il nostro individualismo cresce parallelamente al decadimento della comunità. Da esseri sociali diventiamo [manichini ossequienti](/articles/2025-02-15-vendere-desideri.html). Giorno dopo giorno perdiamo la nostra umanità. Abbiamo dimenticato l'empatia. Stiamo perdendo tutto: l'interesse verso la pretesa giustizia; l'amore per il prossimo; la libertà.
+Il nostro individualismo cresce parallelamente al decadimento della comunità. Da esseri sociali diventiamo [[2025-02-15-vendere-desideri|manichini ossequienti]]. Giorno dopo giorno perdiamo la nostra umanità. Abbiamo dimenticato l'empatia. Stiamo perdendo tutto: l'interesse verso la pretesa giustizia; l'amore per il prossimo; la libertà.

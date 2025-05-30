@@ -20,26 +20,26 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [Robinson Crusoe](https://amzn.to/3SoePxo) 📌 di Daniel Defoe. [Una storia vera](/articles/2024-07-26-moyenne.html.html)
 - [Imperativo tecnologico. La sfida etica dell’Intelligenza Artificiale](https://amzn.to/3R2KEei) di Paolo Gulisano. [Una parabola discendente?](/articles/2024-06-14-imperativo-tecnologico.html)
 - [La rabbia e l’orgoglio](https://amzn.to/3wPDH9Q) e [La forza della ragione](https://amzn.to/4bxt3DP) di Oriana Fallaci. [Semplicemente profetici](/articles/2024-05-27-aveva-ragione-oriana.html)
-- [L’Apocalisse](https://amzn.to/3Kk2PbQ) di Oriana Fallaci. [Eravamo stati avvisati](/articles/2023-10-31-il-prezzo-della-liberta.html)
-- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [[social#Conformismo|Sul conformismo]] e [sul latino](https://yuridiprodo.github.io/pages/social.html#20240315)
+- [L’Apocalisse](https://amzn.to/3Kk2PbQ) di Oriana Fallaci. [[2023-10-31-il-prezzo-della-liberta|Eravamo stati avvisati]]
+- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [[social#sul-conformismo|Sul conformismo]] e [[social#De-Crescenzo-sul-latino|sul latino]]
 - [Intelligenza Emotiva](https://amzn.to/491bABs) di David Goleman. [[social#Leggenda|Una leggenda giapponese]]
 - [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei. [[social#Congiuntivo|Sul congiuntivo]]
 - [Cedi la strada agli alberi](https://amzn.to/3IJOBA1) di Franco Arminio. [[social#Ritorno-al-passato|Gusto antico]]
 - [Be Water My Friend](https://amzn.to/3uZyETj)📌 di Shannon Lee. [Una filosofia di vita](/articles/2024-03-11-be-water-my-friend.html)
-- [Il secondo libro delle filastrocche](https://amzn.to/4bHSIdv) di Gianni Rodari. [Il funerale della volpe](https://yuridiprodo.github.io/pages/social.html#20240223)
-- [La rivoluzione del filo di paglia](https://amzn.to/42n1OI9) di Masanobu Fukuoka. [Ritorno alla Natura](https://yuridiprodo.github.io/pages/social.html#20240207)
+- [Il secondo libro delle filastrocche](https://amzn.to/4bHSIdv) di Gianni Rodari. [[social#Rodari-il-funerale-della-volpe|Il funerale della volpe]]
+- [La rivoluzione del filo di paglia](https://amzn.to/42n1OI9) di Masanobu Fukuoka. [[social#Fukuoka-ritorno-alla-Natura|Ritorno alla Natura]]
 - [Fede e futuro](https://amzn.to/3HxRUK7) di Joseph Ratzinger. [La buona notizia](/articles/2024-02-01-profezia-ratzinger.html)
-- [L’idiota](https://amzn.to/3Ob0Bhl) di Fedor Dostoevskij. [Cinque minuti prima di morire](https://yuridiprodo.github.io/pages/social.html#20240130)
-- [Advent Reflections](https://amzn.to/4aU5hC0) di Joseph Zen. [Attenzione alla sinodalità](https://yuridiprodo.github.io/pages/social.html#20240119)
-- [Chi sogna nuovi gerani?](https://amzn.to/3vwbcg4) di Giovannino Guareschi. [Sul latino](https://yuridiprodo.github.io/pages/social.html#20240112)
-- [Insciallah](https://amzn.to/41wOroc) di Oriana Fallaci. [Il dolore dell'anima](https://yuridiprodo.github.io/pages/social.html#20240102)
+- [L’idiota](https://amzn.to/3Ob0Bhl) di Fedor Dostoevskij. [[social#Cinque-minuti-prima-di-morire|Cinque minuti prima di morire]]
+- [Advent Reflections](https://amzn.to/4aU5hC0) di Joseph Zen. [[social#cardinale-Zen-attenzione-alla-sinodalità|Attenzione alla sinodalità]]
+- [Chi sogna nuovi gerani?](https://amzn.to/3vwbcg4) di Giovannino Guareschi. [[social#Guareschi-sul-latino|Sul latino]]
+- [Insciallah](https://amzn.to/41wOroc) di Oriana Fallaci. [[social#Fallaci-il-dolore-dell-anima|Il dolore dell'anima]]
 - [Persuasori Occulti](https://amzn.to/3GR9icB)📌 di Vance Packard. [Come la pillola rossa di Matrix](/articles/2023-12-28-persuasori-occulti.html)
-- [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)📌 di Gianni Rodari. [Teledramma](https://yuridiprodo.github.io/pages/social.html#20231224) e [il dittatore](https://yuridiprodo.github.io/pages/social.html#20231210)
-- [La fine è il mio inizio](https://amzn.to/48dR3K5) di Tiziano Terzani. [Fotografia all'umano](https://yuridiprodo.github.io/pages/social.html#20231212)
-- [I Miserabili](https://amzn.to/3SRMdO2) di Victor Hugo. [Amate le anime](https://yuridiprodo.github.io/pages/social.html#20231207)
-- [L’autobiografia](https://amzn.to/3GluuY4) di Bertrand Russell. [Sulla compassione](https://yuridiprodo.github.io/pages/social.html#20231129)
+- [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)📌 di Gianni Rodari. [[social#Buon-Natale-teledramma|Teledramma]] e [[social#Rodari-il-dittatore|il dittatore]]
+- [La fine è il mio inizio](https://amzn.to/48dR3K5) di Tiziano Terzani. [[social#Terzani-foto-all-umano|Fotografia all'umano]]
+- [I Miserabili](https://amzn.to/3SRMdO2) di Victor Hugo. [[social#Hugo-amate-le-anime|Amate le anime]]
+- [L’autobiografia](https://amzn.to/3GluuY4) di Bertrand Russell. [[social#Russell-sulla-compassione|Sulla compassione]]
 - [Ninna Nanna](https://amzn.to/46jWVjl) di Chuck Palahniuk. [Capitolo 3, pagina 14](/articles/2023-11-24-peggio-che-essere-spiati.html)
-- [Intervista con il mito](https://amzn.to/3MH9ZIE) di Oriana Fallaci. [Totò](https://yuridiprodo.github.io/pages/social.html#20231122)
+- [Intervista con il mito](https://amzn.to/3MH9ZIE) di Oriana Fallaci. [[social#Totò-sulla-felicità|Totò]]
 - [La Forza della Verità](https://amzn.to/49jx7GS) di Tiziano Terzani. [Inno al digiuno](/articles/2023-11-20-il-digiuno-rende-liberi.html)
 - [Il libro rosso](https://amzn.to/3tY9iV3) di Carl Gustav Jung. [Coscienza e inconscio](https://yuridiprodo.github.io/pages/social.html#20231107)
 - [Scritti corsari](https://amzn.to/49ja6nt) di Pier Paolo Pasolini. [Un manuale di vita](/articles/2023-11-06-ansia-societa-dei-consumi.html).
