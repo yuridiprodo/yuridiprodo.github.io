@@ -1703,7 +1703,7 @@ magari dal suo colore,
 mentre dell'uomo conta
 non la pelle, ma il cuore.
 
-# Totò-sulla-felicità
+# Intervista-al-genio
 22 novembre 2023
 
 Stabilito che le disgrazie sono fatte per gli uomini, perché arrabbiarsi contro le disgrazie? Sarebbe come arrabbiarsi perché piove, o perché c’ è il sole, o perché si muore. La morte esiste, la pioggia esiste, la cecità esiste: e ciò che esiste va accettato. Disperarsi a che serve? A vederci meglio?
@@ -1804,8 +1804,8 @@ Un uomo che non dissente è un seme che non crescerà mai.
 
 [Bertrand Russell](https://amzn.to/3tUeR6W)
 
-# Coscienza e inconscio, i due livelli umani
-<p id="20231107">7 novembre 2023</p>
+# Coscienza-e-inconscio-i-due-livelli-umani
+7 novembre 2023
 
 Nell’essere umano esistono due livelli: quello della coscienza e quello dell’inconscio.
 
@@ -1819,8 +1819,8 @@ Un modo in cui si esprime la sapienza superiore dell’inconscio sono i sogni.
 
 Carl Gustav Jung, [Il libro rosso](https://amzn.to/3tY9iV3)
 
-# Chi siamo
-<p id="20231101">1 novembre 2023</p>
+# Chi-siamo
+1 novembre 2023
 
 Non si riesce più a sapere chi siamo. È il fenomeno caratteristico che subentra non appena una situazione archetipica diventa schiacciante. Quando un archetipo è costellato, vi è continuamente il pericolo di assimilazione all'archetipo.
 
@@ -1832,8 +1832,8 @@ L'individuo non si rende conto di essersi dissolto, sebbene abbia perduto la tes
 
 Carl Gustav Jung, [Gli archetipi dell'inconscio collettivo](https://amzn.to/3Q6Evg9)
 
-# Terzani, i problemi sono la molla della ricerca spirituale
-<p id="20231030">30 ottobre 2023</p>
+# Terzani-problemi-la-molla-della-ricerca-spirituale
+30 ottobre 2023
 
 Chi vuole una vita senza problemi è come quel contadino che va per la prima volta a una partita di calcio e si arrabbia con l'arbitro perché ha dato ai ventidue giocatori un solo pallone e quelli sono costretti a corrergli sempre dietro.
 
@@ -1893,8 +1893,8 @@ Per rifare un mondo nuovo bisogna che gli uomini, psichicamente, si indirizzino 
  
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
-# Quando Schopenhauer mise alla prova la stupidità aumana
-<p id="20231023">23 ottobre 2023</p>
+# La-prova-di-Schopenhauer
+23 ottobre 2023
 
 «Si racconta che fosse solito cenare presso l'Englischer Hof, un ristorante frequentato da ufficiali inglesi. Prima di mangiare metteva sul tavolo davanti a sé una moneta d'oro. E se la rimetteva in tasca quando terminava.
 
@@ -1924,8 +1924,8 @@ Piano piano spegne la fiamma e il bambino vivo diventa un adulto morto.
 
 Egon Schiele, pittore e incisore austriaco. 1890-1918
 
-# L'amore non si compra
-<p id="20231016">16 ottobre 2023</p>
+# Amore-non-in-vendita
+16 ottobre 2023
 
 Il mercato ha fiutato nel nostro bisogno disperato di amore l'opportunità di enormi profitti. E ci alletta con la promessa di poter avere tutto senza fatica: soddisfazione senza lavoro, guadagno senza sacrificio, risultati senza sforzo, conoscenza senza un processo di apprendimento.
 
@@ -1937,8 +1937,8 @@ Ma possiamo comprare tutto, non l'amore. Non troveremo l'amore in un negozio. L'
 
 Zygmunt Bauman, [Amore liquido](https://amzn.to/3PPOCpe)
 
-# Distrazioni
-<p id="20231013">13 ottobre 2023</p>
+# Middei-distrazioni
+13 ottobre 2023
 
 Ci ha mai fatto caso? Tutti hanno sempre qualcosa da fare. Vanno sempre da qualche parte.
 
@@ -2004,8 +2004,8 @@ Un giorno Diogene stava mangiando la sua cena, una cena semplice fatta di pane e
 
 Aristippo disse a Diogene: «Vedo che stai mangiando una cena molto povera. Voglio darti un consiglio. Se tu imparassi ad essere ossequioso con il re, non saresti costretto a mangiare lenticchie». Diogene si girò verso l'amico e gli rispose: «Voglio darti anch’io un consiglio: impara ad amare le lenticchie. Se tu avessi imparato a vivere mangiando lenticchie, ora non saresti costretto ad adulare il re e a vivere da schiavo cercando di soddisfare ogni sua esigenza».
 
-# Galimberti, la società odierna
-<p id="20230926">26 settembre 2023</p>
+# Galimberti-societa-oggi
+26 settembre 2023
 
 L’intimo è ciò che si nega al pubblico per concederlo solo a chi si vuol far entrare nel proprio segreto profondo. Il pudore, che difende la nostra intimità, difende anche la nostra libertà.
 Non è una faccenda di vesti, sottovesti o abbigliamento intimo, ma una sorta di vigilanza, dove si decide il grado di apertura e di chiusura verso l’altro.
@@ -2016,8 +2016,8 @@ Ciò produce una metamorfosi dell’individuo che ormai si riconosce solo nella 
 
 Umberto Galimberti, [Il libro delle emozioni](https://amzn.to/45bYm2S)
 
-# Gramsci, quando si diventa vecchi
-<p id="20230923">23 settembre 2023</p>
+# Gramsci-quando-si-diventa-vecchi
+23 settembre 2023
 
 Carissima mamma,
 ecco il quinto natale che passo in privazione di libertà e il quarto che passo in carcere. Veramente la condizione di coatto in cui passai il natale del 26 ad Ustica era ancora una specie di paradiso della libertà personale in confronto alla condizione di carcerato.
@@ -2030,8 +2030,8 @@ In questo senso sono sicuro che neanche tu sei diventata vecchia nonostante la t
 
 Antonio Gramsci, [Lettere dal carcere](https://amzn.to/3Px44qo)
 
-# L'obbedienza non è una virtù ma la più subdola delle tentazioni
-<p id="20230922">22 settembre 2023</p>
+# obbiedenza-come-tentazione
+22 settembre 2023
 
 A Norimberga son stati condannati uomini che avevano obbedito. L'umanità intera consente che essi non dovevano obbedire, perché c'è una legge che gli uomini considerano superiore.
 
@@ -2063,8 +2063,8 @@ I segreti più tormentosi della loro coscienza li porteranno a noi; noi risolver
 
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
-# Dostoevskij, la bellezza del mondo
-<p id="20230829">29 agosto 2023</p>
+# Dostoevskij-la-bellezza-del-mondo
+29 agosto 2023
 
 Ma io dichiaro che Shakespeare e Raffaello stanno al di sopra della liberazione dei servi della gleba, al di sopra della nazionalità, al di sopra del socialismo, al di sopra della giovane generazione, al di sopra della chimica, quasi al di sopra dell’umanità intera, poiché sono il frutto di tutta l’umanità e forse il più alto frutto che mai possa esistere! Uomini meschini, che cosa vi manca per capire? 
 
@@ -2072,8 +2072,8 @@ Ma lo sapete voi che senza gli inglesi l’umanità può ancora vivere, può viv
 
 Fedor Dostoevskij, [I demoni](https://amzn.to/3R4sUAp)
 
-# Fromm, il senso di solitudine
-<p id="20230817">17 agosto 2023</p>
+# Fromm-il-senso-della-solitudine
+17 agosto 2023
 
 Esistono tre modi con cui l’uomo tenta di superare il senso di solitudine: la sessualità, il conformismo e l’attività creativa.
 
@@ -2111,8 +2111,8 @@ Alcuni piagnucolano pietosamente, altri bestemmiano oscenamente, ma nessuno o po
 
 Antonio Gramsci, 11 febbraio 1917
 
-# Galimberti, dare senso alla vita
-<p id="20230727">27 luglio 2023</p>
+# Galimberti-dare-senso-alla-vita
+27 luglio 2023
 
 I giovani, anche se non sempre lo sanno, stanno male. E non per le solite crisi esistenziali che costellano la giovinezza, ma perché un ospite inquietante, il nichilismo, si aggira tra loro, penetra nei loro sentimenti, confonde i loro pensieri, fiacca la loro anima, intristisce le passioni.
 
@@ -2139,8 +2139,8 @@ Quando chiese loro perché avevano corso insieme, poiché uno avrebbe potuto ave
 
 Ubuntu nella loro civiltà significa: "io sono perché siamo": quella tribù conosce il segreto della felicità che si è perso in tutte le società che le trascendono e che si considerano società civilizzate.
 
-# Giulietto Chiesa, l'educazione delle masse
-<p id="20230724">24 luglio 2023</p>
+# Giulietto-Chiesa-educazione-delle-masse
+24 luglio 2023
 
 L'educazione delle masse è stata assunta dalla televisione.
 
@@ -2203,8 +2203,8 @@ I responsabili di questo crimine di guerra - a partire da George W. Bush - non h
 
 Colui invece che ha reso pubblico questo [video](https://t.me/matteogracis/1104) - Julian Assange attraverso la sua WikiLeaks - è in una cella di isolamento nelle prigioni inglesi e gli Stati Uniti d’America hanno chiesto l’estradizione per condannarlo a 175 anni di carcere.
 
-# Il giudizio sbagliato è dannoso
-<p id="20230621">21 giugno 2023</p>
+# occhio-ai-giudizi
+21 giugno 2023
 
 Ognuno è un genio. Ma se si giudica un pesce dalla sua abilità di arrampicarsi sugli alberi lui passerà tutta la sua vita a credersi uno stupido. Albert Einstein.
 
