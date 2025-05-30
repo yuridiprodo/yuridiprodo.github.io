@@ -13,9 +13,9 @@ https://t.me/ilrestodelcarlinoascoli/5100
 # la TARI ad Ascoli Piceno
 16 maggio 2025
 
-Incredibile come si utilizzi il ["Divide et impera"](https://yuridiprodo.github.io/articles/2024-02-08-matrix.html) degli antichi romani perfino per giustificare l'aumento delle tasse. Bello, bravi, complimenti! fomentiamo pure l'odio tra i cittadini, mentre li spremiamo.
+Incredibile come si utilizzi il [[2024-02-08-matrix|"Divide et impera"]] degli antichi romani perfino per giustificare l'aumento delle tasse. Bello, bravi, complimenti! fomentiamo pure l'odio tra i cittadini, mentre li spremiamo.
 
-Così anziché ribellarsi con chi li salassa, se la prenderanno col vicino di casa o col primo che passa per strada, colpevole di aver buttato l'involucro della caramella nel primo cestino che ha trovato anziché riportarselo a casa per smaltirlo in quello della carta. Come se quel coriandolo fosse [il vero problema dell'inquinamento](https://yuridiprodo.github.io/articles/2024-11-14-inquinamento-super-ricchi.html).
+Così anziché ribellarsi con chi li salassa, se la prenderanno col vicino di casa o col primo che passa per strada, colpevole di aver buttato l'involucro della caramella nel primo cestino che ha trovato anziché riportarselo a casa per smaltirlo in quello della carta. Come se quel coriandolo fosse [[2024-11-14-inquinamento-super-ricchi|il vero problema dell'inquinamento]].
 
 Copincolla: "Fioravanti – puntualizzano gli esponenti del gruppo di opposizione – attribuisce la “colpa” dell’aumento della Tari sia alle deliberazioni dall’Arera, sia al comportamento poco virtuoso di alcuni cittadini. Ebbene – chiedono – come mai tante altre città italiane hanno applicato l’aumento imposto dall’Arera e sono comunque riuscite a mantenere il costo della Tari in linea con gli anni precedenti, mentre noi dobbiamo pagare in proporzione molto di più rispetto alla media italiana? E poi: i cittadini che non fanno la differenziata sono davvero così tanti da comportare un aumento tanto ampio della Tari?"
 
