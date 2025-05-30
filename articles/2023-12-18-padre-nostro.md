@@ -35,7 +35,9 @@ Sento quindi che la vecchia traduzione sia **il modo giusto** per ricordarci del
 
 ---
 
-**Aggiorno questo articolo il 28 Novembre 2024** per aggiungere alcuni passi tratti dal libro [Gesù di Nazareth: dal Battesimo alla Trasfigurazione](https://amzn.to/3B5jKhl) di Benedetto XVI che avvalorano questa tesi.
+### Aggiornamento, 28 Novembre 2024
+
+Aggiorno questo articolo per aggiungere alcuni passi tratti dal libro [Gesù di Nazareth: dal Battesimo alla Trasfigurazione](https://amzn.to/3B5jKhl) di Benedetto XVI che avvalorano questa tesi.
 
 Ritengo anzi probabile che il rimando biblico dal quale era scaturito questo articolo venisse inconsciamente proprio da una precedente lettura di questo testo: lo stesso Ratzinger infatti lo citava proprio per dare la sua spiegazione al «non ci indurre in tentazione» del Padre Nostro (la trovate a partire dalla pagina 192 dell'edizione *BUR Saggi*).
 
@@ -49,4 +51,24 @@ Le parole del Santo Padre sono inequivocabili. Leggete voi stessi:
   
   ---
   
-  **Aggiornamento del 23 Febbraio 2025**: allego una interessante analisi del blog [itresentieri](https://itresentieri.it/perche-la-correzione-del-padre-nostro-non-va-bene-anzi-e-pure-luterana/): «In realtà in aramaico “indurre” ha un valore permissivo, per cui il significato è "non permettere che noi cadiamo nella tentazione". La sapienza infinita di Dio, infatti, permette le tentazioni perché noi con queste possiamo purificarci e da queste possiamo meritare, sempre che le superiamo e non cadiamo».
+### Aggiornamento, 23 Febbraio 2025
+
+Allego una interessante analisi del blog [itresentieri](https://itresentieri.it/perche-la-correzione-del-padre-nostro-non-va-bene-anzi-e-pure-luterana/): «In realtà in aramaico “indurre” ha un valore permissivo, per cui il significato è "non permettere che noi cadiamo nella tentazione". La sapienza infinita di Dio, infatti, permette le tentazioni perché noi con queste possiamo purificarci e da queste possiamo meritare, sempre che le superiamo e non cadiamo».
+
+---
+
+### Aggiornamento, 28 Maggio 2025
+
+Sul "non ci indurre in tentazione" trovo opportuno riportare anche la spiegazione che ne dà il [Catechismo della Chiesa Cattolica](https://www.vatican.va/archive/catechism_it/p4s2a3_it.htm) nei punti 2846-2849:
+
+**VI. « Non ci indurre in tentazione »**
+
+**2846** Questa domanda va alla radice della precedente, perché i nostri peccati sono frutto del consenso alla tentazione. Noi chiediamo al Padre nostro di non « indurci » in essa. Tradurre con una sola parola il termine greco è difficile: significa « non permettere di entrare in », « non lasciarci soccombere alla tentazione ». « Dio non può essere tentato dal male e non tenta nessuno al male » (_Gc_ 1,13); al contrario, vuole liberarcene. **Noi gli chiediamo di non lasciarci prendere la strada che conduce al peccato**. Siamo impegnati nella lotta « tra la carne e lo Spirito ». Questa domanda implora lo Spirito di discernimento e di fortezza.
+
+**2847** Lo Spirito Santo ci porta a _discernere_ tra la prova, necessaria alla crescita dell'uomo interiore in vista di una « virtù provata », e la tentazione, che conduce al peccato e alla morte. Dobbiamo anche distinguere tra « essere tentati » e « consentire » alla tentazione. Infine, il discernimento smaschera la menzogna della tentazione: apparentemente il suo oggetto è « buono, gradito agli occhi e desiderabile » (_Gn_ 3,6), mentre, in realtà, il suo frutto è la morte.
+
+> « Dio non vuole costringere al bene: **vuole persone libere** [...]. **La tentazione ha una sua utilità**. Tutti, all'infuori di Dio, ignorano ciò che l'anima nostra ha ricevuto da Dio; lo ignoriamo perfino noi. Ma la tentazione lo svela, per insegnarci a conoscere noi stessi e, in tal modo, a scoprire ai nostri occhi la nostra miseria e per obbligarci a rendere grazie per i beni che la tentazione ci ha messo in grado di riconoscere ».
+
+**2848** « Non entrare nella tentazione » implica una _decisione del cuore_: « Là dov'è il tuo tesoro, sarà anche il tuo cuore. [...] Nessuno può servire a due padroni » (_Mt_ 6,21.24). « Se viviamo dello Spirito, camminiamo anche secondo lo Spirito » (_Gal_ 5,25). In questo « consenso » allo Spirito Santo il Padre ci dà la forza. « Nessuna tentazione vi ha finora sorpresi se non umana; infatti Dio è fedele e non permetterà che siate tentati oltre le vostre forze; ma con la tentazione vi darà anche la via d'uscita e la forza per sopportarla » (_1 Cor_ 10,13).
+
+**2849** Il combattimento e la vittoria sono possibili solo nella preghiera. È per mezzo della sua preghiera che Gesù è vittorioso sul tentatore, fin dall'inizio e nell'ultimo combattimento della sua agonia. Ed è al suo combattimento e alla sua agonia che Cristo ci unisce in questa domanda al Padre nostro. La _vigilanza_ del cuore, in unione alla sua, è richiamata insistentemente. La vigilanza è « custodia del cuore » e Gesù chiede al Padre di custodirci nel suo nome. Lo Spirito Santo opera per suscitare in noi, senza posa, questa vigilanza. Questa domanda acquista tutto il suo significato drammatico in rapporto alla tentazione finale del nostro combattimento quaggiù; implora la _perseveranza finale_. « Ecco, io vengo come un ladro. Beato chi è vigilante » (_Ap_ 16,15).
