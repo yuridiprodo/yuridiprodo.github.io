@@ -27,6 +27,6 @@ La diversità viene esibita **per dimostrare che puoi comprare la normalità**, 
 
 ### Approfondimenti
 
-- Guarda caso, due anni fa Apple brevettava [il suo Alcolock](/articles/2025-01-20-alcolock.html)
-- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? [tre lettere: PNL](/articles/2023-12-28-persuasori-occulti.html)
-- Comodità e Sicurezza: due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [Una conferma](/articles/2025-01-11-comodita-sicurezza.html)
+- Guarda caso, due anni fa Apple brevettava [[2025-01-20-alcolock|il suo Alcolock]]
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? [[2023-12-28-persuasori-occulti|tre lettere: PNL]]
+- Comodità e Sicurezza: due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [[2025-01-11-comodita-sicurezza|Una conferma]]

@@ -15,9 +15,9 @@ E niente, mi ricorda [il libro "La fattoria degli animali"](https://amzn.to/354M
 ---
 
 ### È politica anche questa:
-- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [una lettera](/articles/2024-05-21-maria-luisa-busi.html) dai contenuti ancora oggi tremendamente attuali
-- [il NO della Rowling](/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html) al totalitarismo arcobaleno
-- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [L'esperimento di Milgram](/articles/2024-03-07-milgram.html)
-- «Il giorno in cui questo paese[ non avrà più contadini e artigiani](/articles/2024-03-06-protesta-agricoltori.html), non avrà più storia».
-- Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; [perché esse sono il mezzo per giungere al significato](/articles/2023-12-13-una-profezia.html); e per coloro che vorranno ascoltare, all’affermazione della verità
-- Viviamo nella società del controllo, e va bene così. [Buon risveglio](/articles/2024-02-08-matrix.html)
+- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [[2024-05-21-maria-luisa-busi|una lettera]] dai contenuti ancora oggi tremendamente attuali
+- [[2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno|il NO della Rowling]] al totalitarismo arcobaleno
+- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [[2024-03-07-milgram|L'esperimento di Milgram]]
+- «Il giorno in cui questo paese [[2024-03-06-protesta-agricoltori|non avrà più contadini e artigiani]], non avrà più storia».
+- Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; [[2023-12-13-una-profezia|perché esse sono il mezzo per giungere al significato]]; e per coloro che vorranno ascoltare, all’affermazione della verità
+- Viviamo nella società del controllo, e va bene così. [[2024-02-08-matrix|Buon risveglio]]

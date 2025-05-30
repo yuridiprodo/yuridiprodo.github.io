@@ -61,7 +61,7 @@ https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4246
 # la profezia di Giovanni Paolo II
 28 aprile 2025
 
-Magari nel 1994 non ci abbiamo fatto caso (quantomeno, io: avevo solo 7 anni!) ma papa Giovanni Paolo II ci aveva avvisati: la famiglia era in pericolo già all'epoca. Alla luce di [quanto accaduto negli ultimi anni](https://yuridiprodo.github.io/articles/2024-02-17-famiglia-una-ideologia.html), non possiamo che ritenere l'Angelus di quel Maggio del '94 una incredibile profezia. 
+Magari nel 1994 non ci abbiamo fatto caso (quantomeno, io: avevo solo 7 anni!) ma papa Giovanni Paolo II ci aveva avvisati: la famiglia era in pericolo già all'epoca. Alla luce di [[2024-02-17-famiglia-una-ideologia|quanto accaduto negli ultimi anni]], non possiamo che ritenere l'Angelus di quel Maggio del '94 una incredibile profezia. 
 
 Copincolla: "ho capito che devo introdurre la Chiesa di Cristo in questo Terzo Millennio con la preghiera, con diverse iniziative, ma ho visto che non basta: bisognava introdurla con la sofferenza, con l'attentato di tredici anni fa e con questo nuovo sacrificio. Perché adesso, perché in questo anno, perché in questo Anno della Famiglia? Appunto perché la famiglia è minacciata, la famiglia è aggredita. Deve essere aggredito il Papa, deve soffrire il Papa, perché ogni famiglia e il mondo vedano che c'è un Vangelo, direi, superiore: il Vangelo della sofferenza, con cui si deve preparare il futuro, il terzo millennio delle famiglie, di ogni famiglia e di tutte le famiglie".
 
@@ -70,7 +70,7 @@ https://www.vatican.va/content/john-paul-ii/it/angelus/1994/documents/hf_jp-ii_a
 # antifascismo è tabù
 25 aprile 2025
 
-Nel frattempo nella mia città natale, durante la giornata in cui si commemora la liberazione dell'Italia dal fascismo, la parola antifascismo diventa tabù. Proprio come nel [bipensiero orwelliano](/articles/2024-03-25-facebook-censura-politica.html), in cui si finge di onorare la libertà mentre si censura chi la difende davvero. Ad Ascoli Piceno c'è chi affigge lo striscione "25 aprile, buono come il pane, bello come l’antifascismo" e quindici minuti dopo arriva la Volante a chiedere lumi.
+Nel frattempo nella mia città natale, durante la giornata in cui si commemora la liberazione dell'Italia dal fascismo, la parola antifascismo diventa tabù. Proprio come nel [[2024-03-25-facebook-censura-politica|bipensiero orwelliano]], in cui si finge di onorare la libertà mentre si censura chi la difende davvero. Ad Ascoli Piceno c'è chi affigge lo striscione "25 aprile, buono come il pane, bello come l’antifascismo" e quindici minuti dopo arriva la Volante a chiedere lumi.
 
 Copincolla: "il problema, è subito stato chiaro, non era la posizione quanto piuttosto il contenuto del telo. Non convinti, infatti, gli agenti si sono dilungati in una telefonata probabilmente con un superiore, per capire il da farsi. La perplessità delle forze dell’ordine stava nel fatto che la questione poteva creare scompiglio sui social".
 
@@ -152,7 +152,7 @@ https://www.cronachepicene.it/2025/04/04/lo-spettro-dei-dazi-usa-sullexport-del-
 # Chiesa trasformata in moschea
 5 aprile 2025
 
-Tanto per dare una ripassatina alla [Finestra di Overton](https://yuridiprodo.github.io/articles/2024-02-15-obbligatorio-abortire.html), che di questi tempi fa sempre bene. Per tenere d'occhio quel che succede intorno a noi, e magari anche farsi un'idea di quel che verrà. Scrivono dalla Puglia:
+Tanto per dare una ripassatina alla [[2024-02-15-obbligatorio-abortire|Finestra di Overton]], che di questi tempi fa sempre bene. Per tenere d'occhio quel che succede intorno a noi, e magari anche farsi un'idea di quel che verrà. Scrivono dalla Puglia:
 
 Copincolla: "Dopo gli assurdi "venerdì di Ramadan" nelle parrocchie, ora arriviamo al punto in cui una chiesa viene ceduta, per un giorno, alla celebrazione islamica. Accade a Brindisi, dove la parrocchia San Carlo di Gesù si trasforma in una sorta di moschea improvvisata, con il placet del vescovo e la compiacenza delle solite sigle della sinistra militante. Non si tratta di semplice dialogo interreligioso, bensì di un episodio di pura capitolazione. L'Islam, si sa, non è una semplice religione, ma un progetto politico di conquista. Ogni spazio ceduto, ogni porta aperta, ogni segnale di debolezza viene interpretato come una vittoria. Quante altre chiese dovremo vedere trasformate in centri islamici prima che qualcuno si accorga di quello che sta succedendo? Quanto ancora dovremo subire questa sistematica erosione della nostra identità, delle nostre radici, della nostra cultura?"
 
@@ -245,7 +245,7 @@ Ecco "alcuni modi in cui è possibile usare task". Copio e incollo dal comunicat
 
 In pratica chi controlla questi algoritmi adesso vuole anche decidere cosa possiamo fare il fine settimana, come stimolare il nostro sistema immunitario affinché possiamo affrontare la giornata in maniera più o meno faticosa. Persino cosa raccontare ai nostri bambini, così da indottrinarli per bene fin da subito. Come se 10+ canali TV di cartoni animati disponibili ventiquattrore su ventiquattro non fossero già abbastanza.
 
-Già, dicevo, ma [chi li controlla](https://yuridiprodo.github.io/articles/2024-06-25-google-ai-overviews.html)?
+Già, dicevo, ma [[2024-06-25-google-ai-overviews|chi li controlla]]?
 
 # Gay ammessi in seminario
 11 gennaio 2025
@@ -266,7 +266,7 @@ Leggiamo il paragrafo 44 delle [nuove linee guida](https://www.chiesacattolica.i
 
 🔥 Flash news piccolina
 
-Per gli appassionati dei libri della Rowling, una scrittrice che stimo anche per [le sue recenti prese di posizione pubbliche](https://yuridiprodo.github.io/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html)
+Per gli appassionati dei libri della Rowling, una scrittrice che stimo anche per [[2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno|le sue recenti prese di posizione pubbliche]]
 
 The Hallmarked Man, ovvero l'ottavo capitolo della serie di Cormoran Strike, salvo cambi di programma uscirà [in lingua inglese](https://amzn.to/4gNR5Nr) il 9 settembre 2025.
 
@@ -337,18 +337,18 @@ Antonio Porto, Segretario nazionale dell'Organizzazione Sindacale Autonomi Poliz
 # Netanyahu
 14 novembre 2024
 
-Già in tempi non sospetti [segnalavo](https://yuridiprodo.github.io/articles/2022-02-23-israele-parco-naturale-palestina.html) come Israele, con la scusa del parco naturale, cercasse di ottenere autorità sulle terre palestinesi.
+Già in tempi non sospetti [[2022-02-23-israele-parco-naturale-palestina|segnalavo]] come Israele, con la scusa del parco naturale, cercasse di ottenere autorità sulle terre palestinesi.
 
-Nell'ultimo anno non mi sono risparmiato quando c'erano da far notare [certe nefandezze](https://yuridiprodo.github.io/articles/2024-03-06-una-barzelletta-vera.html) che solo il genere umano, quello più abietto e privo di scrupoli, è in grado di compiere.
+Nell'ultimo anno non mi sono risparmiato quando c'erano da far notare [[2024-03-06-una-barzelletta-vera|certe nefandezze]] che solo il genere umano, quello più abietto e privo di scrupoli, è in grado di compiere.
 
-Come paese, non possiamo certo considerarci [un modello da seguire](https://yuridiprodo.github.io/articles/2024-01-28-presunzione-di-innocenza.html).
+Come paese, non possiamo certo considerarci [[2024-01-28-presunzione-di-innocenza|un modello da seguire]].
 
 Accolgo quindi con piacere l'appello a diffondere [questa iniziativa 🔴](https://www.lindipendente.online/netanyahu) che senza remore denuncia il genocidio (perché di questo si tratta: [lo ha messo nero-su-bianco](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/a-hrc-55-73-auv.pdf) persino l'ONU senza che questo, devo amaramente constatare, sortisse un qualche effetto) che si sta perpetrando sulle terre palestinesi da più di un anno.
 
 # su Halloween
 3 novembre 2024
 
-[La memoria corta](https://yuridiprodo.github.io/articles/2023-10-09-fallo-fare-alla-ai.html) è una vera sventura. Abbiamo preso tanto. Ma possiamo ancora rimediare
+[[2023-10-09-fallo-fare-alla-ai|La memoria corta]] è una vera sventura. Abbiamo preso tanto. Ma possiamo ancora rimediare
 
 "Il nome Halloween? è la storpiatura americana del termine – nell’inglese d’Irlanda – All Hallows’ Eve, ovvero la vigilia di Ognissanti."
 
@@ -399,9 +399,9 @@ Alla fine IT-Wallet è arrivato.
 
 Come per tutte le novità tecnologiche, i giornali ne parlano benissimo: non si fa che millantarne la comodità (come se quel rettangolino di plastica con cui sono fatte oggi patente e carta di identità, rispetto allo smartphone, influissero in una qualche peggiore misura sul nostro quotidiano) e la sicurezza (questa non la commento: chi vivrà, vedrà).
 
-Tanto - ci dicono - è facoltativo (ecco fatto: aperta l'ennesima [Finestra di Overton](https://yuridiprodo.github.io/articles/2023-12-28-persuasori-occulti.html). Ancora una volta: chi vivrà, vedrà).
+Tanto - ci dicono - è facoltativo (ecco fatto: aperta l'ennesima [[2023-12-28-persuasori-occulti|Finestra di Overton]]. Ancora una volta: chi vivrà, vedrà).
 
-Nel frattempo sono andato a rileggermi [quello che avevo già scritto in proposito](https://yuridiprodo.github.io/articles/2024-02-27-sveglia-occidente.html) a Febbraio.
+Nel frattempo sono andato a rileggermi [[2024-02-27-sveglia-occidente|quello che avevo già scritto in proposito]]a Febbraio.
 
 Il mio pensiero rimane lo stesso. Chi vivrà, vedrà.
 
