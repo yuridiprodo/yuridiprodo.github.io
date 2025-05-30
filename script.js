@@ -1,26 +1,38 @@
 const articlesDiv = document.getElementById('articles');
+const subtitle = document.querySelector('.subtitle');
 
 // Corregge i percorsi delle immagini relative
 function adjustImagePaths(markdown) {
     return markdown.replace(/!\[(.*?)\]\((?!\/|https?:\/\/)(.*?)\)/g, '![$1](/img/$2)');
 }
 
-// Converte i link in stile [[file#anchor|testo]] in <a href="...">testo</a>
-function convertCustomLinks(markdown) {
-    // Regex per [[file#anchor|testo]] o [[file|testo]] (anchor opzionale)
-    return markdown.replace(/\[\[([^\]|#]+)(#([^|\]]+))?\|([^\]]+)\]\]/g, (match, file, _, anchor, text) => {
-        // Rileva tipo contenuto in base a file (data per articolo, numero per newsletter, altro per pagina)
-        let basePath;
-        if (/^\d{4}-\d{2}-\d{2}-/.test(file)) {
-            basePath = '#/articles/';
-        } else if (/^\d+$/.test(file)) {
-            basePath = '#/newsletter/';
-        } else {
-            basePath = '#/pages/';
+// Trasforma i wikilink [[file#anchor|label]] in link markdown standard
+function transformWikiLinks(md) {
+    return md.replace(/\[\[([^\|\]]+)\|([^\]]+)\]\]/g, (match, filename, label) => {
+        let anchor = '';
+        if (filename.includes('#')) {
+            const parts = filename.split('#');
+            filename = parts[0];
+            anchor = '#' + parts[1];
         }
-        const href = `${basePath}${file}${anchor ? '#' + encodeURIComponent(anchor) : ''}`;
-        return `[${text}](${href})`; // Temporaneamente trasformo in markdown standard
+
+        let base = '#/pages/';
+        if (/^\d{4}-\d{2}-\d{2}/.test(filename)) base = '#/articles/';
+        else if (/^\d+$/.test(filename)) base = '#/newsletter/';
+
+        return `[${label}](${base}${filename}${anchor})`;
     });
+}
+
+// Funzione per scrollare al capitolo (heading) per testo (case insensitive)
+function scrollToHeadingByText(anchorText) {
+    const headings = articlesDiv.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    const target = Array.from(headings).find(h =>
+        h.textContent.trim().toLowerCase() === anchorText.toLowerCase()
+    );
+    if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
 }
 
 // Carica la home
@@ -33,8 +45,7 @@ async function loadHome() {
         const response = await fetch('home.md');
         if (!response.ok) throw new Error('File non trovato');
         let markdown = await response.text();
-
-        markdown = convertCustomLinks(markdown);
+        markdown = transformWikiLinks(markdown);
         const adjustedMarkdown = adjustImagePaths(markdown);
         const html = marked(adjustedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
@@ -49,7 +60,7 @@ async function loadHome() {
     }
 }
 
-// Carica la citazione del giorno
+// Carica la citazione del giorno (uguale)
 async function loadQuote() {
     try {
         const currentDate = new Date();
@@ -91,110 +102,94 @@ async function loadQuote() {
     }
 }
 
-// Funzione di scroll a heading per anchor testuale
-function scrollToHeadingByText(anchorText) {
-    if (!anchorText) return;
-    const normalizedAnchor = decodeURIComponent(anchorText).trim().toLowerCase();
-
-    const headings = articlesDiv.querySelectorAll('h1, h2, h3, h4, h5, h6');
-
-    const target = Array.from(headings).find(h => {
-        const headingText = h.textContent.trim().toLowerCase();
-        return headingText === normalizedAnchor;
-    });
-
-    if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-}
-
-// Carica un articolo
-async function loadArticle(articleName, anchor = null) {
+// Carica un articolo (con gestione anchor)
+async function loadArticle(articleName, anchorText = null) {
     try {
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
         document.getElementById('header-newsletter').style.display = 'none';
 
-        let response = await fetch(`/articles/${articleName}.md`);
+        const response = await fetch(`/articles/${articleName}.md`);
         if (!response.ok) throw new Error('File non trovato');
         let markdown = await response.text();
-
-        markdown = convertCustomLinks(markdown);
+        markdown = transformWikiLinks(markdown);
         const adjustedMarkdown = adjustImagePaths(markdown);
         const html = marked(adjustedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         document.getElementById('footer-menu').style.display = 'block';
 
-        // Aggiorna immagine open graph se presente
         const imgMatch = markdown.match(/!\[.*?\]\((\/img\/.*?\.(jpg|jpeg|png|gif))\)/);
         if (imgMatch && imgMatch[1]) {
             document.querySelector('meta[property="og:image"]').setAttribute('content', imgMatch[1]);
             document.querySelector('meta[name="twitter:image"]').setAttribute('content', imgMatch[1]);
         }
 
-        window.scrollTo(0, 0);
-        attachLinkHandlers();
-
-        if (anchor) {
-            setTimeout(() => scrollToHeadingByText(anchor), 100);
+        if (anchorText) {
+            scrollToHeadingByText(anchorText);
+        } else {
+            window.scrollTo(0, 0);
         }
+
+        attachLinkHandlers();
     } catch (error) {
         loadHome();
     }
 }
 
-// Carica una pagina
-async function loadPages(pageName, anchor = null) {
+// Carica una pagina (con gestione anchor)
+async function loadPages(pageName, anchorText = null) {
     try {
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'block';
         document.getElementById('header-newsletter').style.display = 'none';
 
-        let response = await fetch(`/pages/${pageName}.md`);
+        const response = await fetch(`/pages/${pageName}.md`);
         if (!response.ok) throw new Error('File non trovato');
         let markdown = await response.text();
-
-        markdown = convertCustomLinks(markdown);
+        markdown = transformWikiLinks(markdown);
         const adjustedMarkdown = adjustImagePaths(markdown);
         const html = marked(adjustedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         document.getElementById('footer-menu').style.display = 'block';
-        window.scrollTo(0, 0);
-        attachLinkHandlers();
 
-        if (anchor) {
-            setTimeout(() => scrollToHeadingByText(anchor), 100);
+        if (anchorText) {
+            scrollToHeadingByText(anchorText);
+        } else {
+            window.scrollTo(0, 0);
         }
+
+        attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
 }
 
-// Carica una newsletter
-async function loadNewsletter(newsletterName, anchor = null) {
+// Carica una newsletter (con gestione anchor)
+async function loadNewsletter(newsletterName, anchorText = null) {
     try {
         document.getElementById('full-header').style.display = 'none';
         document.getElementById('simple-header').style.display = 'none';
         document.getElementById('header-newsletter').style.display = 'block';
 
-        let response = await fetch(`/newsletter/${newsletterName}.md`);
+        const response = await fetch(`/newsletter/${newsletterName}.md`);
         if (!response.ok) throw new Error('File non trovato');
         let markdown = await response.text();
-
-        markdown = convertCustomLinks(markdown);
+        markdown = transformWikiLinks(markdown);
         const adjustedMarkdown = adjustImagePaths(markdown);
         const html = marked(adjustedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         document.getElementById('footer-menu').style.display = 'block';
-        window.scrollTo(0, 0);
-        attachLinkHandlers();
 
-        if (anchor) {
-            setTimeout(() => scrollToHeadingByText(anchor), 100);
+        if (anchorText) {
+            scrollToHeadingByText(anchorText);
+        } else {
+            window.scrollTo(0, 0);
         }
+
+        attachLinkHandlers();
     } catch (error) {
         articlesDiv.innerHTML = `<div class="error">${error.message}</div>`;
     }
@@ -217,26 +212,20 @@ function attachLinkHandlers() {
                 event.preventDefault();
                 window.open(href, '_blank');
             });
-        } else if (href.startsWith('#/')) {
-            link.addEventListener('click', (event) => {
-                event.preventDefault();
-                window.location.hash = href;
-            });
         } else if (href.endsWith('.html') || href.endsWith('.md') || href.startsWith('/')) {
-            // Converti in hash interno
             link.addEventListener('click', (event) => {
                 event.preventDefault();
-                let cleanHref = href.replace(/^\/+/, '').replace('.html', '').replace('.md', '');
-                // Capisci il tipo in base al nome
-                let baseHash = '';
-                if (/^\d{4}-\d{2}-\d{2}-/.test(cleanHref)) {
-                    baseHash = '#/articles/';
-                } else if (/^\d+$/.test(cleanHref)) {
-                    baseHash = '#/newsletter/';
+                // Estrai file e anchor
+                const [fullPath, anchor] = href.split('#');
+                const cleanHref = fullPath.replace(/^\/+/, '').replace('.html', '').replace('.md', '');
+
+                if (href.startsWith('/newsletter/')) {
+                    window.location.hash = `#/newsletter/${cleanHref.split('/').pop()}${anchor ? '#' + anchor : ''}`;
+                } else if (href.includes('pages/')) {
+                    window.location.hash = `#/pages/${cleanHref.split('/').pop()}${anchor ? '#' + anchor : ''}`;
                 } else {
-                    baseHash = '#/pages/';
+                    window.location.hash = `#/articles/${cleanHref.split('/').pop()}${anchor ? '#' + anchor : ''}`;
                 }
-                window.location.hash = baseHash + cleanHref;
             });
         }
     });
@@ -246,42 +235,39 @@ function attachLinkHandlers() {
 function handleHashChange() {
     const hash = window.location.hash;
 
-    // Formati accettati:
-    // #/articles/2025-05-30-nome-articolo#Anchor
-    // #/newsletter/03#Anchor
-    // #/pages/contatti#Anchor
-
-    const articleRegex = /^#\/articles\/([^#]+)(#(.+))?$/;
-    const pageRegex = /^#\/pages\/([^#]+)(#(.+))?$/;
-    const newsletterRegex = /^#\/newsletter\/([^#]+)(#(.+))?$/;
-
-    let match;
-    if (match = newsletterRegex.exec(hash)) {
-        const name = match[1];
-        const anchor = match[3] || null;
-        loadNewsletter(name, anchor);
+    function parseNameAndAnchor(str) {
+        const parts = str.split('#');
+        return { name: parts[0], anchor: parts[1] || null };
     }
-    else if (match = articleRegex.exec(hash)) {
-        const name = match[1];
-        const anchor = match[3] || null;
+
+    const matchArticle = hash.match(/^#\/articles\/([^#]+)(?:#(.+))?$/);
+    const matchPage = hash.match(/^#\/pages\/([^#]+)(?:#(.+))?$/);
+    const matchNewsletter = hash.match(/^#\/newsletter\/([^#]+)(?:#(.+))?$/);
+
+    if (matchArticle) {
+        const { name, anchor } = parseNameAndAnchor(matchArticle[1] + (matchArticle[2] ? '#' + matchArticle[2] : ''));
         loadArticle(name, anchor);
-    }
-    else if (match = pageRegex.exec(hash)) {
-        const name = match[1];
-        const anchor = match[3] || null;
+    } else if (matchPage) {
+        const { name, anchor } = parseNameAndAnchor(matchPage[1] + (matchPage[2] ? '#' + matchPage[2] : ''));
         loadPages(name, anchor);
-    }
-    else {
+    } else if (matchNewsletter) {
+        const { name, anchor } = parseNameAndAnchor(matchNewsletter[1] + (matchNewsletter[2] ? '#' + matchNewsletter[2] : ''));
+        loadNewsletter(name, anchor);
+    } else {
         loadHome();
     }
 }
 
-// Inizializzazione
 window.addEventListener('hashchange', handleHashChange);
-window.addEventListener('load', () => {
-    if (!window.location.hash) {
-        loadHome();
-    } else {
-        handleHashChange();
-    }
-});
+
+// Footer dinamico
+function updateFooter() {
+    const currentYear = new Date().getFullYear();
+    const footerCopy = document.getElementById('footer-menu');
+    footerCopy.innerHTML = `© 2009 - ${currentYear} Il Giornale delle Idee`;
+}
+
+updateFooter();
+
+// Caricamento iniziale
+handleHashChange();
