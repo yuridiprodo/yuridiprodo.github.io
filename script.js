@@ -6,6 +6,21 @@ function adjustImagePaths(markdown) {
     return markdown.replace(/!\[(.*?)\]\((?!\/|https?:\/\/)(.*?)\)/g, '![$1](/img/$2)');
 }
 
+// Trasforma i wikilink [[file|label]] in link markdown con percorso automatico
+function transformWikiLinks(md) {
+    return md.replace(/\[\[([^\|\]]+)\|([^\]]+)\]\]/g, (match, filename, label) => {
+        let base = '#/pages/';  // default a pagina
+
+        if (/^\d{4}-\d{2}-\d{2}/.test(filename)) {
+            base = '#/articles/';
+        } else if (/^\d+$/.test(filename)) {
+            base = '#/newsletter/';
+        }
+
+        return `[${label}](${base}${filename})`;
+    });
+}
+
 // Carica la home
 async function loadHome() {
     try {
@@ -17,7 +32,8 @@ async function loadHome() {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const adjustedMarkdown = adjustImagePaths(markdown);
-        const html = marked(adjustedMarkdown);
+        const preprocessedMarkdown = transformWikiLinks(adjustedMarkdown);
+        const html = marked(preprocessedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         await loadQuote();
@@ -83,10 +99,9 @@ async function loadArticle(articleName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const adjustedMarkdown = adjustImagePaths(markdown);
-        const html = marked(adjustedMarkdown);
+        const preprocessedMarkdown = transformWikiLinks(adjustedMarkdown);
+        const html = marked(preprocessedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
-
-        document.getElementById('footer-menu').style.display = 'block';
 
         const imgMatch = markdown.match(/!\[.*?\]\((\/img\/.*?\.(jpg|jpeg|png|gif))\)/);
         if (imgMatch && imgMatch[1]) {
@@ -94,6 +109,7 @@ async function loadArticle(articleName) {
             document.querySelector('meta[name="twitter:image"]').setAttribute('content', imgMatch[1]);
         }
 
+        document.getElementById('footer-menu').style.display = 'block';
         window.scrollTo(0, 0);
         attachLinkHandlers();
     } catch (error) {
@@ -112,7 +128,8 @@ async function loadPages(pageName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const adjustedMarkdown = adjustImagePaths(markdown);
-        const html = marked(adjustedMarkdown);
+        const preprocessedMarkdown = transformWikiLinks(adjustedMarkdown);
+        const html = marked(preprocessedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         document.getElementById('footer-menu').style.display = 'block';
@@ -134,7 +151,8 @@ async function loadNewsletter(newsletterName) {
         if (!response.ok) throw new Error('File non trovato');
         const markdown = await response.text();
         const adjustedMarkdown = adjustImagePaths(markdown);
-        const html = marked(adjustedMarkdown);
+        const preprocessedMarkdown = transformWikiLinks(adjustedMarkdown);
+        const html = marked(preprocessedMarkdown);
         articlesDiv.innerHTML = `<div class="article-content">${html}</div>`;
 
         document.getElementById('footer-menu').style.display = 'block';
