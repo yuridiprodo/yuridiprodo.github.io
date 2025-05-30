@@ -21,6 +21,6 @@ Ma soprattutto non prestare né vendere i libri, altrimenti tutto questo va pers
 ---
 ### Altri pensieri
 
-- [La scuola deve cambiare](/articles/2024-12-16-sulla-scuola.html) Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
-- Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi. [Studiare, per dubitare](/articles/2024-09-23-studiare-per-dubitare.html)
-- L’algoritmo fa quello che gli diciamo di fare; non ciò che è giusto. [Come gusci vuoti](/articles/2024-08-14-come-gusci-vuoti.html)
+- [[2024-12-16-sulla-scuola|La scuola deve cambiare]] Le istituzioni ci vogliono ripetitivi, passivi, ossequienti. Serve invece cultura, capacità di ragionamento. Solo così si è flessibili e capaci di adattarsi al cambiamento. E quindi liberi.
+- Dubitare, sempre, anche di noi stessi e delle conclusioni che sembrano inattaccabili. Senza l'ascolto e il confronto non saremo mai davvero liberi. [[2024-09-23-studiare-per-dubitare|Studiare, per dubitare]]
+- L’algoritmo fa quello che gli diciamo di fare; non ciò che è giusto. [[2024-08-14-come-gusci-vuoti|Come gusci vuoti]]
