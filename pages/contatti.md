@@ -10,7 +10,7 @@ Insomma, se dovessi descrivermi con una locuzione figurata, direi che *vivo tra 
 
 > Scrivo, quindi sono. Perché scrivere significa ricordare, e la memoria è un atto di resistenza contro l'oblio. Sicché fermando il momento, lo rendiamo eterno. È come se stessimo dicendo al mondo: "io c'ero, e questo è ciò che ho visto, sentito, pensato".
 
-Infine, quella dell'intelligenza artificiale:
+Infine, la presentazione dell'intelligenza artificiale:
 
 ![Chi è Yuri Di Prodo? la risposta di ChatGPT: Yuri Di Prodo è un giornalista italiano noto per il suo stile critico e provocatorio. Collabora con Macitynet, un sito web focalizzato sulla tecnologia e sull'innovazione, dove scrive recensioni e articoli su prodotti tecnologici. Oltre al suo lavoro giornalistico, è autore del blog Onda Libera, uno spazio dove condivide riflessioni su temi sociali, politici e culturali, spesso con un linguaggio incisivo e stimolante. Il suo approccio mira a stimolare la consapevolezza e la riflessione critica nel lettore, affrontando argomenti come la manipolazione dell'informazione, la crisi dei valori tradizionali e la perdita di identità nella società contemporanea.](dicono-di-me.jpg)
 
@@ -18,7 +18,7 @@ Quasi dimenticavo: se hai aperto questa pagina perché desideri condividere qual
 
 ---
 
-*Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione o, **in maniera totalmente gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [[help|Scopri di più]]*
+*Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione; oppure, in maniera totalmente **gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [[help|Scopri di più]]*
 
 ![Yuri Di Prodo, un ritratto](profilo-mini.jpeg)
 
