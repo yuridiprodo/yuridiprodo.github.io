@@ -10,15 +10,15 @@ Ho deciso di prendere ufficialmente le redini di quello spazio e di utilizzarlo 
 
 In ogni caso eccoci qui, sul mio blog: soltanto voi ed io. Nel mezzo, le storie che deciderò di raccontare.
 
-Come [giornalista per Macitynet](/pages/contatti.html) mi occupo quotidianamente di tecnologia e lì potete trovare un resoconto completo del mio lavoro.
+Come [[contatti|giornalista per Macitynet]] mi occupo quotidianamente di tecnologia e lì potete trovare un resoconto completo del mio lavoro.
 
-Qui tratterò invece [quei temi](/pages/archivio.html) che mi stanno particolarmente a cuore. Ci sarà spazio anche per la tecnologia, certo, magari per discutere di quegli argomenti che su una rivista non troverebbero mai il giusto spazio perché un po' troppo "scomodi".
+Qui tratterò invece [[archivio|quei temi]] che mi stanno particolarmente a cuore. Ci sarà spazio anche per la tecnologia, certo, magari per discutere di quegli argomenti che su una rivista non troverebbero mai il giusto spazio perché un po' troppo "scomodi".
 
-Vorrei anche parlare [dei libri che leggo](/pages/libri.html), di quelli che mi lasciano dentro qualcosa di positivo, nella speranza che possano essere di ispirazione anche per voi. Con una certa timidezza mi avventurerò perfino in quegli argomenti che meritano un approfondimento, offrendo il mio modesto punto di vista a chi avrà il coraggio di accoglierlo.
+Vorrei anche parlare [[libri|dei libri che leggo]], di quelli che mi lasciano dentro qualcosa di positivo, nella speranza che possano essere di ispirazione anche per voi. Con una certa timidezza mi avventurerò perfino in quegli argomenti che meritano un approfondimento, offrendo il mio modesto punto di vista a chi avrà il coraggio di accoglierlo.
 
 Ma soprattutto vi porterò storie, sogni e speranze, perché a queste nessun essere umano dovrebbe mai rinunciarvi.
 
-Se poi doveste trovare la lettura utile o piacevole, considerate di [supportare il mio lavoro](/pages/help.html).
+Se poi doveste trovare la lettura utile o piacevole, considerate di [[help|supportare il mio lavoro]].
 
 Ecco fatto, siete davvero giunti alla fine del mio blog. State per completare la lettura di questo post, primo per cronologia ma inesorabilmente ultimo per disposizione.
 

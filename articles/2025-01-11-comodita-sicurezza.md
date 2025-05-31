@@ -20,7 +20,7 @@ Adesso fermatevi un attimo e guardatevi intorno: iPhone, Apple Watch, iPad, Macb
 
 Che anche Apple ci spia lo scoprì il *Guardian* [nel 2019](https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings), quando alcuni operatori di aziende subappaltatrici confermarono di aver *«ascoltato regolarmente informazioni mediche confidenziali, conversazioni legate allo spaccio di droga e registrazioni di coppie durante rapporti sessuali»*.
 
-Il [Grande Fratello di Orwell](/articles/2023-09-14-il-mondo-distopico-di-orwell.html) non è una chimera. Tutt'altro. **È più pervasivo di quanto potessimo immaginare**. E con la scusa della <mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">comodità</mark> e della <mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">sicurezza</mark>, non solo lo abbiamo accettato, ma **lo osanniamo**.
+Il [[2023-09-14-il-mondo-distopico-di-orwell|Grande Fratello di Orwell]] non è una chimera. Tutt'altro. **È più pervasivo di quanto potessimo immaginare**. E con la scusa della <mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">comodità</mark> e della <mark class="has-inline-color" style="background: rgb(238, 252, 0); color: black; font-weight: 700;">sicurezza</mark>, non solo lo abbiamo accettato, ma **lo osanniamo**.
 
 Torniamo a noi. Apple ci spia, e lo sappiamo da anni. Sapete poi cosa è successo? l'hanno denunciata, ci mancherebbe. Il fatto è che la questione si è risolta pochi giorni fa, col pagamento di 95 milioni di dollari. **Spicci, per un colosso come Apple** che fattura decine di miliardi ogni anno (94,9 alla chiusura del [quarto trimestre fiscale del 2024](https://www.apple.com/it/newsroom/2024/10/apple-reports-fourth-quarter-results/), tanto per dare un'idea).
 
@@ -54,7 +54,7 @@ Questa della class action chiusa coi due spicci è la prova provata che Apple, t
 
 ### Ancora su Apple e tecnologia applicata all'uomo
 
-- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
-- La [nuova app di Amazon](/articles/2024-03-29-il-marchio-sulla-mano-destra.html) per pagare con la scansione del palmo
-- [Il primo uomo](/articles/2024-01-31-primo-uomo-chip-cervello.html) con un chip nel cervello
-- Il transumanesimo [non è un complotto](/articles/2023-04-25-transumanesimo-altro-che-complotto.html)
+- Apple Vision Pro, [[2023-06-06-behind-the-apple-vision-pro|cosa c'è dietro?]] in ogni caso, non prendetelo in giro...[[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]
+- La [[2024-03-29-il-marchio-sulla-mano-destra|nuova app di Amazon]] per pagare con la scansione del palmo
+- [[2024-01-31-primo-uomo-chip-cervello|Il primo uomo]] con un chip nel cervello
+- Il transumanesimo [[2023-04-25-transumanesimo-altro-che-complotto|non è un complotto]]

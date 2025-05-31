@@ -198,7 +198,7 @@ Grazie di cuore a tutti per la collaborazione!
 
 Buttate un occhio alle cartelle Spam/Promozioni della vostra casella di posta elettronica perché potrebbe essere finita lì; nel caso, segnate il mittente come "non spam", così da non avere problemi con le prossime uscite.
 
-Se poi trovate errori o cose da segnalarmi, sapete dove [scrivermi](https://yuridiprodo.github.io/pages/contatti.html).
+Se poi trovate errori o cose da segnalarmi, sapete dove [[contatti|scrivermi]].
 
 # Newsletter, un aiuto
 3 febbraio 2025

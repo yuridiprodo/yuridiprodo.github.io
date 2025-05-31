@@ -19,10 +19,10 @@ Per quanto mi riguarda, non mi riconosco in questo governo e **mi vergogno** di 
 ---
 
 ### Sulla guerra
-- Il nemico? come formiche: è [il punto di vista dei giganti](/articles/2024-03-07-come-formiche.html)
-- «[È capitato](/articles/2024-03-06-una-barzelletta-vera.html) che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
-- Giusto [due numeri a confronto](/articles/2024-02-05-questione-di-priorita.html). Così, pourparler.
-- Presunto = non verificato. [Una semplice equazione](/articles/2024-01-28-presunzione-di-innocenza.html)
-- [Dal culto della morte alla repressione dei dissidenti](/articles/2023-03-27-il-bue-dice-cornuto-asino.html): urge esame di coscienza
-- Israele e [la scusa del parco naturale](/articles/2022-02-23-israele-parco-naturale-palestina.html) per ottenere autorità sulle terre palestinesi
-- A tavola col verme della farina minore [Per gentile concessione della Commissione UE](/articles/2024-03-05-verme-farina.html)
+- Il nemico? come formiche: è [[2024-03-07-come-formiche|il punto di vista dei giganti]]
+- «[[2024-03-06-una-barzelletta-vera|È capitato]] che gli aiuti finissero in mare o che i pacchi risultassero danneggiati all'impatto col suolo».
+- Giusto [[2024-02-05-questione-di-priorita|due numeri a confronto]]. Così, pourparler.
+- Presunto = non verificato. [[2024-01-28-presunzione-di-innocenza|Una semplice equazione]]
+- [[2023-03-27-il-bue-dice-cornuto-asino|Dal culto della morte alla repressione dei dissidenti]]: urge esame di coscienza
+- Israele e [[2022-02-23-israele-parco-naturale-palestina|la scusa del parco naturale]] per ottenere autorità sulle terre palestinesi
+- A tavola col verme della farina minore [[2024-03-05-verme-farina|Per gentile concessione della Commissione UE]]

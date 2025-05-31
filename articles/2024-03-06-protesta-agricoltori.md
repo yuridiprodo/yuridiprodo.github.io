@@ -31,9 +31,9 @@ Senza di loro le nostre città diventerebbero luoghi anonimi e omologati. **Tutt
 ---
 
 ### È politica anche questa:
-- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [una lettera](/articles/2024-05-21-maria-luisa-busi.html) dai contenuti ancora oggi tremendamente attuali
-- [il NO della Rowling](/articles/2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno.html) al totalitarismo arcobaleno
-- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [L'esperimento di Milgram](/articles/2024-03-07-milgram.html)
-- Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; [perché esse sono il mezzo per giungere al significato](/articles/2023-12-13-una-profezia.html); e per coloro che vorranno ascoltare, all’affermazione della verità
-- La Costituzione è cambiata, ma [non ve lo ha ancora detto nessuno](/articles/2022-02-24-modifica-silenziosa-alla-costituzione.html)
-- Viviamo nella società del controllo, e va bene così. [Buon risveglio](/articles/2024-02-08-matrix.html)
+- Esattamente 14 anni fa la giornalista Maria Luisa Busi annunciava le sue dimissioni al direttore del TG1 attraverso [[2024-05-21-maria-luisa-busi|una lettera]] dai contenuti ancora oggi tremendamente attuali
+- [[2024-04-04-rowling-guerra-al-totalitarismo-arcobaleno|il NO della Rowling]] al totalitarismo arcobaleno
+- La nostra obbedienza alle autorità è frutto di una scelta consapevole, o di manipolazione? [[2024-03-07-milgram|L'esperimento di Milgram]]
+- Mentre il manganello può sostituire il dialogo, le parole non perderanno mai il loro potere; [[2023-12-13-una-profezia|perché esse sono il mezzo per giungere al significato]]; e per coloro che vorranno ascoltare, all’affermazione della verità
+- La Costituzione è cambiata, ma [[2022-02-24-modifica-silenziosa-alla-costituzione|non ve lo ha ancora detto nessuno]]
+- Viviamo nella società del controllo, e va bene così. [[2024-02-08-matrix|Buon risveglio]]

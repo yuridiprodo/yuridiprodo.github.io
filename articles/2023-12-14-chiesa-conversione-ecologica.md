@@ -14,9 +14,9 @@ Già. **Come l'agenda dell'ONU**. D'altronde i temi sono gli stessi. [Leggere](h
 
 ---
 ### Sullo stesso argomento:
-- [Come ti destrutturo l'umano](/articles/2024-02-17-famiglia-una-ideologia.html) Si parte dalla cellula in cui esso si costituisce: la famiglia
-- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [due problemi](/articles/2024-02-14-siate-efficienti.html)
-- [La teologia delle emissioni](/articles/2023-10-20-teologia-delle-emissioni.html) di Papa Francesco
-- [La profezia](/articles/2024-02-01-profezia-ratzinger.html) di Ratzinger
-- Quando Benedetto XVI ci ammoniva: [il mondo virtuale diventa più vero, più forte](/articles/2023-08-01-non-conformatevi-al-mondo.html) e non si vede più il mondo reale della creazione di Dio
-- [Benedetto XVI, tutto il lascito in 500 MB](/articles/2023-01-20-benedetto-xvi.html) Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi
+- [[2024-02-17-famiglia-una-ideologia|Come ti destrutturo l'umano]] Si parte dalla cellula in cui esso si costituisce: la famiglia
+- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [[2024-02-14-siate-efficienti|due problemi]]
+- [[2023-10-20-teologia-delle-emissioni|La teologia delle emissioni]] di Papa Francesco
+- [[2024-02-01-profezia-ratzinger|La profezia]] di Ratzinger
+- Quando Benedetto XVI ci ammoniva: [[2023-08-01-non-conformatevi-al-mondo|il mondo virtuale diventa più vero, più forte]] e non si vede più il mondo reale della creazione di Dio
+- [[2023-01-20-benedetto-xvi|Benedetto XVI, tutto il lascito in 500 MB]] Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi

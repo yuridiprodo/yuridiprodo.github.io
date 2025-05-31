@@ -32,10 +32,10 @@ Da una parte Anthony Fauci, dicevo. Dall'altra il nuovo studio. Nel mezzo, l'ass
 
 ---
 ### Pandemia: parliamone
-- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
-- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
-- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [qual è il percorso?](/articles/2024-02-27-sveglia-occidente.html)
-- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
-- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
-- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
-- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito
+- Il conflitto di interesse [[2024-04-18-conflitto-di-interesse|non è una chimera]]
+- Tutto pronto per [[2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra|il prossimo giro di giostra]]
+- «Il percorso delle riforme è tracciato, nessun futuro governo potrà smontarlo». Già, ma [[2024-02-27-sveglia-occidente|qual è il percorso?]]
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [[2024-01-19-malattia-x|La Malattia X]]
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [[2023-12-15-fda-slide-vaccini|Sapeva anche la FDA]]
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [[2023-02-28-dove-nasce-il-covid|dove state pensando]]
+- [[2022-12-14-covid-atto-secondo|Da appuntare in un posto sicuro]]: vi tornerà utile a tempo debito

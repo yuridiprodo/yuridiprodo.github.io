@@ -14,7 +14,7 @@ Vi riporto alcuni passaggi (con traduzione annessa), ma l'articolo merita di ess
 
 > *The effect of the permission structure machine is to instill and maintain obedience to voices coming from outside yourself, regardless of the obvious gaps in logic and functioning that they create.*
 > 
-> L'effetto delle "Strutture di Permesso" è quello di instillare e **mantenere l'obbedienza alle voci che provengono dall'esterno** di sé stessi, indipendentemente dalle [evidenti lacune nella logica](/articles/2024-01-19-malattia-x.html) e nel funzionamento che esse creano.
+> L'effetto delle "Strutture di Permesso" è quello di instillare e **mantenere l'obbedienza alle voci che provengono dall'esterno** di sé stessi, indipendentemente dalle [[2024-01-19-malattia-x|evidenti lacune nella logica]] e nel funzionamento che esse creano.
 
 ---
 
@@ -32,7 +32,7 @@ Vi riporto alcuni passaggi (con traduzione annessa), ma l'articolo merita di ess
 
 >*The integrity of the individual is violated in order to further the superior interests of the superego of humanity, the party, which knows which beliefs are right and which are wrong. The party is the ghost in the machine, which appears to run on automatic pilot, using the human desire for companionship and social connection as fuel for an effort to detach individuals from their own desires and substitute the dictates of the party, which is granted the unlimited right to enforce its superior opinions on all of mankind.*
 >
->L'integrità dell'individuo viene violata per promuovere gli interessi superiori del super-io dell'umanità, [il partito](/articles/2023-09-14-il-mondo-distopico-di-orwell.html), che sa quali credenze sono giuste e quali sono sbagliate. Il partito è il fantasma nella macchina, che sembra funzionare col pilota automatico, usando **il desiderio umano di compagnia e connessione sociale** come carburante per uno sforzo volto a staccare gli individui dai propri desideri e sostituirli con i dettami del partito, che ha il diritto illimitato di imporre le sue opinioni superiori su tutta l'umanità.
+>L'integrità dell'individuo viene violata per promuovere gli interessi superiori del super-io dell'umanità, [[2023-09-14-il-mondo-distopico-di-orwell|il partito]], che sa quali credenze sono giuste e quali sono sbagliate. Il partito è il fantasma nella macchina, che sembra funzionare col pilota automatico, usando **il desiderio umano di compagnia e connessione sociale** come carburante per uno sforzo volto a staccare gli individui dai propri desideri e sostituirli con i dettami del partito, che ha il diritto illimitato di imporre le sue opinioni superiori su tutta l'umanità.
 
 ---
 
@@ -44,6 +44,6 @@ Vi riporto alcuni passaggi (con traduzione annessa), ma l'articolo merita di ess
 
 ### Approfondimenti
 
-- Comodità e Sicurezza: due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [Una conferma](/articles/2025-01-11-comodita-sicurezza.html)
-- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? [tre lettere: PNL](/articles/2023-12-28-persuasori-occulti.html)
-- La prossima pandemia? al Giubileo. [Ce lo stanno già dicendo](/articles/2024-12-30-cristiani-untori.html)
+- Comodità e Sicurezza: due parole con cui ci hanno fatto accettare il controllo. Di più, ci hanno reso la schiavitù perfino desiderabile. [[2025-01-11-comodita-sicurezza|Una conferma]]
+- Cos'hanno in comune la pubblicità, il cinema, i cartoni animati, i giornali, i social e gli smartphone? [[2023-12-28-persuasori-occulti|tre lettere: PNL]]
+- La prossima pandemia? al Giubileo. [[2024-12-30-cristiani-untori|Ce lo stanno già dicendo]]

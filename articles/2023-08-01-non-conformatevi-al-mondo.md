@@ -25,9 +25,9 @@ Cappella del Seminario
 
 ---
 ### Sullo stesso argomento:
-- [Come ti destrutturo l'umano](/articles/2024-02-17-famiglia-una-ideologia.html) Si parte dalla cellula in cui esso si costituisce: la famiglia
-- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [due problemi](/articles/2024-02-14-siate-efficienti.html)
-- Chiesa: Conversione sì, ma ecologica. [Prima la neutralità climatica](/articles/2023-12-14-chiesa-conversione-ecologica.html), poi il Vangelo
-- [La teologia delle emissioni](/articles/2023-10-20-teologia-delle-emissioni.html) di Papa Francesco
-- [La profezia](/articles/2024-02-01-profezia-ratzinger.html) di Ratzinger
-- [Benedetto XVI, tutto il lascito in 500 MB](/articles/2023-01-20-benedetto-xvi.html) Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi
+- [[2024-02-17-famiglia-una-ideologia|Come ti destrutturo l'umano]] Si parte dalla cellula in cui esso si costituisce: la famiglia
+- Non è un caso se nella società meritocratica di oggi sono entrati in gioco [[2024-02-14-siate-efficienti|due problemi]]
+- Chiesa: Conversione sì, ma ecologica. [[2023-12-14-chiesa-conversione-ecologica|Prima la neutralità climatica]], poi il Vangelo
+- [[2023-10-20-teologia-delle-emissioni|La teologia delle emissioni]] di Papa Francesco
+- [[2024-02-01-profezia-ratzinger|La profezia]] di Ratzinger
+- [[2023-01-20-benedetto-xvi|Benedetto XVI, tutto il lascito in 500 MB]] Oltre 4.000 scritti in italiano: l'eredità di uno dei Papi più grandi di tutti i tempi

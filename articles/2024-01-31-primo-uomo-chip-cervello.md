@@ -17,6 +17,6 @@ Su una cosa soltanto invece non vi sono dubbi: **il transumanesimo è iniziato**
 ---
 
 ### Ancora tecnologia applicata all'uomo
-- Il transumanesimo [non è un complotto](/articles/2023-04-25-transumanesimo-altro-che-complotto.html)
-- Apple Vision Pro, [cosa c'è dietro?](/articles/2023-06-06-behind-the-apple-vision-pro.html) in ogni caso, non prendetelo in giro...[prima che sia troppo tardi](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html)
-- - La [nuova app di Amazon](/articles/2024-03-29-il-marchio-sulla-mano-destra.html) per pagare con la scansione del palmo
+- Il transumanesimo [[2023-04-25-transumanesimo-altro-che-complotto|non è un complotto]]
+- Apple Vision Pro, [[2023-06-06-behind-the-apple-vision-pro|cosa c'è dietro?]] in ogni caso, non prendetelo in giro...[[2023-06-06-non-prendete-in-giro-apple-vision-pro|prima che sia troppo tardi]]
+- - La [[2024-03-29-il-marchio-sulla-mano-destra|nuova app di Amazon]] per pagare con la scansione del palmo

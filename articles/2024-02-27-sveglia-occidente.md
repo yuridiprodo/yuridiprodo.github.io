@@ -16,7 +16,7 @@ apperò...
 
 **Ovviamente**.
 
-D'altronde [l'approccio è sempre quello](/articles/2023-06-06-non-prendete-in-giro-apple-vision-pro.html), **necessariamente lento**, per permettere di abituarsi gradualmente all'idea: altrimenti sarebbe molto più difficile da accettare.
+D'altronde [[2023-06-06-non-prendete-in-giro-apple-vision-pro|l'approccio è sempre quello]], **necessariamente lento**, per permettere di abituarsi gradualmente all'idea: altrimenti sarebbe molto più difficile da accettare.
 
 Perché magari, se ci si accontenta di leggere [il Corriere](https://www.corrierecomunicazioni.it/industria-4-0/transizone-5-0-al-via-sul-piatto-13-miliardi-urso-architrave-della-politica-industriale/) e il [Sole24Ore](https://www.ilsole24ore.com/art/dalla-patente-tessera-sanitaria-piano-piu-fasi-far-partire-l-it-wallet-AFnTBhrC?refresh_ce), potrebbero sembrare soltanto rose e fiori.
 
@@ -40,10 +40,10 @@ Se ci mettiamo poi [i recenti eventi in Canada](https://www.bbc.com/news/world-u
 
 ---
 ### Pandemia: parliamone
-- [Un post-it](/articles/2024-06-05-post-it-prossima-pandemia.html) per la prossima pandemia
-- Il conflitto di interesse [non è una chimera](/articles/2024-04-18-conflitto-di-interesse.html)
-- Tutto pronto per [il prossimo giro di giostra](/articles/2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra.html)
-- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [La Malattia X](/articles/2024-01-19-malattia-x.html)
-- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [Sapeva anche la FDA](/articles/2023-12-15-fda-slide-vaccini.html)
-- Scoperto il punto di partenza del Sars-Cov-2. No, non è [dove state pensando](/articles/2023-02-28-dove-nasce-il-covid.html)
-- [Da appuntare in un posto sicuro](/articles/2022-12-14-covid-atto-secondo.html): vi tornerà utile a tempo debito
+- [[2024-06-05-post-it-prossima-pandemia|Un post-it]] per la prossima pandemia
+- Il conflitto di interesse [[2024-04-18-conflitto-di-interesse|non è una chimera]]
+- Tutto pronto per [[2024-03-08-tutto-pronto-per-il-prossimo-giro-di-giostra|il prossimo giro di giostra]]
+- «Una patologia che non esiste, ma il cui studio potrebbe facilitare la prevenzione». Oltre l'invisibile: studiamo l'inesistente. [[2024-01-19-malattia-x|La Malattia X]]
+- Al momento della messa in commercio dei vaccini, AIFA non aveva dati su efficacia, trasmissione del virus e rapporto rischi/benefici perché erano tutti in possesso dell'Ema. [[2023-12-15-fda-slide-vaccini|Sapeva anche la FDA]]
+- Scoperto il punto di partenza del Sars-Cov-2. No, non è [[2023-02-28-dove-nasce-il-covid|dove state pensando]]
+- [[2022-12-14-covid-atto-secondo|Da appuntare in un posto sicuro]]: vi tornerà utile a tempo debito

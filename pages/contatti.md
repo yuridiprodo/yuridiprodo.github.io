@@ -2,7 +2,7 @@
 
 *Ciao!*
 
-mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è [il Blog](/pages/onda-libera.html) dove pubblico riflessioni e commenti di cultura generale. Le notizie che non possono aspettare finiscono nel canale [Telegram](https://t.me/yuridiprodo); gli approfondimenti invece sono nella [Newsletter](/pages/newsletter.html).
+mi chiamo Yuri Di Prodo, sono un giornalista e **Onda Libera ~** è [[onda-libera|il Blog]] dove pubblico riflessioni e commenti di cultura generale. Le notizie che non possono aspettare finiscono nel canale [Telegram](https://t.me/yuridiprodo); gli approfondimenti invece sono nella [[newsletter|Newsletter]].
 
 Sono anche [una penna di Macitynet](http://www.macitynet.it/author/yuri).
 
@@ -18,7 +18,7 @@ Quasi dimenticavo: se hai aperto questa pagina perché desideri condividere qual
 
 ---
 
-*Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione o, **in maniera totalmente gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [Scopri di più](/pages/help.html)*
+*Se quello che hai letto qui sul blog ti è stato di aiuto in qualche modo o più semplicemente ti è piaciuto, considera di **supportare il mio lavoro** con una donazione o, **in maniera totalmente gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [[help|Scopri di più]]*
 
 ![Yuri Di Prodo, un ritratto](profilo-mini.jpeg)
 

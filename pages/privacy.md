@@ -66,4 +66,4 @@ In conformità con il GDPR, hai il diritto di:
 
 #### Email
 
-Se desideri contattarmi, puoi farlo tramite l'indirizzo mail che trovi nella pagina [Contatti](/pages/contatti.html). Non vengono raccolte altre informazioni personali a meno che non vengano fornite esplicitamente in una tua comunicazione.
+Se desideri contattarmi, puoi farlo tramite l'indirizzo mail che trovi nella pagina [[contatti|Contatti]]. Non vengono raccolte altre informazioni personali a meno che non vengano fornite esplicitamente in una tua comunicazione.

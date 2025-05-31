@@ -26,7 +26,7 @@ Stremato, si sedette accanto al Maestro e disse: “Non riesco a prendere l’ac
 
 ---
 
-A caccia di spunti di lettura? [dai un'occhiata qui](/pages/libri.html).
+A caccia di spunti di lettura? [[libri|dai un'occhiata qui]].
 
 ---
 
