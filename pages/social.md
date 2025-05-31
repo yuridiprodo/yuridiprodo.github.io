@@ -185,7 +185,7 @@ Scusate, ma quindi quale sarebbe la bella notizia?
 
 Roberto Speranza: Tachipirina e vigile attesa? un'invenzione dei no-vax
 
-Ve ne ho parlato nell'ultima [newsletter](https://yuridiprodo.github.io/newsletter/01.html), dove trovate il video integrale pubblicato da una persona presente all'evento.
+Ve ne ho parlato nell'ultima [[01|newsletter]], dove trovate il video integrale pubblicato da una persona presente all'evento.
 
 Adesso è stato pubblicato anche il [video](https://x.com/camuso_angela/status/1886533492470604177) frontale registrato dalla giornalista stessa.
 
@@ -572,7 +572,7 @@ Comunque, per annullare il blocco, è sufficiente:
 - quindi, nella barra di ricerca, digitare contenuti suggeriti;
 - alla voce contenuti di natura politica, spostare il selettore su non limitare i contenuti di natura politica delle persone che non segui.
 
-# sul-conformismo
+# De-Crescenzo-sul-conformismo
 30 aprile 2024
 
 Tutti fanno ciò che gli altri fanno: è il principio base del conformismo. Ad esempio non posso fare a meno di chiedermi perché il Grande Fratello piaccia tanto al pubblico italiano.

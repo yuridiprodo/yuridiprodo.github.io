@@ -12,8 +12,8 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[04|La tirannia di un'idea]]
 - [I nove doni. Sulla via della felicità](https://amzn.to/4hgIli4) di Giovanni Allevi. [[2025-03-14-nove-doni|Guerriero vero]]
 - [La figlia](https://amzn.to/4h8YwOH) di Clara Usón. [[03|Una tecnica di Hermann Goering]]
-- [Nuremberg Diary](https://amzn.to/4h6MVPV) di Gustave Gilbert. [Sarai tu a chiedere la guerra](https://yuridiprodo.github.io/newsletter/03.html#20250310n)
-- [Le leggi fondamentali della stupidità umana](https://amzn.to/41ecEBd) di Carlo Maria Cipolla. [La prima](https://yuridiprodo.github.io/newsletter/02.html#20250216n)
+- [Nuremberg Diary](https://amzn.to/4h6MVPV) di Gustave Gilbert. [[03|Nella citazione introduttiva]]
+- [Le leggi fondamentali della stupidità umana](https://amzn.to/41ecEBd) di Carlo Maria Cipolla. [[02|Nella citazione introduttiva]]
 - [De otio, III, 5](https://amzn.to/3Ei4aQN) di Seneca. [[01|In fondo alla newsletter]]
 - [Antigone. Variazioni sul mito](https://amzn.to/4hdWtJG) di Bertolt Brecht. [[2025-01-20-alcolock|Una citazione]]
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[social#Tirannia|Tirannia, un'idea]]
@@ -21,7 +21,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [Imperativo tecnologico. La sfida etica dell’Intelligenza Artificiale](https://amzn.to/3R2KEei) di Paolo Gulisano. [[2024-06-14-imperativo-tecnologico|Una parabola discendente?]]
 - [La rabbia e l’orgoglio](https://amzn.to/3wPDH9Q) e [La forza della ragione](https://amzn.to/4bxt3DP) di Oriana Fallaci. [[2024-05-27-aveva-ragione-oriana|Semplicemente profetici]]
 - [L’Apocalisse](https://amzn.to/3Kk2PbQ) di Oriana Fallaci. [[2023-10-31-il-prezzo-della-liberta|Eravamo stati avvisati]]
-- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [[social#sul-conformismo|Sul conformismo]] e [[social#De-Crescenzo-sul-latino|sul latino]]
+- [Il caffè sospeso](https://amzn.to/3PoXD9r) di Luciano De Crescènzo. [[social#de-crescenzo-sul-conformismo|Sul conformismo]] e [[social#De-Crescenzo-sul-latino|sul latino]]
 - [Intelligenza Emotiva](https://amzn.to/491bABs) di David Goleman. [[social#Leggenda|Una leggenda giapponese]]
 - [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei. [[social#Congiuntivo|Sul congiuntivo]]
 - [Cedi la strada agli alberi](https://amzn.to/3IJOBA1) di Franco Arminio. [[social#Ritorno-al-passato|Gusto antico]]

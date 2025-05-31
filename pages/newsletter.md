@@ -13,8 +13,8 @@ Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui
 
 Qui sotto trovate invece una copia delle newsletter che ho già inviato; dalla più alla meno recente.
 
-- [Numero ~05: OMS, ovvero Ogni Minuto Sbagliamo. Oppure era Ogni Malanno è Sospetto?](/newsletter/05.html)
-- [Numero ~04: Quelli bravi in orbita, la borsetta da guerra, i giovanotti al conclave](/newsletter/04.html)
-- [Numero ~03: La Seconda Giornata della Memoria, Sapiens³ e struzzi](/newsletter/03.html)
-- [Numero ~02: Ieri Terzani, oggi Barbero, domani IA](/newsletter/02.html)
-- [Numero ~01: Pronti, partenza, via!](/newsletter/01.html)
+- [[05|Numero ~05: OMS, ovvero Ogni Minuto Sbagliamo. Oppure era Ogni Malanno è Sospetto?]]
+- [[04|Numero ~04: Quelli bravi in orbita, la borsetta da guerra, i giovanotti al conclave]]
+- [[03|Numero ~03: La Seconda Giornata della Memoria, Sapiens³ e struzzi]]
+- [[02|Numero ~02: Ieri Terzani, oggi Barbero, domani IA]]
+- [[01|Numero ~01: Pronti, partenza, via!]]
