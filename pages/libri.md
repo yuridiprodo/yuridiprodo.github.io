@@ -16,6 +16,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 - [Le leggi fondamentali della stupidità umana](https://amzn.to/41ecEBd) di Carlo Maria Cipolla. [[02|Nella citazione introduttiva]]
 - [De otio, III, 5](https://amzn.to/3Ei4aQN) di Seneca. [[01|In fondo alla newsletter]]
 - [Antigone. Variazioni sul mito](https://amzn.to/4hdWtJG) di Bertolt Brecht. [[2025-01-20-alcolock|Una citazione]]
+- [The Hallmarked Man](https://amzn.to/4gNR5Nr) di Robert Galbraith. [[social#Cormoran-Strike-8|Esce in inglese il 9 settembre (2025)]]
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[social#Tirannia|Tirannia, un'idea]]
 - [Robinson Crusoe](https://amzn.to/3SoePxo) 📌 di Daniel Defoe. [[2024-07-26-moyenne|Una storia vera]]
 - [Imperativo tecnologico. La sfida etica dell’Intelligenza Artificiale](https://amzn.to/3R2KEei) di Paolo Gulisano. [[2024-06-14-imperativo-tecnologico|Una parabola discendente?]]

@@ -262,7 +262,7 @@ Leggiamo il paragrafo 44 delle [nuove linee guida](https://www.chiesacattolica.i
 
 "In relazione alle persone con tendenze omosessuali che si accostano ai seminari, o che scoprono nel corso della formazione tale situazione, in coerenza con il proprio Magistero, la Chiesa, pur rispettando profondamente le persone in questione, non può ammettere al Seminario e agli Ordini sacri coloro che praticano l’omosessualità, presentano tendenze omosessuali profondamente radicate o sostengono la cosiddetta cultura gay. Le suddette persone si trovano, infatti, in una situazione che ostacola gravemente un corretto relazionarsi con uomini e donne."
 
-# Cormoran Strike 8
+# Cormoran-Strike-8
 
 🔥 Flash news piccolina
 
