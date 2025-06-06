@@ -9,6 +9,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- [Le origini del totalitarismo](https://amzn.to/4dJpMmu) e [La banalità del male](https://amzn.to/41Kiv0q) di Hannah Arendt. [[2025-06-06-banalita-del-male|Eseguiva solo gli ordini]]
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[04|La tirannia di un'idea]]
 - [I nove doni. Sulla via della felicità](https://amzn.to/4hgIli4) di Giovanni Allevi. [[2025-03-14-nove-doni|Guerriero vero]]
 - [La figlia](https://amzn.to/4h8YwOH) di Clara Usón. [[03|Una tecnica di Hermann Goering]]
