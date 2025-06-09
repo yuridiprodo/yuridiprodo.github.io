@@ -1,6 +1,49 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# vitello d'oro nel 2025
+8 giugno 2025
+
+Ai tempi di Mosè forgiarono un vitello d'oro.
+
+Oggi costruiamo unicorni arcobaleno.
+
+Sono passati più di 3.000 anni e non è cambiato niente.
+
+# modifica al codice del sito
+7 giugno 2025
+
+🔔 **INFORMAZIONE DI SERVIZIO**
+
+Ho apportato una profonda modifica al codice del sito al fine di migliorarne la navigazione (principalmente, adesso gli stili sono supportati in tutte le pagine ed è possibile muoversi avanti e indietro a piacimento senza essere reindirizzati alla home).
+
+Tuttavia, i link pubblicati precedentemente risultano "illeggibili". Dove ho potuto li ho già aggiornati col nuovo formato, ma se doveste incappare in un vecchio link, fate così:
+
+1️⃣ aggiungete uno
+```
+/#
+```
+subito dopo il dominio.io
+
+2️⃣ e togliete il 
+```
+.html
+```
+ in fondo
+
+---
+
+quindi un
+https://yuridiprodo.github.io/articles/2025-05-19-terzani.html
+diventa
+https://yuridiprodo.github.io/#/articles/2025-05-19-terzani
+
+---
+
+In alternativa, basandovi sulla data di pubblicazione visibile nel link, potete andarlo a ripescare [[archivio|dall'archivio]] dove trovate tutte le pubblicazioni ordinate cronologicamente.
+
+Scusate per il disagio.
+
 # alcol bene di prima necessità
 17 maggio 2025
 
