@@ -1,12 +1,10 @@
 Le ultime cose di cui vi ho parlato:
 
+- [[2025-06-18-giorgione|I tre filosofi]] non sono tre filosofi; bensì Mosè, Maometto e l'Anticristo. Guardategli le mani
+
 - [[2025-06-06-banalita-del-male|Eseguiva solo gli ordini, ovvero la banalità del male]] L'indifferenza verso le sofferenze altrui e la passività di fronte all'ingiustizia sono condizioni che permettono al male di manifestarsi nella società: la voce di Hannah Arendt
 
 - [[2025-05-22-le-tre-s|Soldi, Successo, Sesso]] Tre declinazioni dell'egocentrismo moderno
-
-- Il presente non è fatto solo di attualità, perché il passato dura nel divenire. [[2025-05-13-sulle-notizie|Un pensiero]]
-
-- [[2025-04-15-clone-digitale|Finché non vedo non credo]] D'ora in poi il detto di San Tommaso non conta più: i cloni digitali sono già tra noi
 
 Tutti gli altri articoli sono nell'[[archivio|Archivio]].
 

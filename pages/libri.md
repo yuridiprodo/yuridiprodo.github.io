@@ -9,6 +9,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- [Arte Dossier su Giorgione](https://amzn.to/3XOjE5F) di Augusto Gentili. [[2025-06-18-giorgione|I tre filosofi]]
 - [Le origini del totalitarismo](https://amzn.to/4dJpMmu) e [La banalità del male](https://amzn.to/41Kiv0q) di Hannah Arendt. [[2025-06-06-banalita-del-male|Eseguiva solo gli ordini]]
 - [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe. [[04|La tirannia di un'idea]]
 - [I nove doni. Sulla via della felicità](https://amzn.to/4hgIli4) di Giovanni Allevi. [[2025-03-14-nove-doni|Guerriero vero]]
