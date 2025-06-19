@@ -1,6 +1,25 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Israele-Iran
+18 giugno 2025
+
+Considerazioni tecniche e politiche, e i possibili scenari futuri: una lucida analisi che vi consiglio di leggere per cercare di capire cosa sta succedendo e cosa possiamo aspettarci dal conflitto Israele-Iran iniziato pochi giorni fa.
+
+Copincolla: "Le leadership occidentali non capiscono che mettendo pressione a popoli con secoli di storia la reazione è quella opposta a quella desiderata. Si cementano attorno ai loro leader. Perciò Tel Aviv e Washington possono scordarsi un cambio di regime come avvenuto in Siria nel giro di poche ore. L’Impero Romano, che era l’Impero Romano, cercò per settecento anni di sottomettere la Persia e non ci riuscì; possibile che nessun leader studi un filino di storia? Oltretutto, un’azione del genere è forse il miglior incentivo a dotarsi di un’arma atomica prima possibile."
+
+https://www.aldomariavalli.it/2025/06/14/israele-iran-che-cosa-sta-succedendo-e-che-cosa-ci-attende/
+
+Sul cosa aspettarci, mi sento di aggiungere anche due dei messaggi raccolti da Pedro Regis nel 2005.
+
+Il numero 2501: "Il paese del Salvatore dovrà soffrire molto, ma quando sentirà la sconfitta si difenderà con armi che diffonderanno fuoco nel cielo".
+
+https://www.apelosurgentes.com.br/it-it/mensagens/2501
+
+Il numero 2557: "L’umanità cammina verso la distruzione. La terra si agiterà e tremerà per il grande olocausto atomico. L’Iran sarà devastato da Israele. Ecco i tempi difficili per l’umanità".
+
+https://www.apelosurgentes.com.br/it-it/mensagens/2557
+
 # vitello d'oro nel 2025
 8 giugno 2025
 
