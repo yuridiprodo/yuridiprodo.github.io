@@ -1,6 +1,15 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# il papa sulla AI
+20 giugno 2025
+
+Ora ce lo dice anche il Papa: [[2024-01-24-non-siamo-ancora-macchine|non siamo macchine, siamo uomini]]. E con tutti questi incontrollati algoritmi che plasmano e distorcono [[2025-04-10-indifferenza|il modo in cui percepiamo il mondo]] e viviamo la nostra vita, il rischio di veder appiattita l'unicità dell'uomo è ancora più sottile. La nostra dignità è seriamente in pericolo.
+
+Copincolla: "Ci sono poi le sfide che interpellano il rispetto per la dignità della persona umana. L’intelligenza artificiale, le biotecnologie, l’economia dei dati e i social media stanno trasformando profondamente la nostra percezione e la nostra esperienza della vita. In questo scenario, la dignità dell’umano rischia di venire appiattita o dimenticata, sostituita da funzioni, automatismi, simulazioni. Ma la persona non è un sistema di algoritmi: è creatura, relazione, mistero. Mi permetto allora di esprimere un auspicio: che il cammino delle Chiese in Italia includa, in coerente simbiosi con la centralità di Gesù, la visione antropologica come strumento essenziale del discernimento pastorale. Senza una riflessione viva sull’umano – nella sua corporeità, nella sua vulnerabilità, nella sua sete d’infinito e capacità di legame – l’etica si riduce a codice e la fede rischia di diventare disincarnata".
+
+https://www.vatican.va/content/leo-xiv/it/speeches/2025/june/documents/20250617-cei.html
+
 # Israele-Iran
 18 giugno 2025
 
