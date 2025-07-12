@@ -1,6 +1,15 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Zuckerberg e il latino
+6 luglio 2025
+
+L'ho detto già [[2025-03-07-imagine|altre volte]], ma torno a ripeterlo: il latino è una palestra per la mente. Magari ci mette più tempo, ma alla fine apre più porte di altre materie che sulla carta offrono un'utilità immediata.
+
+Copincolla: "Mark Zuckerberg è l’unico tra i magnati tech, assieme a Peter Thiel, ad aver davvero studiato latino al liceo, ottenendo ottimi risultati nelle lingue antiche. Si diceva troppo timido per studiare le lingue moderne e allora si era buttato in quelle morte. La sua competenza linguistica sembra essere documentata e autentica, a differenza di molti colleghi che improvvisano citazioni di seconda mano. Durante la sua visita in Italia ha dichiarato che lo studio del latino lo ha aiutato a sviluppare capacità di ragionamento e analisi. Alla faccia di tutti quelli che in Italia dicono che il liceo classico (che praticamente non esiste da nessun’altra parte al mondo) sia perfettamente inutile".
+
+https://www.macitynet.it/nuovi-imperatori-digitali
+
 # il papa sulla AI
 20 giugno 2025
 
