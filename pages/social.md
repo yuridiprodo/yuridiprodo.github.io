@@ -1,6 +1,59 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Trattato di Kensington
+18 luglio 2025
+
+È nato il trattato di Kensington, il primo tra Regno Unito e Germania dalla Seconda guerra mondiale: 30 articoli che i libri di storia allegheranno al racconto della Terza.
+
+Copincolla: "Identifying the Russian Federation’s brutal war of aggression on the European continent as the most significant and direct threat to their security; Determined to join forces to assert these values and interests in close cooperation in a changing world, and to uphold peace and security for their citizens; The Parties reaffirm their commitment to the North Atlantic Treaty Organisation as the foundation of their collective defence and to their obligations as stipulated in the North Atlantic Treaty of 4 April 1949, in particular Article 5. The Federal Republic of Germany reaffirms its deep commitment to its obligations as a member of the European Union, including paragraph 7 of Article 42 of the Treaty on European Union".
+
+https://www.gov.uk/government/news/treaty-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-federal-republic-of-germany-on-friendship-and-bilateral-cooperation
+
+# Droni ucraini a Voronezh
+17 luglio 2025
+
+In un'epoca in cui i lettori molto spesso si fermano ai titoli e le notizie plasmano la realtà, la distorsione dei fatti non solo è pericolosa, ma nel momento in cui salta fuori deve essere rettificata.
+
+Titola Repubblica: «Ucraina: attacco di droni russi sulla regione di Voronezh, colpito anche un asilo».
+
+https://www.repubblica.it/esteri/2025/07/15/video/ucraina_attacco_di_droni_russi_nella_regione_di_voronezh_colpito_anche_un_asilo-424732299/
+
+Scrive La Stampa: «Ucraina: nuovo attacco di droni russi a Voronezh, colpito un asilo».
+
+https://www.lastampa.it/esteri/2025/07/15/video/ucraina_nuovo_attacco_di_droni_russi_a_voronezh_colpito_un_asilo-15232679/
+
+(Sorpresa: i droni erano ucraini, e Voronezh si trova in Russia)
+
+# Lupo solo protetto
+16 luglio 2025
+
+L'UE ha deciso di declassare il lupo da “strettamente protetto” a “protetto”, nonostante la predazione del bestiame da parte del lupo incida per appena lo 0,07% sul totale degli animali allevati in Europa. Una mossa politica e giuridicamente discutibile, priva di fondamento scientifico e dannosa per la biodiversità.
+
+Copincolla: "Il lupo è un simbolo di equilibrio ecologico e il suo ritorno in molte aree europee è una storia di successo della conservazione. Svilire questo risultato per compiacere una narrazione distorta e strumentale è un errore gravissimo. La decisione dell’UE è attualmente oggetto di ricorso legale da parte nostra e di altre 20 associazioni in tutta Europa. Procedere con il recepimento nazionale significherebbe andare contro una sentenza attesa e forse, domani, dover fare marcia indietro. La conservazione non può essere guidata dall’emotività o dalla convenienza politica. Deve basarsi sulla scienza e sul diritto. I lupi non possono essere sacrificati sull’altare del consenso elettorale".
+
+https://www.lndcanimalprotection.org/wp-content/uploads/2025/07/Final.-PDF.-Wolf-Downlisting.-Letter-to-EU-27-States.-July-2025.-word.-75-logos-it.pdf
+
+# Grok, Musk e Hitler
+16 luglio 2025
+
+Comunque di tutta la storia tra Grok, Musk e Hitler, la vera tragedia sta nel fatto che le persone preferiscono discutere con l'AI anziché tra loro. La nostra umanità corre spedita verso l'estinzione.
+
+Copincolla: "In some posts, Grok said that people with Jewish surnames are “radical” left-leaning activists “every damn time,” a phrase that has historically been used by neo-Nazis to harass Jewish people online. In one post, Grok said that it had avoided saying “Jewish” because of a “witch hunt from folks desperate to cry antisemitism. In at least one case, Grok praised Adolf Hitler. "To deal with such vile anti-white hate?” Grok said in a now-deleted post. “Adolf Hitler, no question. He'd spot the pattern and handle it decisively, every damn time."
+
+https://www.wired.com/story/grok-antisemitic-posts-x-xai/
+
+https://x.com/grok/status/1941719386341114341
+
+# Scena muta agli esami di Stato
+11 luglio 2025
+
+Ho già [[2024-12-16-sulla-scuola|scritto]] diverse volte che il nostro sistema scolastico non funziona. E le proteste che ogni anno mettono in atto gli studenti mi danno ragione.
+
+Copincolla: "Sono deluso da chi dovrebbe guidarci, dagli adulti, dal fatto che la scuola sia un luogo dove si verificano nozioni e basta. C'è da riflettere su tutto. Tra i banchi io vedo una competizione che, in qualche modo, condanna le persone e non le porta a sostenersi l’una con l’altra. Agli obiettivi si dovrebbe arrivare tutti assieme. In questi anni mi è sembrato che i compagni fossero solo il loro voto. Chi andava meglio a scuola e chi otteneva risultati più alti si sentiva superiore e screditava gli altri. Se i ragazzi si comportano in questo modo è perché sono stati spinti dalle istituzioni e da ciò che ci viene insegnato".
+
+https://corrieredelveneto.corriere.it/notizie/padova/cronaca/25_luglio_11/gianmaria-favaretto-studente-rifiutato-orale-maturita-intervista-e527614a-f928-4229-bbd3-5146e5469xlk.shtml
+
 # Zuckerberg e il latino
 6 luglio 2025
 
@@ -9,6 +62,16 @@ L'ho detto già [[2025-03-07-imagine|altre volte]], ma torno a ripeterlo: il lat
 Copincolla: "Mark Zuckerberg è l’unico tra i magnati tech, assieme a Peter Thiel, ad aver davvero studiato latino al liceo, ottenendo ottimi risultati nelle lingue antiche. Si diceva troppo timido per studiare le lingue moderne e allora si era buttato in quelle morte. La sua competenza linguistica sembra essere documentata e autentica, a differenza di molti colleghi che improvvisano citazioni di seconda mano. Durante la sua visita in Italia ha dichiarato che lo studio del latino lo ha aiutato a sviluppare capacità di ragionamento e analisi. Alla faccia di tutti quelli che in Italia dicono che il liceo classico (che praticamente non esiste da nessun’altra parte al mondo) sia perfettamente inutile".
 
 https://www.macitynet.it/nuovi-imperatori-digitali
+
+# Recensione libro Bezos
+5 luglio 2025
+
+Cosa succede quando la narrazione che ci ha ispirati per anni inizia a non combaciare più con la realtà che viviamo ogni giorno? Quando i valori che ci hanno guidati nel lavoro e nella vita sembrano svuotarsi, diventare etichette prive di sostanza, se non addirittura controproducenti?
+
+**Lettera a Jeff Bezos**, da un'italiana il libro che vi aprirà gli occhi, e non solo su Amazon
+
+il mio articolo per Macitynet
+https://www.macitynet.it/libro-lettera-a-jeff-bezos-marisandra-lizzi/
 
 # il papa sulla AI
 20 giugno 2025
