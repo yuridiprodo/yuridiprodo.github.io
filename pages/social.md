@@ -1,6 +1,77 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Tutta colpa del caldo
+25 luglio 2025
+
+A quanto pare l'ingegneria sociale procede a gonfie vele.
+
+Copincolla: "Tutta colpa del caldo. Cadono le insegne a Milano e calano le nascite in Italia, e la colpa è sempre sua. Però ha risparmiato le torri della finanza e del commerci di Abu Dhabi, o gli hotel di Las Vegas a pochi chilometri dalla Death Valley. Mentre in Sudan la media di figli per donna si aggira attorno ai 4,6, e arriva addirittura a 6 in Niger, dove la temperatura media è di quaranta gradi. Ma con questo caldo è meglio non impiegare energie a farci troppe domande. Più comodo accodarsi e seguire la moda, del momento si intende. Perché il capro espiatorio è fluido e quindi cambia, e se sul podio dei mali del mondo al momento campeggiano Trump e Putin, se nella top ten troviamo la plastica, l’olio di palma e il fumo, insieme alla carne rossa e i parabeni, un posto d’onore lo ricopre anche anche il senso di realtà, un tempo così ampiamente diffuso e condiviso, oggi quasi del tutto scomparso dai radar, rimosso dal dibattito pubblico ed espunto dai tantissimi cervelli, perché è quello in fondo, la causa di ogni male, da estirpare a qualunque costo. E a qualunque temperatura".
+
+https://www.iltimone.org/news-timone/tutta-colpa-del-caldo-cadono-le-insegne-calano-le-nascite-e-la-colpa-e-sempre-sua/
+
+# Silere Non Possum e Giampiero
+24 luglio 2025
+
+Il vescovo della diocesi della mia città e il parroco della parrocchia in cui vivo sono al centro di una vicenda clamorosa e dalla quale emergono nuovi lati oscuri ogni giorno che passa. Con amarezza constato che, invece di affrontare la questione con un'azione legale chiara e trasparente, si è preferito diffondere un comunicato stampa che di cattolico ha ben poco, nonostante venga più volte tirato in ballo il Vangelo. Un comunicato che non smentisce le critiche mosse, bensì finisce per alimentare ulteriormente i dubbi.
+
+Tutto il mio sostegno va invece a Cronache Picene e Silere Non Possum, realtà che in un panorama mediatico sempre più dominato dalla propaganda hanno il coraggio di fare giornalismo autentico, ponendo domande scomode e mettendo al centro la ricerca sincera della verità.
+
+Copincolla: "Nelle ultime ore la diocesi di Ascoli Piceno ha scelto una strada che ricorda da vicino il legalismo dei farisei, ignorando non solo le norme penali ma anche la più elementare deontologia della comunicazione. Perché quando ad essere chiamato in causa è un personaggio potente, con prove concrete, allora si alzano i muri. E l’unica strategia diventa delegittimare chi ha il coraggio di denunciare. Quando Silere non possum scrive che hai incardinato un religioso disobbediente, che ha abbandonato il suo ordine, che entra in diocesi e predica ai preti senza alcun merito e che, per di più, organizzi un ritiro con lui nella casa del Centro Aletti, non si tratta di “pettegolezzo”. Si tratta di fatti. Documentabili. Riscontrabili. Pubblici. I quali, peraltro, vengono confermati dai preti che, a differenza di ciò che afferma Cinelli, non apprezzano proprio nulla. Siamo responsabili di ciò che scriviamo, non delle elucubrazioni e delle turbe mentali di chi legge. Perciò con questa brillante linea argomentativa, la Diocesi di Ascoli Piceno si guadagna il primato di essere chiamata in giudizio per diffamazione".
+
+https://www.cronachepicene.it/2025/07/21/iniziativa-sui-generis-della-diocesi-preti-in-preghiera-nel-centro-dello-scandalo-rupnik/540613/
+
+https://www.ancoraonline.it/2025/07/23/la-posizione-della-diocesi-di-ascoli-sulla-questione-di-cronache-picene/
+
+https://www.cronachepicene.it/2025/07/21/iniziativa-sui-generis-della-diocesi-preti-in-preghiera-nel-centro-dello-scandalo-rupnik/540613/
+
+https://silerenonpossum.com/it/ascoli-piceno-palmieri-cinelli-e-il-vizietto-della-delegittimazione/
+
+# Francesca Albanese
+23 luglio 2025
+
+Quando a novembre la Corte Penale Internazionale rilasciò il mandato d'arresto contro l'israeliano Benjamin Netanyahu con l'accusa di genocidio messa per iscritto perfino dall'ONU, Salvini disse che "se Netanyahu fosse venuto in Italia sarebbe stato il benvenuto". Certo. Mentre per l'italiana Francesca Albanese, relatrice speciale delle Nazioni Unite sui territori palestinesi occupati, tutto tace. Da qualche settimana le è stato appiccicato addosso un bel divieto di ingresso negli Stati Uniti, con congelamento dei beni e l'impossibilità di ricevere fondi e donazioni da aziende statunitensi. Si sono indignati diversi relatori ONU, Amnesty, Human Rights Watch. Si è rammaricata persino l'UE. Invece il nostro governo non dice niente. Dovesse mai interferire con le politiche dei suoi alleati.
+
+Copincolla: "She has recently escalated this effort by writing threatening letters to dozens of entities worldwide, including major American companies across finance, technology, defense, energy, and hospitality, making extreme and unfounded accusations and recommending the ICC pursue investigations and prosecutions of these companies and their executives. We will not tolerate these campaigns of political and economic warfare, which threaten our national interests and sovereignty. The United States will continue to take whatever actions we deem necessary to respond to lawfare, to check and prevent illegitimate ICC overreach and abuse of power, and to protect our sovereignty and that of our allies".
+
+le sanzioni: https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-lawfare-that-targets-u-s-and-israeli-persons/
+
+salvini: https://www.ansa.it/sito/notizie/politica/2024/11/22/salvini-se-netanyahu-venisse-in-italia-sarebbe-il-benvenuto_8a854946-30be-4667-9afe-0fcebedee3da.html
+
+genocidio: https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/a-hrc-55-73-auv.pdf
+
+Gli indignati
+1: https://news.un.org/en/story/2025/07/1165359
+2: https://www.ohchr.org/en/press-releases/2025/07/comment-un-high-commissioner-human-rights-volker-turk-us-sanctions-against
+3: https://www.amnesty.it/sanzioni-usa-contro-francesca-albanese-vergognoso/
+4: https://www.hrw.org/news/2025/07/10/us-imposes-sanctions-on-un-special-rapporteur
+5: https://www.rainews.it/articoli/2025/07/commissione-ue-rammarico-per-sanzioni-usa-contro-rappresentante-nazioni-unite-albanese-fd44dab7-0f5f-4e1a-8c29-c7b5821cda02.html
+
+# Il NO dell'Italia all'OMS
+22 luglio 2025
+
+Mentre l'UE sotto la maschera di "resilienza collettiva, strategia in costituzione di scorte e contromisure mediche" di fatto cristallizza lo stato di emergenza come nuova normalità, l'Italia rifiuta l'ampliamento dei poteri dell'OMS. Come gli Stati Uniti. Tanto per ricordarci che continuiamo ad essere una colonia americana. Per carità, sempre meglio dell'ennesimo sì, ma per come abbiamo gestito l'ultima pandemia, dubito che possa andarci meglio con la prossima ([[2024-01-19-malattia-x|che è già in programma da un pezzo]]).
+
+Copincolla: "Spett. Presidente OMS Tedros Adhanom Ghebreyesus. 
+Le scrivo con riferimento alla sua comunicazione del 19 settembre 2024 sugli emendamenti al Regolamento sanitario internazionale (2025) adottati dalla 77/ma Assemblea mondiale della sanità con la risoluzione n.WHA77.17. Come indicato dal comma 3 dell'articolo 55 e dal comma 2 dell'articolo 59 del Regolamento sanitario internazionale (2005), tali emendamenti entreranno in vigore a 12 mesi dalla sopra citata comunicazione, ovvero il 19 settembre 2025, eccetto per quelle Parti che avranno notificato al direttore generale dell'Organizzazione mondiale della sanità la loro decisione di rifiutare o di formulare delle riserve nei confronti dei citati emendamenti. Pertanto ai sensi dell'articolo 61 del Regolamento sanitario internazionale (2005), per mezzo di questa lettera le notifico il rifiuto di parte italiana di tutti gli emendamenti adottati dalla 77/ma Assemblea mondiale della sanità con la risoluzione WHA77.17".
+
+https://x.com/borghi_claudio/status/1946610221406929215
+
+https://ec.europa.eu/commission/presscorner/detail/it/ip_25_1728
+
+# DDL sul suicidio assistito
+21 luglio 2025
+
+Qui casca l'asino. Perché al numero 73 dell'enciclica Evangelium Vitae si consiglia di limitare i danni di una legge ingiusta che già esiste. Ma il DDL sul suicidio assistito non è stato ancora approvato. Perciò il quotidiano della CEI non dovrebbe dirci che resistere è ormai inutile e che quindi è meglio negoziare per "limitare i danni" citando Giovanni Paolo II. Datosi che la follia non è ancora diventata legge, attualmente siamo nella posizione di poter cogliere invece i consigli di Paolo VI, quando al numero 14 della sua Humanae Vitae scriveva che "non è lecito, neppure per ragioni gravissime, fare il male, affinché ne venga il bene".
+
+Copincolla: "Come giudicare il recente testo-base della proposta di legge sul cosiddetto “fine-vita” in esame al Senato, che ha aperto, come è giusto, un bel dialogo nel laicato cattolico?".
+
+https://www.avvenire.it/vita/pagine/suicidio-assistito-ci-vuole-una-legge-cerchiamo-insieme-il-massimo-bene-possibile
+
+https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+
+https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+
 # Trattato di Kensington
 18 luglio 2025
 
