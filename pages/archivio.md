@@ -6,6 +6,10 @@
 
 ## 2025
 
+Luglio
+
+- [[2025-07-24-herzl|Capire il sionismo per capire la Palestina]] Una lettura storica e documentata oltre i luoghi comuni e le teorie del complotto
+
 Giugno
 
 - [[2025-06-18-giorgione|I tre filosofi]] non sono tre filosofi; bensì Mosè, Maometto e l'Anticristo. Guardategli le mani
