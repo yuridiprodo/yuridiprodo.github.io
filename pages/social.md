@@ -13,7 +13,7 @@ https://www.iltimone.org/news-timone/tutta-colpa-del-caldo-cadono-le-insegne-cal
 # Silere Non Possum e Giampiero
 24 luglio 2025
 
-Il vescovo della diocesi della mia città e il parroco della parrocchia in cui vivo sono al centro di una vicenda clamorosa e dalla quale emergono nuovi lati oscuri ogni giorno che passa. Con amarezza constato che, invece di affrontare la questione con un'azione legale chiara e trasparente, si è preferito diffondere un comunicato stampa che di cattolico ha ben poco, nonostante venga più volte tirato in ballo il Vangelo. Un comunicato che non smentisce le critiche mosse, bensì finisce per alimentare ulteriormente i dubbi.
+Nella mia città natale, vescovo e parroco sono finiti al centro di una clamorosa vicenda dalla quale emergono nuovi lati oscuri ogni giorno che passa. Con amarezza constato che, invece di affrontare la questione con un'azione legale chiara e trasparente, si è preferito diffondere un comunicato stampa che di cattolico ha ben poco, nonostante venga più volte tirato in ballo il Vangelo. Un comunicato che non smentisce le critiche mosse, bensì finisce per alimentare ulteriormente i dubbi.
 
 Tutto il mio sostegno va invece a Cronache Picene e Silere Non Possum, realtà che in un panorama mediatico sempre più dominato dalla propaganda hanno il coraggio di fare giornalismo autentico, ponendo domande scomode e mettendo al centro la ricerca sincera della verità.
 
@@ -26,6 +26,8 @@ https://www.ancoraonline.it/2025/07/23/la-posizione-della-diocesi-di-ascoli-sull
 https://www.cronachepicene.it/2025/07/21/iniziativa-sui-generis-della-diocesi-preti-in-preghiera-nel-centro-dello-scandalo-rupnik/540613/
 
 https://silerenonpossum.com/it/ascoli-piceno-palmieri-cinelli-e-il-vizietto-della-delegittimazione/
+
+P.S. invece, sulle vicende del buon don Francesco Simeone avevo già [[2024-11-19-d-ercole|scritto]] qualcosa anch'io.
 
 # Francesca Albanese
 23 luglio 2025
