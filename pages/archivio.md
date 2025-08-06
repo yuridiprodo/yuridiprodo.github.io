@@ -6,6 +6,10 @@
 
 ## 2025
 
+Agosto
+
+- [[2025-08-06-disforia-di-genere|Il farmaco che cancella l'adolescenza]] Mentre discutiamo di privacy, stiamo legalizzando la castrazione chimica per i minori. La verità sul vuoto spirituale che sta distruggendo una generazione
+
 Luglio
 
 - [[2025-07-24-herzl|Capire il sionismo per capire la Palestina]] Una lettura storica e documentata oltre i luoghi comuni e le teorie del complotto
