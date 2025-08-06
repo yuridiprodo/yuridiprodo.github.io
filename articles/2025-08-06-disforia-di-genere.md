@@ -16,8 +16,8 @@ Quando togli Dio dall'equazione, l'essere umano non smette di cercare significat
 
 La fede offriva risposte alle domande esistenziali dell'adolescenza: "Chi sono? Perché esisto? Qual è il mio posto nel mondo?". Oggi queste domande trovano risposta in influencer che dicono: "Forse sei [nato nel corpo sbagliato](https://www.psicolinea.it/nascere-nel-corpo-sbagliato-consulenza-online/)".
 
-Il disagio giovanile è reale e va affrontato. Ma la soluzione non è medicalizzare ogni incertezza. Cominciamo piuttosto col darci il tempo di cui abbiamo bisogno, perché i numeri parlano chiaro: la maggior parte dei minori con disforia, la supera naturalmente dopo la pubertà.
+Questo disagio giovanile purtroppo è reale e va perciò affrontato. Ma la soluzione non è medicalizzare ogni incertezza. Cominciamo piuttosto col darci il tempo di cui abbiamo bisogno, perché i numeri parlano chiaro: la maggior parte dei minori con disforia, la supera naturalmente dopo la pubertà.
 
-Servono invece ascolto, protezione, dialogo. Abbiamo bisogno di famiglie unite e di valori solidi come antidoto alla confusione. Non fermiamoci ai titoli dei giornali, ma  piuttosto approfondiamo con la lettura degli studi scientifici. Non mettiamo in mano il cellulare con leggerezza: monitoriamo invece cosa consumano i nostri figli online.
+Aggiungiamo poi ascolto, protezione, dialogo. Abbiamo bisogno di famiglie unite e di valori solidi come antidoto alla confusione. Non fermiamoci ai titoli dei giornali, ma  piuttosto approfondiamo con la lettura degli studi scientifici. Non mettiamo in mano il cellulare con leggerezza: monitoriamo invece cosa consumano i nostri figli online.
 
 Non si tratta di essere progressisti o conservatori. Si tratta di proteggere una generazione di bambini da decisioni irreversibili e prese nell'età più vulnerabile della loro vita. Prima che sia troppo tardi.
