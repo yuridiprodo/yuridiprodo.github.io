@@ -6,7 +6,7 @@
 
 Mentre ci distraiamo con [polemiche sulla "schedatura"](https://www.repubblica.it/cronaca/2025/08/05/news/disforia_di_genere_protesta_disegno_di_legge-424773247/), stiamo ignorando l'elefante nella stanza: [questo disegno di legge](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n138/29421) normalizza l'uso di farmaci potenti su minori che non possono nemmeno scegliere cosa guardare al cinema senza un adulto.
 
-Domandiamoci: permettereste a vostro figlio di 14 anni di farsi un tatuaggio sul viso? Di abbandonare la scuola? Di sposarsi? No, perché sappiamo che il cervello dell'adolescente non è completamente sviluppato. Eppure stiamo considerando normale permettergli di alterare permanentemente il proprio sviluppo fisico con farmaci i cui effetti a lungo termine includono sterilità, osteoporosi e problemi cardiaci.
+Domandiamoci: permetteremmo a nostro figlio di 14 anni di farsi un tatuaggio sul viso? Di abbandonare la scuola? Di sposarsi? No, perché sappiamo che il cervello dell'adolescente non è completamente sviluppato. Eppure stiamo considerando normale permettergli di alterare permanentemente il proprio sviluppo fisico con farmaci i cui effetti a lungo termine includono sterilità, osteoporosi e problemi cardiaci.
 
 I bloccanti della pubertà non sono caramelle. Sono gli stessi farmaci usati per la castrazione chimica. In Svezia, Finlandia e Regno Unito, dopo anni di "sperimentazione", [stanno facendo marcia indietro](https://www.liberoquotidiano.it/news/esteri/41150319/retromarcia-globale-anche-regno-unito-vieta-farmaci-bloccano-puberta/). Noi invece acceleriamo.
 
