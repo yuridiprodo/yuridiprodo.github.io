@@ -14,7 +14,7 @@ Non è un caso che [l'esplosione](https://pubmed.ncbi.nlm.nih.gov/39266896/) del
 
 Quando togli Dio dall'equazione, l'essere umano non smette di cercare significato. Semplicemente lo cerca altrove. E i nostri ragazzi lo stanno cercando nell'ideologia gender, nei like sui social, nell'appartenenza a "comunità" virtuali che promettono identità istantanee.
 
-La fede offriva risposte alle domande esistenziali dell'adolescenza: "Chi sono? Perché esisto? Qual è il mio posto nel mondo?". Oggi queste domande trovano risposta in influencer che dicono: "Forse sei [nato nel corpo sbagliato](https://www.psicolinea.it/nascere-nel-corpo-sbagliato-consulenza-online/)".
+La fede offre risposte alle domande esistenziali dell'adolescenza: "Chi sono? Perché esisto? Qual è il mio posto nel mondo?". Oggi invece queste domande trovano risposta negli influencer che dicono: "Forse sei [nato nel corpo sbagliato](https://www.psicolinea.it/nascere-nel-corpo-sbagliato-consulenza-online/)".
 
 Questo disagio giovanile purtroppo è reale e va perciò affrontato. Ma la soluzione non è medicalizzare ogni incertezza. Cominciamo piuttosto col darci il tempo di cui abbiamo bisogno, perché i numeri parlano chiaro: la maggior parte dei minori con disforia, la supera naturalmente dopo la pubertà.
 
