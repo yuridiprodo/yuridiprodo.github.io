@@ -9,7 +9,7 @@ Martedì, durante il suo ultimo evento, Apple ha mandato in onda un filmato che,
 Ve lo metto [qui sotto](https://youtu.be/H3KnMyojEQU?t=826): la parte che mi interessa commentare inizia intorno al minuto 13:45 e termina al minuto 17:00.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/https://youtu.be/H3KnMyojEQU?t=826" 
+  <iframe src="https://www.youtube.com/embed/H3KnMyojEQU?t=826" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           allowfullscreen></iframe>
