@@ -1,8 +1,8 @@
 Le ultime cose di cui vi ho parlato:
 
-- [[2025-08-06-disforia-di-genere|Il farmaco che cancella l'adolescenza]] Mentre discutiamo di privacy, stiamo legalizzando la castrazione chimica per i minori. La verità sul vuoto spirituale che sta distruggendo una generazione
+- [[2025-09-13-apple-watch-vende-paura|Apple non vende orologi. Cavalca paure]] L'azienda si presenta come il salvatore. Ma se in realtà fosse parte del problema?
 
-- [[2025-06-18-giorgione|I tre filosofi]] non sono tre filosofi; bensì Mosè, Maometto e l'Anticristo. Guardategli le mani
+- [[2025-08-06-disforia-di-genere|Il farmaco che cancella l'adolescenza]] Mentre discutiamo di privacy, stiamo legalizzando la castrazione chimica per i minori. La verità sul vuoto spirituale che sta distruggendo una generazione
 
 - [[2025-06-06-banalita-del-male|Eseguiva solo gli ordini, ovvero la banalità del male]] L'indifferenza verso le sofferenze altrui e la passività di fronte all'ingiustizia sono condizioni che permettono al male di manifestarsi nella società: la voce di Hannah Arendt
 

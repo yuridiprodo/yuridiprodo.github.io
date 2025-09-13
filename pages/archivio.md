@@ -6,6 +6,10 @@
 
 ## 2025
 
+Settembre
+
+- [[2025-09-13-apple-watch-vende-paura|Apple non vende orologi. Cavalca paure]] L'azienda si presenta come il salvatore. Ma se in realtà fosse parte del problema?
+
 Agosto
 
 - [[2025-08-06-disforia-di-genere|Il farmaco che cancella l'adolescenza]] Mentre discutiamo di privacy, stiamo legalizzando la castrazione chimica per i minori. La verità sul vuoto spirituale che sta distruggendo una generazione
