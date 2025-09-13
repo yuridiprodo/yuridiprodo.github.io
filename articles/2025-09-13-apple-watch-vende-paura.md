@@ -9,13 +9,13 @@ Martedì, durante il suo ultimo evento, Apple ha mandato in onda un filmato che,
 Ve lo metto [qui sotto](https://youtu.be/H3KnMyojEQU?t=826): la parte che mi interessa commentare inizia intorno al minuto 13:45 e termina al minuto 17:00.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/H3KnMyojEQU?t=826" 
+  <iframe src="https://www.youtube.com/embed/H3KnMyojEQU" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" 
           allowfullscreen></iframe>
 </div>
 
-Se non potete o volete vederlo, riassumo: uno spiega che stava saltando alla corda e all'improvviso le gambe hanno ceduto: era un ictus. L'orologio ha chiamato i soccorsi. Un'altra persona, nel sonno, viene svegliata da vibrazioni al polso: 172 battiti a riposo, saturazione all'88%. Polmone collassato. Un altro perde i sensi in macchina, va fuori strada e si schianta contro una casa: anche qui è l'orologio a chiamare i soccorsi. Poi c'è chi in montagna perde il telefono in mezzo a una bufera di neve e riesce a salvarsi solo grazie all'Apple Watch, che fa arrivare un elicottero.
+Uno spiega che stava saltando alla corda e all'improvviso le gambe hanno ceduto: era un ictus. L'orologio ha chiamato i soccorsi. Un'altra persona, nel sonno, viene svegliata da vibrazioni al polso: 172 battiti a riposo, saturazione all'88%. Polmone collassato. Un altro perde i sensi in macchina, va fuori strada e si schianta contro una casa: anche qui è l'orologio a chiamare i soccorsi. Poi c'è chi in montagna perde il telefono in mezzo a una bufera di neve e riesce a salvarsi solo grazie all'Apple Watch, che fa arrivare un elicottero.
 
 ### Oltre la pubblicità: è condizionamento psicologico di massa
 
