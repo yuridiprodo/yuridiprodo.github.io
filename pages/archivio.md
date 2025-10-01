@@ -6,6 +6,10 @@
 
 ## 2025
 
+Ottobre
+
+- [[2025-10-01-peccato-originale|Alle origini del peccato originale]] La risposta di Investigatore Biblico all'idea che un errore di traduzione abbia cambiato il cristianesimo per 1500 anni
+
 Settembre
 
 - [[2025-09-13-apple-watch-vende-paura|Apple non vende orologi. Cavalca paure]] L'azienda si presenta come il salvatore. Ma se in realtà fosse parte del problema?
