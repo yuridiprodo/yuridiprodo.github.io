@@ -1,8 +1,109 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Dipartimento della Guerra USA
+1 ottobre 2025
+
+"L’era  (https://www.war.gov/News/Transcripts/Transcript/Article/4318689/secretary-of-war-pete-hegseth-addresses-general-and-flag-officers-at-quantico-v/)del Dipartimento della Difesa è finita, benvenuti in quello della Guerra". In una frase il segretario alla Difesa Pete Hegseth ha riportato l'America e il mondo intero al 1800. Perché la Guerra è Pace, diceva (https://yuridiprodo.github.io/#/newsletter/03) Orwell. E la Difesa è Offesa, aggiungo io.
+
+Copincolla: "Good morning and welcome to the War Department because the era of the Department of Defense is over. You see, the motto of my first platoon was those who long for peace must prepare for war. This is, of course, not a new idea. This crowd knows that. [...] From this moment forward, the only mission of the newly restored Department of War is this: warfighting, preparing for war and preparing to win, unrelenting and uncompromising in that pursuit not because we want war, no one here wants war, but it's because we love peace. We love peace for our fellow citizens. They deserve peace, and they rightfully expect us to deliver".
+
+https://www.war.gov/News/Transcripts/Transcript/Article/4318689/secretary-of-war-pete-hegseth-addresses-general-and-flag-officers-at-quantico-v/
+
+Il Dipartimento della guerra degli Stati Uniti d'America era un'articolazione del governo federale degli Stati Uniti nata nel 1789 all'inizio della presidenza di George Washington per essere una struttura di governo dell'Esercito. Fu soppresso nel 1947, quando fu diviso in Dipartimento dell'esercito e Dipartimento dell'aeronautica, che confluirono nel Dipartimento della difesa nel 1949.
+
+https://it.wikipedia.org/wiki/Dipartimento_della_guerra_degli_Stati_Uniti_d%27America
+
+# ID digitale
+30 settembre 2025
+
+Nel momento in cui l’identità ci verrà concessa dall’alto, la nostra unicità smetterà di appartenerci. E a quel punto saremo soltanto ciò che il sistema ci permetterà di essere.
+
+Copincolla: "Lisa Nandy ha dichiarato a “BBC Breakfast” che non si verrà multati se non si avrà un documento d’identità digitale, ma “si avrà un problema se si vuole trovare un nuovo lavoro”. Tutto ciò mi ricorda molto quando ci venne detto che i passaporti vaccinali anti-Covid non sarebbero stati obbligatori, tranne per entrare in un cinema e in un supermercato, viaggiare all’estero, andare a scuola e al lavoro eccetera eccetera. In altre parole, se si vuole partecipare alla normale vita economica e civile, è necessario un documento d’identità digitale. Altrimenti, si può andare volontariamente a morire in un bosco."
+
+https://www.aldomariavalli.it/2025/09/27/lettera-d-a-londra-controllo-totale-e-liberta-razionata-dallo-stato-il-grande-fratello-e-qui/
+
+# schiavi dell'AI
+20 settembre 2025
+
+Ciò che è stato costruito attraverso la pubblicità, il cinema, i cartoni animati, i giornali, e successivamente affinato dai social media e dagli smartphone (come avevo scritto in precedenza (https://yuridiprodo.github.io/#/articles/2023-12-28-persuasori-occulti)), sta per essere ultimato grazie all'intelligenza artificiale: il compimento perfetto dell'esercizio del potere.
+
+Copincolla: "Una tecnologia nata per liberare l’umanità dai vincoli materiali e temporali finisce per creare nuove forme di controllo psicologico. L’intelligenza artificiale promette di esaudire ogni desiderio, ma il prezzo di questa promessa è la rinuncia alla libertà di scegliere autonomamente cosa desiderare e quando. Le generazioni future non avranno più la possibilità di rispondere personalmente alle domande fondamentali dell’esistenza: come crescere, come trovare il proprio posto nella vita, cosa trasmettere ai propri figli. Sapranno solo leggere le risposte".
+
+https://www.macitynet.it/la-generazione-dei-desideri-esauditi-e-il-senso-di-colpa-digitale/
+
+# traduzione automatica con sincronizzazione labiale
+22 agosto 2025
+
+Più accessibilità, più contenuti globali, meno barriere linguistiche. Eppure, dietro questa "magia tecnologica" si nasconde un rischio profondo: l’illusione di autenticità. Perché quando un video appare perfettamente sincronizzato, con parole che sembrano dette proprio da chi è in scena, siamo naturalmente portati a fidarci. Ma se il messaggio è stato tradotto, interpretato o addirittura manipolato da un algoritmo, quanto resta della verità originale?
+
+Una traduzione anche solo leggermente fuorviante può alterare la percezione pubblica. E quando la manipolazione è invisibile, il confine tra realtà e costruzione si fa pericolosamente sottile. Anche perché le AI non sono neutre: sono sviluppate da aziende private, con logiche commerciali, e impattano direttamente su ciò che vediamo e crediamo.
+
+Ad aprile vi avevo parlato dei cloni digitali (https://yuridiprodo.github.io/#/articles/2025-04-15-clone-digitale), su Macitynet approfondisco l'argomento nell'articolo che annuncia l'arrivo di queste tecnologie su Facebook e Instagram
+https://www.macitynet.it/doppiaggio-ai-reels-instagram-facebook
+
+Copincolla: "Sebbene queste funzionalità aprano nuove opportunità per la diffusione dei contenuti a livello globale, è importante considerare anche le implicazioni legate alla veridicità delle informazioni veicolate tramite AI. La possibilità di tradurre e sincronizzare il labiale in modo realistico rende infatti più difficile per lo spettatore verificare se le parole pronunciate nel video corrispondano davvero al messaggio originale. In scenari delicati – ad esempio, dichiarazioni ufficiali da parte di esponenti politici durante una crisi – l’uso improprio di queste tecnologie potrebbe alterare la percezione della realtà, generando confusione o allarmismo. Una traduzione modificata, anche solo per errore o interpretazione imprecisa, accompagnata da un perfetto labiale, potrebbe indurre il pubblico a credere in affermazioni mai fatte."
+
+# la cultura della morte
+4 agosto 2025
+
+La vera civiltà non dovrebbe dare il permesso di morire, ma un motivo per restare. Oggi in nome della libertà stiamo celebrando la resa. E lo chiamiamo progresso.
+
+Copincolla: "Mentre si finge di parlare di libertà, si sta normalizzando un’idea — quella che la vita fragile non valga la pena. Che la sofferenza sia da eliminare, non da accompagnare. Che chi è “a carico” della società farebbe bene a sparire. È una forma di eugenetica dolce, mascherata da compassione. Non ci si rende conto che ogni volta che si celebra pubblicamente un suicidio assistito, si invia un messaggio ai depressi, ai malati cronici, ai disabili, agli anziani soli: “Forse anche tu dovresti fare lo stesso”. Il rischio non è teorico: è reale. Lo sappiamo dalla psicologia sociale. L’effetto Werther esiste, e funziona. Ogni suicidio spettacolarizzato porta altri con sé."
+
+https://www.iltimone.org/news-timone/morire-non-e-un-atto-di-coraggio/
+
+# HALO occhiali Smart
+2 agosto 2025
+
+Dietro l’apparenza innocua degli occhiali smart si nasconde un prezzo invisibile: l’erosione della nostra autonomia cognitiva e della nostra privacy. Perché nel momento in cui decidiamo di affidare il nostro passato a una macchina, in realtà stiamo affidando il controllo della realtà a chi custodisce quei dati, minacciando la nostra libertà mentale.
+
+Ne parlo su Macitynet nell'annuncio degli Halo https://www.macitynet.it/halo-occhiali-smart/
+
+Copincolla: "chi controlla quel database? può essere violato? de-anonimizzato? è davvero privato datosi che viene gestito da un’azienda e non dall’utente? Chi ci garantisce che i dati raccolti a un certo punto non vengano analizzati, monetizzati o richiesti da terze parti (come governi o aziende pubblicitarie)? sono domande lecite e per le quali l’azienda fornisce rassicurazioni generiche, parlando di VPN cognitiva e di controlli granulari, ma senza offrire reali garanzie tecniche o giuridiche a lungo termine. E quando si tratta di dati così personali e intimi, la fiducia da sola non può bastare. Gli occhiali registrano costantemente ciò che vediamo e sentiamo, costruendo una memoria esterna che si sostituisce progressivamente a quella biologica. Non servirà più ricordare, basterà cercare. Ma a quel punto, che valore avranno ancora i nostri ricordi? E non è solo una questione personale. Se deleghiamo completamente la conservazione delle informazioni a dispositivi esterni, finiamo anche per perdere il controllo del nostro passato. Perché chi controlla quei dati – e quindi può filtrarli, riscriverli o cancellarli – controlla la nostra percezione della realtà".
+
+# massoneria Ascoli Piceno
+1 agosto 2025
+
+I frati hanno semplicemente difeso la piazza della mia città da contaminazioni simboliche travestite da bellezza. Chi grida alla censura per difendere un'opera equivoca, in fondo non difende l'arte, bensì il diritto di insinuare senza assumersene la responsabilità. La squadra, il compasso (https://yuridiprodo.github.io/#/articles/2025-06-18-giorgione), l’occhio, la porta: il vero scandalo non è toglierli da una piazza, ma lasciarli passare come se fossero neutri. Perché se è vero che provengono da epoche antiche, oggi parlano un linguaggio preciso. E fingere di non riconoscerlo è disonestà culturale.
+
+Copincolla: "L’opera dell’artista Lavinio Velenosi sarà esposta ad Acquasanta dopo la controversa rimozione avvenuta ad Ascoli in occasione della manifestazione ‘Travertino DiVino’. Poco dopo il posizionamento, si è avvicinato un frate proprio davanti alla chiesa di San Francesco. In modo piuttosto deciso mi ha detto che l’opera doveva essere rimossa immediatamente perché, a suo dire, conteneva dei simboli massonici. Nel farlo mi ha anche avvertito che, secondo lui, una cosa del genere in città avrebbe potuto ‘creare un bel casino’. In realtà l’opera ha elementi simbolici, come tante opere d’arte, ma non c’è alcun riferimento diretto o intenzionale alla massoneria. Il senso era artistico, non ideologico".
+
+https://www.ilrestodelcarlino.it/ascoli/cronaca/lopera-massonica-di-velenosi-nella-ee7811a9
+
+https://www.ilrestodelcarlino.it/ascoli/cronaca/lopera-nel-mirino-segni-massonici-d9056fa2
+
+# la verità sul caldo
+31 luglio 2025
+
+Selezionare i dati in base all'emozione climatica del momento è disinformazione travestita da allarme. Non è la Terra a ribellarsi all’uomo: è l'uomo che, ribellandosi a Dio, perde l’armonia con la Terra stessa.
+
+Copincolla: "Ammesso che i cambiamenti climatici siano in corso, ci si deve chiedere: sono causati dall’uomo o dalla natura? E, in tal caso, in che misura? Una serie di dati scientifici dimostrano come, ai nostri giorni, si muoia più per il freddo che per il caldo. Secondo le statistiche, infatti, i decessi per freddo superano di 9 a 1 quelli per caldo, e le temperature più elevate starebbero attualmente riducendo il numero totale di morti. Luigi Mariani, docente di agrometeorologia, sulla base di studi scientifici recenti, afferma che a livello globale, tra il 2000 e il 2019, il 91% dei decessi dovuti a temperature estreme è stato provocato dal freddo e solo il 9% dal caldo. Questa conclusione non è nuova: già dieci anni fa, una ricerca internazionale pubblicata sulla prestigiosa rivista The Lancet giungeva alle stesse considerazioni, basandosi sull’analisi di 74 milioni di decessi in 12 diversi Paesi. Quando i media enfatizzano solo le morti per caldo, offrono una visione distorta della realtà".
+
+https://robertodemattei.substack.com/p/leone-xiv-segue-lideologia-green
+
+# allarme ChatGPT come insegnante
+30 luglio 2025
+
+Come ogni strumento potente richiede trasparenza, consapevolezza e vigilanza critica, per non diventare l’ennesimo algoritmo che decide per noi cosa sapere e come pensarlo.
+
+ChatGPT diventa tutor per gli studenti, con Study Mode vuole insegnare a pensare | il mio articolo per Macitynet https://www.macitynet.it/chatgpt-study-mode/
+
+Copincolla: "Come già avvenuto in un distretto scolastico USA, dove ChatGPT è stato utilizzato per censurare alcuni libri, anche Study Mode – per quanto sviluppato con buone intenzioni – potrebbe trasformarsi in uno strumento di controllo dell’educazione. Se usato in modo acritico o centralizzato, il rischio infatti è che l’AI diventi un veicolo per plasmare intere generazioni con contenuti costruiti ad hoc, seguendo gli interessi culturali o politici del momento. Oggi si riscrive un libro di testo, domani si potrebbe riscrivere l’intero percorso educativo".
+
+# Pizzaballa
+28 luglio 2025
+
+Quando la guerra diventa routine e la pietà eccezione, allora il silenzio non è più neutrale: è complice. Chiamare "difesa" l'oppressione sistematica è l'ultimo rifugio della propaganda.
+
+Copincolla: "Uomini che resistono al sole per ore nella speranza di un semplice pasto. È un'umiliazione difficile da sopportare quando la si vede con i propri occhi. È moralmente inaccettabile e ingiustificabile. È ora di porre fine a questa assurdità, di porre fine alla guerra e di mettere al primo posto il bene comune delle persone. Sosteniamo quindi l'opera di tutti gli attori umanitari che stanno rischiando tutto per portare la vita in questo mare di devastazione umana. Non può esserci futuro basato sulla prigionia, lo sfollamento dei palestinesi o sulla vendetta. Chiediamo il rilascio di tutti coloro che sono stati privati della libertà, il ritorno dei dispersi e degli ostaggi e la guarigione delle famiglie che da tempo soffrono da tutte le parti. Non siamo contro Israele, non siamo contro il popolo ebraico, ma siamo contrari all'attuale politica a Gaza".
+
+https://lpj.org/it/news/cardinal-pizzaballas-speech
+
+https://stream24.ilsole24ore.com/video/mondo/gaza-pizzaballa-e-teofilo-silenzio-e-tradimento-coscienza/AH3sBsqB
+
 # Tutta colpa del caldo
-25 luglio 2025
+27 luglio 2025
 
 A quanto pare l'ingegneria sociale procede a gonfie vele.
 
