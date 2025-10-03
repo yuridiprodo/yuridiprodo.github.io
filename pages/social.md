@@ -4,7 +4,7 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 # Dipartimento della Guerra USA
 1 ottobre 2025
 
-"L’era  (https://www.war.gov/News/Transcripts/Transcript/Article/4318689/secretary-of-war-pete-hegseth-addresses-general-and-flag-officers-at-quantico-v/)del Dipartimento della Difesa è finita, benvenuti in quello della Guerra". In una frase il segretario alla Difesa Pete Hegseth ha riportato l'America e il mondo intero al 1800. Perché la Guerra è Pace, diceva (https://yuridiprodo.github.io/#/newsletter/03) Orwell. E la Difesa è Offesa, aggiungo io.
+"L’era del Dipartimento della Difesa è finita, benvenuti in quello della Guerra". In una frase il segretario alla Difesa Pete Hegseth ha riportato l'America e il mondo intero al 1800. Perché la Guerra è Pace, [diceva](https://yuridiprodo.github.io/#/newsletter/03) Orwell. E la Difesa è Offesa, aggiungo io.
 
 Copincolla: "Good morning and welcome to the War Department because the era of the Department of Defense is over. You see, the motto of my first platoon was those who long for peace must prepare for war. This is, of course, not a new idea. This crowd knows that. [...] From this moment forward, the only mission of the newly restored Department of War is this: warfighting, preparing for war and preparing to win, unrelenting and uncompromising in that pursuit not because we want war, no one here wants war, but it's because we love peace. We love peace for our fellow citizens. They deserve peace, and they rightfully expect us to deliver".
 
@@ -26,7 +26,7 @@ https://www.aldomariavalli.it/2025/09/27/lettera-d-a-londra-controllo-totale-e-l
 # schiavi dell'AI
 20 settembre 2025
 
-Ciò che è stato costruito attraverso la pubblicità, il cinema, i cartoni animati, i giornali, e successivamente affinato dai social media e dagli smartphone (come avevo scritto in precedenza (https://yuridiprodo.github.io/#/articles/2023-12-28-persuasori-occulti)), sta per essere ultimato grazie all'intelligenza artificiale: il compimento perfetto dell'esercizio del potere.
+Ciò che è stato costruito attraverso la pubblicità, il cinema, i cartoni animati, i giornali, e successivamente affinato dai social media e dagli smartphone ([come avevo scritto in precedenza](https://yuridiprodo.github.io/#/articles/2023-12-28-persuasori-occulti)), sta per essere ultimato grazie all'intelligenza artificiale: il compimento perfetto dell'esercizio del potere.
 
 Copincolla: "Una tecnologia nata per liberare l’umanità dai vincoli materiali e temporali finisce per creare nuove forme di controllo psicologico. L’intelligenza artificiale promette di esaudire ogni desiderio, ma il prezzo di questa promessa è la rinuncia alla libertà di scegliere autonomamente cosa desiderare e quando. Le generazioni future non avranno più la possibilità di rispondere personalmente alle domande fondamentali dell’esistenza: come crescere, come trovare il proprio posto nella vita, cosa trasmettere ai propri figli. Sapranno solo leggere le risposte".
 
@@ -39,7 +39,7 @@ Più accessibilità, più contenuti globali, meno barriere linguistiche. Eppure,
 
 Una traduzione anche solo leggermente fuorviante può alterare la percezione pubblica. E quando la manipolazione è invisibile, il confine tra realtà e costruzione si fa pericolosamente sottile. Anche perché le AI non sono neutre: sono sviluppate da aziende private, con logiche commerciali, e impattano direttamente su ciò che vediamo e crediamo.
 
-Ad aprile vi avevo parlato dei cloni digitali (https://yuridiprodo.github.io/#/articles/2025-04-15-clone-digitale), su Macitynet approfondisco l'argomento nell'articolo che annuncia l'arrivo di queste tecnologie su Facebook e Instagram
+Ad aprile [vi avevo parlato dei cloni digitali](https://yuridiprodo.github.io/#/articles/2025-04-15-clone-digitale), su Macitynet approfondisco l'argomento nell'articolo che annuncia l'arrivo di queste tecnologie su Facebook e Instagram
 https://www.macitynet.it/doppiaggio-ai-reels-instagram-facebook
 
 Copincolla: "Sebbene queste funzionalità aprano nuove opportunità per la diffusione dei contenuti a livello globale, è importante considerare anche le implicazioni legate alla veridicità delle informazioni veicolate tramite AI. La possibilità di tradurre e sincronizzare il labiale in modo realistico rende infatti più difficile per lo spettatore verificare se le parole pronunciate nel video corrispondano davvero al messaggio originale. In scenari delicati – ad esempio, dichiarazioni ufficiali da parte di esponenti politici durante una crisi – l’uso improprio di queste tecnologie potrebbe alterare la percezione della realtà, generando confusione o allarmismo. Una traduzione modificata, anche solo per errore o interpretazione imprecisa, accompagnata da un perfetto labiale, potrebbe indurre il pubblico a credere in affermazioni mai fatte."
@@ -65,7 +65,7 @@ Copincolla: "chi controlla quel database? può essere violato? de-anonimizzato? 
 # massoneria Ascoli Piceno
 1 agosto 2025
 
-I frati hanno semplicemente difeso la piazza della mia città da contaminazioni simboliche travestite da bellezza. Chi grida alla censura per difendere un'opera equivoca, in fondo non difende l'arte, bensì il diritto di insinuare senza assumersene la responsabilità. La squadra, il compasso (https://yuridiprodo.github.io/#/articles/2025-06-18-giorgione), l’occhio, la porta: il vero scandalo non è toglierli da una piazza, ma lasciarli passare come se fossero neutri. Perché se è vero che provengono da epoche antiche, oggi parlano un linguaggio preciso. E fingere di non riconoscerlo è disonestà culturale.
+I frati hanno semplicemente difeso la piazza della mia città da contaminazioni simboliche travestite da bellezza. Chi grida alla censura per difendere un'opera equivoca, in fondo non difende l'arte, bensì il diritto di insinuare senza assumersene la responsabilità. [La squadra, il compasso](https://yuridiprodo.github.io/#/articles/2025-06-18-giorgione), l’occhio, la porta: il vero scandalo non è toglierli da una piazza, ma lasciarli passare come se fossero neutri. Perché se è vero che provengono da epoche antiche, oggi parlano un linguaggio preciso. E fingere di non riconoscerlo è disonestà culturale.
 
 Copincolla: "L’opera dell’artista Lavinio Velenosi sarà esposta ad Acquasanta dopo la controversa rimozione avvenuta ad Ascoli in occasione della manifestazione ‘Travertino DiVino’. Poco dopo il posizionamento, si è avvicinato un frate proprio davanti alla chiesa di San Francesco. In modo piuttosto deciso mi ha detto che l’opera doveva essere rimossa immediatamente perché, a suo dire, conteneva dei simboli massonici. Nel farlo mi ha anche avvertito che, secondo lui, una cosa del genere in città avrebbe potuto ‘creare un bel casino’. In realtà l’opera ha elementi simbolici, come tante opere d’arte, ma non c’è alcun riferimento diretto o intenzionale alla massoneria. Il senso era artistico, non ideologico".
 
