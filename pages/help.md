@@ -20,7 +20,7 @@ L'azienda infatti mi invia **1 € per ogni 100 € di spesa**.
 
 Chiaramente non devi raggiungere questa cifra perché la società fraziona i ricavi, perciò se spendi 10€ mi saranno inviati 10 centesimi; se spendi 1€ io riceverò 1 centesimo.
 
-E ovviamente per te non ci sono sovrapprezzi a tuo carico: semplicemente, Amazon detrae gli spicci dell'affiliazione dalla normale spesa nel carrello.
+E ovviamente non ci sono sovrapprezzi a tuo carico: semplicemente, Amazon detrae gli spicci dell'affiliazione dalla normale spesa nel carrello.
 
 Se accedi ad Amazon tramite i segnalibri del tuo browser, sostituisci il link con questo:
 
