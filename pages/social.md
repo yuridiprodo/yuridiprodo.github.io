@@ -1,6 +1,138 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
 ---
+# Papa, Arendt e AI nelle mani di pochi
+12 ottobre 2025
+
+Il Papa ha citato lo stesso passo della Arendt che vi segnalai a giugno ([qui](https://yuridiprodo.github.io/#/articles/2025-06-06-banalita-del-male)), ribadendo le stesse cose che vado dicendo da anni. O mi legge, oppure...il Papa sono io.
+
+Ironia a parte, se certe idee vengono riprese da lui, a maggior ragione forse non siamo così lontani dalla verità.
+
+Copincolla: "Gli algoritmi generano contenuti e dati in una dimensione e con una velocità che non si era mai vista prima. [Ma chi li governa?](http://yuridiprodo.github.io/#/articles/2024-06-25-google-ai-overviews) L’intelligenza artificiale sta cambiando il modo con cui ci informiamo e comunichiamo, ma chi la guida e a quali fini? Dobbiamo vigilare perché la tecnologia non si sostituisca all’uomo, e perché l’informazione e gli algoritmi che oggi la governano non siano nelle mani di pochi.
+
+Il mondo ha bisogno di un’informazione libera, rigorosa, obiettiva. Vale la pena di ricordare, in questa circostanza, il monito di Hannah Arendt per la quale «il suddito ideale del regime totalitario non è il nazista convinto oppure il comunista convinto, ma la persona per la quale non c’è più differenza tra realtà e finzione, tra il vero e il falso» (Le origini del totalitarismo).
+
+L’informazione non sia inquinata da altri fini, contrari alla verità e alla dignità della persona. L’informazione libera è un pilastro che sorregge la costruzione delle nostre società e, per questo, siamo chiamati a difenderla e garantirla. 
+
+Voi [giornalisti] potete essere un argine a chi, attraverso l’arte antica della menzogna, punta a creare contrapposizioni per comandare dividendo; un baluardo di civiltà rispetto alle sabbie mobili dell’approssimazione e della post-verità.
+
+L’economia della comunicazione non può e non deve separare il proprio destino dalla condivisione della verità. Mi raccomando: non svendete mai la vostra autorevolezza!"
+
+https://www.vatican.va/content/leo-xiv/it/speeches/2025/october/documents/20251009-minds-international.html
+
+# contro il suicidio assistito
+11 ottobre 2025
+
+Siccome il Parlamento italiano si accinge a discutere una normativa sul suicidio assistito, in questo periodo i giornali insistono nel dirci che legalizzarlo sarebbe cosa buona e giusta. E per convincerci usano le storie di persone disperate che vedono nella morte la loro unica via per la liberazione da ogni sofferenza. Così il pensiero viene strategicamente dirottato verso un'idea che porta all'indifferenza, perché allude al fatto che riguardi soltanto casi estremi, che sia roba per disabili e basta. Invece ci riguarda tutti.
+
+Copincolla: "cosa accade in un paese in cui viene fatta una legge in merito? Significa che la possibilità di intervenire attivamente dando la morte a qualcuno sia contemplato nel nostro orizzonte, e questo cambia la mentalità collettiva, in un modo potentissimo. La legge cambia la cultura, il modo di pensare, con conseguenze profonde e incancellabili. Stavo per dire inimmaginabili, ma direi che si possono immaginare benissimo, basta vedere cosa è successo nei paesi in cui sono state approvate leggi analoghe a quella che chiedono i mortiferi radicali. Come in Belgio dove ammazzano anche i bambini. In Canada 1 morto su 20 viene ucciso dallo stato. La legge sul suicidio assistito fa più morti di Alzheimer e diabete messi insieme."
+
+https://costanzamiriano.com/2025/10/06/suicidio-assistito-non-cadiamo-nella-trappola-del-male-minore/
+
+# Durov e la fine della libertà
+10 ottobre 2025
+
+La libertà non muore con un boato, ma tra le clausole di un aggiornamento e l’indifferenza di una generazione distratta. È quel che negli ultimi anni ho [scritto](http://yuridiprodo.github.io/#/articles/2025-04-10-indifferenza) in tutti i modi tra queste pagine. E ora lo dice anche Durov, il fondatore di Telegram (ovvero l'app che state usando per leggere questo messaggio).
+
+Copincolla: "Sto per compiere 41 anni, ma non ho voglia di festeggiare.
+
+La nostra generazione sta esaurendo il tempo a disposizione per salvare quell’Internet libero che i nostri padri avevano costruito per noi.
+
+Ciò che un tempo rappresentava la promessa di uno scambio libero di informazioni si sta trasformando nel più potente strumento di controllo mai esistito.
+
+Paesi un tempo liberi stanno adottando misure distopiche: identità digitali (Regno Unito), controlli online sull’età (Australia) e la scansione di massa dei messaggi privati (Unione Europea).
+
+In Germania si perseguita chi osa criticare le autorità online. Nel Regno Unito migliaia di persone finiscono in carcere per un tweet. In Francia si aprono indagini penali contro i leader del settore tecnologico che difendono la libertà e la privacy.
+
+Un mondo oscuro e distopico sta avanzando velocemente, e noi stiamo dormendo. Rischiamo di essere ricordati come l’ultima generazione ad aver avuto delle libertà... e ad aver permesso che le venissero tolte.
+
+Ci hanno mentito.
+
+Ci hanno fatto credere che la lotta più importante della nostra epoca fosse distruggere tutto ciò che i nostri antenati ci avevano lasciato: tradizione, privacy, sovranità, libero mercato e libertà di espressione.
+
+Tradendo l’eredità dei nostri antenati, ci siamo incamminati verso l’autodistruzione: morale, intellettuale, economica e, alla fine, biologica.
+
+Quindi no, oggi non ho proprio nulla da festeggiare. Il tempo sta per scadere. Il nostro tempo sta per scadere."
+
+https://t.me/durov/452
+
+# il mondo nelle mani di pochi
+9 ottobre 2025
+
+Vi consiglio di iscrivervi alla newsletter di Marisandra (che molti già conoscono dalla mia [recensione](https://t.me/yuridiprodo/359) del suo ultimo libro) perché puntualmente propone analisi documentate e puntuali su temi di attualità che non troverete mai in TV.
+
+Per dire, nel numero di fine settembre ha ricostruito con precisione i legami economici e politici tra big tech, industria bellica e potere fossile, a partire dagli sponsor dell’Italian Tech Week: nomi, numeri e responsabilità che mostrano come il potere economico e decisionale sia concentrato nelle mani di pochi attori, spesso lontani da ogni controllo democratico.
+
+Copincolla: "Un intreccio che vale decine di miliardi di euro e che mostra in modo lampante come l’innovazione tecnologica si intrecci al potere fossile e a quello dell’industria bellica, con interessi diretti del nostro Paese. Per questo i punti nevralgici sono semplici ma allo stesso tempo i loro nodi complicatissimi da sciogliere: basta finanziare la guerra (i dati sui finanziamenti AWS a Israele parlano da soli), basta normalizzare il riarmo con titoli che lo raccontano come inevitabile, quando inevitabile non è. Basta deciderlo. Basta ascoltare le piazze."
+
+https://binarionlife.substack.com/p/frugalita
+
+# il Taser uccide
+8 ottobre 2025
+
+Alcuni giorni fa a Napoli un uomo è morto dopo essere stato colpito col taser dalla polizia. È il quinto a morire così negli ultimi quattro mesi. Il rischio è reale ed era già stato chiarito nel 2018. Metto qui sotto il promemoria: anche perché con tutte le [miocarditi e pericarditi](https://yuridiprodo.github.io/#/articles/2023-12-15-fda-slide-vaccini) "magicamente" comparse negli ultimi anni, la legge va urgentemente rivista. E questo strumento andrebbe completamente bandito.
+
+Copincolla: "il prof. Maurizio Santomauro, cardiologo del policlinico Federico II di Napoli e Presidente del GIEC (Gruppo Intervento Emergenze Cardiologiche) mette in guardia sul rischio di decesso correlato all’uso della pistola elettrica Taser che provoca un effetto contrario a quello del defibrillatore semiautomatico (apparecchio salvavita che eroga corrente elettrica applicata con 2 elettrodi sul torace). Infatti, anche se di intensità inferiore, la corrente elettrica erogata per immobilizzare una persona potrebbe involontariamente causare un’aritmia e quindi provocare un decesso non voluto da parte di chi la usa. Santomauro evidenzia che dal 2001, data di acquisizione dal Taser nel Nord America, i morti sono stati centinaia. Può essere letale soprattutto per quegli individui che già hanno patologie pregresse, aspetto che chi fa uso di un taser può non conoscere. Persone anche senza problemi cardiaci possono perdere la vita se colpiti da questa arma. La pistola elettrica Taser (immobilizzatore elettrico) provoca un danno muscolare e quindi anche al cuore in persone non cardiopatiche. Inoltre potrebbe interferire con alcuni dispositivi medici, tipo il pacemaker o il defibrillatore impiantabile (ICD)."
+
+https://www.giec.it/2018/09/taser-la-pistola-elettrica-che-puo-provocare-la-morte/
+
+# Israeli Colony in Salento
+7 ottobre 2025
+
+Prima la Xylella ha obbligato ad abbattere migliaia di olivi secolari in Puglia. Adesso tutta quella terra vuota fa gola a un'imprenditrice israeliana che intende trasformarla in una "Israeli Colony in Salento", ovvero una colonia per una comunità agricola e turistica autosufficiente dove le famiglie israeliane "possono stabilire case, coltivare il proprio cibo e sviluppare strutture educative e sanitarie condivise". In pratica una comunità chiusa e autosufficiente di cittadini israeliani su suolo italiano.
+
+La stessa cosa starebbe accadendo a Cipro, con l'unica differenza che appena i progetti in Salento sono diventati noti, le relative pagine sono state cancellate (ma restano accessibili tramite l'archivio web: vi metto i link).
+
+il progetto https://web.archive.org/web/20250924120624/https:/www.coral37.com/post/from-stone-walls-to-new-horizons-why-puglia
+
+la società immobiliare Coral 37 https://web.archive.org/web/20250924120624/https:/www.coral37.com/about-5
+
+il caso di Cipro https://greatreporter.com/2025/06/27/israel-is-preparing-a-backyard-in-cyprus-this-cannot-but-sound-the-alarm-for-us/
+
+# Deforestazione
+6 ottobre 2025
+
+Analizzando le immagini satellitari, un gruppo di giornalisti ha potuto constatare come in appena 5 anni in Europa siano stati consumati 9.000 chilometri quadrati di terra. Intere foreste e immensi campi agricoli sono diventati cemento al servizio delle multinazionali. Vi consiglio di dare uno sguardo al sito dell'inchiesta (al solito lo trovate in fondo) perché mai come in questo caso le immagini parlano più delle parole.
+
+Copincolla: "In Grecia, una foresta sulla costa…è diventata un hotel a cinque stelle. Nel Regno Unito, ettari di terreni agricoli…sono diventati un centro Amazon. In Germania, una rigogliosa foresta di pini…è diventata una fabbrica Tesla. Ogni giorno, la nostra natura impoverita si riduce sempre di più. Ogni giorno lo sviluppo immobiliare, turistico e industriale consuma l’equivalente di 600 campi da calcio di suolo. L’Europa sta cambiando colore, da verde a grigio."
+
+https://greentogrey.eu/
+
+# Rowling vs Emma Watson
+3 ottobre 2025
+
+All’ennesima accusa di transfobia, J.K. Rowling rompe il silenzio e lo fa con il suo inconfondibile stile. Chapeau!
+
+Copincolla: "Emma (Watson) ha così poca esperienza della vita che ignora quanto sia ignorante. Non avrà mai bisogno di un rifugio per senzatetto. Non verrà mai messa in un reparto misto di un ospedale pubblico. Il suo "bagno pubblico" è a occupazione singola e con una guardia di sicurezza fuori dalla porta. Ha mai dovuto togliersi i vestiti in uno spogliatoio misto di una piscina comunale? Avrà mai bisogno di un centro statale per vittime di stupro che rifiuta di garantire un servizio esclusivamente femminile? O di condividere una cella con uno stupratore che si identifica come donna in un carcere femminile?"
+
+"Quando le minacce di morte, stupro e tortura contro di me erano al culmine, in un momento in cui le mie misure di sicurezza personale avevano dovuto essere notevolmente rafforzate ed ero costantemente preoccupata per l’incolumità della mia famiglia, Emma ha chiesto a qualcuno di consegnarmi un biglietto scritto di suo pugno, che conteneva questa sola frase: «Mi dispiace tanto per quello che stai passando», nonostante avesse il mio numero di telefono."
+
+"Io non ero multimilionaria a quattordici anni. Ho vissuto in povertà mentre scrivevo il libro che ha reso famosa Emma. Quindi, per esperienza personale, capisco cosa significhi per le donne e le ragazze senza i suoi privilegi la violazione dei diritti delle donne, a cui Emma ha partecipato con tanto entusiasmo. Lei è giustamente libera di non essere d’accordo con me e di esprimere pubblicamente i suoi sentimenti nei miei confronti, ma io ho lo stesso diritto e ho finalmente deciso di esercitarlo."
+
+https://x.com/jk_rowling/status/1972600904185483427
+
+# 5 bugie sulla Flotilla
+3 ottobre 2025
+
+Il potere delle élite non sta nella forza, ma nella nostra frammentazione: [ci confondono, ci oppongono](https://yuridiprodo.github.io/#/articles/2024-02-08-matrix), e poi ci governano. Quello della Flotilla è l'ennesimo esempio di come questo processo vada costantemente a segno, e Matteo l'ha riassunto particolarmente bene.
+
+Copincolla: "L’Italia può consegnare gli aiuti da sola? Falso. Nessun Paese può entrare a Gaza senza il permesso di Israele. Ogni accesso è controllato, ogni camion viene bloccato. Quelle del governo sono falsità smentite dai fatti. I civili a Gaza stanno letteralmente morendo di fame."
+
+"Le acque di Gaza sono territorio israeliano? Falso. Sono acque palestinesi, riconosciute ufficialmente da oltre 150 paesi delle Nazioni Unite. Le navi della Flotilla si muovono in acque internazionali, dove Israele non ha giurisdizione ma ciò nonostante la scorsa notte è intervenuto, violando ancora e per l’ennesima volta il diritto internazionale."
+
+https://t.me/matteogracis/1480
+
+# Supercompanies
+2 ottobre 2025
+
+Il fondatore di Spotify lascia l'azienda dopo quasi vent'anni. Non perché il suo patrimonio netto di 10 miliardi di dollari gli permetterebbe di ritirarsi a vita privata all'età di soli 42 anni. No di certo: si annoierebbe di sicuro. Così invece dice che ha più tempo per dedicarsi a cose che lo stimolano di più, come la creazione di quelle che lui chiama "supercompanies", ovvero aziende che sviluppano nuove tecnologie per "affrontare alcune delle più grandi sfide del nostro tempo".
+
+https://newsroom.spotify.com/2025-09-30/daniel-ek-letter-evolving-how-we-lead/
+
+Qualche idea? a giugno ha investito 600 milioni di Euro in Helsing, una società tedesca che produce droni da combattimento controllati dall'intelligenza artificiale.
+
+https://www.ft.com/content/cdc02d96-13b5-4ca2-aa0b-1fc7568e9fa0
+
 # Dipartimento della Guerra USA
 1 ottobre 2025
 
