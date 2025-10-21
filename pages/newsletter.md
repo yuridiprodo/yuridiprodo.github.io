@@ -13,9 +13,10 @@ Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui
 
 Qui sotto trovate invece una copia delle newsletter che ho già inviato; dalla più alla meno recente.
 
-- [[06|Numero ~06: La lobby dei cristiani e l'IA da ridimensionare]]
-- [[05|Numero ~05: OMS, ovvero Ogni Minuto Sbagliamo. Oppure era Ogni Malanno è Sospetto?]]
-- [[04|Numero ~04: Quelli bravi in orbita, la borsetta da guerra, i giovanotti al conclave]]
-- [[03|Numero ~03: La Seconda Giornata della Memoria, Sapiens³ e struzzi]]
-- [[02|Numero ~02: Ieri Terzani, oggi Barbero, domani IA]]
-- [[01|Numero ~01: Pronti, partenza, via!]]
+- [[07|~07]] giornalismo, Giornalisti e maiuscole invertite
+- [[06|~06]] La lobby dei cristiani e l'IA da ridimensionare
+- [[05|~05]] OMS, ovvero Ogni Minuto Sbagliamo. Oppure era Ogni Malanno è Sospetto?
+- [[04|~04]] Quelli bravi in orbita, la borsetta da guerra, i giovanotti al conclave
+- [[03|~03]] La Seconda Giornata della Memoria, Sapiens³ e struzzi
+- [[02|~02]] Ieri Terzani, oggi Barbero, domani IA
+- [[01|~01]] Pronti, partenza, via!

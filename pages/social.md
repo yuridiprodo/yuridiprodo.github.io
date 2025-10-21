@@ -1,7 +1,39 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
----
-# Papa, Arendt e AI nelle mani di pochi
+# 2025
+
+## la verità su Gaza
+GG MM 2025
+
+Sulla guerra a Gaza, la TV e i giornali ci mostrano soltanto quello che Israele vuole rendere pubblico. Grazie al racconto dell'operatore umanitario Gennario Giudetti possiamo vedere l'altra faccia della medaglia da chi ha vissuto sotto quelle bombe per 9 mesi.
+
+Sintesi: "sulla Striscia tutto ciò che entra ed esce è controllato da Israele.
+
+LA MACCHINA DELLA PROPAGANDA - Le notizie che possono essere pubblicate le scrive Israele: i giornali semplicemente pubblicano i comunicati stampa tradotti. Nessuna intervista ai palestinesi. 62.000 sono i morti certificati: gli effettivi sono almeno 200.000, se non di più, perché sotto le macerie si riesce a recuperare soltanto quelli che rimangono in superficie e le ruspe non possono aiutare a sollevare le macerie altrimenti vengono bombardate.
+
+A COSA SERVONO SCIOPERI E MANIFESTAZIONI - (1) Creano disagio alla città e al paese; (2) ti rendi conto che non sei solo. E siccome la Politica si muove anche con i voti, così facendo metti pressione affinché faccia qualcosa per la Palestina. Sono una valanga che non si può fermare: quando c'è tanta gente che manifesta, la TV non può restare indifferente: è costretta a filmare e a quel punto la verità viene a galla.
+
+È GENOCIDIO - Normalmente in guerra le bombe vengono sganciate senza criteri colpendo civili, case, ma anche il nulla. Qui invece hanno distrutto con precisione chirurgica porti, strade, tubature dell'acqua, fogne, impianti della corrente, università, centri di cultura. È in corso anche un ecocidio perché adesso i terreni agricoli rappresentano soltanto 1,5% della terra coltivabile. E a sorvolare i cieli non c'è solo Israele ma tutte le intelligence del mondo compresi i droni inglesi e americani.
+
+SENZA SCELTA - Ti telefonano e ti dicono "adesso devi collaborare con Israele: vai in quella via, sali su quel palazzo e ci dici se dentro c'è qualcuno di Hamas". Se non rispondi, geolocalizzano il telefono e chiamano una persona vicino a te chiedendole "mi passi tizio". A quel punto se non collabori ti buttano il drone addosso. Se collabori, diventi una loro spia.
+
+GIOCHI DI POTERE - Hanno diviso la terra in settori e ogni giorno spostano la popolazione da una zona all'altra per vedere come reagisce. Oggi sei nel lotto 2? vai nel lotto 10: e tu in poche ore devi smontare la tenda e scappare il più rapidamente possibile.
+
+SULLA TREGUA - la tregua non sarà mai reale finché sarà l'Occidente a decidere sulla Striscia. Tanto più per come è concepita adesso: i palestinesi non siedono al tavolo dei negoziati, il 50% della terra rimane sotto il controllo di Israele, la Cisgiordania non fa parte degli accordi quindi lì continuerà la guerra. Serve l'autodeterminazione dei popoli. 
+
+CARESTIA PROGRAMMATA - Già prima del 7 ottobre Israele controllava il cibo che entrava definendo la quantità di calorie che le persone potevano assumere. Non fanno entrare il cibo nutriente, come il latte in polvere 0-3 per i neonati, o il burro di arachidi perché è una bomba energetica e risolverebbe il problema.
+
+ISRAELE INARRESTABILE - Anche se c'è un mandato di cattura della Corte di Giustizia Internazionale e ONU e Nazioni Unite hanno detto che è in corso un genocidio, Israele ha dalla sua parte gli USA insieme a gran parte di governi occidentali, stampa e colossi economici e commerciali.
+
+ATTACCO DAL LATO POLITICO - Dicono che chi difende Gaza è antisemita. Ma che centra la religione? non è contro gli ebrei, ma contro il governo israeliano. Lo fanno perché con un "sei ProPal" spostano l'attenzione sul lato politico della vicenda, dove riescono a dividere la popolazione. Sanno che se ti affrontassero dal lato umanitario, perderebbero. Se io dico che sono morti 20-30.000 bambini e l'ho visto che ero lì, non puoi dire che non è vero.
+
+L'UNICA SOLUZIONE POSSIBILE - due popoli, due stati (Cisgiordania + Gaza è Palestina) e rispetto delle leggi internazionali.
+
+Il contrario della Guerra non è la Pace, ma il senso di Comunità, perché siamo tutti fratelli."
+
+https://www.youtube.com/watch?v=g1VYJ6koS7Y
+
+## Papa, Arendt e AI nelle mani di pochi
 12 ottobre 2025
 
 Il Papa ha citato lo stesso passo della Arendt che vi segnalai a giugno ([qui](https://yuridiprodo.github.io/#/articles/2025-06-06-banalita-del-male)), ribadendo le stesse cose che vado dicendo da anni. O mi legge, oppure...il Papa sono io.
@@ -20,7 +52,7 @@ L’economia della comunicazione non può e non deve separare il proprio destino
 
 https://www.vatican.va/content/leo-xiv/it/speeches/2025/october/documents/20251009-minds-international.html
 
-# contro il suicidio assistito
+## contro il suicidio assistito
 11 ottobre 2025
 
 Siccome il Parlamento italiano si accinge a discutere una normativa sul suicidio assistito, in questo periodo i giornali insistono nel dirci che legalizzarlo sarebbe cosa buona e giusta. E per convincerci usano le storie di persone disperate che vedono nella morte la loro unica via per la liberazione da ogni sofferenza. Così il pensiero viene strategicamente dirottato verso un'idea che porta all'indifferenza, perché allude al fatto che riguardi soltanto casi estremi, che sia roba per disabili e basta. Invece ci riguarda tutti.
@@ -29,7 +61,7 @@ Copincolla: "cosa accade in un paese in cui viene fatta una legge in merito? Sig
 
 https://costanzamiriano.com/2025/10/06/suicidio-assistito-non-cadiamo-nella-trappola-del-male-minore/
 
-# Durov e la fine della libertà
+## Durov e la fine della libertà
 10 ottobre 2025
 
 La libertà non muore con un boato, ma tra le clausole di un aggiornamento e l’indifferenza di una generazione distratta. È quel che negli ultimi anni ho [scritto](http://yuridiprodo.github.io/#/articles/2025-04-10-indifferenza) in tutti i modi tra queste pagine. E ora lo dice anche Durov, il fondatore di Telegram (ovvero l'app che state usando per leggere questo messaggio).
@@ -56,7 +88,7 @@ Quindi no, oggi non ho proprio nulla da festeggiare. Il tempo sta per scadere. I
 
 https://t.me/durov/452
 
-# il mondo nelle mani di pochi
+## il mondo nelle mani di pochi
 9 ottobre 2025
 
 Vi consiglio di iscrivervi alla newsletter di Marisandra (che molti già conoscono dalla mia [recensione](https://t.me/yuridiprodo/359) del suo ultimo libro) perché puntualmente propone analisi documentate e puntuali su temi di attualità che non troverete mai in TV.
@@ -67,7 +99,7 @@ Copincolla: "Un intreccio che vale decine di miliardi di euro e che mostra in mo
 
 https://binarionlife.substack.com/p/frugalita
 
-# il Taser uccide
+## il Taser uccide
 8 ottobre 2025
 
 Alcuni giorni fa a Napoli un uomo è morto dopo essere stato colpito col taser dalla polizia. È il quinto a morire così negli ultimi quattro mesi. Il rischio è reale ed era già stato chiarito nel 2018. Metto qui sotto il promemoria: anche perché con tutte le [miocarditi e pericarditi](https://yuridiprodo.github.io/#/articles/2023-12-15-fda-slide-vaccini) "magicamente" comparse negli ultimi anni, la legge va urgentemente rivista. E questo strumento andrebbe completamente bandito.
@@ -76,7 +108,7 @@ Copincolla: "il prof. Maurizio Santomauro, cardiologo del policlinico Federico I
 
 https://www.giec.it/2018/09/taser-la-pistola-elettrica-che-puo-provocare-la-morte/
 
-# Israeli Colony in Salento
+## Israeli Colony in Salento
 7 ottobre 2025
 
 Prima la Xylella ha obbligato ad abbattere migliaia di olivi secolari in Puglia. Adesso tutta quella terra vuota fa gola a un'imprenditrice israeliana che intende trasformarla in una "Israeli Colony in Salento", ovvero una colonia per una comunità agricola e turistica autosufficiente dove le famiglie israeliane "possono stabilire case, coltivare il proprio cibo e sviluppare strutture educative e sanitarie condivise". In pratica una comunità chiusa e autosufficiente di cittadini israeliani su suolo italiano.
@@ -89,7 +121,7 @@ la società immobiliare Coral 37 https://web.archive.org/web/20250924120624/http
 
 il caso di Cipro https://greatreporter.com/2025/06/27/israel-is-preparing-a-backyard-in-cyprus-this-cannot-but-sound-the-alarm-for-us/
 
-# Deforestazione
+## Deforestazione
 6 ottobre 2025
 
 Analizzando le immagini satellitari, un gruppo di giornalisti ha potuto constatare come in appena 5 anni in Europa siano stati consumati 9.000 chilometri quadrati di terra. Intere foreste e immensi campi agricoli sono diventati cemento al servizio delle multinazionali. Vi consiglio di dare uno sguardo al sito dell'inchiesta (al solito lo trovate in fondo) perché mai come in questo caso le immagini parlano più delle parole.
@@ -98,7 +130,7 @@ Copincolla: "In Grecia, una foresta sulla costa…è diventata un hotel a cinque
 
 https://greentogrey.eu/
 
-# Rowling vs Emma Watson
+## Rowling vs Emma Watson
 3 ottobre 2025
 
 All’ennesima accusa di transfobia, J.K. Rowling rompe il silenzio e lo fa con il suo inconfondibile stile. Chapeau!
@@ -111,7 +143,7 @@ Copincolla: "Emma (Watson) ha così poca esperienza della vita che ignora quanto
 
 https://x.com/jk_rowling/status/1972600904185483427
 
-# 5 bugie sulla Flotilla
+## 5 bugie sulla Flotilla
 3 ottobre 2025
 
 Il potere delle élite non sta nella forza, ma nella nostra frammentazione: [ci confondono, ci oppongono](https://yuridiprodo.github.io/#/articles/2024-02-08-matrix), e poi ci governano. Quello della Flotilla è l'ennesimo esempio di come questo processo vada costantemente a segno, e Matteo l'ha riassunto particolarmente bene.
@@ -122,7 +154,7 @@ Copincolla: "L’Italia può consegnare gli aiuti da sola? Falso. Nessun Paese p
 
 https://t.me/matteogracis/1480
 
-# Supercompanies
+## Supercompanies
 2 ottobre 2025
 
 Il fondatore di Spotify lascia l'azienda dopo quasi vent'anni. Non perché il suo patrimonio netto di 10 miliardi di dollari gli permetterebbe di ritirarsi a vita privata all'età di soli 42 anni. No di certo: si annoierebbe di sicuro. Così invece dice che ha più tempo per dedicarsi a cose che lo stimolano di più, come la creazione di quelle che lui chiama "supercompanies", ovvero aziende che sviluppano nuove tecnologie per "affrontare alcune delle più grandi sfide del nostro tempo".
@@ -133,7 +165,7 @@ Qualche idea? a giugno ha investito 600 milioni di Euro in Helsing, una società
 
 https://www.ft.com/content/cdc02d96-13b5-4ca2-aa0b-1fc7568e9fa0
 
-# Dipartimento della Guerra USA
+## Dipartimento della Guerra USA
 1 ottobre 2025
 
 "L’era del Dipartimento della Difesa è finita, benvenuti in quello della Guerra". In una frase il segretario alla Difesa Pete Hegseth ha riportato l'America e il mondo intero al 1800. Perché la Guerra è Pace, [diceva](https://yuridiprodo.github.io/#/newsletter/03) Orwell. E la Difesa è Offesa, aggiungo io.
@@ -146,7 +178,7 @@ Il Dipartimento della guerra degli Stati Uniti d'America era un'articolazione de
 
 https://it.wikipedia.org/wiki/Dipartimento_della_guerra_degli_Stati_Uniti_d%27America
 
-# ID digitale
+## ID digitale
 30 settembre 2025
 
 Nel momento in cui l’identità ci verrà concessa dall’alto, la nostra unicità smetterà di appartenerci. E a quel punto saremo soltanto ciò che il sistema ci permetterà di essere.
@@ -155,7 +187,7 @@ Copincolla: "Lisa Nandy ha dichiarato a “BBC Breakfast” che non si verrà mu
 
 https://www.aldomariavalli.it/2025/09/27/lettera-d-a-londra-controllo-totale-e-liberta-razionata-dallo-stato-il-grande-fratello-e-qui/
 
-# schiavi dell'AI
+## schiavi dell'AI
 20 settembre 2025
 
 Ciò che è stato costruito attraverso la pubblicità, il cinema, i cartoni animati, i giornali, e successivamente affinato dai social media e dagli smartphone ([come avevo scritto in precedenza](https://yuridiprodo.github.io/#/articles/2023-12-28-persuasori-occulti)), sta per essere ultimato grazie all'intelligenza artificiale: il compimento perfetto dell'esercizio del potere.
@@ -164,7 +196,7 @@ Copincolla: "Una tecnologia nata per liberare l’umanità dai vincoli materiali
 
 https://www.macitynet.it/la-generazione-dei-desideri-esauditi-e-il-senso-di-colpa-digitale/
 
-# traduzione automatica con sincronizzazione labiale
+## traduzione automatica con sincronizzazione labiale
 22 agosto 2025
 
 Più accessibilità, più contenuti globali, meno barriere linguistiche. Eppure, dietro questa "magia tecnologica" si nasconde un rischio profondo: l’illusione di autenticità. Perché quando un video appare perfettamente sincronizzato, con parole che sembrano dette proprio da chi è in scena, siamo naturalmente portati a fidarci. Ma se il messaggio è stato tradotto, interpretato o addirittura manipolato da un algoritmo, quanto resta della verità originale?
@@ -176,7 +208,7 @@ https://www.macitynet.it/doppiaggio-ai-reels-instagram-facebook
 
 Copincolla: "Sebbene queste funzionalità aprano nuove opportunità per la diffusione dei contenuti a livello globale, è importante considerare anche le implicazioni legate alla veridicità delle informazioni veicolate tramite AI. La possibilità di tradurre e sincronizzare il labiale in modo realistico rende infatti più difficile per lo spettatore verificare se le parole pronunciate nel video corrispondano davvero al messaggio originale. In scenari delicati – ad esempio, dichiarazioni ufficiali da parte di esponenti politici durante una crisi – l’uso improprio di queste tecnologie potrebbe alterare la percezione della realtà, generando confusione o allarmismo. Una traduzione modificata, anche solo per errore o interpretazione imprecisa, accompagnata da un perfetto labiale, potrebbe indurre il pubblico a credere in affermazioni mai fatte."
 
-# la cultura della morte
+## la cultura della morte
 4 agosto 2025
 
 La vera civiltà non dovrebbe dare il permesso di morire, ma un motivo per restare. Oggi in nome della libertà stiamo celebrando la resa. E lo chiamiamo progresso.
@@ -185,7 +217,7 @@ Copincolla: "Mentre si finge di parlare di libertà, si sta normalizzando un’i
 
 https://www.iltimone.org/news-timone/morire-non-e-un-atto-di-coraggio/
 
-# HALO occhiali Smart
+## HALO occhiali Smart
 2 agosto 2025
 
 Dietro l’apparenza innocua degli occhiali smart si nasconde un prezzo invisibile: l’erosione della nostra autonomia cognitiva e della nostra privacy. Perché nel momento in cui decidiamo di affidare il nostro passato a una macchina, in realtà stiamo affidando il controllo della realtà a chi custodisce quei dati, minacciando la nostra libertà mentale.
@@ -194,7 +226,7 @@ Ne parlo su Macitynet nell'annuncio degli Halo https://www.macitynet.it/halo-occ
 
 Copincolla: "chi controlla quel database? può essere violato? de-anonimizzato? è davvero privato datosi che viene gestito da un’azienda e non dall’utente? Chi ci garantisce che i dati raccolti a un certo punto non vengano analizzati, monetizzati o richiesti da terze parti (come governi o aziende pubblicitarie)? sono domande lecite e per le quali l’azienda fornisce rassicurazioni generiche, parlando di VPN cognitiva e di controlli granulari, ma senza offrire reali garanzie tecniche o giuridiche a lungo termine. E quando si tratta di dati così personali e intimi, la fiducia da sola non può bastare. Gli occhiali registrano costantemente ciò che vediamo e sentiamo, costruendo una memoria esterna che si sostituisce progressivamente a quella biologica. Non servirà più ricordare, basterà cercare. Ma a quel punto, che valore avranno ancora i nostri ricordi? E non è solo una questione personale. Se deleghiamo completamente la conservazione delle informazioni a dispositivi esterni, finiamo anche per perdere il controllo del nostro passato. Perché chi controlla quei dati – e quindi può filtrarli, riscriverli o cancellarli – controlla la nostra percezione della realtà".
 
-# massoneria Ascoli Piceno
+## massoneria Ascoli Piceno
 1 agosto 2025
 
 I frati hanno semplicemente difeso la piazza della mia città da contaminazioni simboliche travestite da bellezza. Chi grida alla censura per difendere un'opera equivoca, in fondo non difende l'arte, bensì il diritto di insinuare senza assumersene la responsabilità. [La squadra, il compasso](https://yuridiprodo.github.io/#/articles/2025-06-18-giorgione), l’occhio, la porta: il vero scandalo non è toglierli da una piazza, ma lasciarli passare come se fossero neutri. Perché se è vero che provengono da epoche antiche, oggi parlano un linguaggio preciso. E fingere di non riconoscerlo è disonestà culturale.
@@ -205,7 +237,7 @@ https://www.ilrestodelcarlino.it/ascoli/cronaca/lopera-massonica-di-velenosi-nel
 
 https://www.ilrestodelcarlino.it/ascoli/cronaca/lopera-nel-mirino-segni-massonici-d9056fa2
 
-# la verità sul caldo
+## la verità sul caldo
 31 luglio 2025
 
 Selezionare i dati in base all'emozione climatica del momento è disinformazione travestita da allarme. Non è la Terra a ribellarsi all’uomo: è l'uomo che, ribellandosi a Dio, perde l’armonia con la Terra stessa.
@@ -214,7 +246,7 @@ Copincolla: "Ammesso che i cambiamenti climatici siano in corso, ci si deve chie
 
 https://robertodemattei.substack.com/p/leone-xiv-segue-lideologia-green
 
-# allarme ChatGPT come insegnante
+## allarme ChatGPT come insegnante
 30 luglio 2025
 
 Come ogni strumento potente richiede trasparenza, consapevolezza e vigilanza critica, per non diventare l’ennesimo algoritmo che decide per noi cosa sapere e come pensarlo.
@@ -223,7 +255,7 @@ ChatGPT diventa tutor per gli studenti, con Study Mode vuole insegnare a pensare
 
 Copincolla: "Come già avvenuto in un distretto scolastico USA, dove ChatGPT è stato utilizzato per censurare alcuni libri, anche Study Mode – per quanto sviluppato con buone intenzioni – potrebbe trasformarsi in uno strumento di controllo dell’educazione. Se usato in modo acritico o centralizzato, il rischio infatti è che l’AI diventi un veicolo per plasmare intere generazioni con contenuti costruiti ad hoc, seguendo gli interessi culturali o politici del momento. Oggi si riscrive un libro di testo, domani si potrebbe riscrivere l’intero percorso educativo".
 
-# Pizzaballa
+## Pizzaballa
 28 luglio 2025
 
 Quando la guerra diventa routine e la pietà eccezione, allora il silenzio non è più neutrale: è complice. Chiamare "difesa" l'oppressione sistematica è l'ultimo rifugio della propaganda.
@@ -234,7 +266,7 @@ https://lpj.org/it/news/cardinal-pizzaballas-speech
 
 https://stream24.ilsole24ore.com/video/mondo/gaza-pizzaballa-e-teofilo-silenzio-e-tradimento-coscienza/AH3sBsqB
 
-# Tutta colpa del caldo
+## Tutta colpa del caldo
 27 luglio 2025
 
 A quanto pare l'ingegneria sociale procede a gonfie vele.
@@ -243,7 +275,7 @@ Copincolla: "Tutta colpa del caldo. Cadono le insegne a Milano e calano le nasci
 
 https://www.iltimone.org/news-timone/tutta-colpa-del-caldo-cadono-le-insegne-calano-le-nascite-e-la-colpa-e-sempre-sua/
 
-# Silere Non Possum e Giampiero
+## Silere Non Possum e Giampiero
 24 luglio 2025
 
 Nella mia città natale, vescovo e parroco sono finiti al centro di una clamorosa vicenda dalla quale emergono nuovi lati oscuri ogni giorno che passa. Con amarezza constato che, invece di affrontare la questione con un'azione legale chiara e trasparente, si è preferito diffondere un comunicato stampa che di cattolico ha ben poco, nonostante venga più volte tirato in ballo il Vangelo. Un comunicato che non smentisce le critiche mosse, bensì finisce per alimentare ulteriormente i dubbi.
@@ -262,7 +294,7 @@ https://silerenonpossum.com/it/ascoli-piceno-palmieri-cinelli-e-il-vizietto-dell
 
 P.S. invece, sulle vicende del buon don Francesco Simeone avevo già [[2024-11-19-d-ercole|scritto]] qualcosa anch'io.
 
-# Francesca Albanese
+## Francesca Albanese
 23 luglio 2025
 
 Quando a novembre la Corte Penale Internazionale rilasciò il mandato d'arresto contro l'israeliano Benjamin Netanyahu con l'accusa di genocidio messa per iscritto perfino dall'ONU, Salvini disse che "se Netanyahu fosse venuto in Italia sarebbe stato il benvenuto". Certo. Mentre per l'italiana Francesca Albanese, relatrice speciale delle Nazioni Unite sui territori palestinesi occupati, tutto tace. Da qualche settimana le è stato appiccicato addosso un bel divieto di ingresso negli Stati Uniti, con congelamento dei beni e l'impossibilità di ricevere fondi e donazioni da aziende statunitensi. Si sono indignati diversi relatori ONU, Amnesty, Human Rights Watch. Si è rammaricata persino l'UE. Invece il nostro governo non dice niente. Dovesse mai interferire con le politiche dei suoi alleati.
@@ -282,7 +314,7 @@ Gli indignati
 4: https://www.hrw.org/news/2025/07/10/us-imposes-sanctions-on-un-special-rapporteur
 5: https://www.rainews.it/articoli/2025/07/commissione-ue-rammarico-per-sanzioni-usa-contro-rappresentante-nazioni-unite-albanese-fd44dab7-0f5f-4e1a-8c29-c7b5821cda02.html
 
-# Il NO dell'Italia all'OMS
+## Il NO dell'Italia all'OMS
 22 luglio 2025
 
 Mentre l'UE sotto la maschera di "resilienza collettiva, strategia in costituzione di scorte e contromisure mediche" di fatto cristallizza lo stato di emergenza come nuova normalità, l'Italia rifiuta l'ampliamento dei poteri dell'OMS. Come gli Stati Uniti. Tanto per ricordarci che continuiamo ad essere una colonia americana. Per carità, sempre meglio dell'ennesimo sì, ma per come abbiamo gestito l'ultima pandemia, dubito che possa andarci meglio con la prossima ([[2024-01-19-malattia-x|che è già in programma da un pezzo]]).
@@ -294,7 +326,7 @@ https://x.com/borghi_claudio/status/1946610221406929215
 
 https://ec.europa.eu/commission/presscorner/detail/it/ip_25_1728
 
-# DDL sul suicidio assistito
+## DDL sul suicidio assistito
 21 luglio 2025
 
 Qui casca l'asino. Perché al numero 73 dell'enciclica Evangelium Vitae si consiglia di limitare i danni di una legge ingiusta che già esiste. Ma il DDL sul suicidio assistito non è stato ancora approvato. Perciò il quotidiano della CEI non dovrebbe dirci che resistere è ormai inutile e che quindi è meglio negoziare per "limitare i danni" citando Giovanni Paolo II. Datosi che la follia non è ancora diventata legge, attualmente siamo nella posizione di poter cogliere invece i consigli di Paolo VI, quando al numero 14 della sua Humanae Vitae scriveva che "non è lecito, neppure per ragioni gravissime, fare il male, affinché ne venga il bene".
@@ -307,7 +339,7 @@ https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_en
 
 https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
 
-# Trattato di Kensington
+## Trattato di Kensington
 18 luglio 2025
 
 È nato il trattato di Kensington, il primo tra Regno Unito e Germania dalla Seconda guerra mondiale: 30 articoli che i libri di storia allegheranno al racconto della Terza.
@@ -316,7 +348,7 @@ Copincolla: "Identifying the Russian Federation’s brutal war of aggression on 
 
 https://www.gov.uk/government/news/treaty-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-the-federal-republic-of-germany-on-friendship-and-bilateral-cooperation
 
-# Droni ucraini a Voronezh
+## Droni ucraini a Voronezh
 17 luglio 2025
 
 In un'epoca in cui i lettori molto spesso si fermano ai titoli e le notizie plasmano la realtà, la distorsione dei fatti non solo è pericolosa, ma nel momento in cui salta fuori deve essere rettificata.
@@ -331,7 +363,7 @@ https://www.lastampa.it/esteri/2025/07/15/video/ucraina_nuovo_attacco_di_droni_r
 
 (Sorpresa: i droni erano ucraini, e Voronezh si trova in Russia)
 
-# Lupo solo protetto
+## Lupo solo protetto
 16 luglio 2025
 
 L'UE ha deciso di declassare il lupo da “strettamente protetto” a “protetto”, nonostante la predazione del bestiame da parte del lupo incida per appena lo 0,07% sul totale degli animali allevati in Europa. Una mossa politica e giuridicamente discutibile, priva di fondamento scientifico e dannosa per la biodiversità.
@@ -340,7 +372,7 @@ Copincolla: "Il lupo è un simbolo di equilibrio ecologico e il suo ritorno in m
 
 https://www.lndcanimalprotection.org/wp-content/uploads/2025/07/Final.-PDF.-Wolf-Downlisting.-Letter-to-EU-27-States.-July-2025.-word.-75-logos-it.pdf
 
-# Grok, Musk e Hitler
+## Grok, Musk e Hitler
 16 luglio 2025
 
 Comunque di tutta la storia tra Grok, Musk e Hitler, la vera tragedia sta nel fatto che le persone preferiscono discutere con l'AI anziché tra loro. La nostra umanità corre spedita verso l'estinzione.
@@ -351,7 +383,7 @@ https://www.wired.com/story/grok-antisemitic-posts-x-xai/
 
 https://x.com/grok/status/1941719386341114341
 
-# Scena muta agli esami di Stato
+## Scena muta agli esami di Stato
 11 luglio 2025
 
 Ho già [[2024-12-16-sulla-scuola|scritto]] diverse volte che il nostro sistema scolastico non funziona. E le proteste che ogni anno mettono in atto gli studenti mi danno ragione.
@@ -360,7 +392,7 @@ Copincolla: "Sono deluso da chi dovrebbe guidarci, dagli adulti, dal fatto che l
 
 https://corrieredelveneto.corriere.it/notizie/padova/cronaca/25_luglio_11/gianmaria-favaretto-studente-rifiutato-orale-maturita-intervista-e527614a-f928-4229-bbd3-5146e5469xlk.shtml
 
-# Zuckerberg e il latino
+## Zuckerberg e il latino
 6 luglio 2025
 
 L'ho detto già [[2025-03-07-imagine|altre volte]], ma torno a ripeterlo: il latino è una palestra per la mente. Magari ci mette più tempo, ma alla fine apre più porte di altre materie che sulla carta offrono un'utilità immediata.
@@ -369,7 +401,7 @@ Copincolla: "Mark Zuckerberg è l’unico tra i magnati tech, assieme a Peter Th
 
 https://www.macitynet.it/nuovi-imperatori-digitali
 
-# Recensione libro Bezos
+## Recensione libro Bezos
 5 luglio 2025
 
 Cosa succede quando la narrazione che ci ha ispirati per anni inizia a non combaciare più con la realtà che viviamo ogni giorno? Quando i valori che ci hanno guidati nel lavoro e nella vita sembrano svuotarsi, diventare etichette prive di sostanza, se non addirittura controproducenti?
@@ -379,7 +411,7 @@ Cosa succede quando la narrazione che ci ha ispirati per anni inizia a non comba
 il mio articolo per Macitynet
 https://www.macitynet.it/libro-lettera-a-jeff-bezos-marisandra-lizzi/
 
-# il papa sulla AI
+## il papa sulla AI
 20 giugno 2025
 
 Ora ce lo dice anche il Papa: [[2024-01-24-non-siamo-ancora-macchine|non siamo macchine, siamo uomini]]. E con tutti questi incontrollati algoritmi che plasmano e distorcono [[2025-04-10-indifferenza|il modo in cui percepiamo il mondo]] e viviamo la nostra vita, il rischio di veder appiattita l'unicità dell'uomo è ancora più sottile. La nostra dignità è seriamente in pericolo.
@@ -388,7 +420,7 @@ Copincolla: "Ci sono poi le sfide che interpellano il rispetto per la dignità d
 
 https://www.vatican.va/content/leo-xiv/it/speeches/2025/june/documents/20250617-cei.html
 
-# Israele-Iran
+## Israele-Iran
 18 giugno 2025
 
 Considerazioni tecniche e politiche, e i possibili scenari futuri: una lucida analisi che vi consiglio di leggere per cercare di capire cosa sta succedendo e cosa possiamo aspettarci dal conflitto Israele-Iran iniziato pochi giorni fa.
@@ -407,7 +439,7 @@ Il numero 2557: "L’umanità cammina verso la distruzione. La terra si agiterà
 
 https://www.apelosurgentes.com.br/it-it/mensagens/2557
 
-# vitello d'oro nel 2025
+## vitello d'oro nel 2025
 8 giugno 2025
 
 Ai tempi di Mosè forgiarono un vitello d'oro.
@@ -416,7 +448,7 @@ Oggi costruiamo unicorni arcobaleno.
 
 Sono passati più di 3.000 anni e non è cambiato niente.
 
-# modifica al codice del sito
+## modifica al codice del sito
 7 giugno 2025
 
 🔔 **INFORMAZIONE DI SERVIZIO**
@@ -450,7 +482,7 @@ In alternativa, basandovi sulla data di pubblicazione visibile nel link, potete 
 
 Scusate per il disagio.
 
-# alcol bene di prima necessità
+## alcol bene di prima necessità
 17 maggio 2025
 
 Certo. D'altronde come si può sopravvivere in questo mondo storto restando lucidi? l'alcol è di primissima necessità. Altroché.
@@ -459,7 +491,7 @@ Copincolla: "Una focaccia, 4 confezioni di wurstel, 2 di tacchino macinato, 2 di
 
 https://t.me/ilrestodelcarlinoascoli/5100
 
-# la TARI ad Ascoli Piceno
+## la TARI ad Ascoli Piceno
 16 maggio 2025
 
 Incredibile come si utilizzi il [[2024-02-08-matrix|"Divide et impera"]] degli antichi romani perfino per giustificare l'aumento delle tasse. Bello, bravi, complimenti! fomentiamo pure l'odio tra i cittadini, mentre li spremiamo.
@@ -470,7 +502,7 @@ Copincolla: "Fioravanti – puntualizzano gli esponenti del gruppo di opposizion
 
 https://www.cronachepicene.it/2025/05/16/aumento-tari-ascolto-partecipazione-ben-superiore-alla-media-nazionale/530086/
 
-# pepe mujica addio
+## pepe mujica addio
 14 maggio 2025
 
 Fra pochi giorni avrebbe compiuto 90 anni: **Pepe Mujica**, storico presidente dell'Uruguay, viene spesso ricordato per il suo volto sereno segnato dall’età e per la vita sobria e austera degli ultimi anni. Ma troppo spesso ci si dimentica delle battaglie e degli ideali che lo hanno forgiato nei suoi anni più turbolenti: quelli della militanza rivoluzionaria, della resistenza alla dittatura e delle torture subite nei tredici lunghi anni trascorsi in carcere.
@@ -481,7 +513,7 @@ Lo ricorderò per sempre per la sua profonda **visione del tempo**, che ha lasci
 
 [VIDEO]
 
-# camino conclave in diretta
+## camino conclave in diretta
 7 maggio 2025
 
 Nel mezzo, tra l'*Extra Omnes* appena pronunciato e l'*Habemus Papam* in arrivo, c'è una webcam che punta dritta dritta al camino della Cappella Sistina.
@@ -498,7 +530,7 @@ https://www.youtube.com/watch?v=gqQx7cgNP84
 
 Aggiornamento: questo invece il link alla diretta in italiano di VaticanNews per chi preferisce accompagnare l'attesa con un commento a cura della Radio Vaticana. https://www.youtube.com/watch?v=gW-upYJcuSE
 
-# sul caso Becciu e Parolin
+## sul caso Becciu e Parolin
 2 maggio 2025
 
 Sul caso Becciu ci sono diverse cose che non tornano. Ad esempio, un documento datato settembre 2023 in cui gli si vieta di votare al prossimo conclave per delle accuse che sarebbero emerse soltanto a dicembre. E poi l'ultimo motu proprio di Francesco, firmato con una semplice "F" nei giorni di ospedalizzazione in condizioni non proprio ottimali e mai pubblicato, ma tenuto sotto chiave fino a pochi giorni fa.
@@ -507,7 +539,7 @@ Copincolla: "Tutto questo è tremendo. Ma è ancora più tremendo il fatto che l
 
 https://www.paixliturgique.com/aff_lettre.asp?LET_N_ID=4246
 
-# la profezia di Giovanni Paolo II
+## la profezia di Giovanni Paolo II
 28 aprile 2025
 
 Magari nel 1994 non ci abbiamo fatto caso (quantomeno, io: avevo solo 7 anni!) ma papa Giovanni Paolo II ci aveva avvisati: la famiglia era in pericolo già all'epoca. Alla luce di [[2024-02-17-famiglia-una-ideologia|quanto accaduto negli ultimi anni]], non possiamo che ritenere l'Angelus di quel Maggio del '94 una incredibile profezia. 
@@ -516,7 +548,7 @@ Copincolla: "ho capito che devo introdurre la Chiesa di Cristo in questo Terzo M
 
 https://www.vatican.va/content/john-paul-ii/it/angelus/1994/documents/hf_jp-ii_ang_19940529.html
 
-# antifascismo è tabù
+## antifascismo è tabù
 25 aprile 2025
 
 Nel frattempo nella mia città natale, durante la giornata in cui si commemora la liberazione dell'Italia dal fascismo, la parola antifascismo diventa tabù. Proprio come nel [[2024-03-25-facebook-censura-politica|bipensiero orwelliano]], in cui si finge di onorare la libertà mentre si censura chi la difende davvero. Ad Ascoli Piceno c'è chi affigge lo striscione "25 aprile, buono come il pane, bello come l’antifascismo" e quindici minuti dopo arriva la Volante a chiedere lumi.
@@ -525,7 +557,7 @@ Copincolla: "il problema, è subito stato chiaro, non era la posizione quanto pi
 
 https://www.cronachepicene.it/2025/04/25/25-aprile-uno-striscione-a-tema-sul-muro-di-unattivita-commerciale-ma-arriva-la-polizia/526890/
 
-# papa Francesco, il cordoglio della massoneria
+## papa Francesco, il cordoglio della massoneria
 24 aprile 2025
 
 La Gran Loggia d’Italia ci fa sapere che papa Francesco era in «profonda risonanza con i principi della Massoneria». Un bel salto di qualità visto che ai tempi del pontificato di Benedetto XVI parlavano invece di «assoluta inconciliabilità fra Chiesa Cattolica e Massoneria».
@@ -540,7 +572,7 @@ Approfitto dell'argomento per aggiungere che è stato pubblicato il testamento s
 
 testamento: https://www.vatican.va/content/francesco/it/speeches/2025/april/documents/20250421-testamento-francesco.html
 
-# report sul COVID da Trump
+## report sul COVID da Trump
 23 aprile 2025
 
 Il 18 aprile la Casa Bianca ha pubblicato un report sul COVID datato Dicembre 2024 in cui si denunciano i metodi coercitivi con cui il governo americano ha messo in ginocchio i suoi cittadini e, per estensione (datosi che si è trattata di una pandemia) quelli di tutto il mondo.
@@ -569,7 +601,7 @@ annuncio: https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/
 
 report completo: https://www.whitehouse.gov/wp-content/uploads/2025/04/2024.12.04-SSCP-FINAL-REPORT-ANS.pdf
 
-# nuovo papa
+## nuovo papa
 22 aprile 2025
 
 Si vocifera che il cardinale Jean-Marc Aveline sia il favorito per succedere a Francesco nel prossimo conclave. Fonti interne al Vaticano hanno espresso a LifeSiteNews la loro convinzione che “sarà il prossimo papa”. C’è solo un problema: la sua teologia non è cattolica.
@@ -580,7 +612,7 @@ Copincolla: Aveline "relativizza il cristianesimo, trattandolo come un fenomeno
 
 https://www.lifesitenews.com/opinion/cardinal-aveline-is-rumored-to-be-the-next-pope-but-is-he-catholic/
 
-# Il suicidio dell'Europa 2014-2025
+## Il suicidio dell'Europa 2014-2025
 7 aprile 2025
 
 Barbero ci spiega come mai il 2025 assomigli tremendamente al 2014. Troppo, in effetti. E se ce lo dice uno che la Storia la conosce come le sue tasche, non solo c'è da credergli, ma dovremmo anche ascoltare il suo consiglio. Per evitare che l'Europa si suicidi. Di nuovo.
@@ -589,7 +621,7 @@ Copincolla: «{In quegli anni} l'opinione pubblica, intossicata sentendo parlare
 
 https://www.youtube.com/watch?v=BXerCNN61VY
 
-# I dazi di Trump
+## I dazi di Trump
 6 aprile 2025
 
 Quanto allarmismo sui dazi di Trump. Come se li avesse inventati lui. Ci siamo già dimenticati di quelli messi dai suoi predecessori e dalla stessa UE? Piuttosto, è l'ennesima conferma che il modello capitalista alla lunga diventa insostenibile. Non si può pretendere di crescere all'infinito. La globalizzazione è il cancro del ventunesimo secolo. Va estirpato, e alla svelta. Per preservare le tradizioni locali, la nostra storia, la nostra unicità. E ridare ossigeno al pianeta.
@@ -598,7 +630,7 @@ Copincolla: "La politica protezionistica statunitense porterà il vero Made in I
 
 https://www.cronachepicene.it/2025/04/04/lo-spettro-dei-dazi-usa-sullexport-del-piceno-colpo-durissimo-per-i-prodotti-artigianali/523497/
 
-# Chiesa trasformata in moschea
+## Chiesa trasformata in moschea
 5 aprile 2025
 
 Tanto per dare una ripassatina alla [[2024-02-15-obbligatorio-abortire|Finestra di Overton]], che di questi tempi fa sempre bene. Per tenere d'occhio quel che succede intorno a noi, e magari anche farsi un'idea di quel che verrà. Scrivono dalla Puglia:
@@ -607,14 +639,14 @@ Copincolla: "Dopo gli assurdi "venerdì di Ramadan" nelle parrocchie, ora arrivi
 
 https://proitaliacristiana.it/articoli/litalia-che-si-arrende-chiesa-trasformata-in-moschea-a-brindisi
 
-# Cieca obbedienza
+## Cieca obbedienza
 18 marzo 2025
 
 Con tutto il rispetto umano per la posizione dell'intervistato, ma a me questo articolo puzza tanto di inchino a un'ideologia, quella del vaccino come panacea di tutti i mali anche quando i rischi superano i benefici; di pregiudizio, verso chi si pone dubbi legittimi; di ricatto, perché a quanto pare sul giornale ci finisce solo chi ne parla bene anche se gli è andata male.
 
 https://www.ilcentro.it/pescara/amputato-dopo-il-vaccino-ho-visto-in-faccia-la-morte-ma-non-saro-mai-no-vax-ykannv9w
 
-# Bevi questo caffè
+## Bevi questo caffè
 9 marzo 2025
 
 Da quella che si fa chiamare "controinformazione" vedo commentare entusiasticamente l'[articolo](https://www.foxnews.com/politics/multimillion-dollar-biden-era-covid-vax-project-halted-trumps-hhs) di Fox News intitolato "Robert F. Kennedy Jr. ha sospeso un contratto multimilionario dell'amministrazione Biden per creare **un nuovo vaccino contro il COVID-19**, una settimana prima che 10.000 individui iniziassero le sperimentazioni cliniche".
@@ -629,7 +661,7 @@ Pare inoltre che questo nuovo vaccino COVID-19 della società biotecnologica ame
 
 Scusate, ma quindi quale sarebbe la bella notizia?
 
-# Tachipirina e vigile attesa
+## Tachipirina e vigile attesa
 6 febbraio 2025
 
 Roberto Speranza: Tachipirina e vigile attesa? un'invenzione dei no-vax
@@ -638,7 +670,7 @@ Ve ne ho parlato nell'ultima [[01|newsletter]], dove trovate il video integrale 
 
 Adesso è stato pubblicato anche il [video](https://x.com/camuso_angela/status/1886533492470604177) frontale registrato dalla giornalista stessa.
 
-# Newsletter, partenza
+## Newsletter, partenza
 5 febbraio 2025
 
 Grazie di cuore a tutti per la collaborazione!
@@ -649,7 +681,7 @@ Buttate un occhio alle cartelle Spam/Promozioni della vostra casella di posta el
 
 Se poi trovate errori o cose da segnalarmi, sapete dove [[contatti|scrivermi]].
 
-# Newsletter, un aiuto
+## Newsletter, un aiuto
 3 febbraio 2025
 
 Vorrei lanciare la Newsletter, ma sto incontrando alcuni problemi con la piattaforma. In attesa di risolverli, mi piacerebbe comunque partire col primo numero. Chi ha voglia di farmi da beta tester? 
@@ -662,7 +694,7 @@ Vi farò poi sapere (sempre qui) quando la spedisco; così [mi dite](https://t.m
 
 Grazie a chi mi darà una mano! 🙏
 
-# Il gelato del Giubileo
+## Il gelato del Giubileo
 22 gennaio 2025
 
 Dopo [la mascotte del giubileo](https://t.me/yuridiprodo/287), lo zaino del pellegrino, il cappello del pellegrino, la matita del pellegrino e la caffettiera del pellegrino, ora c’è anche il gelato del giubileo.
@@ -679,7 +711,7 @@ Don Camillo: – Gesù, lasciatemelo dire: non c’è più religione. Siamo alla
 
 Gesù: – Eh no, don Camillo. Siamo al dessert.
 
-# OpenAI Tasks
+## OpenAI Tasks
 15 gennaio 2025
 
 OpenAI ha presentato [Tasks](https://x.com/OpenAI/status/1879267274185756896), una nuova funzione per usare ChatGPT come una specie di maggiordomo virtuale.
@@ -696,7 +728,7 @@ In pratica chi controlla questi algoritmi adesso vuole anche decidere cosa possi
 
 Già, dicevo, ma [[2024-06-25-google-ai-overviews|chi li controlla]]?
 
-# Gay ammessi in seminario
+## Gay ammessi in seminario
 11 gennaio 2025
 
 I "giornali" titolano:
@@ -711,7 +743,7 @@ Leggiamo il paragrafo 44 delle [nuove linee guida](https://www.chiesacattolica.i
 
 "In relazione alle persone con tendenze omosessuali che si accostano ai seminari, o che scoprono nel corso della formazione tale situazione, in coerenza con il proprio Magistero, la Chiesa, pur rispettando profondamente le persone in questione, non può ammettere al Seminario e agli Ordini sacri coloro che praticano l’omosessualità, presentano tendenze omosessuali profondamente radicate o sostengono la cosiddetta cultura gay. Le suddette persone si trovano, infatti, in una situazione che ostacola gravemente un corretto relazionarsi con uomini e donne."
 
-# Cormoran-Strike-8
+## Cormoran-Strike-8
 
 🔥 Flash news piccolina
 
@@ -721,7 +753,7 @@ The Hallmarked Man, ovvero l'ottavo capitolo della serie di Cormoran Strike, sal
 
 Quindi forse la traduzione in italiano (L'uomo con il marchio/marchiato? L'uomo distintivo?) potrebbe già arrivare per Natale. Comunque vi terrò aggiornati.
 
-# Freddo e sanzioni
+## Freddo e sanzioni
 2 gennaio 2025
 
 > "Un evento di fatto epocale, che sta facendo agitare i mercati: ieri, 31 dicembre, i prezzi europei del gas hanno toccato i 50 euro al megawattora, spinti anche dalle temperature in ribasso".
@@ -734,7 +766,9 @@ Ovvero, gli effetti delle famose [sanzioni](https://t.me/yuridiprodo/38) alla Ru
 
 E da [Sky TG24](https://tg24.sky.it/economia/2025/01/01/stop-gas-russo-aumento-bollette) per oggi è tutto.
 
-# Buon Natale
+# 2024
+
+## Buon Natale
 25 dicembre 2024
 
 NON PER TUTTI È NATALE
@@ -763,7 +797,7 @@ Quando nessuno pianger dovrà.
 
 Gianni Rodari, filastrocca pubblicata il 25 dicembre 1949 nella rubrica «La domenica dei piccoli» dell’«Unità» sotto pseudonimo "Lino Picco".
 
-# ChatGPT su Whatsapp
+## ChatGPT su Whatsapp
 20 dicembre 2024
 
 Lo sapevate? salvando in rubrica il numero di telefono americano di OpenAI, potete chattare con ChatGPT direttamente tramite Whatsapp.
@@ -772,7 +806,7 @@ Eccolo: +1 800 2428478
 
 P.S. vi ho già parlato di ChatGPT [qui](https://t.me/yuridiprodo/290), [qui](https://t.me/yuridiprodo/282) e [qui](https://t.me/yuridiprodo/276).
 
-# Polizia, inchiesta emergenza Covid
+## Polizia, inchiesta emergenza Covid
 19 novembre 2024
 
 "Oggi possiamo affermare con ancora più forza, suffragati da numerose sentenze dei tribunali aditi, che molte di quelle disposizioni limitative della libertà altrui erano illegittime.
@@ -783,7 +817,7 @@ Emblematico è ciò che è successo a Trieste il 18 ottobre 2021 quando gli idra
 
 Antonio Porto, Segretario nazionale dell'Organizzazione Sindacale Autonomi Polizia, davanti alla Commissione Parlamentare d'inchiesta sulla gestione dell'emergenza Covid. [19 Novembre 2024](https://webtv.camera.it/evento/26677)
 
-# Netanyahu
+## Netanyahu
 14 novembre 2024
 
 Già in tempi non sospetti [[2022-02-23-israele-parco-naturale-palestina|segnalavo]] come Israele, con la scusa del parco naturale, cercasse di ottenere autorità sulle terre palestinesi.
@@ -794,7 +828,7 @@ Come paese, non possiamo certo considerarci [[2024-01-28-presunzione-di-innocenz
 
 Accolgo quindi con piacere l'appello a diffondere [questa iniziativa 🔴](https://www.lindipendente.online/netanyahu) che senza remore denuncia il genocidio (perché di questo si tratta: [lo ha messo nero-su-bianco](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/a-hrc-55-73-auv.pdf) persino l'ONU senza che questo, devo amaramente constatare, sortisse un qualche effetto) che si sta perpetrando sulle terre palestinesi da più di un anno.
 
-# su Halloween
+## su Halloween
 3 novembre 2024
 
 [[2023-10-09-fallo-fare-alla-ai|La memoria corta]] è una vera sventura. Abbiamo preso tanto. Ma possiamo ancora rimediare
@@ -805,7 +839,7 @@ Accolgo quindi con piacere l'appello a diffondere [questa iniziativa 🔴](https
 
 https://www.paologulisano.com/halloween-e-la-necessita-di-riprenderci-le-feste-cristiane-tutte/
 
-# Miguel Bosé: l'alluvione in Spagna è artificiale
+## Miguel Bosé: l'alluvione in Spagna è artificiale
 2 novembre 2024
 
 Di  sicuro investendo in manutenzione e prevenzione (anziché in bombe per la guerra) eventi come questo si potrebbero evitare. Che siano indotti oppure no. Tanto più che [non è la prima volta](https://it.wikipedia.org/wiki/Alluvione_di_Valencia_del_1957) che succede.
@@ -832,7 +866,7 @@ Infine, le mie condoglianze a tutte le persone che hanno perso qualcosa o qualcu
 
 Miguel Bosé su [Instagram](https://www.instagram.com/p/DBww8CuyavI/), 31 ottobre 2024
 
-# Luce, mascotte Giubileo 2025
+## Luce, mascotte Giubileo 2025
 30 ottobre 2024
 
 È arrivata Luce, la mascotte ufficiale del Giubileo 2025
@@ -841,7 +875,7 @@ https://www.iubilaeum2025.va/it/notizie/comunicati/2024/luce-mascotte-ufficiale-
 
 Per i più curiosi aggiungo che l'ha disegnata l’illustratore Simone Legno, lo stesso che ha all'attivo tutta [una linea di prodotti](https://www.tokidoki.it/pages/pride) per il Gay Pride sotto il marchio Tokidoki e che disegna [anche vibratori](https://amzn.to/3C6Mzu0).
 
-# IT-Wallet
+## IT-Wallet
 25 ottobre 2024
 
 Alla fine IT-Wallet è arrivato.
@@ -854,7 +888,7 @@ Nel frattempo sono andato a rileggermi [[2024-02-27-sveglia-occidente|quello che
 
 Il mio pensiero rimane lo stesso. Chi vivrà, vedrà.
 
-# Musica a 432 Hz
+## Musica a 432 Hz
 23 ottobre 2024
 
 Tutte le vibrazioni musicali, tutte, esercitano un effetto sugli organismi viventi.
@@ -875,7 +909,7 @@ Accordando gli strumenti con il cosiddetto ‘biological tuning’, cioè a freq
 
 https://www.picenonews24.it/musica-432-hz-nel-pronto-soccorso-e-dotazione-di-televisori-per-lospedale-di-comunita-grazie-alla-generosita-della-famiglia-faraotti/
 
-# Modifiche alla Bibbia
+## Modifiche alla Bibbia
 22 ottobre 2024
 
 Da lungo tempo seguo le ricerche di colui che si fa chiamare "Investigatore Biblico" e a fronte degli oltre 200 errori di traduzione della Bibbia già identificati non posso non pensare alla celebre locuzione latina "errare humanum est, perseverare autem diabolicum".
@@ -890,7 +924,7 @@ Che la verità sia nel mezzo di queste due distopie? Goccia dopo goccia, tra qua
 
 https://investigatorebiblico.wordpress.com/2024/09/06/indizio-n-216-cancellato-il-demonio-dalle-bibbie-cei-74-e-2008-una-omissione-imperdonabile-il-caso-del-salmo-1096-di-investigatore-biblico/
 
-# il bambino che si sente lupo
+## il bambino che si sente lupo
 18 ottobre 2024
 
 > La società sta evolvendo verso qualcosa che neppure il miglior scrittore di fantasia riuscirebbe a immaginare. E non è un complimento.
@@ -907,7 +941,7 @@ https://investigatorebiblico.wordpress.com/2024/09/06/indizio-n-216-cancellato-i
 
 https://www.iltimone.org/news-timone/cosa-direbbe-san-tommaso-sul-bambino-che-si-sente-lupo/
 
-# Tirannia
+## Tirannia
 17 ottobre 2024
 
 Da un dialogo del racconto [Middle England](https://amzn.to/4eG35zt) di Jonathan Coe:
@@ -922,7 +956,7 @@ Da un dialogo del racconto [Middle England](https://amzn.to/4eG35zt) di Jonathan
 
 https://www.ariannaeditrice.it/articoli/la-tessera-del-politicamente-corretto
 
-# Scuola paritaria
+## Scuola paritaria
 16 ottobre 2024
 
 Altro che disparità nella qualità dell'istruzione o nella mancanza di trasparenza: non è che la scuola paritaria dà fastidio perché non può essere direttamente controllata dallo Stato?
@@ -935,7 +969,7 @@ Altro che disparità nella qualità dell'istruzione o nella mancanza di traspare
 
 https://www.iltimone.org/news-timone/la-scuola-privata-e-pubblica-anche-se-non-vi-sembra/
 
-# OpenAI come la bomba atomica?
+## OpenAI come la bomba atomica?
 15 ottobre 2024
 
 C'è chi ha definito Sam Altman, fondatore di Open AI, "[il nuovo Oppenheimer](https://nymag.com/intelligencer/article/sam-altman-artificial-intelligence-openai-profile.html)". Comincio a pensarlo anche io.
@@ -944,7 +978,7 @@ Se un fisico ha bisogno di generare una formula matematica complessa, o se un ri
 
 [Il mio articolo](https://www.macitynet.it/openai-o1/) per Macitynet
 
-# Barbero sui finanziamenti all'ANPI
+## Barbero sui finanziamenti all'ANPI
 11 settembre 2024
 
 Noi viviamo in una Repubblica che ufficialmente si definisce "nata dalla Resistenza" e abbiamo una rete di Associazioni che conservano il ricordo e che continuano a combattere la battaglia di quelli che, durante la Resistenza, hanno combattuto (e magari si sono fatti ammazzare) per liberare il paese dal fascismo.
@@ -959,7 +993,7 @@ Se c'è una battaglia che vale la pena di combattere, oggi, in Italia - ce ne so
 
 Alessandro Barbero, storico. [9 Settembre 2024](https://www.youtube.com/watch?v=zO_KNJSCH4E)
 
-# Durov libero
+## Durov libero
 9 settembre 2024
 
 Rilasciato su cauzione, Durov torna in piena attività denigrando i modi con cui è stato trattato 
@@ -972,7 +1006,7 @@ L'obiettivo finale? trasformare la moderazione su Telegram così che “da ogget
 
 Ne ho parlato [su Macitynet](https://www.macitynet.it/pavel-durov-telegram/)
 
-# Durov arrestato, commento
+## Durov arrestato, commento
 26 agosto 2024
 
 > «Stiamo parlando del trasferimento di chiavi di crittografia universali ai fini del successivo accesso incontrollato alla corrispondenza di un numero illimitato di persone. E si tratta di una violazione diretta dell’articolo 23 della Costituzione sul diritto di ognuno alla riservatezza della corrispondenza».
@@ -981,7 +1015,7 @@ Non potrebbe invece essere che Telegram dà fastidio a chi è interessato alla v
 
 Non è colpa di Durov se gli utenti abusano di Telegram - [il mio articolo](https://www.macitynet.it/durov-arrestato-telegram-risponde/) per Macitynet
 
-# Durov arrestato
+## Durov arrestato
 25 agosto 2024
 
 Una operazione che sa di censura
@@ -990,7 +1024,7 @@ E se il problema di Telegram non fossero soltanto i reati di cui è accusata? l'
 
 Arrestato Pavel Durov, il fondatore di Telegram - [mio articolo](https://www.macitynet.it/pavel-durov-telegram-arrestato/) per Macitynet
 
-# Cloud seeding
+## Cloud seeding
 24 giugno 2024
 
 Il Messaggero, [23 giugno 2024, pagina 15](https://www.linkedin.com/posts/loredana-d-anna-5762321a1_quelli-del-messaggero-vogliono-farci-credere-activity-7210938361438498817-We8Q/?originalSubdomain=it): La California troppo calda bombarda le nuvole (e rovina il clima in Europa)
@@ -999,7 +1033,7 @@ A San Francisco l'esperimento di spruzzare in cielo cristalli di sale riflettent
 
 Ah, tra i «diversi siti complottisti» di cui scriveva ieri il Messaggero ci sarebbero anche [quelli di Sky TG24](https://t.me/yuridiprodo/190).
 
-# Censura su Instagram
+## Censura su Instagram
 8 maggio 2024
 
 Instagram  (https://scontent-mxp2-1.xx.fbcdn.net/v/t39.8562-6/434666802_1138069080883575_1961854098445156593_n.webp?_nc_cat=109&ccb=1-7&_nc_sid=f537c7&_nc_ohc=tZA-y9HhDcsQ7kNvgH8qAYZ&_nc_ht=scontent-mxp2-1.xx&oh=00_AfCRDm7woL5UFtEwpnFLMQ2vpKnInfe95UYa5WLvOECHig&oe=663EF475)censura i contenuti di natura politica: l'UE indaga. Intanto ecco come aggirare il blocco
@@ -1021,7 +1055,7 @@ Comunque, per annullare il blocco, è sufficiente:
 - quindi, nella barra di ricerca, digitare contenuti suggeriti;
 - alla voce contenuti di natura politica, spostare il selettore su non limitare i contenuti di natura politica delle persone che non segui.
 
-# De-Crescenzo-sul-conformismo
+## De-Crescenzo-sul-conformismo
 30 aprile 2024
 
 Tutti fanno ciò che gli altri fanno: è il principio base del conformismo. Ad esempio non posso fare a meno di chiedermi perché il Grande Fratello piaccia tanto al pubblico italiano.
@@ -1036,7 +1070,7 @@ L’unione ottenuta mediante il conformismo, però, non è intensa né profonda;
 
 Luciano De Crescènzo, [Il caffè sospeso](https://amzn.to/3PoXD9r)
 
-# Barbero, sul 25 Aprile
+## Barbero, sul 25 Aprile
 25 aprile 2024
 
 Giovanni Floris: È difficile dirsi antifascisti?
@@ -1049,7 +1083,7 @@ Barbero: Beh, sì, ha conseguenze negative e pericolose. Non tanto, forse, perch
 
 Il confronto tra Pier Luigi Bersani e Alessandro Barbero nella puntata di DiMartedì, su La7, del [23 aprile 2024](https://www.la7.it/dimartedi/video/il-confronto-tra-pier-luigi-bersani-e-alessandro-barbero-24-04-2024-538965)
 
-# Barbero, propaganda e informazione
+## Barbero, propaganda e informazione
 22 aprile 2024
 
 PROPAGANDA E INFORMAZIONE: IERI E OGGI
@@ -1066,7 +1100,7 @@ Non è andata così. Quei segni visibili riconoscibili di propaganda non ci sono
 
 La propaganda è diventata un aspetto dell'informazione. Il problema è che la gente crede di essere informata, e invece in tantissimi casi non è informata perché quello che gli è stato somministrato non è un'informazione oggettiva (ammesso che sia possibile farla), ma è appunto un'informazione calibrata al punto giusto.
 
-# Cloud seeding
+## Cloud seeding
 19 aprile 2024
 
 Lo scorso febbraio c'era stato [un primo accenno](https://t.me/yuridiprodo/190); adesso sono diverse le testate giornalistiche che stanno collegando il fenomeno delle piogge torrenziali a Dubai dei giorni scorsi al "cloud seeding".
@@ -1083,7 +1117,7 @@ Ora, seguendo [Overton](https://t.me/yuridiprodo/131), se ne può parlare e anzi
 
 Insomma, il cloud seeding non esiste, forse sì, ma se esiste "non causa effetti collaterali". Strano, mi sembra di averla già sentita questa storia. Manca solo un «andrà tutto bene».
 
-# De Andrè, la solitudine
+## De Andrè, la solitudine
 15 aprile 2024
 
 > Si sa, non tutti se la possono permettere: non se la possono permettere i vecchi, non se la possono permettere i malati. Non se la può permettere il politico: il politico solitario è un politico fottuto di solito.
@@ -1096,7 +1130,7 @@ Nel 1996, durante un concerto, De André spiegò il significato dell'album "Anim
 
 https://www.youtube.com/watch?v=Lm4U-Nf0z2E
 
-# Ratzinger, il bene non fa rumore
+## Ratzinger, il bene non fa rumore
 27 marzo 2024
 
 > «A volte è difficile cogliere questa profonda realtà, poiché il male fa più rumore del bene; un omicidio efferato, delle violenze diffuse, delle gravi ingiustizie fanno notizia; al contrario i gesti di amore e di servizio, la fatica quotidiana sopportata con fedeltà e pazienza rimangono spesso in ombra, non emergono».
@@ -1105,7 +1139,7 @@ https://www.youtube.com/watch?v=Lm4U-Nf0z2E
 
 https://www.vatican.va/content/benedict-xvi/it/homilies/2012/documents/hf_ben-xvi_hom_20121231_te-deum.html
 
-# Facebook, censura politica
+## Facebook, censura politica
 25 marzo 2024
 
 A partire dal 29 febbraio 2024 Facebook decide cosa possiamo e non possiamo leggere, vedere, ascoltare, commentare sulla sua piattaforma.
@@ -1120,7 +1154,7 @@ Vi ricordate [1984 di Orwell](https://t.me/yuridiprodo/72)? Il Grande Fratello c
 
 Facebook ha deciso di imitarlo: farà in modo che sulle vostre bacheche vi appaiono soltanto notizie di gossip, stupidaggini e pettegolezzi, togliendo visibilità ad altri tipi di contenuti.
 
-# Barbero, la finanza al potere
+## Barbero, la finanza al potere
 24 marzo 2024
 
 La guerra di classe l'hanno vinta i ricchi, e i ricchi saranno sempre più ricchi, e i poveri sempre più poveri. Io sono abbastanza egoista da dire: «Vabbè, io vivo la mia vita». Però poi se ci penso mi fa rabbia. (...)
@@ -1137,7 +1171,7 @@ Non a caso oggi l’imprenditore è la figura più ammirata e il profitto è l�
 
 [Alessandro Barbero](https://amzn.to/3VmjcLE)
 
-# Leggenda
+## Leggenda
 23 marzo 2024
 
 > In un’antica leggenda giapponese si narra di un samurai bellicoso che un giorno sfidò un maestro Zen chiedendogli di spiegare i concetti di paradiso e inferno. Il monaco, però, replicò con disprezzo: “Non sei che un rozzo villano; non posso perdere il mio tempo con gente come te!”
@@ -1154,7 +1188,7 @@ Non a caso oggi l’imprenditore è la figura più ammirata e il profitto è l�
 
 Tratto da [Intelligenza Emotiva](https://amzn.to/491bABs), di David Goleman
 
-# De Crescenzo, non essere un follower
+## De Crescenzo, non essere un follower
 22 marzo 2024
 
 Non siate mai i follower di nessuno.
@@ -1177,7 +1211,7 @@ Nel suo [Il caffè sospeso](https://amzn.to/3PoXD9r), Luciano De Crescenzo scriv
 
 Siate dei lettori, dunque, ma non siate mai i seguaci e i follower di nessuno.
 
-# Congiuntivo
+## Congiuntivo
 21 marzo 2024
 
 La lingua italiana è una delle poche al mondo ad avere il congiuntivo. E i giornali lo usano sempre meno.
@@ -1192,7 +1226,7 @@ Il forse è la parola più bella della nostra lingua. «Perché apre delle possi
 
 Tratto da [Innamorarsi di Anna Karenina il sabato sera](https://amzn.to/4cig2P5) di Guendalina Middei
 
-# Ritorno-al-passato
+## Ritorno-al-passato
 19 marzo 2024
 
 Abbiamo bisogno di contadini, di poeti, di gente che sa fare il pane, che ama gli alberi e riconosce il vento. Più che l'anno della crescita, ci vorrebbe l'anno dell'attenzione.
@@ -1207,7 +1241,7 @@ Il pensiero sensuale è stato sconfitto e ora domina il pensiero funzionale, l'e
 
 Franco Arminio, [Cedi la strada agli alberi](https://amzn.to/3IJOBA1)
 
-# De-Crescenzo-sul-latino
+## De-Crescenzo-sul-latino
 15 marzo 2024
 
 Sono fuori moda: amo il latino e odio l’inglese.
@@ -1224,7 +1258,7 @@ Forse alla fine è per questo che mi piace tanto il latino: di gente che parla e
 
 Luciano De Crescenzo, [Il caffè sospeso](https://amzn.to/3PoXD9r)
 
-# Altro che cambiamento climatico
+## Altro che cambiamento climatico
 4 marzo 2024
 
 > Dal 2010 al 2023 la spesa per i danni da dissesto idrogeologico ha toccato i 46 miliardi, raggiungendo i 3,3 miliardi di euro in media all'anno.
@@ -1239,7 +1273,7 @@ Però la colpa è del cambiamento climatico.
 
 fonte: Il Sole 24 Ore, Lunedì 4 Marzo 2024 - N.63, pagina 4 (in basso a destra)
 
-# Schiavitù invisibile
+## Schiavitù invisibile
 4 marzo 2024
 
 Lavori 8 ore per viverne 4.
@@ -1257,7 +1291,7 @@ Siamo così abituati alla schiavitù materiale e sociale, che ancora non vediamo
 Anonimo
 dal web
 
-# Manna dal cielo
+## Manna dal cielo
 3 marzo 2024
 
 > Usa, il lancio degli aiuti a Gaza è stato un successo: Banco di prova per effettuarne altri
@@ -1266,7 +1300,7 @@ https://www.ansa.it/sito/notizie/topnews/2024/03/02/usa-il-lancio-degli-aiuti-a-
 
 La famosa "manna dal cielo".
 
-# Allevi, attacco al nichilismo
+## Allevi, attacco al nichilismo
 1 marzo 2024
 
 Il nichilismo e l’ateismo sono stati d’animo che ci stiamo lasciando alle spalle. Non sono neanche ragionevoli perché non sono rispettosi dell’immensità che anche solo un essere umano può rappresentare.
@@ -1285,7 +1319,7 @@ Il risultato del nichilismo è un perenne senso di inadeguatezza, di esclusione 
 
 Giovanni Allevi, [7 gennaio 2021](https://www.famigliacristiana.it/articolo/giovanni-allevi-la-meraviglia-si-nasconde-tra-le-pieghe-dellesistenza.aspx)
 
-# Barbero, non smettere di protestare
+## Barbero, non smettere di protestare
 28 febbraio 2024
 
 Alessandro Barbero: «Anche nelle democrazie c’è chi usa il manganello». Gli studenti non smettano mai di protestare. E poi parla di Assange
@@ -1302,7 +1336,7 @@ Come si racconta la guerra oggi: «C’è stato un cambiamento culturale straord
 
 https://www.youtube.com/watch?v=uRJqDlyrdKI
 
-# Allevi, siamo eterni
+## Allevi, siamo eterni
 27 febbraio 2024
 
 All’improvviso mi è crollato tutto. Non suono più il pianoforte davanti al pubblico da due anni. Nel mio ultimo concerto alla Konzerthaus di Vienna il dolore alla schiena era talmente forte che sull’applauso finale non riuscivo ad alzarmi dallo sgabello. E non sapevo ancora di essere malato. Poi è arrivata la diagnosi, pesantissima. Ho guardato il soffitto con la sensazione di avere la febbre a 39, per un anno consecutivo.
@@ -1317,7 +1351,7 @@ Quando tutto crolla e resta in piedi solo l’essenziale, il giudizio che ricevi
 
 Giovanni Allevi, Sanremo. [7 febbraio 2024](https://www.youtube.com/watch?v=swl_-gtLfaU)
 
-# Rodari-il-funerale-della-volpe
+## Rodari-il-funerale-della-volpe
 23 febbraio 2024
 
 Una volta le galline trovarono la volpe in mezzo al sentiero. Aveva gli occhi chiusi, la coda non si muoveva. - È morta, è morta - gridarono le galline. - Facciamole il funerale.
@@ -1336,7 +1370,7 @@ Essa sapeva che le galline hanno poca memoria e campò tutta la vita facendo la 
 
 Gianni Rodari, [Il secondo libro delle filastrocche](https://amzn.to/4bHSIdv)
 
-# Chiesa e massoneria
+## Chiesa e massoneria
 19 febbraio 2024
 
 L'arcivescovo di Milano, insieme ad altri membri della Chiesa, ha dedicato tempo e risorse a un “seminario” (virgolettato d'obbligo, visto l'uso paradossale del termine in questo contesto) con alcuni gran maestri della massoneria.
@@ -1353,7 +1387,7 @@ https://www.grandeoriente.it/chiesa-e-massoneria-il-gran-maestro-bisi-al-seminar
 
 https://blog.messainlatino.it/2024/02/larcivescovo-di-milano-dialoga.html
 
-# Genitore1 e genitore2
+## Genitore1 e genitore2
 17 febbraio 2024
 
 La Corte d’Appello di Roma ha [annullato](https://www.ansa.it/sito/notizie/topnews/2024/02/15/corte-dappello-su-carta-didentita-ok-genitore-1-e-2_1219ed1a-5eab-4b5f-baee-5f1b216bccfc.html) il decreto del Ministero dell’Interno del 2019 che imponeva la dicitura “padre e madre” al posto di “genitori” sulle carte d’identità elettroniche rilasciate a persone minorenni.
@@ -1366,7 +1400,7 @@ Il decreto ministeriale del 2019 infatti cercava proprio di porre un argine alla
 
 Cesare Mirabelli, presidente emerito della Corte Costituzionale, ha ricordato più volte che «L’impostazione del nostro sistema, orientata all’elemento naturale, prevede per l’atto di nascita un padre e una madre, non altre possibilità»; d'altronde padre e madre non sono imposizioni culturali né «concetti antropologici» ma pilastri fondamentali per la nascita e la crescita di ogni bambino.
 
-# Senza Dio siamo morti
+## Senza Dio siamo morti
 14 febbraio 2024
 
 Coloro che mandano la fede fuori dalla porta principale fanno entrare la superstizione dalla porta secondaria. È sempre così.
@@ -1381,7 +1415,7 @@ Quando l’efficienza diventa il valore massimo, allora la vita umana che non pu
 
 Dall'[intervista](https://de.catholicnewsagency.com/news/14904/kardinal-koch-das-christentum-ist-in-einer-sehr-kritischen-situation-in-europa) del quotidiano svizzero Weltwoche al cardinale Kurt Koch prefetto del Dicastero per la Promozione dell’Unità dei Cristiani.
 
-# Toto Cutugno, l'italiano
+## Toto Cutugno, l'italiano
 
 Musica, canzoni: è finito Sanremo. Li avete letti i testi? Ormai è quasi impossibile arrivare lì presentando canzoni che non siano politicamente corrette.
 
@@ -1423,7 +1457,7 @@ Eppure poco più di 40 anni fa Toto Cutugno riusciva, seppur debolmente, a fotog
 > Con la bandiera in tintoria
 > E una Seicento giù di carrozzeria.
 
-# Fukuoka-ritorno-alla-Natura
+## Fukuoka-ritorno-alla-Natura
 7 febbraio 2024
 
 > Le persone non mettono più piede sulla terra nuda. Le loro mani si sono allontanate da erbe e fiori, non rivolgono lo sguardo al cielo, le loro orecchie sono sorde al canto degli uccelli, il loro naso è diventato insensibile a causa dei fumi dei tubi di scappamento, e la loro lingua e il loro palato hanno dimenticato i sapori semplici della natura.
@@ -1436,7 +1470,7 @@ Eppure poco più di 40 anni fa Toto Cutugno riusciva, seppur debolmente, a fotog
 
 [Masanobu Fukuoka](https://amzn.to/3SF9Vwu), botanico e filosofo giapponese, pioniere dell'agricoltura naturale, autore de [La rivoluzione del filo di paglia](https://amzn.to/42n1OI9)
 
-# Augias, dominare le lingue
+## Augias, dominare le lingue
 6 febbraio 2024
 
 Un giovane che voglia avere davanti a sé una ragionevole porzione di futuro dovrebbe dominare (dico dominare, non balbettare) almeno tre livelli linguistici:
@@ -1447,7 +1481,7 @@ Un giovane che voglia avere davanti a sé una ragionevole porzione di futuro dov
 
 [Corrado Augias](https://amzn.to/3tQ77TH)
 
-# sull'agricoltura
+## sull'agricoltura
 5 febbraio 2024
 
 In questi giorni si parla tanto di agricoltura; così ho pensato di dire qualcosa anch'io.
@@ -1456,7 +1490,7 @@ Attraverso due numeri: quelli dei miliardi ([55,71](https://www.europarl.europa.
 
 Questione di priorità.
 
-# Granero, fedeli a Cristo
+## Granero, fedeli a Cristo
 5 febbraio 2024
 
 > Dopo il documento [Fiducia Supplicans](https://t.me/yuridiprodo/137) ho pensato a un giorno, alle elementari, quando, da bambini, giocando e stuzzicandoci l’uno con l’altro, un mio compagno mi tirò un ceffone e scappò ridendo. Lo inseguii e gliene diedi uno a mia volta. La maestra mi vide, mi sgridò e io reagii con classica giustificazione: “Ha incominciato lui”. E la maestra: “Però io ho visto te e ora vai in punizione”.
@@ -1471,7 +1505,7 @@ Questione di priorità.
 
 [Daniele Granero](https://www.aldomariavalli.it/2023/12/21/le-vostre-reazioni-alla-fiducia-supplicans-3/)
 
-# Pasolini, Chiesa come soluzione
+## Pasolini, Chiesa come soluzione
 2 febbraio 2024
 
 La Chiesa potrebbe essere la guida, grandiosa ma non autoritaria, di tutti coloro che rifiutano il nuovo potere consumistico che è completamente irreligioso; totalitario; violento; falsamente tollerante, anzi, più repressivo che mai; corruttore; degradante.
@@ -1480,7 +1514,7 @@ La Chiesa potrebbe essere la guida, grandiosa ma non autoritaria, di tutti color
 
 Tratto dagli [Scritti corsari](https://amzn.to/3HvbR4t) di Pier Paolo Pasolini per il Corriere della sera, 22 settembre 1974, dal titolo "I dilemmi di un Papa"
 
-# Cinque-minuti-prima-di-morire
+## Cinque-minuti-prima-di-morire
 30 gennaio 2024
 
 Uccidere chi ha ucciso è una punizione spaventosa rispetto al delitto.
@@ -1496,7 +1530,7 @@ Un condannato a morte diceva che quei cinque minuti gli erano parsi un tempo inf
 
 Fedor Dostoevskij, [L’idiota](https://amzn.to/3Ob0Bhl)
 
-# Italia, stop aiuti Palestina
+## Italia, stop aiuti Palestina
 28 gennaio 2024
 
 L'Italia ha sospeso i finanziamenti all'Unrwa, l'agenzia delle Nazioni Unite che sostiene i profughi palestinesi, per il suo presunto coinvolgimento nell'attacco di Hamas del 7 ottobre. Tajani: “Paesi Alleati hanno preso la stessa decisione”.
@@ -1509,7 +1543,7 @@ Complimenti per la perspicacia.
 
 https://www.repubblica.it/esteri/2024/01/27/diretta/israele_hamas_gaza_news_guerra_oggi-421993105/
 
-# Augias, a cosa serve studiare
+## Augias, a cosa serve studiare
 26 gennaio 2024
 Tanti auguri, Donat!
 
@@ -1527,7 +1561,7 @@ A COSA SERVE STUDIARE
 > 
 > Mi è tornato in mente quell’episodio indelebile leggendo che solo un ragazzo su venti capisce un testo. E penso agli altri diciannove, che faticano a evadere e rischiano l’ergastolo dell’ignoranza. Uno Stato democratico deve salvarli perché è giusto. E perché il rischio poi è immenso: le menti deboli chiedono l’uomo forte.
 
-# Crowe, Ascoli
+## Crowe, Ascoli
 25 gennaio 2024
 
 Il 3 gennaio l'attore Russell Crowe [scriveva](https://twitter.com/russellcrowe/status/1742466300923064735) su X: «Da qualche tempo sono alla ricerca dei miei antenati italiani, ma folkloristici racconti familiari ed errori di scrittura mi hanno mandato su tracce sbagliate».
@@ -1536,7 +1570,7 @@ Un messaggio sufficiente a mettere in moto la piccola Ascoli, «scatenando anche
 
 Così, [come ci racconta](https://www.ilrestodelcarlino.it/ascoli/cronaca/russell-crowe-documenti-trisavolo-6624f261) il Resto del Carlino, il buon Crowe può finalmente mettersi comodo e attendere gli sviluppi: delle sue origini adesso se ne stanno sentitamente occupando l’Archivio di stato di Ascoli, il cimitero del distretto di Waiuku, gli studiosi Grelli e Anselmi; diverse «ricerche su Parma, Genova, Cape Town e Auckland sono ancora in piedi».
 
-# Chaplin, il grande dittatore
+## Chaplin, il grande dittatore
 24 gennaio 2024
 
 Pensiamo troppo e sentiamo poco. Più che macchine ci serve umanità, più che abilità ci serve bontà e gentilezza.
@@ -1555,7 +1589,7 @@ Voi vi consegnate a questa gente senza un'anima! Uomini con macchine al posto de
 
 Charlie Chaplin, [Il grande dittatore](https://amzn.to/41Z2Uda)
 
-# Galimberti, abbiamo dimenticato la morte
+## Galimberti, abbiamo dimenticato la morte
 22 gennaio 2024
 
 Non abbiamo più le parole per nominare la morte perché l’abbiamo dimenticata.
@@ -1572,7 +1606,7 @@ Ma i ragazzi hanno bisogno di guardarsi in faccia, di ridere, di capire attraver
 
 Umberto Galimberti per GQ, [16 aprile 2020](https://www.gqitalia.it/news/article/umberto-galimberti-filosofo-coronavirs)
 
-# cardinale-Zen-attenzione-alla-sinodalità
+## cardinale-Zen-attenzione-alla-sinodalità
 19 gennaio 2024
 
 San Giovanni Paolo II all’inizio del suo pontificato ci chiedeva di non avere paura e di aprire le porte a Cristo, ma da quello che osservo mi sembra che molti nella Chiesa siano preoccupati di piacere al mondo compiacendolo.
@@ -1603,7 +1637,7 @@ Il caro pontefice Benedetto XVI, che ricordo con tanto affetto, ci metteva in gu
 
 Una bella [testimonianza](https://www.aldomariavalli.it/2023/12/29/dobbiamo-aprire-le-porte-a-cristo-non-al-mondo-sono-molto-preoccupato-per-la-chiesa-parla-il-cardinale-zen/) del vescovo emerito di Hong Kong, il cardinale Joseph Zen, che nel nuovo libro [Advent Reflections](https://amzn.to/4aU5hC0) propone le sue meditazioni sul tempo liturgico dell'Avvento.
 
-# Natale a Gerusalemme
+## Natale a Gerusalemme
 18 gennaio 2024
 
 Dagli archivi dei francescani di Gerusalemme la testimonianza di un anonimo pellegrino italiano. Il racconto di un Natale a Betlemme quasi settant’anni fa.
@@ -1628,7 +1662,7 @@ Tratto da: Almanacco della Terra Santa 1955, Tipografia dei Padri Francescani, G
 
 https://www.centrostudifederici.org/il-mio-natale-piu-bello-impressioni-di-un-pellegrino/
 
-# cardinale Cordes, senza Dio non siamo liberi
+## cardinale Cordes, senza Dio non siamo liberi
 
 > La morte di Dio in una società significa anche la fine della sua libertà, perché muore il senso che fornisce l'orientamento.
 >
@@ -1636,7 +1670,7 @@ https://www.centrostudifederici.org/il-mio-natale-piu-bello-impressioni-di-un-pe
 
 [Paul Josef Cordes](https://amzn.to/4aLkWn4), cardinale tedesco, amico e stretto collaboratore di papa Benedetto XVI
 
-# Franca Viola, la ragazza che disse NO
+## Franca Viola, la ragazza che disse NO
 
 [Franca Viola, la donna che cambiò la storia dell’Italia](https://amzn.to/4aGYRWK)
 
@@ -1652,7 +1686,7 @@ Sfida tutto e tutti: lo Stato che è contro di lei, la mafia, la legge, l'opinio
 
 Dopo mesi di dibattiti, otterrà giustizia: Filippo Melodia finisce in carcere, Franca è libera. Si sposa, diventa mamma. È solo nell'81 poi che il "matrimonio riparatore" sparisce dal codice penale italiano insieme al delitto d'onore. Grazie al coraggio di Franca Viola. Perché anche una sola persona, se lo vuole davvero, può cambiare un intero sistema.
 
-# Bauman, sull'introspezione
+## Bauman, sull'introspezione
 15 gennaio 2024
 
 L'introspezione è un'attività che sta scomparendo.
@@ -1669,7 +1703,7 @@ In quello che viene chiamato "silenzio di tomba" ci sentiamo a disagio. Perché?
 
 [Zygmunt Bauman](https://amzn.to/3vmMC1g)
 
-# Il pastore sardo che disse NO, e vinse
+## Il pastore sardo che disse NO, e vinse
 12 gennaio 2024
 
 Addio a Ovidio Marras, il pastore sardo che non si piegò alle aziende del cemento, e vinse
@@ -1686,7 +1720,7 @@ Decisione che scatenò una lunga battaglia legale durante la quale il pastore sa
 
 https://www.lindipendente.online/2024/01/12/addio-a-ovidio-marras-il-pastore-sardo-che-non-si-piego-alle-aziende-del-cemento-e-vinse//?tg_rhash=cb891b7c9401eb
 
-# Guareschi-sul-latino
+## Guareschi-sul-latino
 12 gennaio 2024
 
 Il latino è una lingua precisa, essenziale. Verrà abbandonata non perché inadeguata alle nuove esigenze del progresso, ma perché gli uomini nuovi non saranno più adeguati ad essa.
@@ -1697,7 +1731,7 @@ E il segreto consisterà nel fatto che egli, sfruttando un frasario approssimati
 
 Giovannino Guareschi, [Chi sogna nuovi gerani?](https://amzn.to/3vwbcg4)
 
-# Montalcini, impegno e ottimismo
+## Montalcini, impegno e ottimismo
 
 > La mia intelligenza? Più che mediocre. I miei unici meriti sono stati impegno e ottimismo.
 >
@@ -1705,7 +1739,7 @@ Giovannino Guareschi, [Chi sogna nuovi gerani?](https://amzn.to/3vwbcg4)
 
 [Rita Levi Montalcini](https://amzn.to/48qohGI)
 
-# Genitori idioti
+## Genitori idioti
 9 gennaio 2024
 
 Quando un genitore dice: «io non ho mai fatto mancare niente a mio figlio» esprime la sua totale idiozia. Perché se non ti manca niente a che ti servono la curiosità, l’ingegno, il talento?
@@ -1716,7 +1750,7 @@ Un genitore è un istruttore di volo, deve insegnarti a volare. Non è uno che s
 
 [Paolo Crepet, psichiatra e sociologo italiano](https://amzn.to/3GKKOS8)
 
-# Fallaci, l'abitudine
+## Fallaci, l'abitudine
 8 gennaio 2024
 
 L'abitudine è la più infame delle malattie perché ci fa accettare qualsiasi disgrazia, qualsiasi dolore, qualsiasi morte.
@@ -1727,7 +1761,7 @@ L'abitudine è il più spietato dei veleni perché entra in noi lentamente, sile
 
 Oriana Fallaci, [Un uomo](https://t.me/yuridiprodo/92)
 
-# Stalin, la gallina
+## Stalin, la gallina
 4 gennaio 2024
 
 > Un giorno Stalin prese una gallina, la strinse forte, e iniziò a spennarla. La gallina urlava dal dolore e tentava di scappare senza riuscirci. Stalin riuscì a toglierle tutte le piume e una volta terminata questa operazione, disse ai suoi aiutanti: «Adesso guardate cosa accade».
@@ -1738,7 +1772,7 @@ Oriana Fallaci, [Un uomo](https://t.me/yuridiprodo/92)
 
 E aveva ragione. Abbiamo la memoria corta. Ci è bastato poco per dimenticare che in guerra è sempre e soltanto il popolo che soffre e muore, e così inviamo soldi e armi per combattere guerre che non sono nostre, illusi di combatterle in nome della patria o di qualche ideale. L'Italia - diceva Pasolini - è un paese gattopardesco, dove tutto cambia per restare così com'è.
 
-# Pasolini, sulla solitudine
+## Pasolini, sulla solitudine
 3 gennaio 2024
 
 Io sono un uomo antico, che ha letto i classici, che ha raccolto l’uva nella vigna, che ha contemplato il sorgere o il calare del sole sui campi. Non so cosa farmene di un mondo creato con la violenza, dalla necessità della produzione e del consumo. Il mondo di oggi non lo vedo, non mi piace. Detesto tutto di esso: la fretta, la volgarità, l'arrivismo, la frenesia, le brutte maniere, il frastuono [...]
@@ -1749,7 +1783,7 @@ Io invece amo esser solo. Ho bisogno di essere solo: per contemplare, per pensar
 
 Pier Paolo Pasolini, riflessione rilasciata al giornalista inglese Peter Dragadze e pubblicata postuma nella raccolta "Quasi un testamento" della rivista "Gente" del 17 novembre 1975; oggi la trovate insieme a molte altre nel libro [Scritti corsari](https://amzn.to/46XInq5).
 
-# Fallaci-il-dolore-dell-anima
+## Fallaci-il-dolore-dell-anima
 2 gennaio 2024
 
 Incredibile come il dolore dell’anima non venga capito.
@@ -1768,7 +1802,9 @@ E a subirla ti senti ingannato, umiliato, sicché a volte cerchi la vendetta. Sc
 
 Oriana Fallaci, [Insciallah](https://amzn.to/41wOroc)
 
-# Papa Francesco, buon pranzo
+# 2023
+
+## Papa Francesco, buon pranzo
 27 dicembre 2023
 
 Pensavo fosse un video generato dall'AI; ormai vanno di moda. Invece è tutto vero.
@@ -1783,7 +1819,7 @@ Viviamo in tempi bui.
 
 Mai come in questo momento dobbiamo fare nostre le parole di Benedetto XVI, che nel suo [testamento spirituale](https://www.vatican.va/content/benedict-xvi/it/elezione/documents/testamento-spirituale-bxvi.html) ci esorta senza mezzi termini con il suo «rimanete saldi nella fede! Non lasciatevi confondere!» Non vedo altra soluzione.
 
-# Buon-Natale-teledramma
+## Buon-Natale-teledramma
 24 dicembre 2023
 
 Concludo questo breve ciclo di filastrocche domenicali con la più potente del libro: qui causa ed effetto ci vengono ripetuti come un mantra, sicché quel che fa la televisione all'essere umano non può essere più chiaro di così.
@@ -1891,7 +1927,7 @@ che perdere la libertà.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)
 
-# La guerra è pace
+## La guerra è pace
 22 dicembre 2023
 
 > «Figli? Sono morti 7.000 figli come mio figlio. Settemila! Chi è che ha parlato? Nessuno di voi ha parlato. Vergognatevi. Vi dovete vergognare».
@@ -1904,7 +1940,7 @@ L'autore lo definisce "portatore di pace". Da quando in qua missili e cannoni, c
 
 P.S. Lorenzo Lunati è lo stesso che nel 2021 ha realizzato il Babbo Natale danzatore in tutù, munito di schiuma sotto le ascelle per radersi i peli. «Un’opera criticata da molti perché considerata mezzo di promozione dell’ideologia gender». Noi diamo voce a queste persone qui.
 
-# Hopkins, Cancel culture è nuovo fascismo
+## Hopkins, Cancel culture è nuovo fascismo
 21 dicembre 2023
 
 La Cancel culture è il nuovo fascismo.
@@ -1921,7 +1957,7 @@ La strada verso la grande utopia è sempre un bagno di sangue.
 
 Anthony Hopkins, 20 Dicembre 2023
 
-# Papa Francesco, ok benedizioni gay
+## Papa Francesco, ok benedizioni gay
 20 dicembre 2023
 
 Il Papa ha detto che si può benedire l’unione di persone dello stesso sesso, purché ciò non venga confuso con la benedizione del matrimonio. (punto §31 della nuova [Fiducia supplicans](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/12/18/0901/01963.html)).
@@ -1942,7 +1978,7 @@ In sostanza a me pare il solito documento "alla Bergoglio", con dentro parti con
 
 Ecco, ci siamo.
 
-# Come controllare l'umanità
+## Come controllare l'umanità
 19 dicembre 2023
 
 Il sistema in cui viviamo ha delle regole e queste regole hanno un unico scopo: il Controllo.
@@ -1957,7 +1993,7 @@ La cosa più triste è che siamo noi stessi a renderci amara la vita, perché no
 
 [Rocco Bruno, Matrix Una Parabola Moderna](https://www.ibs.it/the-matrix-parabola-moderna-ebook-rocco-bruno/e/9781326145156)
 
-# Rodari, la testa del chiodo
+## Rodari, la testa del chiodo
 17 dicembre 2023
 
 Altra domenica, altra filastrocca di Rodari: questa volta l'autore usa il secondo senso di una parola per renderne assurdo il primo (la "palma" della mano, la "pianta" del piede...) in un simpatica serie di scambi che con la lingua italiana riesce benissimo.
@@ -1983,7 +2019,7 @@ a più d'una persona.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/46Ga72s)
 
-# Terzani-foto-all-umano
+## Terzani-foto-all-umano
 12 dicembre 2023
 
 L’uomo è una strana creatura, la più distruttiva che sia mai comparsa sulla faccia della Terra.
@@ -1994,7 +2030,7 @@ Questo uomo è penoso, penoso! Millenni per non progredire di un passo. Il mondo
 
 Tiziano Terzani, [La fine è il mio inizio](https://amzn.to/48dR3K5)
 
-# Galimberti, avarizia
+## Galimberti, avarizia
 11 dicembre 2023
 
 L'avarizia è il più stupido dei vizi capitali perché gode di una possibilità, o se si preferisce di un potere, che non si realizza mai.
@@ -2010,7 +2046,7 @@ Quindi l’avaro ha paura della morte, non accetta la condizione di mortale che 
 
 Umberto Galimberti, [I vizi capitali e i nuovi vizi](https://amzn.to/46IGxJI)
 
-# Rodari-il-dittatore
+## Rodari-il-dittatore
 10 dicembre 2023
 
 Per queste domeniche ho deciso di condividere alcune poesie tratte da un libro di filastrocche di Gianni Rodari. Sono per me le più significative sia per il messaggio che danno che per i pensieri che ne scaturiscono, ma sono belle tutte ed è un acquisto che consiglio vivamente anche più di altri.
@@ -2036,7 +2072,7 @@ una riga più in basso.
 
 Gianni Rodari, [Filastrocche in cielo e in terra](https://amzn.to/3sU9KDE)
 
-# Hugo-amate-le-anime
+## Hugo-amate-le-anime
 7 dicembre 2023
 
 Guai a chi avrà amato solo corpi, forme, apparenze. La morte gli toglierà tutto.
@@ -2045,7 +2081,7 @@ Cercate di amare le anime. Le ritroverete.
 
 Victor Hugo, [I Miserabili](https://amzn.to/3SRMdO2)
 
-# Pasolini, sulla sconfitta
+## Pasolini, sulla sconfitta
 6 dicembre 2023
 
 Penso che sia necessario educare le nuove generazioni al valore della sconfitta, alla sua gestione, all'umanità che ne scaturisce; a costruire un'identità capace di avvertire una comunanza di destino, dove si può fallire e ricominciare senza che il valore e la dignità ne siano intaccati; a non divenire uno sgomitatore sociale; a non passare sul corpo degli altri per arrivare primo.
@@ -2056,7 +2092,7 @@ A questa antropologia del vincente preferisco di gran lunga chi perde. E' un ese
 
 [Pier Paolo Pasolini](https://amzn.to/47yyWOT)
 
-# Omicidio Cecchettin
+## Omicidio Cecchettin
 1 dicembre 2023
 
 Avevo deciso di non parlarne proprio perché ne parlano tutti, anche a sproposito, specie attraverso l'abuso della parola patriarcato (ricordate quando durante la pandemia si usava indebitamente la parola resilienza?)
@@ -2073,7 +2109,7 @@ Ma come si fa, con che coraggio dico io, con quale spirito si può arrivare a sf
 
 ...giusto? siamo ancora esseri umani, vero?
 
-# Figli meno intelligenti
+## Figli meno intelligenti
 30 novembre 2023
 
 Da circa 10 anni i figli stanno crescendo meno intelligenti dei genitori. Non era mai accaduto.
@@ -2106,7 +2142,7 @@ Bibliografia e sitografia di riferimento
 - A. Bandura, Autoefficacia: teoria e applicazioni, Erikson, 2000
 - I. Lagreca, Il ruolo delle emozioni nell’apprendimento.
 
-# Russell-sulla-compassione
+## Russell-sulla-compassione
 29 novembre 2023
 
 Tre passioni, semplici ma straordinariamente forti, hanno governato la mia vita: la sete d’amore, la ricerca della conoscenza, e una struggente compassione per le sofferenze dell’umanità.
@@ -2121,7 +2157,7 @@ Ho sempre desiderato alleviare i mali del mondo, e per questo ho combattuto. Per
 
 Bertrand Russell, [L’autobiografia](https://amzn.to/3GluuY4)
 
-# Rodari, pesi e misure
+## Rodari, pesi e misure
 28 novembre 2023
 
 [PESI E MISURE](https://amzn.to/49NXWmO)
@@ -2152,7 +2188,7 @@ magari dal suo colore,
 mentre dell'uomo conta
 non la pelle, ma il cuore.
 
-# Intervista-al-genio
+## Intervista-al-genio
 22 novembre 2023
 
 Stabilito che le disgrazie sono fatte per gli uomini, perché arrabbiarsi contro le disgrazie? Sarebbe come arrabbiarsi perché piove, o perché c’ è il sole, o perché si muore. La morte esiste, la pioggia esiste, la cecità esiste: e ciò che esiste va accettato. Disperarsi a che serve? A vederci meglio?
@@ -2163,7 +2199,7 @@ Signorina mia, ciascuno ha da portare una croce e la felicità, creda a me, non 
 
 Totò in [Intervista con il mito](https://amzn.to/3MH9ZIE)
 
-# Galimberti, sul denaro
+## Galimberti, sul denaro
 21 novembre 2023
 
 Quando il denaro diventa il fine ultimo, tutti i beni che non sono di natura economica come l’intelligenza, la cultura, l’arte, la bellezza, l’amore, cessano di essere valori in sé, perché lo diventano limitatamente alla loro convertibilità in denaro. La nostra cultura purtroppo ha assunto il denaro come unico generatore simbolico di tutti i valori. Nel frattempo da questa cultura gli uomini sono percepiti unicamente come produttori e consumatori.
@@ -2172,7 +2208,7 @@ La produzione però non si limiterà a produrre beni, ma, con la pubblicità, pr
 
 [Umberto Galimberti](https://amzn.to/3FZTCTK)
 
-# Galimberti, gli insegnanti
+## Galimberti, gli insegnanti
 16 novembre 2023
 
 L’insegnante deve insegnare. Per farlo serve una capacità empatica e comunicativa, la fascinazione. Se non apri il cuore, non apri nemmeno la testa delle persone.
@@ -2191,7 +2227,7 @@ Lo ripeto, se uno non sa affascinare, non può fare il professore. Lo dice Plato
 
 [Umberto Galimberti](https://amzn.to/45Ucoqk)
 
-# Hesse, sull'amore
+## Hesse, sull'amore
 11 novembre 2023
 
 Imparai che essere amati non è niente, mentre amare è tutto, e sempre più mi parve di capire ciò che da valore e piacere alla nostra esistenza non è altro che la nostra capacità di sentire. Ovunque scorgessi sulla terra qualcosa che si potesse chiamare “felicità”, consisteva di sensazioni.
@@ -2208,7 +2244,7 @@ Amore è ogni moto della nostra anima in cui essa senta se stessa e percepisca l
 
 Herman Hesse, [Sull’amore](https://amzn.to/3QoIWCZ)
 
-# Chi muore lentamente
+## Chi muore lentamente
 9 novembre 2023
 
 Lentamente muore
@@ -2242,7 +2278,7 @@ richiede uno sforzo di gran lunga maggiore del semplice fatto di respirare.
 
 [Martha Medeiros](https://amzn.to/40cfN2D)
 
-# Russell: Dissentire, domandare, dubbiosi
+## Russell: Dissentire, domandare, dubbiosi
 8 novembre 2023
 
 Non smettete mai di protestare; non smettete mai di dissentire, di porvi domande, di mettere in discussione l’autorità, i luoghi comuni, i dogmi. Non esiste la verità assoluta. Non smettete di pensare.
@@ -2253,7 +2289,7 @@ Un uomo che non dissente è un seme che non crescerà mai.
 
 [Bertrand Russell](https://amzn.to/3tUeR6W)
 
-# Coscienza-e-inconscio-i-due-livelli-umani
+## Coscienza-e-inconscio-i-due-livelli-umani
 7 novembre 2023
 
 Nell’essere umano esistono due livelli: quello della coscienza e quello dell’inconscio.
@@ -2268,7 +2304,7 @@ Un modo in cui si esprime la sapienza superiore dell’inconscio sono i sogni.
 
 Carl Gustav Jung, [Il libro rosso](https://amzn.to/3tY9iV3)
 
-# Chi-siamo
+## Chi-siamo
 1 novembre 2023
 
 Non si riesce più a sapere chi siamo. È il fenomeno caratteristico che subentra non appena una situazione archetipica diventa schiacciante. Quando un archetipo è costellato, vi è continuamente il pericolo di assimilazione all'archetipo.
@@ -2281,7 +2317,7 @@ L'individuo non si rende conto di essersi dissolto, sebbene abbia perduto la tes
 
 Carl Gustav Jung, [Gli archetipi dell'inconscio collettivo](https://amzn.to/3Q6Evg9)
 
-# Terzani-problemi-la-molla-della-ricerca-spirituale
+## Terzani-problemi-la-molla-della-ricerca-spirituale
 30 ottobre 2023
 
 Chi vuole una vita senza problemi è come quel contadino che va per la prima volta a una partita di calcio e si arrabbia con l'arbitro perché ha dato ai ventidue giocatori un solo pallone e quelli sono costretti a corrergli sempre dietro.
@@ -2293,7 +2329,7 @@ I problemi sono la molla della ricerca spirituale. Se uno non si sentisse misero
 
 Tiziano Terzani, [Un altro giro di giostra](https://amzn.to/49dqF45)
 
-# Saggezza sul tempo da perdere
+## Saggezza sul tempo da perdere
 26 ottobre 2023
 
 Ho contato i miei anni ed ho scoperto che ho meno tempo da vivere rispetto a quanto ho vissuto finora.
@@ -2312,7 +2348,7 @@ Ho fretta per vivere con l’intensità che solo la maturità ci può dare. Il m
 
 [Mario de Andrade](https://amzn.to/45Jh3v9)
 
-# pro aborto in USA, illusioni
+## pro aborto in USA, illusioni
 25 ottobre 2023
 
 Negli Stati Uniti, in Ohio, nel corso della battaglia per l’introduzione nella legge statale di un emendamento pro aborto, gli abortisti utilizzano immagini sacre per far credere che la Chiesa cattolica sia dalla loro parte.
@@ -2327,7 +2363,7 @@ Ecco così che l’Ohioans United for Reproductive Rights, gruppo abortista ben 
 
 https://www.aldomariavalli.it/2023/10/20/e-ora-i-pro-aborto-arruolano-la-divina-misericordia/
 
-# Dostoevskij, l'uomo si isola
+## Dostoevskij, l'uomo si isola
 24 ottobre 2023
 
 Ora ognuno tende a separare la propria persona dagli altri, ognuno vuol sentire in se stesso, da solo, la pienezza della vita, ma intanto, invece di questa pienezza, il risultato di tutti i suoi sforzi è un completo suicidio, perché si cade nell’isolamento assoluto.
@@ -2342,7 +2378,7 @@ Per rifare un mondo nuovo bisogna che gli uomini, psichicamente, si indirizzino 
  
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
-# La-prova-di-Schopenhauer
+## La-prova-di-Schopenhauer
 23 ottobre 2023
 
 «Si racconta che fosse solito cenare presso l'Englischer Hof, un ristorante frequentato da ufficiali inglesi. Prima di mangiare metteva sul tavolo davanti a sé una moneta d'oro. E se la rimetteva in tasca quando terminava.
@@ -2355,7 +2391,7 @@ Beh, vedo che dopo 150 anni la situazione è la stessa: calcio, donne e macchine
 
 Nicola Pesce, scrittore. Autore de [La volpe che amava i libri](https://amzn.to/3s3tFPV)
 
-# Non bloccate i bambini!
+## Non bloccate i bambini!
 18 ottobre 2023
 
 Il bambino nasce filosofo, pone domande, ascolta, elabora risposte;
@@ -2373,7 +2409,7 @@ Piano piano spegne la fiamma e il bambino vivo diventa un adulto morto.
 
 Egon Schiele, pittore e incisore austriaco. 1890-1918
 
-# Amore-non-in-vendita
+## Amore-non-in-vendita
 16 ottobre 2023
 
 Il mercato ha fiutato nel nostro bisogno disperato di amore l'opportunità di enormi profitti. E ci alletta con la promessa di poter avere tutto senza fatica: soddisfazione senza lavoro, guadagno senza sacrificio, risultati senza sforzo, conoscenza senza un processo di apprendimento.
@@ -2386,7 +2422,7 @@ Ma possiamo comprare tutto, non l'amore. Non troveremo l'amore in un negozio. L'
 
 Zygmunt Bauman, [Amore liquido](https://amzn.to/3PPOCpe)
 
-# Middei-distrazioni
+## Middei-distrazioni
 13 ottobre 2023
 
 Ci ha mai fatto caso? Tutti hanno sempre qualcosa da fare. Vanno sempre da qualche parte.
@@ -2397,7 +2433,7 @@ Così non c’è tempo per pensare.
 
 Guendalina Middei, [Intervista con un matto](https://amzn.to/46BpDgq)
 
-# Il mondo di oggi
+## Il mondo di oggi
 12 ottobre 2023
 
 Viviamo in un mondo in cui:
@@ -2412,7 +2448,7 @@ Viviamo in un mondo in cui:
 
 [Chris Hedges](https://amzn.to/48Iv8eX), giornalista, scrittore ed ex corrispondente di guerra statunitense
 
-# Siamo quasi tutti predisposti alla sottomissione
+## Siamo quasi tutti predisposti alla sottomissione
 10 ottobre 2023
 
 La maggior parte dell’umanità è predisposta alla sottomissione. Gente inconsapevole, gestita completamente.
@@ -2427,7 +2463,7 @@ C’è invece un piccolissimo gruppo di esseri umani che sono “difetti di fabb
 
 [Giovanni Cianti](https://amzn.to/3PLZAMr)
 
-# in che tipo di civilità viviamo
+## in che tipo di civilità viviamo
 7 ottobre 2023
 
 Per capire il presente bisogna innanzitutto capire in che tipo di civiltà viviamo.
@@ -2446,14 +2482,14 @@ Viviamo sotto un fosco orizzonte.
 
 Martino Mora. [Secolarizzato, erotizzato, fluido. Il fosco orizzonte di questo Occidente prigioniero delle proprie “liberazioni”](https://www.aldomariavalli.it/2023/09/14/secolarizzato-erotizzato-fluido-il-fosco-orizzonte-di-questo-occidente-prigioniero-delle-proprie-liberazioni/amp/)
 
-# Diogene, lotta alla sottomissione
+## Diogene, lotta alla sottomissione
 5 ottobre 2023
 
 Un giorno Diogene stava mangiando la sua cena, una cena semplice fatta di pane e lenticchie, quando Aristippo di Cirene andò a trovarlo. Questo Aristippo era un uomo ricchissimo che viveva nel lusso, grazie alle lodi che usava tessere a principi e re.
 
 Aristippo disse a Diogene: «Vedo che stai mangiando una cena molto povera. Voglio darti un consiglio. Se tu imparassi ad essere ossequioso con il re, non saresti costretto a mangiare lenticchie». Diogene si girò verso l'amico e gli rispose: «Voglio darti anch’io un consiglio: impara ad amare le lenticchie. Se tu avessi imparato a vivere mangiando lenticchie, ora non saresti costretto ad adulare il re e a vivere da schiavo cercando di soddisfare ogni sua esigenza».
 
-# Galimberti-societa-oggi
+## Galimberti-societa-oggi
 26 settembre 2023
 
 L’intimo è ciò che si nega al pubblico per concederlo solo a chi si vuol far entrare nel proprio segreto profondo. Il pudore, che difende la nostra intimità, difende anche la nostra libertà.
@@ -2465,7 +2501,7 @@ Ciò produce una metamorfosi dell’individuo che ormai si riconosce solo nella 
 
 Umberto Galimberti, [Il libro delle emozioni](https://amzn.to/45bYm2S)
 
-# Gramsci-quando-si-diventa-vecchi
+## Gramsci-quando-si-diventa-vecchi
 23 settembre 2023
 
 Carissima mamma,
@@ -2479,7 +2515,7 @@ In questo senso sono sicuro che neanche tu sei diventata vecchia nonostante la t
 
 Antonio Gramsci, [Lettere dal carcere](https://amzn.to/3Px44qo)
 
-# obbiedenza-come-tentazione
+## obbiedenza-come-tentazione
 22 settembre 2023
 
 A Norimberga son stati condannati uomini che avevano obbedito. L'umanità intera consente che essi non dovevano obbedire, perché c'è una legge che gli uomini considerano superiore.
@@ -2494,7 +2530,7 @@ C'è un modo solo per uscire da questo macabro gioco di parole. Avere il coraggi
 
 Lorenzo Milani, [Lettera ai giudici](https://amzn.to/3PGGgS2)
 
-# Dostoevskij, schiavi inconsapevoli
+## Dostoevskij, schiavi inconsapevoli
 15 settembre 2023
 
 Li convinceremo che saranno liberi soltanto quando rinunceranno alla loro libertà in nostro favore e si sottometteranno a noi.
@@ -2512,7 +2548,7 @@ I segreti più tormentosi della loro coscienza li porteranno a noi; noi risolver
 
 Fedor Dostoevskij, [I fratelli Karamazov](https://amzn.to/44QD4YG)
 
-# Dostoevskij-la-bellezza-del-mondo
+## Dostoevskij-la-bellezza-del-mondo
 29 agosto 2023
 
 Ma io dichiaro che Shakespeare e Raffaello stanno al di sopra della liberazione dei servi della gleba, al di sopra della nazionalità, al di sopra del socialismo, al di sopra della giovane generazione, al di sopra della chimica, quasi al di sopra dell’umanità intera, poiché sono il frutto di tutta l’umanità e forse il più alto frutto che mai possa esistere! Uomini meschini, che cosa vi manca per capire? 
@@ -2521,7 +2557,7 @@ Ma lo sapete voi che senza gli inglesi l’umanità può ancora vivere, può viv
 
 Fedor Dostoevskij, [I demoni](https://amzn.to/3R4sUAp)
 
-# Fromm-il-senso-della-solitudine
+## Fromm-il-senso-della-solitudine
 17 agosto 2023
 
 Esistono tre modi con cui l’uomo tenta di superare il senso di solitudine: la sessualità, il conformismo e l’attività creativa.
@@ -2534,7 +2570,7 @@ Un terzo modo per raggiungere l’unione è l’attività creativa: sia che il c
  
 Erich Fromm, [L’arte di amare](https://amzn.to/3DY0FLE)
 
-# Abruzzo, casa antisismica in 6 ore
+## Abruzzo, casa antisismica in 6 ore
 3 agosto 2023
 
 La nuova casa made in Italy che si costruisce in 6 ore e resiste ai terremoti
@@ -2549,7 +2585,7 @@ I prezzi, consultabili nel sito ufficiale del produttore, partono da 28.000 euro
 
 https://madihome.com/
 
-# Gramsci, fate il vostro
+## Gramsci, fate il vostro
 31 luglio 2023
 
 Ciò che avviene, non avviene tanto perché alcuni vogliono che avvenga, quanto perché la massa degli uomini abdica alla sua volontà, lascia fare, lascia promulgare le leggi che poi solo la rivolta farà abrogare, lascia salire al potere gli uomini che poi solo un ammutinamento potrà rovesciare.
@@ -2560,7 +2596,7 @@ Alcuni piagnucolano pietosamente, altri bestemmiano oscenamente, ma nessuno o po
 
 Antonio Gramsci, 11 febbraio 1917
 
-# Galimberti-dare-senso-alla-vita
+## Galimberti-dare-senso-alla-vita
 27 luglio 2023
 
 I giovani, anche se non sempre lo sanno, stanno male. E non per le solite crisi esistenziali che costellano la giovinezza, ma perché un ospite inquietante, il nichilismo, si aggira tra loro, penetra nei loro sentimenti, confonde i loro pensieri, fiacca la loro anima, intristisce le passioni.
@@ -2575,7 +2611,7 @@ Se questo senso non si dà, se non c'è neppure la prospettiva di poterlo reperi
 
 Umberto Galimberti, [Il nichilismo e i giovani](https://amzn.to/3Y9Xavd)
 
-# Ubuntu: io sono perché siamo
+## Ubuntu: io sono perché siamo
 26 luglio 2023
 
 Un antropologo ha proposto un gioco ai bambini di una tribù africana. Ha messo un cesto di frutta vicino ad un albero e ha detto ai bambini che chi arriva per primo, vince i dolci frutti.
@@ -2588,7 +2624,7 @@ Quando chiese loro perché avevano corso insieme, poiché uno avrebbe potuto ave
 
 Ubuntu nella loro civiltà significa: "io sono perché siamo": quella tribù conosce il segreto della felicità che si è perso in tutte le società che le trascendono e che si considerano società civilizzate.
 
-# Giulietto-Chiesa-educazione-delle-masse
+## Giulietto-Chiesa-educazione-delle-masse
 24 luglio 2023
 
 L'educazione delle masse è stata assunta dalla televisione.
@@ -2605,7 +2641,7 @@ Cento trasmissioni sulla famosa “mamma di Cogne” sono devastanti per lo stat
  
 Giulietto Chiesa, [È arrivata la bufera](https://amzn.to/46WA8vy)
 
-# Medjugorje, quando la Madonna pianse per delle parolacce
+## Medjugorje, quando la Madonna pianse per delle parolacce
 21 luglio 2023
 
 «Quando la Madonna li chiamò, Ella non si trovava nel posto dove si trova adesso la statua, bensì una trentina di metri più in basso sulle rocce, dove si vede meglio. Tra le persone che quel giorno non videro la Madonna io fui tra i primi ad arrivare in cima, correndo con loro verso la sommità della collina. Essi erano inginocchiati, ed era come se parlassero, ma non sentivo la loro voce. Per questo motivo ero un poco arrabbiato, alzai la voce, imprecai com’ero solito fare, ed essi dissero: “Se ne va”. Se n’era andata a causa della mia rabbia e ne ero un poco imbarazzato. Non erano trascorsi neppure una quindicina di secondi che essi si inginocchiarono di nuovo. “Ecco, sta tornando!”, dissero quasi contemporaneamente. “Ivan, cos’hai detto… Delle lacrime sono scese sul Suo viso, ne siamo addolorati”», disse la veggente Marija Pavlović a Ivan in tono di rimprovero, ed egli, pieno di vergogna, fece il segno della croce.
@@ -2620,7 +2656,7 @@ La Regina della Pace a Medjugorje ci chiama a percorrere la strada della santit�
 
 https://lanuovabq.it/it/medjugorje-quando-la-madonna-pianse-per-delle-parolacce
 
-# Pasolini, l'imbecillità adulta
+## Pasolini, l'imbecillità adulta
 18 luglio 2023
 
 > Voi giovani avete un unico dovere: quello di razionalizzare il senso di imbecillità che vi danno i grandi, con le loro solenni Ipocrisie, le loro decrepite e faziose Istituzioni.
@@ -2632,7 +2668,7 @@ https://lanuovabq.it/it/medjugorje-quando-la-madonna-pianse-per-delle-parolacce
 
 Pier Paolo Pasolini
 
-# Per le emissioni zero statevene a casa; certo
+## Per le emissioni zero statevene a casa; certo
 18 luglio 2023
 
 Auto e batterie più piccole, l'ecologismo passa anche da qui
@@ -2643,7 +2679,7 @@ Viaggiare meno e su auto più piccole per perseguire l'obiettivo delle emissioni
 
 [mio articolo per Macitynet](https://www.macitynet.it/auto-e-batterie-piu-piccole-la-svolta-elettrica-passa-anche-da-qui/)
 
-# Assange, video Collateral Murder
+## Assange, video Collateral Murder
 12 luglio 2023
 
 Il 12 luglio 2007 l’esercito americano lanciò un attacco aereo contro dei civili a Baghdad (Iraq). Furono uccise 18 persone innocenti mentre i piloti degli elicotteri se la ridevano come se stessero giocando a un videogame. Potete vedere tutto in questo noto video denominato “Collateral Murder”. 
@@ -2652,14 +2688,14 @@ I responsabili di questo crimine di guerra - a partire da George W. Bush - non h
 
 Colui invece che ha reso pubblico questo [video](https://t.me/matteogracis/1104) - Julian Assange attraverso la sua WikiLeaks - è in una cella di isolamento nelle prigioni inglesi e gli Stati Uniti d’America hanno chiesto l’estradizione per condannarlo a 175 anni di carcere.
 
-# occhio-ai-giudizi
+## occhio-ai-giudizi
 21 giugno 2023
 
 Ognuno è un genio. Ma se si giudica un pesce dalla sua abilità di arrampicarsi sugli alberi lui passerà tutta la sua vita a credersi uno stupido. Albert Einstein.
 
 Per approfondire: [Descolarizzare la società](https://amzn.to/46iWZRG), di Ivan Illich
 
-# Referendum stop alle bombe
+## Referendum stop alle bombe
 12 giugno 2023
 
 Al di là del fare i leoni al bar o sui social, c'è un solo modo per interrompere l'invio di armi in Ucraina da parte dell'Italia.
@@ -2674,7 +2710,7 @@ La campagna referendaria è organizzata dal Comitato di Generazioni Future presi
 
 Volantino: https://generazionifuture.org/wp-content/uploads/VOLANTINO.pdf
 
-# Le traduzioni errate della Bibbia
+## Le traduzioni errate della Bibbia
 12 maggio 2023
 
 Riguardo la Bibbia, colui che si fa chiamare Investigatore Biblico ci fa notare come «non tutti hanno conoscenza delle precedenti traduzioni. Questo significa che chi verrà nel futuro, semplicemente, non conoscerà».
@@ -2691,7 +2727,9 @@ A tal proposito, il poeta Charles Baudelaire diceva che «il capolavoro di Satan
 
 https://investigatorebiblico.wordpress.com/2023/05/08/indizio-n-135-bibbia-cei-2008-lucifero-diventa-astro-del-mattino-in-isaia-ennesima-traduzione-insensata-della-cei-2008-di-investigatore-biblico/
 
-# La felicità di una volta
+# 2021
+
+## La felicità di una volta
 16 agosto 2021
 
 > Io me la ricordo la felicità, era fatta di operai che andavano al mare quel giorno di agosto, tutti. Con le macchine senza aria condizionata, con i portapacchi piene di valigie e le autostrade senza bollini neri. Erano gli anni dove i pensionati potevamo permettersi la giusta ricompensa dopo una vita di sacrifici, erano gli anni delle spiagge con i tavolini e le paste al forno, e quei contenitori frigo, più forniti dei supermercati.
