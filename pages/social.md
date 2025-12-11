@@ -2,36 +2,59 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 # 2025
 
-## la verità su Gaza
-GG MM 2025
+## Jessica Mitford
+11 dicembre 2025
 
-Sulla guerra a Gaza, la TV e i giornali ci mostrano soltanto quello che Israele vuole rendere pubblico. Grazie al racconto dell'operatore umanitario Gennario Giudetti possiamo vedere l'altra faccia della medaglia da chi ha vissuto sotto quelle bombe per 9 mesi.
+La Terza Guerra Mondiale è già in corso e non ce ne rendiamo ancora conto.
 
-Sintesi: "sulla Striscia tutto ciò che entra ed esce è controllato da Israele.
+Copincolla: "Di solito gli eventi che fanno la storia sembrano infiniti, quando ci si vive dentro. Solo anni dopo gli elementi essenziali compaiono in prospettiva, condensati e riassunti in frasi facili per i libri di storia: «la Guerra dei Trent'anni», «la Restaurazione», «la Rivoluzione industriale». Nella vita vera, la maturazione della crisi che porta a un cambiamento nel governo, il corso dei negoziati e delle conferenze internazionali che modellano il destino di una generazione, gli alti e bassi delle battaglie che decidono il risultato di una guerra si svolgono in un folle ralenti, il significato decisivo di ciascuna fase viene spesso oscurato e sepolto sotto montagne di fogli di giornale, ipotesi, voci incontrollate, ripetizioni, articoli «ispirati», commenti pro e contro." Dal capitolo 33 di [Figlie e ribelli](https://amzn.to/3MTuvZr), di Jessica Mitford
 
-LA MACCHINA DELLA PROPAGANDA - Le notizie che possono essere pubblicate le scrive Israele: i giornali semplicemente pubblicano i comunicati stampa tradotti. Nessuna intervista ai palestinesi. 62.000 sono i morti certificati: gli effettivi sono almeno 200.000, se non di più, perché sotto le macerie si riesce a recuperare soltanto quelli che rimangono in superficie e le ruspe non possono aiutare a sollevare le macerie altrimenti vengono bombardate.
+## Barbero, logica del riarmo
+27 novembre 2025
 
-A COSA SERVONO SCIOPERI E MANIFESTAZIONI - (1) Creano disagio alla città e al paese; (2) ti rendi conto che non sei solo. E siccome la Politica si muove anche con i voti, così facendo metti pressione affinché faccia qualcosa per la Palestina. Sono una valanga che non si può fermare: quando c'è tanta gente che manifesta, la TV non può restare indifferente: è costretta a filmare e a quel punto la verità viene a galla.
+La logica del riarmo e delle alleanze spiegata brillantemente dal professor Barbero. Per capire dove siamo diretti, con un'aggravante: è già successo, e non abbiamo imparato niente.
 
-È GENOCIDIO - Normalmente in guerra le bombe vengono sganciate senza criteri colpendo civili, case, ma anche il nulla. Qui invece hanno distrutto con precisione chirurgica porti, strade, tubature dell'acqua, fogne, impianti della corrente, università, centri di cultura. È in corso anche un ecocidio perché adesso i terreni agricoli rappresentano soltanto 1,5% della terra coltivabile. E a sorvolare i cieli non c'è solo Israele ma tutte le intelligence del mondo compresi i droni inglesi e americani.
+https://youtu.be/FkvMvmsdWZc
 
-SENZA SCELTA - Ti telefonano e ti dicono "adesso devi collaborare con Israele: vai in quella via, sali su quel palazzo e ci dici se dentro c'è qualcuno di Hamas". Se non rispondi, geolocalizzano il telefono e chiamano una persona vicino a te chiedendole "mi passi tizio". A quel punto se non collabori ti buttano il drone addosso. Se collabori, diventi una loro spia.
+## Suicidio gemelle Kessler
+18 novembre 2025
 
-GIOCHI DI POTERE - Hanno diviso la terra in settori e ogni giorno spostano la popolazione da una zona all'altra per vedere come reagisce. Oggi sei nel lotto 2? vai nel lotto 10: e tu in poche ore devi smontare la tenda e scappare il più rapidamente possibile.
+È paura della sofferenza, un baratro del nostro tempo che Benedetto XVI aveva brillantemente [definito](https://ladiscussione.com/216376/attualita/ratzinger-ed-il-ruolo-pubblico-del-cristianesimo/) "delirio luciferino di onnipotenza". La morte delle gemelle Kessler non è stata una coincidenza: hanno scelto l'eutanasia.
 
-SULLA TREGUA - la tregua non sarà mai reale finché sarà l'Occidente a decidere sulla Striscia. Tanto più per come è concepita adesso: i palestinesi non siedono al tavolo dei negoziati, il 50% della terra rimane sotto il controllo di Israele, la Cisgiordania non fa parte degli accordi quindi lì continuerà la guerra. Serve l'autodeterminazione dei popoli. 
+Copincolla: "Iva Zanicchi osserva: "Lo capisco, erano molto anziane, magari ammalate. Ogni caso va letto a sé e noi non conosciamo bene le cose, ma a me la notizia della loro scelta sconvolge. La vita è per me così sacra e così preziosa che bisogna avere, diciamolo pure, il coraggio di viverla fino all'ultimo istante perché è un dono prezioso. Ho tanta compassione per loro, capisco la tragedia e immagino queste due donne, anziane, che hanno voluto morire insieme, perché avevano vissuto sempre insieme. Ma dall'altro lato sono sincera, mi sconvolge. Questo fatto mi addolora, è lontano dalla mia mentalità".
 
-CARESTIA PROGRAMMATA - Già prima del 7 ottobre Israele controllava il cibo che entrava definendo la quantità di calorie che le persone potevano assumere. Non fanno entrare il cibo nutriente, come il latte in polvere 0-3 per i neonati, o il burro di arachidi perché è una bomba energetica e risolverebbe il problema.
+https://www.adnkronos.com/spettacoli/morte-insieme-le-gemelle-kessler-da-mara-venier-a-iva-zanicchi-il-ricordo-dallitalia_565mxhYR68DPxJYQg5JvZs
 
-ISRAELE INARRESTABILE - Anche se c'è un mandato di cattura della Corte di Giustizia Internazionale e ONU e Nazioni Unite hanno detto che è in corso un genocidio, Israele ha dalla sua parte gli USA insieme a gran parte di governi occidentali, stampa e colossi economici e commerciali.
+## La Guerra è Pace
+17 novembre 2025
 
-ATTACCO DAL LATO POLITICO - Dicono che chi difende Gaza è antisemita. Ma che centra la religione? non è contro gli ebrei, ma contro il governo israeliano. Lo fanno perché con un "sei ProPal" spostano l'attenzione sul lato politico della vicenda, dove riescono a dividere la popolazione. Sanno che se ti affrontassero dal lato umanitario, perderebbero. Se io dico che sono morti 20-30.000 bambini e l'ho visto che ero lì, non puoi dire che non è vero.
+Siamo in piena epoca "La Guerra è Pace". Come anticipava Orwell nel suo distopico romanzo intitolato [1984](https://t.me/yuridiprodo/57).
 
-L'UNICA SOLUZIONE POSSIBILE - due popoli, due stati (Cisgiordania + Gaza è Palestina) e rispetto delle leggi internazionali.
+Copincolla: "La verità è che se si inizia a investire nella difesa quando ne abbiamo veramente bisogno, è già troppo tardi, e lo è anche oggi. Se vogliamo la pace, dobbiamo prepararci alla guerra."
 
-Il contrario della Guerra non è la Pace, ma il senso di Comunità, perché siamo tutti fratelli."
+https://www.ansa.it/sito/notizie/topnews/2025/11/15/kallasse-vogliamo-pace-dobbiamo-prepararci-a-guerra_e472cdf5-35dc-4009-b922-f39d1a8eee02.html
 
-https://www.youtube.com/watch?v=g1VYJ6koS7Y
+Altre dissonanze cognitive degli ultimi anni:
+- [L’era del Dipartimento della Difesa è finita, benvenuti in quello della Guerra](https://t.me/yuridiprodo/384)
+- [Il carro a(r)mato pacifista](https://t.me/yuridiprodo/140)
+
+## Ratzinger e l'ecumenismo
+11 novembre 2025
+
+Vi ho già citato almeno una volta [la prima omelia di Benedetto XVI](https://t.me/yuridiprodo/332) in cui ci metteva in guardia dalla dittatura del relativismo. Scopro oggi che questa idea gli frullava almeno dal 1979, quando da cardinale denunciava i rischi di un ecumenismo che cercasse l’unità tra le Chiese cristiane prescindendo dalla verità. Non può consistere - diceva - nel compromesso o nell’ignorare le differenze tra le Chiese, ma in un dialogo sincero fondato sulla verità e sulla carità: perché solo chi agisce nella verità con amore può costruire un’unità autentica tra i cristiani.
+
+Copincolla: "«L’idea che in fondo sia indifferente se uso questa o quella formula, se seguo questa o quella tradizione, è oggi profondamente penetrata nello spirito del mondo occidentale. La verità appare comunque irraggiungibile, e l’idea che la fede cristiana sia in realtà vera nel suo nucleo ci ripugna - ci appare quasi come un’espressione di arroganza occidentale». Questa diagnosi lucida l’ha formulata già il cardinale Joseph Ratzinger nella sua celebre omelia di San Silvestro del 1979 a Monaco, e con ciò ha espresso che alla tanto discussa crisi della Chiesa e crisi della fede di oggi sta in realtà alla base una crisi della verità. La rinuncia alla verità è il nucleo stesso della nostra crisi."
+
+https://www.iltimone.org/news/news/201152/card-koch-lecumenismo-non-e-una-negoziazione-della-verita.html
+
+## Chiesa e omosessualità
+10 novembre 2025
+
+La giornalista Costanza Miriano ci parla del documento sinodale che verrà votato ad Assisi il 17 Novembre partendo da un fatto inequivocabile: la cosa più macroscopica che c’è da dire in merito alle cosiddette “aperture” alle persone che vivono stabilmente nel peccato è che Cristo è venuto prima di tutto a salvarci proprio dal peccato. Ne parla anche don Giuseppe Forlai nel libro [Chiesa. Riflessioni sull'evaporazione del cristianesimo](https://amzn.to/3JW9A73).
+
+Copincolla: "Auspicare che le persone omosessuali vengano accolte (qualcuno ha mai visto una persona respinta da una chiesa italiana perché omosessuale???) senza dire loro che peccano, benedire le veglie “antiomofobia” significa non credere che è il peccato che ti fa male, ti rende infelice qui e ti porta alla dannazione eterna. Le veglie servono a dire proprio il contrario, e cioè che se una persona omosessuale soffre è per colpa della gente che la giudica, quando invece nessuno più giudica nessuno, e anzi, se c’è un pregiudizio è positivo. L’infelicità viene solo e sempre dal peccato. Chi è in grazia di Dio è felice, anche nel dolore."
+
+https://costanzamiriano.com/2025/11/08/ho-un-sogno/
 
 ## Papa, Arendt e AI nelle mani di pochi
 12 ottobre 2025

@@ -24,8 +24,12 @@ Però tu ed io, [[2024-04-05-auto-elettrica-salva-il-mondo|comprando l'auto elet
 
 ---
 
-**AGGIORNAMENTO Marzo 2025**: Secondo un'[analisi](https://influencemap.org/briefing/The-Carbon-Majors-Database-2023-Update-31397) di Influence Map la metà delle emissioni globali di anidride carbonica deriva dai combustibili fossili prodotti da sole 36 aziende. Parliamo di oltre 20 miliardi di tonnellate di CO₂ solo nel 2023.
+**Aggiornamento, Marzo 2025**: Secondo un'[analisi](https://influencemap.org/briefing/The-Carbon-Majors-Database-2023-Update-31397) di Influence Map la metà delle emissioni globali di anidride carbonica deriva dai combustibili fossili prodotti da sole 36 aziende. Parliamo di oltre 20 miliardi di tonnellate di CO₂ solo nel 2023.
 
 Lo [studio](https://policy-practice.oxfam.org/resources/carbon-inequality-in-2030-per-capita-consumption-emissions-and-the-15c-goal-621305/) di Oxfam invece dimostra che un volo nello spazio inquina come un miliardo di poveri in una vita intera.
 
 Questo giusto per ribadire che il grosso delle cause del problema non andrebbe attribuito alla gente comune bensì a chi la governa e ritiene di doverla coccolare col superfluo. Una diseguaglianza climatica rappresentata da una ristrettissima élite che crede di avere il permesso di inquinare.
+
+---
+
+**Aggiornamento, 29 Ottobre 2025**: un [nuovo studio](https://www.oxfamitalia.org/emissioni-super-ricchi-futuro-del-pianeta/) Oxfam conferma: ogni super-ricco emette 4.000 volte la CO₂ del 10% più povero del mondo, e un decimo di loro è responsabile del 48% delle emissioni globali di anidride carbonica, mentre la metà più povera dell’umanità ne produce appena l’8%. L'un percento fa ancora peggio, emettendo ogni anno circa 75 tonnellate di CO₂, contro le 0,2 tonnellate dei più poveri. E queste sono solo le emissioni dirette. Se guardiamo alle aziende che i ricchi possiedono, controllano o su cui investono, i numeri sono ancora peggiori: nel 2024 le emissioni legate agli investimenti di 308 miliardari hanno totalizzato 586 milioni di tonnellate di CO₂ ovvero più delle emissioni combinate di 118 paesi. Se fossero una nazione, si classificherebbero come il quindicesimo paese più inquinante al mondo. Ma solo soltanto 308 persone.

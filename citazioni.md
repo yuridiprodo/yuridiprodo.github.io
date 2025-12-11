@@ -176,3 +176,9 @@
 *«Non dir mai di nessuna cosa: «l'ho perduta», ma: «l'ho restituita». È morto tuo figlio? È stato restituito. È morta tua moglie? È stata restituita. «Mi è stato tolto il podere»: ebbene, anche questo è stato restituito. «Ma chi me l'ha portato via è un malfattore». E a te cosa importa attraverso chi ne abbia chiesto la restituzione colui che te lo aveva dato? Finché ti concede di tenerlo, abbine cura come di un bene che non è tuo, come i viaggiatori della locanda»*. - [Manuale](https://amzn.to/4doKdFr) di Epitteto, capitolo 11
 
 *«La televisione produce violenza e la porta in case dove altrimenti violenza non ci sarebbe».* - Karl R. Popper, [Cattiva maestra televisione](https://amzn.to/4kr7ecY)
+
+*«La pace non è assenza di conflitto: è forza mite che rifiuta la violenza».* - Leone XIV, [Dilexi te](https://amzn.to/4hJRIc3)
+
+*«Per ogni cosa c’è il suo momento, il suo tempo per ogni faccenda sotto il cielo»*. [Qoèlet 3, 1](https://amzn.to/49o0xX0)
+
+*«Quando la scienza inizierà a studiare i fenomeni non fisici, farà più progressi in un decennio che in tutti i secoli precedenti»*. [Nikola Tesla](https://amzn.to/4iNd3BO)
