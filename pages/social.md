@@ -2,6 +2,57 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 # 2025
 
+## Droni su bambini asilo Sudan
+18 dicembre 2025
+
+Come ogni tecnologia, anche i droni sono uno strumento straordinario: vengono impiegati per salvare vite, spegnere incendi, raggiungere posti umanamente inaccessibili, per registrare video straordinari. Ma anche per creare morte e distruzione. Vedasi le centinaia di migliaia di persone uccise nel conflitto russo-ucraino e, più di recente, i 43 bambini mentre giocavano in asilo. Numeri alla mano, gli usi negativi superano di gran lunga quelli positivi. E noi, che camminiamo verso la robotica avanzata governata dall'intelligenza artificiale, ci ostiniamo a chiamarlo progresso.
+
+Copincolla: "43 bambini uccisi in tre attacchi condotti da droni a Kalogi, nel Kordofan meridionale Sudan. Fra loro 10 alunni morti nel bombardamento di un asilo. Sheldon Yett, rappresentante dell'Unicef in Sudan: "Uccidere bambini di 5 anni mentre sono a scuola è una terribile violazione dei diritti umani."
+
+la notizia
+1 https://x.com/UNICEF_Italia/status/1997702999028932950
+2 https://www.rainews.it/articoli/2025/12/strage-di-civili-in-sudan-decine-di-morti-tra-loro-numerosi-bambini-attacco-drone-0880b55e-9b4d-4fb7-b370-d4e44b6240a8.html
+
+i numeri
+1 https://dronewars.github.io/data/
+2 https://acleddata.com/monitor/ukraine-conflict-monitor
+3 https://www.thebureauinvestigates.com/stories/2017-01-01/drone-wars-the-full-data
+
+## Project Nimbus Israele
+17 dicembre 2025
+
+Google e Amazon hanno accettato di non poter limitare l'uso che Israele fa dei loro prodotti, anche se questo uso viola i loro termini di servizio. Non solo: non possono ritirarsi dal contratto nemmeno sotto pressione pubblica, rinunciando così alla capacità di far rispettare le proprie linee guida etiche.
+
+Inoltre se autorità straniere chiedono dati israeliani e le aziende sono obbligate per legge a consegnarli senza poterlo comunicare, devono inviare a Israele un pagamento codificato entro 24 ore, il cui importo corrisponde al prefisso telefonico del paese richiedente. Questo sistema (il famoso meccanismo dell'occhiolino) permetterebbe a Israele di essere avvertito segretamente quando i suoi dati vengono consegnati ad autorità estere.
+
+Il bello (si fa per dire) è che tutte queste clausole erano state redatte già due anni prima del 7 ottobre 2023, anticipando potenziali casi legali riguardo l'uso della tecnologia nei territori occupati.
+
+Copincolla: "this signaling is carried out through a secret code — part of an arrangement that would become known as the “winking mechanism,” but referred to in the contract as “special compensation” — by which the companies are obliged to send the Israeli government four-digit payments in Israeli shekels (NIS) corresponding to the relevant country’s international dialing code followed by zeros. For example, if Google or Amazon were compelled to share data with U.S. authorities (dialing code +1) and were barred from revealing that action by a U.S. court, they would transfer NIS 1,000 to Israel. If a similar request were to occur in Italy (dialing code +39), they would instead send NIS 3,900. The contract states that these payments must be made “within 24 hours of the information being transferred".
+
+si chiama Progetto Nimbus https://www.972mag.com/project-nimbus-contract-google-amazon-israel/
+
+## Gesù censurato a scuola
+16 dicembre 2025
+
+Volevo scrivere qualcosa, ma ha già detto tutto lui. Nadeem Chaudhry, un pakistano da cui ci si potrebbe aspettare tutto il contrario di quel che invece ha fatto: prendere le parti di una Italia ormai obnubilata dalle ideologie del momento, difendendo la cultura e la religione che costituiscono le nostre radici. E di cui, anziché vergognarcene, dovremmo farne motivo d'orgoglio.
+
+Copincolla: "Ma rispetto di chi, esattamente? E soprattutto, rispetto a quale idea di integrazione? Chi ha stabilito che l’identità di questo Paese debba essere limata, depurata, annacquata per risultare accettabile? L’integrazione vera non nasce dalla paura di mostrare ciò che si è, ma dal coraggio di metterlo in dialogo con chi arriva dalle culture diverse. Se continuiamo con questa furia della ‘Cancel Culture’, non ci sarà più confronto, perché mancherà sempre di più la parte ’italiana’ che, in nome dell’integrazione, viene gradualmente cancellata. L’Italia vanta una storia millenaria, fatta di tradizioni, arte, pensiero e ‘inevitabilmente’ anche di religione, che ha segnato in modo profondo il nostro patrimonio culturale. Se iniziamo a cancellare questi riferimenti, cosa ne rimarrà? Quale identità condivisa potremo offrire alle nuove generazioni? censurare Gesù non è un atto di rispetto, ma semplicemente una resa."
+
+https://www.iltimone.org/news/news/201290/il-mediatore-culturale-islamico-censurare-gesu-a-natale-e-una-resa.html
+
+## Mostra sacrilega
+15 dicembre 2025
+
+A Vienna è in corso una mostra che, secondo il Sole24Ore, vuole farci "riflettere provocatoriamente sulla potenza iconofila e demiurgica inscritta nelle immagini artistiche" dell'iconografia cristiana.
+
+Personalmente ritengo che la rana crocifissa, il prete con il volto di lupo e la Madonna trans non producano riflessione alcuna. Fanno semplicemente schifo. Ma forse è più disgustoso scoprire che il tutto è approvato dal vescovo di Innsbruck Hermann Glettler e dal pastore della cattedrale di Vienna Toni Faber.
+
+Copincolla: "La mostra, dedicata al rapporto fra arte contemporanea e religione, con particolare attenzione all’iconografia cristiana, procede da una riformulazione metaforica del divieto iconoclasta del Libro di Mosè (il Secondo Comandamento: “non ti farai idolo né immagine alcuna"
+
+foto: https://www.ilsole24ore.com/art/viaggio-il-sacro-e-profano-nell-arte-contemporanea-AHxJ7gvD
+
+l'approvazione: https://exxpress.at/politik/ausstellung-mit-maria-als-transfrau-shitstorm-im-netz/
+
 ## Jessica Mitford
 11 dicembre 2025
 

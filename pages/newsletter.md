@@ -13,6 +13,7 @@ Niente di più facile: inserite il vostro indirizzo email nel campo di testo qui
 
 Qui sotto trovate invece una copia delle newsletter che ho già inviato; dalla più alla meno recente.
 
+- [[08|~08]] Netflix, Gruppo Antenna e altre gabbie sociali
 - [[07|~07]] giornalismo, Giornalisti e maiuscole invertite
 - [[06|~06]] La lobby dei cristiani e l'IA da ridimensionare
 - [[05|~05]] OMS, ovvero Ogni Minuto Sbagliamo. Oppure era Ogni Malanno è Sospetto?
