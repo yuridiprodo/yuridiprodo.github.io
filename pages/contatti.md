@@ -8,7 +8,7 @@ Sono anche [una penna di Macitynet](http://www.macitynet.it/author/yuri).
 
 Insomma, se dovessi descrivermi con una locuzione figurata, direi che *vivo tra le righe*. Questa sotto invece è la descrizione poetica:
 
-> Scrivo, quindi sono. Perché scrivere significa ricordare, e la memoria è un atto di resistenza contro l'oblio. Sicché fermando il momento, lo rendiamo eterno. È come se stessimo dicendo al mondo: "io c'ero, e questo è ciò che ho visto, sentito, pensato".
+> *Scrivo, quindi sono. Perché scrivere significa ricordare, e la memoria è un atto di resistenza contro l'oblio. Sicché fermando il momento, lo rendiamo eterno. È come se stessimo dicendo al mondo: "io c'ero, e questo è ciò che ho visto, sentito, pensato"*.
 
 Infine, la presentazione dell'intelligenza artificiale:
 

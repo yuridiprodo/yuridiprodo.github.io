@@ -2,7 +2,7 @@
 
 Questo sito vi traccia? vi scheda? vi vende al miglior offerente su qualche oscuro mercato di dati? No. Almeno... non che io sappia.
 
-La verità è che non sono né un programmatore, né un esperto di privacy digitale. Sono un giornalista - qui senza badge al collo e con l'autonomia che il web permette. Tuttavia siccome l'Unione Europea ha deciso che ogni sito web debba avere la sua bella "Privacy Policy", non posso proprio esimermi dallo scriverne una, dando forma a questo sito con un po' di mestiere giornalistico e l'aiuto digitale di ChatGPT, che sa scrivere JavaScript meglio di me.
+La verità è che non sono né un programmatore, né un esperto di privacy digitale. Sono un giornalista (qui sul mio blog, senza badge al collo e con l'autonomia che il web permette). Tuttavia siccome l'Unione Europea ha deciso che ogni sito web debba avere la sua bella "Privacy Policy", non posso proprio esimermi dallo scriverne una, dando forma a questo sito con un po' di mestiere giornalistico e l'aiuto digitale di ChatGPT, che sa scrivere JavaScript meglio di me.
 
 Perciò, eccoci qua: vi spiego come funziona il sito, così potete dormire tranquilli (o preoccuparvi con cognizione di causa, fate voi).
 
