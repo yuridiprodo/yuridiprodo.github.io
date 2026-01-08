@@ -4,6 +4,12 @@
 
 ---
 
+## 2026
+
+Gennaio
+
+- [[2026-01-08-dan-brown|L'ultimo segreto di Dan Brown non è un romanzo, ma un dossier]] Un viaggio tra esperimenti reali, sorveglianza globale e manipolazione cognitiva che ci mette davanti alla nostra responsabilità
+
 ## 2025
 
 Ottobre

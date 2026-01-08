@@ -1,5 +1,7 @@
 Le ultime cose di cui vi ho parlato:
 
+- [[2026-01-08-dan-brown|L'ultimo segreto di Dan Brown non è un romanzo, ma un dossier]] Un viaggio tra esperimenti reali, sorveglianza globale e manipolazione cognitiva che ci mette davanti alla nostra responsabilità
+
 - [[2025-10-13-merlino|Il re che fu, e il libro che non sarà]] Come un'opera pacifista è stata cancellata due volte: ieri dalla guerra, oggi dal silenzio editoriale
 
 - [[2025-10-01-peccato-originale|Alle origini del peccato originale]] La risposta di Investigatore Biblico all'idea che un errore di traduzione abbia cambiato il cristianesimo per 1500 anni

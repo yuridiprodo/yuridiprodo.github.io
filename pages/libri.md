@@ -9,6 +9,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- 📌 [L'ultimo segreto](https://amzn.to/49wXM44) di Dan Brown. [[2026-01-08-dan-brown|Non è un romanzo, ma un dossier]]
 - [De brevitate vitae](https://amzn.to/4hmGFoT) di Seneca. [[07|Citazione introduttiva della newsletter 07~]]
 - 📌 [Il re che fu, il re che sarà. Il ciclo completo del Re in eterno](https://amzn.to/4h98zVw) di Terence Hanbury White. [[2025-10-13-merlino|Censura di un'opera pacifista]]
 - [Augustine the African](https://amzn.to/4nXXPLB) di Catherine Conybeare. [[2025-10-01-peccato-originale|Alle origini del peccato originale]]  
