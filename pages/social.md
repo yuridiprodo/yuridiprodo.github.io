@@ -2,6 +2,37 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 # 2025
 
+## Contro il rumore mediatico. Il silenzio
+5 febbraio 2026
+
+In un mondo che corre dietro al sensazionalismo, che si nutre di scandali e li trasforma in spettacolo, andare piano per me è diventata una forma di resistenza. Come per altro dimostra anche il calo di interventi che da diversi mesi (non) pubblico né qui né sul blog.
+
+Sottrarsi alla logica del rumore continuo, imparare a filtrare e a non lasciarsi trascinare è un atto di coraggio che richiede lucidità e anche una certa disciplina. Non facile, lo ammetto, ma non vedo altro modo per preservare il pensiero, l'equilibrio e la propria umanità. Non solo per sopravvivere, ma per vivere davvero.
+
+Copincolla: "Tempo fa riordinando vecchi, vecchissimi ritagli di giornale, mi è capitata per le mani una prima pagina del Corriere della sera che dava notizia dell’assassinio di John Lennon, sobriamente, in un trafiletto a fondo pagina. Oggi sarebbe l’apertura di dieci edizioni straordinarie, e un gigantesco CIAO JOHN campeggerebbe su tutte le prime, dopodiché si darebbe avvio al processo di beatificazione. Non è che prima fossimo migliori – l’animo umano è sempre quello – è che oggi comunicare è più facile, più veloce, le voci sono tantissime e per attirare l’attenzione, semplicemente, bisogna gridare più alto.
+
+Sto maturando il proposito, dunque, di usare le parole con più cura, e perciò non dirò che è un’emergenza, ma di sicuro se c’è una questione a tema per me è quella del discernimento. Perché, come scrivevo due righe più su, siamo continuamente aggrediti da voci e notizie e immagini e parole e suoni, ed è importante che vigiliamo continuamente su di noi e su ciò a cui diamo il permesso di entrarci dentro, prenderci tempo ed energie intellettuali ed emotive. Non perché qualcuno o qualcosa grida di più, significa che lo dobbiamo necessariamente ascoltare."
+
+https://costanzamiriano.com/2026/02/04/pensieri-e-parola/
+
+## Trattato nucleare USA Russia
+26 gennaio 2026
+
+Un altro effetto collaterale della pandemia.
+
+Copincolla: "Il 5 febbraio prossimo scadrà il Trattato strategico New START tra Russia e Stati Uniti, che stabilisce un limite massimo di 1.550 testate atomiche e 700 vettori strategici per ciascuno dei due Paesi. È dai tempi del Covid che i russi non hanno più consentito le ispezioni americane sui propri arsenali: una situazione mantenuta anche dopo la fine della pandemia. Per reciprocità, gli americani hanno fatto altrettanto. Se non si farà nulla, verrà meno l’unico accordo ancora in vigore in campo nucleare tra le due maggiori potenze, lasciando ad ambedue la libertà di aumentare a piacimento i propri arsenali strategici, già ampiamente ridondanti. Per la prima volta in 35 anni non vi sarà più alcuna forma di disciplina degli arsenali delle due maggiori potenze nucleari. Un mondo più insicuro. Certo non un titolo di merito per chi aspira al Nobel per la pace."
+
+https://www.affarinternazionali.it/la-scadenza-del-trattato-new-start-e-il-rischio-di-un-vuoto-strategico/
+
+## Pensione an(pos)ticipata
+19 dicembre 2025
+
+Di questo passo lavoreremo finché morte non ci separi. Dal lavoro.
+
+Copincolla: "L’ennesimo tradimento al mandato elettorale da parte delle forze di governo. Per la pensione anticipata, ad esempio, si passerà dagli attuali 42 anni e 10 mesi per gli uomini a 43 anni e 1 mese nel 2028, fino a raggiungere 43 anni e 9 mesi dal 2037. Questo posticipo, unito all’adeguamento demografico, comporterà un significativo rinvio dell’uscita effettiva dal lavoro. «Formalmente la finestra non è un requisito contributivo, ma nei fatti costringe lavoratrici e lavoratori a restare più a lungo nel lavoro o senza reddito, rinviando la decorrenza della pensione», hanno fatto notare i sindacati."
+
+https://www.lindipendente.online/2025/12/18/il-governo-meloni-ha-modificato-la-legge-di-bilancio-aumentando-leta-pensionabile/
+
 ## Droni su bambini asilo Sudan
 18 dicembre 2025
 
