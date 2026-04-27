@@ -1,6 +1,13 @@
 Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](https://t.me/yuridiprodo)) per chi i social non li ha
 
-# 2025
+# 2026
+
+## D'Ercole e il controllo delle masse
+26 febbraio 2026
+
+Il vescovo D'Ercole [denuncia](https://www.youtube.com/watch?v=4_2Q9WC9m0M) coraggiosamente quanto accaduto negli ultimi sei anni: un'analisi lucida sulla nostra epoca in cui l'emergenza permanente (ieri il Covid, oggi il clima, domani chissà) è funzionale al controllo delle masse. Una manipolazione resa possibile dalla paura in cui le identità si smarriscono e nuove ideologie si impongono con la forza. Eppure, in questo oblìo, ci mostra la luce: quella di Cristo che è Via, Verità e Vita. Aver preso posizione ai tempi della pandemia gli è costato caro, ma gli ha anche permesso di restare fedele all'Amore di Dio e coerente con la sua Parola: l'unica che ci rende davvero liberi.
+
+Tutto questo D'Ercole lo approfondisce attraverso il suo ultimo libro [Il leone che é agnello: alla ricerca della verità che salva](https://amzn.to/3MJLIVM) nato «non per creare angoscia, ma per dare speranza».
 
 ## Contro il rumore mediatico. Il silenzio
 5 febbraio 2026
@@ -23,6 +30,8 @@ Un altro effetto collaterale della pandemia.
 Copincolla: "Il 5 febbraio prossimo scadrà il Trattato strategico New START tra Russia e Stati Uniti, che stabilisce un limite massimo di 1.550 testate atomiche e 700 vettori strategici per ciascuno dei due Paesi. È dai tempi del Covid che i russi non hanno più consentito le ispezioni americane sui propri arsenali: una situazione mantenuta anche dopo la fine della pandemia. Per reciprocità, gli americani hanno fatto altrettanto. Se non si farà nulla, verrà meno l’unico accordo ancora in vigore in campo nucleare tra le due maggiori potenze, lasciando ad ambedue la libertà di aumentare a piacimento i propri arsenali strategici, già ampiamente ridondanti. Per la prima volta in 35 anni non vi sarà più alcuna forma di disciplina degli arsenali delle due maggiori potenze nucleari. Un mondo più insicuro. Certo non un titolo di merito per chi aspira al Nobel per la pace."
 
 https://www.affarinternazionali.it/la-scadenza-del-trattato-new-start-e-il-rischio-di-un-vuoto-strategico/
+
+# 2025
 
 ## Pensione an(pos)ticipata
 19 dicembre 2025
