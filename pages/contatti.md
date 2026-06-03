@@ -16,8 +16,6 @@ A proposito: se hai aperto questa pagina perché desideri condividere qualcosa c
 
 ---
 
-*Se ciò che trovi qui sul blog ti è di aiuto in qualche modo o più semplicemente ti piace, considera di **supportare il mio lavoro** con una donazione; oppure, in maniera totalmente **gratuita**, attraverso gli acquisti su Amazon utilizzando la mia affiliazione. [[help|Scopri di più]]*
-
 ![Un ritratto di Yuri Di Prodo](profilo-mini.jpeg)
 
 <p style="color: gray; font-style: italic; font-size: 0.6em;">

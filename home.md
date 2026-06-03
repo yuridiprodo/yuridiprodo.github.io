@@ -1,5 +1,7 @@
 Le ultime cose di cui vi ho parlato:
 
+- [[2026-06-03-amazon-ai|Dovremmo fare a meno dell'AI di cui pare non possiamo fare a meno]] Il paradosso: oggi scegliamo di vivere a suon di rinunce per alimentare un mostro che domani le renderà normali, togliendoci definitivamente ogni possibilità di scelta
+
 - [[2026-01-08-dan-brown|L'ultimo segreto di Dan Brown non è un romanzo, ma un dossier]] Un viaggio tra esperimenti reali, sorveglianza globale e manipolazione cognitiva che ci mette davanti alla nostra responsabilità
 
 - [[2025-10-13-merlino|Il re che fu, e il libro che non sarà]] Come un'opera pacifista è stata cancellata due volte: ieri dalla guerra, oggi dal silenzio editoriale

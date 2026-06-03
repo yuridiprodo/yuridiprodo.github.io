@@ -9,6 +9,7 @@ Ad accompagnare il titolo e l'autore del libro trovate anche la pagina del sito 
 
 ---
 
+- 📌 [Lettera a Jeff Bezos](https://www.doithuman.com/editori/prodotto/lettera-a-jeff-bezos-libro-marisandra-lizzi/) di Marisandra Lizzi. [[2026-06-03-amazon-ai|Per capire chi è davvero Amazon]], con la mia recensione per Macitynet.
 - [Il leone che é agnello: alla ricerca della verità che salva](https://amzn.to/3MJLIVM) di Giovanni D'Ercole. Dall'intervista sulle [[2024-11-19-d-ercole|verità scomode su Chiesa, Covid e migranti]]
 - 📌 [L'ultimo segreto](https://amzn.to/49wXM44) di Dan Brown. [[2026-01-08-dan-brown|Non è un romanzo, ma un dossier]]
 - [De brevitate vitae](https://amzn.to/4hmGFoT) di Seneca. [[07|Citazione introduttiva della newsletter 07~]]
