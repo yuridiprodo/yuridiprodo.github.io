@@ -2,6 +2,50 @@ Una copia di tutto quello che scrivo sui social (principalmente, [Telegram](http
 
 # 2026
 
+## Da diritto di morire a dovere di morire
+11 agosto 2026
+
+Da una parte, una legge che autorizza l'assassinio dei bambini anche a fine gravidanza; dall'altra, l'omicidio di una donna attraverso l'eutanasia legalizzata. Nel mezzo, il rischio che tutto questo passi da "inconcepibile" a "obbligatorio" secondo il solito infimo schema della [Finestra di Overton](https://yuridiprodo.github.io/#/articles/2024-02-15-obbligatorio-abortire), insieme alla stessa domanda sulla quale sembriamo sempre più riluttanti a interrogarci: esiste ancora un limite invalicabile al potere dell'uomo di decidere chi può vivere e chi può morire?  
+  
+Copincolla: "Non ricordavo che il governatore Maura Healey che ha appena gioiosamente firmato la legge che permetterà di uccidere i bambini fino a un minuto prima della nascita si proclama cattolica ed è stata invitata a parlare di clima alla pontificia Accademia per la vita, è ovviamente favorevole anche alla eutanasia e alla transizione di genere, omosessuale e omosessualista cioè favorevole alla propaganda. Posizioni legittime per un governatore ma non per un cattolico. Oltre a essere scomunicata latae sententiae forse sarebbe prudente non invitarla a parlare a Pontificie Accademie, seppure di altri temi, oppure magari approfittarne per prendere almeno le distanze sulle sue posizioni. Non si tratta di idee, ma di una legge che farà parecchi morti.  
+  
+https://costanzamiriano.com/2026/08/11/il-governatore-cattolico-e-la-legge-super-abortista/  
+  
+Nei giorni successivi – trascorsi tra presunte irregolarità sulle firme della Kranendonk (che lei teme sia stata falsificata su alcuni moduli) e perfino tentativi di anticipare la procedura di morte di un giorno - l'anziana, informata della scelta di morte assunta nel colloquio con il medico, ha confidato alla nipote il proprio terrore, chiedendo smarrita: «Mi uccideranno venerdì?» e manifestando il desiderio di tornare sui suoi passi. Ciononostante, la mattina del 10 luglio l'équipe medica della struttura ha tirato dritto con l'iniezione letale, ignorando le proteste della nipote e le rassicurazioni che la famiglia cercava di dare alla donna, rimasta silente dopo l'applicazione di una flebo. Sembra una storia dell’orrore e probabilmente lo è."  
+  
+https://www.iltimone.org/news/news/202070/canada-nonna-eliminata-con-leutanasia-ma-lei-e-la-famiglia-erano-contrari.html
+
+## gioco d'azzardo
+19 giugno 2026
+
+Ogni anno gli italiani perdono 22 miliardi di Euro nel gioco d'azzardo.
+
+Con gli stessi soldi, ogni anno, potremmo costruire 10 nuovi ospedali, 600 scuole, assumere decine di migliaia di medici, infermieri e insegnanti, ampliare le ferrovie e finanziare centinaia di opere contro frane e alluvioni. Con pochi anni potremmo lasciare ai nostri figli un'Italia più moderna, più sicura, più istruita e più prospera.
+
+Invece preferiamo sacrificare un beneficio certo e condiviso per inseguire l'illusione di una ricchezza privata che, nella migliore delle ipotesi (le probabilità di fare "6" al Superenalotto sono di circa 1 su 622 milioni), migliorerebbe la vita di uno solo. La misura del nostro egoismo coincide con il livello di decadenza che stiamo vivendo.
+
+Copincolla: "Come sempre il nostro lavoro si muove al di fuori di ogni intento proibizionistico, ma cerca di mettere in luce gli effetti perversi dell'azzardo sulla salute e sul reddito di cittadini e cittadine. Da tempo assistiamo ad una abnorme crescita dei volumi del gambling in Italia, fino a far diventare il nostro Paese, solito a stazionare negli ultimi posti delle classifiche economiche, largamente primo in Europa per quanto perso dai propri cittadini in azzardo. Mentre qualche soggetto interessato chiede la “normalizzazione” dell'azzardo, le perdite degli italiani sfiorano i 22 miliardi, praticamente una manovra finanziaria, e la raccolta complessiva sale ulteriormente".
+
+https://files.cgil.it/version/c:MzU3MmE3ZjgtZTAzMC00:MTQ1ZDE5MTgtOTZiMy00/Report_LN4_27maggio2026_new.pdf
+
+## Le zanzare di Google
+9 giugno 2026
+
+Rilasciare milioni di zanzare per avere meno zanzare. Cosa potrebbe mai andare storto?  
+  
+Copincolla: "Google ha chiesto al governo USA il permesso di rilasciare 32 milioni di zanzare sterilizzate per ridurre la popolazione e quindi limitare la diffusione delle malattie da esse trasmesse. A gestirlo sarebbe un sistema di intelligenza artificiale che si occupa di separare autonomamente le zanzare maschi da quelle femmine per poi rilasciarle nell'ambiente "nel punto giusto, nei numeri corretti". Qualora non dovesse funzionare, lo scenario più facile da immaginare è che l'IA finisca con il rilasciare zanzare femmine infette nell’ambiente; e quelle, pungendo, rischiano di diffondere l’infezione."  
+  
+https://www.lindipendente.online/2026/06/05/google-ha-chiesto-il-permesso-di-liberare-milioni-di-zanzare-infette/
+
+## Hantavirus
+12 maggio 2026
+
+Comunque, se questo hantavirus di cui tutti parlano dovesse innescare un'altra pandemia, sappiate che zio Bill l'aveva già predetto nel 2021.  
+  
+(per gli amici, rileggere il messaggio virgolettando "innescare", "pandemia" e "predetto")  
+  
+https://www.gavi.org/vaccineswork/next-pandemic/hantavirus
+
 ## D'Ercole e il controllo delle masse
 26 febbraio 2026
 
